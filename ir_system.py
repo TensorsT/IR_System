@@ -6,6 +6,13 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass
 from typing import Dict, Iterable, List, Tuple
 
+try:
+    from fuzzywuzzy import fuzz
+
+    _FUZZY_AVAILABLE = True
+except Exception:
+    _FUZZY_AVAILABLE = False
+
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "crawled_data")
@@ -118,6 +125,34 @@ def _extract_snippet(text: str, query_tokens: List[str], limit: int = 120) -> st
     return snippet
 
 
+def _normalize_text(text: str) -> str:
+    if not text:
+        return ""
+    return re.sub(r"\s+", "", text).casefold()
+
+
+def _relax_terms(query: str) -> List[str]:
+    terms: List[str] = []
+    terms.extend(re.findall(r"[a-zA-Z0-9]+", query.lower()))
+
+    cjk_blocks = re.findall(r"[\u4e00-\u9fff]+", query)
+    for block in cjk_blocks:
+        if not block:
+            continue
+        if len(block) <= 2:
+            terms.append(block)
+            continue
+        terms.extend(block[i : i + 2] for i in range(0, len(block), 2))
+
+    deduped: List[str] = []
+    seen = set()
+    for term in terms:
+        if term and term not in seen:
+            deduped.append(term)
+            seen.add(term)
+    return deduped
+
+
 def build_index(docs: List[DocRecord]) -> Tuple[Dict[str, Dict[str, int]], Dict[str, float]]:
     inverted: Dict[str, Dict[str, int]] = defaultdict(dict)
     doc_freq: Dict[str, int] = defaultdict(int)
@@ -147,6 +182,150 @@ def build_index(docs: List[DocRecord]) -> Tuple[Dict[str, Dict[str, int]], Dict[
     return inverted, doc_norms
 
 
+def _phrase_search(
+    query: str,
+    docs: List[DocRecord],
+    teachers: List[TeacherRecord],
+    top_k: int,
+) -> List[SearchResult]:
+    if not query:
+        return []
+
+    needle = _normalize_text(query)
+    if not needle:
+        return []
+
+    query_tokens = _tokenize(query)
+    results: List[SearchResult] = []
+    for doc in docs:
+        haystack = _normalize_text(doc.text)
+        if needle and needle in haystack:
+            count = haystack.count(needle)
+            score = 1.0 + math.log(1 + count)
+            teacher = next((t for t in teachers if t.name and t.name in doc.path), None)
+            if not teacher:
+                continue
+            snippet = _extract_snippet(doc.text, query_tokens or [query])
+            results.append(SearchResult(score=score, doc=doc, teacher=teacher, snippet=snippet))
+
+    for teacher in teachers:
+        haystack = _normalize_text(
+            " ".join(
+                [
+                    teacher.name,
+                    teacher.department,
+                    teacher.career,
+                    teacher.research_direction,
+                    teacher.personal_intro,
+                    teacher.papers_text,
+                ]
+            )
+        )
+        if needle and needle in haystack:
+            doc = next((d for d in docs if teacher.name and teacher.name in d.path), None)
+            if not doc:
+                doc = DocRecord(doc_id=teacher.name, path="", text=teacher.personal_intro)
+            snippet = _extract_snippet(doc.text, query_tokens or [query])
+            results.append(SearchResult(score=1.0, doc=doc, teacher=teacher, snippet=snippet))
+
+    if not results:
+        return []
+
+    results.sort(key=lambda x: x.score, reverse=True)
+    return results[:top_k]
+
+
+def _token_search(
+    query_tokens: List[str],
+    docs: List[DocRecord],
+    teachers: List[TeacherRecord],
+    inverted: Dict[str, Dict[str, int]],
+    doc_norms: Dict[str, float],
+    top_k: int,
+    require_all: bool = False,
+) -> List[SearchResult]:
+    if not query_tokens:
+        return []
+
+    doc_ids: Iterable[str]
+    if require_all:
+        postings_lists = [inverted.get(term) for term in query_tokens if term]
+        if not postings_lists or any(postings is None for postings in postings_lists):
+            return []
+        doc_ids = set(postings_lists[0].keys())
+        for postings in postings_lists[1:]:
+            doc_ids = set(doc_ids).intersection(postings.keys())
+        if not doc_ids:
+            return []
+    else:
+        doc_ids = []
+
+    scores: Dict[str, float] = defaultdict(float)
+    for term in query_tokens:
+        postings = inverted.get(term)
+        if not postings:
+            continue
+        for doc_id, tf in postings.items():
+            if require_all and doc_id not in doc_ids:
+                continue
+            weight = 1 + math.log(tf)
+            scores[doc_id] += weight
+
+    results: List[SearchResult] = []
+    doc_map = {doc.doc_id: doc for doc in docs}
+    for doc_id, score in scores.items():
+        norm = doc_norms.get(doc_id, 1.0)
+        final_score = score / norm
+        doc = doc_map.get(doc_id)
+        if not doc:
+            continue
+        teacher = next((t for t in teachers if t.name and t.name in doc.path), None)
+        if not teacher:
+            continue
+        snippet = _extract_snippet(doc.text, query_tokens)
+        results.append(SearchResult(score=final_score, doc=doc, teacher=teacher, snippet=snippet))
+
+    results.sort(key=lambda x: x.score, reverse=True)
+    return results[:top_k]
+
+
+def _fuzzy_search(
+    query: str,
+    docs: List[DocRecord],
+    teachers: List[TeacherRecord],
+    top_k: int,
+) -> List[SearchResult]:
+    if not _FUZZY_AVAILABLE or not query:
+        return []
+
+    query_tokens = _tokenize(query)
+    results: List[SearchResult] = []
+    for teacher in teachers:
+        haystack = " ".join(
+            [
+                teacher.name,
+                teacher.department,
+                teacher.career,
+                teacher.research_direction,
+                teacher.personal_intro,
+                teacher.papers_text,
+            ]
+        )
+        if not haystack.strip():
+            continue
+        score = fuzz.partial_ratio(query, haystack)
+        if score < 70:
+            continue
+        doc = next((d for d in docs if teacher.name and teacher.name in d.path), None)
+        if not doc:
+            doc = DocRecord(doc_id=teacher.name, path="", text=teacher.personal_intro)
+        snippet = _extract_snippet(doc.text, query_tokens or [query])
+        results.append(SearchResult(score=float(score), doc=doc, teacher=teacher, snippet=snippet))
+
+    results.sort(key=lambda x: x.score, reverse=True)
+    return results[:top_k]
+
+
 def search(
     query: str,
     docs: List[DocRecord],
@@ -154,6 +333,8 @@ def search(
     inverted: Dict[str, Dict[str, int]],
     doc_norms: Dict[str, float],
     top_k: int = 8,
+    allow_relax: bool = True,
+    enable_fuzzy: bool = True,
 ) -> List[SearchResult]:
     query = (query or "").strip()
     if not query:
@@ -177,35 +358,41 @@ def search(
             results.append(SearchResult(score=1.0, doc=doc, teacher=teacher, snippet=snippet))
         return results
 
+    if allow_relax:
+        exact_results = _phrase_search(query, docs, teachers, top_k)
+        if exact_results:
+            return exact_results
+
+        relaxed_terms = _relax_terms(query)
+        relaxed_results = _token_search(
+            relaxed_terms,
+            docs,
+            teachers,
+            inverted,
+            doc_norms,
+            top_k,
+            require_all=False,
+        )
+        if relaxed_results:
+            return relaxed_results
+
     query_tokens = _tokenize(query)
-    if not query_tokens:
-        return []
+    base_results = _token_search(
+        query_tokens,
+        docs,
+        teachers,
+        inverted,
+        doc_norms,
+        top_k,
+        require_all=False,
+    )
+    if base_results:
+        return base_results
 
-    scores: Dict[str, float] = defaultdict(float)
-    for term in query_tokens:
-        postings = inverted.get(term)
-        if not postings:
-            continue
-        for doc_id, tf in postings.items():
-            weight = 1 + math.log(tf)
-            scores[doc_id] += weight
+    if enable_fuzzy and allow_relax:
+        return _fuzzy_search(query, docs, teachers, top_k)
 
-    results: List[SearchResult] = []
-    doc_map = {doc.doc_id: doc for doc in docs}
-    for doc_id, score in scores.items():
-        norm = doc_norms.get(doc_id, 1.0)
-        final_score = score / norm
-        doc = doc_map.get(doc_id)
-        if not doc:
-            continue
-        teacher = next((t for t in teachers if t.name and t.name in doc.path), None)
-        if not teacher:
-            continue
-        snippet = _extract_snippet(doc.text, query_tokens)
-        results.append(SearchResult(score=final_score, doc=doc, teacher=teacher, snippet=snippet))
-
-    results.sort(key=lambda x: x.score, reverse=True)
-    return results[:top_k]
+    return []
 
 
 def _format_result(result: SearchResult, rank: int) -> str:
