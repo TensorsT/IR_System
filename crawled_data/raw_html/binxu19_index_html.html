@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!--
+    Plain-Academic by Vasilios Mavroudis
+    Released under the Simplified BSD License/FreeBSD (2-clause) License.
+    https://github.com/mavroudisv/plain-academic
+-->
+
+<html lang="en">
+<head>
+  <title>MatSim Group</title>
+  <link rel="icon" href="profile-picture.jpeg" type="image/icon type">
+
+  <style>
+    ul#links li {
+      display:inline;
+      padding: 10px;
+    }
+    a.tlk:link, a.tlk:visited, .tlk {
+    background-color: #3bc987;
+    }
+    .model-box {
+      position:   relative;
+      width:      100%;
+      height: 0;
+      padding-top:   60%; /* This is your aspect ratio */ }
+    .model-prebox {
+      position:   relative;
+      width:      100%;
+      height: 0;
+      padding-top:   40%; /* This is your aspect ratio */ }
+    .model {
+      position: absolute;
+      top:      0;
+      left:     0;
+      bottom:   0;
+      right:    0;
+      width:    100%;
+      height:   100%
+    }
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: gray;
+      color: white;
+      text-align: center;
+    }
+    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.staticfile.net/twitter-bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="jquery.min.js"></script>
+  <script src="https://cdn.staticfile.net/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href='css?family=Oswald:700' rel='stylesheet' type='text/css'>
+  <link href="https://cdn.staticfile.net/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+</head>
+<body>
+
+
+<a id="top"></a>
+<!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+	  <div class="container">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+        <li><span>..</span></li>
+        <li><div style="font-family: 'Copperplate', Verdana, Geneva, Tahoma, sans-serif; font-size: 40px; color: whitesmoke;"><b>MatSim Group</b></div></li>
+        <li><span>..</span></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#research">科研|Research</a></li>
+        <li><a href="#people">成员|People</a></li>
+        <li><a href="#teaching">教学|Teaching</a></li>
+        <li><a href="#publications">论文|Publications</a></li> 
+        <li><a href="#opening">招生|Opening</a></li>
+        <li><a href="#links">Links</a></li>
+        <!-- <li><a href="files/Tapajit_Dey_CV.pdf" target="_blank">CV</a></li> -->
+		  </ul>
+		</div>
+	  </div>
+	</nav>
+  
+  <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+          <!-- Entries Column -->
+          <div class="col-md-3">
+              
+            <!-- Image & Contact Info-->
+              <img class="img-responsive" src="image/xu.png" height="350" width="350" alt=""><br>
+              <h3>许彬 (Bin XU)</h3>
+              <p class="text-muted">特聘教授 | 博士生导师
+              <br />物理科学与技术学院
+              <br />苏州大学本部，物理科技楼402-1
+              <br />binxu19[at]suda[dot]edu[dot]cn
+              </p>
+              <!-- <div style="margin-top:3%; text-align:justify;">       -->
+              <!--<p><b>Email:</b> binxu19<i class="fa fa-at"></i>suda<i class="fa fa-circle" aria-hidden="true" style="font-size:3px;"></i>edu<i class="fa fa-circle" aria-hidden="true" style="font-size:3px;"></i>cn<br> -->
+              <dd><a href="https://scholar.google.com/citations?user=bbwF4S0AAAAJ&hl=en" target="_blank">Google Scholar</a></dd>  
+              <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0107-0727" href="https://orcid.org/0000-0002-0107-0727" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-0107-0727</a></div>
+              <!-- <dd><a href="files/Tapajit_Dey_CV.pdf" target="_blank">Download CV</a></dd> -->
+              <!-- <dd><a href="files/Research Statement.pdf" target="_blank">Download Research Statement (Generic)</a></dd>
+              <dd><a href="files/Teaching Statement.pdf" target="_blank">Download Teaching Statement (Generic)</a></dd>
+              <dd><a href="files/Diversity Statement.pdf" target="_blank">Download Diversity Statement (Generic)</a></dd> -->
+              </p>     
+          </div>
+
+          <!-- Main Info -->
+          <div class="col-md-9">
+
+            <div class="row">
+              <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>Materials Simulation (MatSim) Group</b></div>
+              <p>
+                       We are a research group focusing on computational condensed matter physics, using density functional theory, effective Hamiltonian, statistical physics, transport theory and computational techniques to investigate materials of fundamental and technological interests. We are particularly interested in the first-principles-based studies of ferroelectrics, multiferroics, thermoelectric properties, and structural transformations.</p>
+
+                       从事计算凝聚态物理研究和基础物理教学工作。已在SCI期刊发表论文100余篇，引用7000余次。担任PRL等学术期刊审稿人。</p>
+
+                       <p><b>研究领域</b>
+                       <br>计算凝聚态物理。主要研究方向包括：
+                       <ul>
+                         <li>铁性体系：铁电、反铁电、磁性、磁电耦合、拓扑结构、储能、电卡效应等</li>
+                         <li>输运性质：玻尔兹曼方程、电声耦合、非谐声子等</li>
+                         <li>计算方法：密度泛函理论、有效哈密顿、机器学习力场等</li>
+                       </ul>
+              </p>
+            </div>
+            <!-- <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>I'm on the job market and am looking for positions globally starting in mid-2023. Please <a href="mailto:tapjdey@gmail.com">let me know</a> if you have any leads or are interested in having a discussion!</b></div> -->
+            <!-- NEWS -->
+            <div class="row">
+                <br>
+                <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>教育经历|Education</b></div>
+                </p>
+                <ul>
+                    <li><b>本科</b> 中国科学技术大学 (1998-2003) | <b>B.S.</b> University of Science and Technology of China (1998-2003)</li>
+                    <li><b>博士</b> (美国)奥本大学 (2003-2009) | <b>Ph.D.</b> Auburn University (USA) (2003-2009)</li>
+                    </li>
+                    </ul>
+            </div>
+            <div class="row">
+                <br>
+                <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>工作经历|Employment</b></div>
+                </p>
+                <ul>
+                    <li><b>教授</b> 苏州大学 (2019-至今) | <b>Professor</b> Soochow University (China) (2019-present)</li>
+                    <li><b>研究助理教授</b> (美国)阿肯色大学 (2017-2018) | <b>Research Assistant Professor</b> University of Arkansas (USA) (2017-2018)</li>
+                    <li><b>研究助理</b> (美国)阿肯色大学 (2014-2017) | <b>Research Associate</b> University of Arkansas (USA) (2014-2017)</li>
+                    <li><b>博士后</b> (比利时)列日大学 (2011-2013) | <b>Postdoctoral Researcher</b> Université de Liège (Belgium) (2011-2013)</li>
+                    <li><b>博士后</b> (美国)得州大学阿灵顿分校 (2009-2010) | <b>Postdoctoral Researcher</b> University of Texas at Arlington (USA) (2009-2010)</li>
+                    </li>
+                    </ul>
+            </div>
+        </div>
+        <br></br>
+        <!-- Skills, Expertise, Research Interests -->
+          <div class="col-md-12" >  
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>基金项目</b></div>
+            </p>
+            <ul>
+              <li>国家自然科学基金面上项目（主持，2026-2029）</li>
+              <li>国家自然科学基金面上项目（主持，2021-2024）</li>
+              <li>国家自然科学基金国际(地区)合作交流NSFC-FNRS(中比)项目（主持，2024-2025）</li>
+              <li>江苏省自然科学基金面上项目（主持，2020-2023）</li>
+              <li>江苏省双创人才（主持，2020-2023）</li>
+              <li>苏州大学特聘教授启动经费（主持）</li>
+              <li>国家⾃然科学基⾦联合基⾦项目（2025-2028）</li>
+              <li>江苏省自然科学基金重大项目（2022-2024）</li>
+              <li>江苏省双创团队（2022-2025）</li>
+            </ul>
+          </div> 
+          <br>
+          <!-- Research -->
+          <div class="col-md-12" >
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="research"><b>科研|Research</b></div>
+            </p>
+              本课题组致力于发展和应用基于第一性原理的计算方法，如密度泛函理论（Density Functional Theory）、有效哈密顿方法（effective Hamiltonian method）、机器学习势等，研究与应用相关的材料基本性质。研究兴趣侧重于从机理上理解已知材料和设计具有特殊性质或可实现特殊功能的新材料，如铁电、多铁、磁性、热电材料等。</p>
+
+              Our research is to use first-principles-based techniques such as density functional theory, effective Hamiltonian, machine-learning interatomic potentials, and phenomenological method to study materials of fundamental and technological interests. I am interested in understanding and designing materials with intriguing properties and functionalities, e.g., ferroelectrics, multiferroics, and thermoelectrics. Another goal is to develop or improve computational methodologies to achieve state-of-the-art accuracy and efficiency.</p>
+
+          </div>
+          <!-- People -->
+          <div class="col-md-12" >  
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="people"><b>成员|People</b></div>
+            </p>
+                <ul>
+                    <li><b>课题组负责人:</b> 许彬（教授） | <b>PI:</b> Prof. Bin XU</li>
+                    <li><b>在读博士生:</b> 马雪 | <b>Ph.D. student:</b> Xue MA</li>
+                    <li><b>在读硕士生:</b> 陈诗巍 俞泓泽 顾帅 王义萱 | <b>Master student:</b> Shiwei CHEN, Hongze YU, Shuai GU, Yixuan WANG</li>
+                    <li><b>在读本科生:</b> 朱熠尘 江卓轩 陈思远 | <b>Undergraduate student:</b> Yichen ZHU, Zhuoxuan JIANG, Siyuan CHEN</li>
+                    <li><b>已毕业学生:</b> 范宁波(博士,2025), 王鑫(博士,2024); 夏梦慧(硕士,2025), 匡均琳(硕士,2025), 徐世纪(硕士,2024), 罗海峰(硕士,2024), 张业辉(硕士,2022); 李思垠(学士,2023), 黄殿程 (学士,2021) | <b>Graduated student:</b> Ningbo FAN (Ph.D. 2025), Xin WANG (Ph.D.,2024); Menghui XIA (M.S.,2025), Junlin KUANG (M.S.,2025), Shiji XU (M.S.,2024), Haifeng LUO (M.S.,2024), Yehui ZHANG (M.S.,2022); Siyin LI (B.S.,2023), Diancheng HUANG (B.S.,2021)</li>
+                 </ul>
+            </p>
+          </div>
+          <!-- Teaching -->
+          <div class="col-md-12" >  
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="teaching"><b>教学|Teaching</b></div>
+            </p>
+            <ul>
+              <li><b>2021-至今</b> - 理论力学（本科课程） | <b>2021 - present</b> - Classical Mechanics (Undergraduate level) </li>
+              <li><b>2019 秋季</b> - 固体物理学（本科课程） | <b>2019 Fall</b> - Solid State Physics (Undergraduate level) </li>
+              <li><b>2020 秋季</b> - 纳米科学与技术（本科课程） | <b>2020 Fall</b> - Nano Science and Technology (Undergraduate level) </li>
+              <li><b>2020-2022</b> - 材料物理与化学研究进展（讲座，研究生课程） | <b>2020-2022</b> - Advances in Materials Physics and Chemistry (Lecture, Graduate level) </li>
+              <li><b>2019 春季</b> - 专业英语（讲座，研究生课程） | <b>2019 Spring</b> - Scientific writing (Lecture, Graduate level) </li>
+            </ul>
+            <a href="#top">Back to top</a>
+          </div>
+
+        <br>
+        <!-- Positions & Awards 
+        <div class="row">
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" ><b> Notable Positions, Awards, and Recognitions</b></div>
+            <br>
+            <ul>
+                <li> <b>[2024] -</b> Will serve as a PC Member (Technical Track) in the ICSE 2024 conference.</li>
+                <li> <b>[2023] -</b> Will serve as a PC Member in the <a href="https://promiseconf.github.io/2023/index.html">PROMISE'23 conference.</a></li>
+                <li> <b>[2017] -</b> Received the <i>Best Graduate Research Assistant</i> award and scholarshop from the University of Tennessee EECS department.</li>
+            </ul>
+        </div> -->
+        
+        <!-- Publications -->
+        <div class="col-md-12" >  
+          <br>  
+          <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="publications"><b>Publications</b></div>
+            </p>
+                       <p><b>Selected Publications</b>
+                       <ul>
+                       <br>
+                         <li>Polar-Displacement Mechanism for Negative Poisson’s Ratio in Ferroelectric Perovskites
+                         <br><var><b>Xue Ma</b>, Jinjing Zhang, Lianhua He, Shuai Yang, Fei Li*, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/hh37-m1lt" target="_blank"> Phys. Rev. Lett. 136, 106102 (2026) <b>Editor's Suggestion</b> </a>
+                         </li>
+                         <li>Antiferroelectricity in BiFeO3 Thin Films
+                         <br><var><b>Menghui Xia</b>, Sukriti Mantri*, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/fqpx-dpbn" target="_blank"> Phys. Rev. Lett. 135, 206101 (2025) </a>
+                         </li>
+                         <li>Electric Control of Magnetism in Multiferroic Rare-Earth-Substituted BiFeO3 with Ferrielectricity
+                         <br><var><b>Shiji Xu</b>, <b>Xin Wang</b>, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/PhysRevLett.133.046801" target="_blank"> Phys. Rev. Lett. 133, 046801 (2024) </a>
+                         </li>
+                         <li>Finite-Temperature Dynamics in Cesium Lead Iodide Halide Perovskite
+                         <br><var><b>Xin Wang</b>, Kinnary Patel, Sergey Prosandeev, <b>Yehui Zhang</b>, Chonggui Zhong*, <b>Bin Xu*</b>, Laurent Bellaiche</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202106264" target="_blank"> Adv. Funct. Mater. 31, 2106264 (2021)</a>
+                         </li>
+                         <li>Designing lead-free antiferroelectrics for energy storage
+                         <br><var><b>Bin Xu</b>*, Jorge Íñiguez, and Laurent Bellaiche*</var>
+                         <br><a href="https://www.nature.com/articles/ncomms15682" target="_blank">Nat. Commun. 8 15682 (2017)</a>
+                         </li>
+                         <li>Hybrid Improper Ferroelectricity in multiferroic superlattices: Finite-temperature Properties and Electric-field-driven Switching of Polarization and Magnetization
+                         <br><var><b>Bin Xu</b>, Dawei Wang, Hong Jian Zhao, Jorge Íñiguez, Xiang Ming Chen, and Laurent Bellaiche</var>
+                         <br><a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201501113/abstract" target="_blank">Adv. Funct. Mater. 25 3626 (2015)</a>
+                         </li>
+                         <li>Finite-temperature Properties of Rare-Earth-Substituted BiFeO3 Multiferroic Solid Solutions
+                         <br><var><b>Bin Xu</b>, Dawei Wang, Jorge Íñiguez, and Laurent Bellaiche</var>
+                         <br><a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201403811/full" target="_blank">Adv. Funct. Mater. 25 552 (2015)</a>
+                         </li>
+                         <li>First Principles explanation of the positive Seebeck coefficient of lithium
+                         <br><var><b>Bin Xu</b> and Matthieu J. Verstraete</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevLett.112.196603" target="_blank">Phys. Rev. Lett. 112 196603 (2014)</a>
+                         </li>
+                       </ul>
+                       
+                       <br>
+                       <a href="#top">Back to top</a>
+            
+                       <p><b>Full list of Publications</b>
+                       <ol reversed>
+                       <br>
+                       <p><b>2026</b>
+                         <li>Polar-Displacement Mechanism for Negative Poisson’s Ratio in Ferroelectric Perovskites
+                         <br><var><b>Xue Ma</b>, Jinjing Zhang, Lianhua He, Shuai Yang, Fei Li*, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/hh37-m1lt" target="_blank"> Phys. Rev. Lett. 136, 106102 (2026) <b>Editor's Suggestion</b></a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2025</b>
+                         <li>Antiferroelectricity in BiFeO3 Thin Films
+                         <br><var><b>Menghui Xia</b>, Sukriti Mantri*, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/fqpx-dpbn" target="_blank"> Phys. Rev. Lett. 135, 206101 (2025) </a>
+                         </li>
+                         <li>Magnetic topological textures in BiFeO3 with ferroelectric domain walls
+                         <br><var>Tiziana Musso*, <b>Bin Xu</b>, Yousra Nahas, Sergei Prokhorenko, Daniel Sando*, Nagarajan Valanoor</var>
+                         <br><a href="https://doi.org/10.1103/kptk-8dzc" target="_blank"> Phys. Rev. Materials 9, 114410 (2025) </a>
+                         </li>
+                         <li>On-the-fly Machine Learning-Assisted High Accuracy Second-Principles Model for BaTiO3
+                <br><var>Jingtong Zhang*, Huazhang Zhang, Huanhuan Zheng, <b>Bin Xu</b>, Jie Wang* & Xu Guo*</var> 
+                         <br><a href="https://doi.org/10.1038/s41524-025-01787-z" target="_blank"> npj Comput. Mater. 11, 299 (2025) </a>
+                         </li>
+                         <li>Exposed Cocatalyst Interface with Cr–In Bonding for Efficient Solar-Driven Fuel Production
+                         <br><var>Runyu Chen, Chiyao Zheng, Dongniu Wang, Deng-Bing Li, Tianyun Liu, <b>Bin Xu</b>, Min Wang, Linxing Meng*, Liang Li*</var>
+                         <br><a href="https://doi.org/10.1002/adfm.202508182" target="_blank"> Adv. Funct. Mater. e08182 (2025) </a>
+                         </li>
+                         <li>Temperature-dependent processes of electric-induced antiferroelectric-to-ferroelectric phase transition
+                         <br><var>Tiantian Wu, Zhengqian Fu*, Linhai Li, Xu Wang, Yue Luo, Ziyi Yu, Xuefeng Chen, Genshui Wang, <b>Bin Xu*</b>, Fangfang Xu*</var>
+                         <br><a href="https://doi.org/10.1016/j.scriptamat.2025.116739" target="_blank"> Scr. Mater. 265, 116739 (2025) </a>
+                         </li>
+                         <li>Ideal antiferroelectricity with large digital electrostrain in PbZrO3 epitaxial thin films
+			 <br><var>Yangyang Si#, <b>Ningbo Fan#</b>, Yongqi Dong#, Zhen Ye#, Shiqing Deng, Yijie Li, Chao Zhou, Qibin Zeng, Lu You, Yimei Zhu, Zhenlin Luo, Sujit Das, Laurent Bellaiche, <b>Bin Xu*</b>, Huajun Liu* and Zuhuang Chen*</var>
+                         <br><a href="https://www.nature.com/articles/s41467-025-59598-1" target="_blank"> Nat. Commun. 16, 4263 (2025) </a>
+                         </li>
+                         <li>Electrocaloric effects in ferroelectrics and multiferroics from first principles
+			 <br><var>Zhijun Jiang*, Xueqing Wan, <b>Bin Xu</b>, Jorge Íñiguez-González, Laurent Bellaiche*</var>
+                         <br><a href="https://doi.org/10.1016/j.jmat.2025.101063" target="_blank"> J. Materiomics 11, 101063 (2025) </a>
+                         </li>
+                         <li>Electrocaloric effect in strained bismuth ferrite under bipolar field
+			 <br><var><b>Ningbo Fan</b>, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/PhysRevB.111.014108" target="_blank"> Phys. Rev. B 111, 014108 (2025) </a>
+                         </li>
+                         <li>Large enhancement of ferroelectric properties of perovskite oxides via nitrogen incorporation
+                         <br><var>Tao Wang#, Fenghui Gong#, <b>Xue Ma#</b>, Shen Pan#, Xian-Kui Wei#, Changyang Kuo, Suguru Yoshida, Yu-Chieh Ku, Shuai Wang, Zhenni Yang, Sankalpa Hazra, Kelvin H. L. Zhang, Xingjun Liu, Yunlong Tang, Yin-Lian Zhu, Chun-Fu Chang, Sujit Das, Xiuliang Ma, Lang Chen, <b>Bin Xu</b>, Venkatraman Gopalan, Laurent Bellaiche, Lane W. Martin, Zuhuang Chen*</var>
+                         <br><a href="https://doi.org/10.1126/sciadv.ads8830" target="_blank"> Sci. Adv. 11, eads8830 (2025) </a>
+                         </li>
+                         <li>Inverse Size-Scaling Ferroelectricity in Centrosymmetric Insulating Perovskite Oxide DyScO3
+                         <br><var>Linyuan Chen#, <b>Xue Ma#</b>, Zhiyao Liang#, Yi Wang#, Feng Liu, Yunpeng Ma, Yu-Han Bao, Kai-Qiang Lin, Qian Li, <b>Bin Xu*</b>, Xian-Kui Wei*</var>
+                         <br><a href="https://doi.org/10.1002/adma.202413708" target="_blank"> Adv. Mater. 37, 2413708 (2025) </a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2024</b>
+                         <li>Superorders and terahertz acoustic modes in multiferroic BiFeO3/LaFeO3 superlattices
+                         <br><var>R. Gu, R. Xu, F. Delodovici, B. Carcan, M. Khiari, G. Vaudel, V. Juvé, M. Weber, A. Poirier, P. Nandi, <b>B. Xu</b>, V. E. Gusev, L. Bellaiche, C. Laulhé, N. Jaouen, P. Manuel, B. Dkhil, C. Paillard*, L. Yedra*, H. Bouyanfif*, P. Ruello*</var>
+                         <br><a href="https://doi.org/10.1063/5.0203076" target="_blank"> Appl. Phys. Rev. 11, 041415 (2024) </a>
+                         </li>
+                         <li>Enhanced energy storage performance in NBT-based MLCCs via cooperative optimization of polarization and grain alignment
+                         <br><var>Yang Li, <b>Ningbo Fan</b>, Jie Wu, <b>Bin Xu</b>, Xuexin Li, Xuechen Liu, Yizhou Xiao, Dingwei Hou, Xinya Feng, Jinjing Zhang, Shujun Zhang*, Jinglei Li*, and Fei Li*</var>
+                         <br><a href="https://rdcu.be/dXjPD" target="_blank"> Nat. Commun. 15, 8958 (2024) </a>
+                         </li>
+                         <li>Electric Control of Magnetism in Multiferroic Rare-Earth-Substituted BiFeO3 with Ferrielectricity
+                         <br><var><b>Shiji Xu</b>, <b>Xin Wang</b>, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://doi.org/10.1103/PhysRevLett.133.046801" target="_blank"> Phys. Rev. Lett. 133, 046801 (2024) </a>
+                         </li>
+                         <li>Non-volatile magnon transport in a single domain multiferroic
+			 <br><var>Sajid Husain#*, Isaac Harris#, Peter Meisenheimer, Sukriti Mantri, Xinyan Li, Maya Ramesh, Piush Behera, Hossein Taghinejad, Jaegyu Kim, Pravin Kavle, Shiyu Zhou, Tae Yeon Kim, Hongrui Zhang, Paul Stevenson, James G. Analytis, Darrell Schlom, Sayeef Salahuddin, Jorge Íñiguez-González, <b>Bin Xu</b>, Lane W. Martin, Lucas Caretta, Yimo Han, Laurent Bellaiche, Zhi Yao* and Ramamoorthy Ramesh*</var>
+                         <br><a href="https://doi.org/10.1038/s41467-024-50180-9" target="_blank"> Nat. Commun. 15, 5966 (2024) </a>
+                         </li>
+                         <li>Strain-dependent spin Hall magnetoresistance in the multiferroic antiferromagnet BiFeO3
+			 <br><var>D. Sando#*, S. Chen#, O. Paull, <b>B. Xu</b>, J. J. L. van Rijn, C. Xu, <b>S. Xu</b>, F. Appert, J. Juraszek, L. Bellaiche, V. Nagarajan, and T. Banerjee*</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.8.L071401" target="_blank"> Phys. Rev. Materials 8, L071401 (2024) </a>
+                         </li>
+                         <li>Cross-caloric effect in multiferroic bismuth ferrite
+			 <br><var><b>Siyin Li</b>, <b>Ningbo Fan*</b>, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.214110" target="_blank"> Phys. Rev. B 109, 214110 (2024) </a>
+                         </li>
+                         <li>Engineering magnetic domain wall energies in BiFeO3 via epitaxial strain: A route to assess skyrmionic stabilities in multiferroics from first principles
+			 <br><var>Sebastian Meyer#*, <b>Bin Xu#</b>, Laurent Bellaiche, and Bertrand Dupé</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.184431" target="_blank"> Phys. Rev. B 109, 184431 (2024) </a>
+                         </li>
+                         <li>Room-temperature stabilizing strongly competing ferrielectric and antiferroelectric phases in PbZrO3 by strain-mediated phase separation
+			 <br><var>Ziyi Yu, <b>Ningbo Fan</b>, Zhengqian Fu*, Biao He, Shiguang Yan, Henghui Cai, Xuefeng Chen, Linlin Zhang, Yuanyuan Zhang, <b>Bin Xu</b>, Genshui Wang*, and Fangfang Xu*</var>
+                         <br><a href="https://www.nature.com/articles/s41467-024-47776-6" target="_blank"> Nat. Commun. 15, 3438 (2024) </a>
+                         </li>
+                         <li>Sulfidation-Induced Surface Local Electronic and Atomic Structures in a Silver Catalyst Enables Silicon Photocathode for Selective and Efficient Photoelectrochemical CO2 Reduction
+			 <br><var>Yuquan Wu#, <b>Ningbo Fan#</b>, Zhihe Wei*, Junxia Shen, Cong Chen, <b>Bin Xu*</b>, Yang Peng, Mingrong Shen, and Ronglei Fan*</var>
+                         <br><a href="https://pubs.acs.org/doi/10.1021/acsami.4c01556" target="_blank"> ACS Appl. Mater. Interfaces 16, 21868 (2024) </a>
+                         </li>
+                         <li>Critical enhancement of thermoelectric properties with doping-induced second-order ferroelectric transition in BaTiO3
+			 <br><var><b>Haifeng Luo</b> and <b>Bin Xu</b>*</var>
+                         <br><a href="https://doi.org/10.1103/PhysRevB.109.054114" target="_blank"> Phys. Rev. B  109, 054114 (2024) </a>
+                         </li>
+                         <li>Accelerating Charge Kinetics in Photocatalytic CO2 Reduction by Modulating the Cobalt Coordination in Heterostructures of Cadmium Sulfide/Metal–Organic Layer
+			 <br><var>Yanhui Su#, Qiaoqiao Mu#, <b>Ningbo Fan</b>#, Zhihe Wei, Weiyi Pan, Zhangyi Zheng, Daqi Song, Hao Sun, Yuebin Lian, <b>Bin Xu</b>, Wenjun Yang*, Zhao Deng, Yang Peng*</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202312020" target="_blank"> Small 2024, 2312020 (2024) </a>
+                         </li>
+                         <li>Sliding-mediated ferroelectric phase transition in CuInP2S6 under pressure
+			 <br><var>Zhou Zhou, Jun-Jie Zhang, Gemma F. Turner, Stephen A. Moggach*, Yulia Lekina, Samuel Morris, Shun Wang, Yiqi Hu, Qiankun Li, Jinshuo Xue, Zhijian Feng, Qingyu Yan, Yuyan Weng, <b>Bin Xu</b>, Yong Fang, Ze Xiang Shen, Liang Fang*, Shuai Dong*, Lu You*</var>
+                         <br><a href="https://pubs.aip.org/aip/apr/article/11/1/011414/3262449/Sliding-mediated-ferroelectric-phase-transition-in" target="_blank"> Appl. Phys. Rev. 11, 011414 (2024) </a>
+                         </li>
+                         <li>Antiferroelectric oxide thin-films: Fundamentals, properties, and applications
+			 <br><var>Yangyang Si, Tianfu Zhang, Chenhan Liu, Sujit Das*, <b>Bin Xu</b>, Roman G. Burkovsky*, Xian-Kui Wei*, Zuhuang Chen*</var>
+                         <br><a href="https://www.sciencedirect.com/science/article/pii/S0079642523001639" target="_blank"> Prog. Mater. Sci. 142, 101231 (2024) </a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2023</b>
+                         <li>Low voltage-driven high-performance thermal switching in antiferroelectrics PbZrO3 thin films
+			 <br><var>Chenhan Liu#, Yangyang Si#, Hua Zhang#, Chao Wu, Shiqing Deng, Yongqi Dong, Yijie Li, Meng Zhuo, <b>Ningbo Fan</b>, <b>Bin Xu</b>, Ping Lu, Lifa Zhang, Xi Lin, Xingjun Liu, Juekuan Yang, Zhenlin Luo, Sujit Das, Laurent Bellaiche, Yunfei Chen*, and Zuhuang Chen*</var>
+                         <br><a href="https://www.science.org/doi/10.1126/science.adj9669" target="_blank"> Science 382, 1265 (2023) </a>
+                         </li>
+                         <li>Multiferroicity in Ga-substituted LuFeO3: A first-principles study
+			 <br><var><b>Xin Wang, Yehui Zhang, Shiji Xu</b>, Xiang Ming Chen*, Laurent Bellaiche, and <b>Bin Xu</b>*</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.114406" target="_blank"> Phys. Rev. Materials 7, 114406 (2023) </a>
+                         </li>
+                         <li>Nonpolar 1T-to-1T′ order-disorder transition in a MoS2 monolayer
+			 <br><var><b>Xue Ma</b>, <b>Ningbo Fan</b>, Jinzhu Zhao, and <b>Bin Xu</b>*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184101" target="_blank"> Phys. Rev. B 108, 184101 (2023) </a>
+                         </li>
+                         <li>Ferroelectric phase transition in a 1T monolayer of MoTe2: A first-principles study
+			 <br><var>Li-Bin Wan, <b>Bin Xu</b>, Peng Chen, and Jin-Zhu Zhao*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.165430" target="_blank"> Phys. Rev. B 108, 165430 (2023) </a>
+                         </li>
+                         <li>Tuning the Multiferroic Properties of BiFeO3 under Uniaxial Strain
+			 <br><var>P. Hemme, J-C. Philippe, A. Medeiros, A Alekhin, S. Houver, Y. Gallais, A. Sacuto, A. Forget, D. Colson, S. Mantri, <b>B. Xu</b>, L. Bellaiche, and M. Cazayous</var>
+                         <br><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.116801" target="_blank"> Phys. Rev. Lett. 131, 116801 (2023) </a>
+                         </li>
+                         <li>Spin-current driven Dzyaloshinskii-Moriya interaction in multiferroic BiFeO3 from first principles
+			 <br><var>Sebastian Meyer, <b>Bin Xu</b>, Matthieu J. Verstraete, Laurent Bellaiche, and Bertrand Dupé</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.024403" target="_blank"> Phys. Rev. B 108, 024403 (2023) </a>
+                         </li>
+                         <li>Hexagonal Close-Packed Polar-Skyrmion Lattice in Ultrathin Ferroelectric PbTiO3 Films
+			 <br><var>Shuai Yuan, Zuhuang Chen*, Sergei Prokhorenko, Yousra Nahas, Laurent Bellaiche, Chenhan Liu, <b>Bin Xu</b>, Lang Chen, Sujit Das, and Lane W. Martin</var>
+                         <br><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.226801" target="_blank"> Phys. Rev. Lett. 130, 226801 (2023) </a>
+                         </li>
+                         <li>Ferroelectric phase transitions in epitaxial antiferroelectric PbZrO3 thin films
+			 <br><var>Pauline Dufour, Thomas Maroutian, Maxime Vallet, Kinnary Patel, André Chanthbouala, Charlotte Jacquemont, Lluis Yedra, Vincent Humbert, Florian Godel, <b>Bin Xu</b>, Sergey Prosandeev, Laurent Bellaiche, Mojca Otoničar, Stéphane Fusil, Brahim Dkhil*, Vincent Garcia*</var>
+                         <br><a href="https://pubs.aip.org/aip/apr/article/10/2/021405/2888569/Ferroelectric-phase-transitions-in-epitaxial" target="_blank"> Appl. Phys. Rev. 10, 021405 (2023) </a>
+                         </li>
+                         <li>Ab initio calculation of thermoelectric properties in 3d ferromagnets based on spin-dependent electron–phonon coupling
+			 <br><var><b>Xue Ma</b>, Marco Di Gennaro, Matteo Giantomassi, Matthieu J Verstraete* and <b>Bin Xu*</b></var>
+                         <br><a href="https://iopscience.iop.org/article/10.1088/1367-2630/accca1" target="_blank"> New J. Phys. 25 043022 (2023) </a>
+                         </li>
+                         <li>Electrical topological defects induced by terahertz laser pulses
+			 <br><var>Peng Chen, Changsong Xu*, Sergei Prokhorenko, Yousra Nahas, <b>Bin Xu</b>, and Laurent Bellaiche*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L060101" target="_blank"> Phys. Rev. B 107, L060101 (2023) </a>
+                         </li>
+                         <li>Facet engineering in Au nanoparticles buried in p-Si photocathodes for enhanced photoelectrochemical CO2 reduction
+			 <br><var>Jiaxin Hu#, <b>Ningbo Fan#</b>, Cong Chen, Yuquan Wu, Zhihe Wei, <b>Bin Xu*</b>, Yang Peng*, Mingrong Shen*, Ronglei Fan*</var>
+                         <br><a href="https://doi.org/10.1016/j.apcatb.2023.122438" target="_blank"> Applied Catalysis B: Environmental 327, 122438 (2023) </a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2022</b>
+                         <li>Origin of negative electrocaloric effect in Pnma-type antiferroelectric perovskites
+			 <br><var><b>Ningbo Fan</b>, Jorge Íñiguez, L. Bellaiche, and <b>Bin Xu*</b></var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.224107" target="_blank"> Phys. Rev. B 106, 224107 (2022) </a>
+                         </li>
+                         <li>Temperature-dependent properties of the antiferroelectric model PbZrO3: An effective Hamiltonian study
+			 <br><var>Kinnary Patel, <b>Bin Xu</b>, Sergey Prosandeev, Romain Faye, Brahim Dkhil, Pierre-Eymeric Janolin, and Laurent Bellaiche*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.214108" target="_blank"> Phys. Rev. B 106, 214108 (2022) </a>
+                         </li>
+                         <li>Electric field control of electromagnon frequency in multiferroics
+			 <br><var>S. Omid Sayedaghaee, Charles Paillard, Sergey Prosandeev, Sergei Prokhorenko, Yousra Nahas, <b>Bin Xu</b>, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.124404?ft=1" target="_blank"> Phys. Rev. Materials 6, 124404 (2022) </a>
+                         </li>
+                         <li>Bond engineering of molecular ferroelectrics renders soft and high-performance piezoelectric energy harvesting materials
+			 <br><var>Yuzhong Hu#*, Kaushik Parida#, Hao Zhang, <b>Xin Wang</b>, Yongxin Li, Xinran Zhou, Samuel Morris, Weng Heng Liew, Haomin Wang, Tao Li, Feng Jiang, Mingmin Yang, Marin Alexe, Zehui Du, Chee Lip Gan, Kui Yao, <b>Bin Xu</b>, Pooi See Lee*, and Hong Jin Fan*</var>
+                         <br><a href="https://www.nature.com/articles/s41467-022-33325-6" target="_blank"> Nat. Commun. 13, 5607 (2022) </a>
+                         </li>
+                         <li>Interfacial Bi–S bonds modulate band alignment for efficient solar water oxidation
+			 <br><var>Weiwei Xu, <b>Ningbo Fan</b>, <b>Shiji Xu</b>, Linxing Meng, <b>Bin Xu</b>, Min Zhou*, Wei Tian* and Liang Li*</var>
+                         <br><a href="https://pubs.rsc.org/en/content/articlehtml/2021/xx/d2nr04454d" target="_blank"> Nanoscale 14, 14520 (2022) </a>
+                         </li>
+                         <li>Self-Enhancing Photoelectrochemical Properties in van der Waals Ferroelectric CuInP2S6 by Photoassisted Acid Hydrolysis
+			 <br><var>Shun Wang#, <b>Ningbo Fan</b>#, Zhou Zhou, Yiqi Hu, Qiang Hui, Qiankun Li, Jinshuo Xue, Ziwen Zhou, Zhijian Feng, Qingyu Yan, Yuyan Weng, Rujun Tang, Fengang Zheng, Ronglei Fan, <b>Bin Xu</b>*, Liang Fang*, and Lu You*</var>
+                         <br><a href="https://pubs.acs.org/doi/full/10.1021/acsami.2c10216" target="_blank"> ACS Appl. Mater. Interfaces 14, 40126 (2022)</a>
+                         </li>
+                         <li>Giant electric field–controlled magnetism in Bi0.86Sm0.14FeO3 multiferroic ceramics with Pna21 symmetry
+			 <br><var>Lu Liu, <b>Yehui Zhang</b>, Xin Xin Shi, Xiao Qiang Liu, Xiao Li Zhu*, <b>Bin Xu</b>*, Xiang Ming Chen*</var>
+                         <br><a href="https://ceramics.onlinelibrary.wiley.com/doi/10.1111/jace.18666" target="_blank"> J. Am. Ceram. Soc. 105, 6775 (2022)</a>
+                         </li>
+                         <li>Prediction of two-dimensional monolayer C2O2Fe with chiral magnetic and ferroelectric orders
+			 <br><var>Chenduo Geng#, <b>Xin Wang#</b>, Shijun Zhang, Zhengchao Dong, <b>Bin Xu</b>*, and Chonggui Zhong*</var>
+                         <br><a href="https://pubs.rsc.org/en/content/articlehtml/2022/cp/d2cp01492k#fn2" target="_blank"> Phys. Chem. Chem. Phys. 24, 16827 (2022)</a>
+                         </li>
+                         <li>Ultrahigh energy storage density in lead-free antiferroelectric rare-earth-substituted bismuth ferrite
+			 <br><var><b>Yehui Zhang</b>, Laurent Bellaiche, <b>Bin Xu</b>*</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.L051401" target="_blank"> Phys. Rev. Materials 6, L051401 (2022) <b>Editor's Suggestion</b></a>
+                         </li>
+                         <li>Ferroelectric crystals with giant electro-optic property enabling ultracompact Q-switches
+			 <br><var>Xin Liu#, Peng Tan#, <b>Xue Ma</b>, Danyang Wang, Xinyu Jin, Yao Liu, <b>Bin Xu</b>, Liao Qiao, Chaorui Qiu, Bo Wang, Weigang Zhao, Kexin Song, Haisheng Guo, Xudong Li, Sean Li, Xiaoyong Wei, Long-Qing Chen, Zhuo Xu, Fei Li*, Hao Tian*, and Shujun Zhang*</var>
+                         <br><a href="https://www.science.org/doi/10.1126/science.abn7711" target="_blank"> Science 376, 371 (2022)</a>
+                         </li>
+                         <li>Steering the Pathway of Plasmon-Enhanced Photoelectrochemical CO2 Reduction by Bridging Si and Au Nanoparticles through a TiO2 Interlayer
+			 <br><var>Kang Wang#, <b>Ningbo Fan</b>#, <b>Bin Xu</b>#, Zhihe Wei, Cong Chen, Hao Xie, Weixiang Ye*, Yang Peng*, Mingrong Shen*, Ronglei Fan*</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202201882" target="_blank"> Small 18, 2201882 (2022)</a>
+                         </li>
+                         <li>Electrical Energy Storage From First Principles
+				 <br><var>Zhijun Jiang*, <b>Bin Xu</b>, Sergey Prosandeev, Jorge Íñiguez, Hongjun Xiang, and L. Bellaiche*</var>
+                         <br><a href="https://www.frontiersin.org/articles/10.3389/femat.2022.869803/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Electronic_Materials&id=869803" target="_blank"> Front. Electron. Mater. 2:869803 (2022)</a>
+                         </li>
+                         <li>Domain-wall-induced electromagnons in multiferroics
+			 <br><var>S. Omid Sayedaghaee, Sergey Prosandeev, Sergei Prokhorenko, Yousra Nahas, Charles Paillard, <b>Bin Xu</b>, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.034403" target="_blank"> Phys. Rev. Materials 6, 034403 (2022)</a>
+                         </li>
+                         <li>Self-Regulated Chemical Substitution in a Highly-Strained Perovskite Oxide
+                         <br><var>Lu You*#, <b>Xin Wang</b>#, Qinghua Zhang, Xiao Chi, Ping Yang, Yiqi Hu, Ping Li, Qiang Hui, Liang Fang, Lin Gu, <b>Bin Xu*</b>, Junling Wang*</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202112463" target="_blank"> Adv. Funct. Mater. 32, 2112463 (2022)</a>
+                         </li>
+                         <li>Field-induced heterophase state in PbZrO3 thin films
+                         <br><var>Roman G. Burkovsky*, Georgiy A. Lityagin, Alexander E. Ganzha, Alexander F. Vakulenko, Ran Gao, Arvind Dasgupta, <b>Bin Xu</b>, Alexey V. Filimonov, and Lane W. Martin</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.125409" target="_blank"> Phys. Rev. B 105, 125409 (2022)</a>
+                         </li>
+                         <li>Effect of Iodine Octahedral Rotations on Dipole Ordering in OrganicInorganic Hybrid Perovskite CH3NH3PbI3
+			 <br><var><b>Ningbo Fan</b>, <b>Xue Ma</b>, <b>Bin Xu*</b></var>
+                         <br><a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcc.1c09230" target="_blank">  J. Phys. Chem. C 126, 779 (2022)</a>
+                         </li>
+                         <li>Anisotropic epitaxial stabilization of a low-symmetry ferroelectric with enhanced electromechanical response
+                         <br><var>Oliver Paull#, Changsong Xu#, Xuan Cheng, Yangyang Zhang, <b>Bin Xu</b>, Kyle P. Kelley, Alex de Marco, Rama K. Vasudevan, Laurent Bellaiche, Valanoor Nagarajan* and Daniel Sando*</var>
+                         <br><a href="https://www.nature.com/articles/s41563-021-01098-w" target="_blank"> Nat. Mater. 21, 74 (2022)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2021</b>
+                         <li>Finite-Temperature Dynamics in Cesium Lead Iodide Halide Perovskite
+                         <br><var><b>Xin Wang</b>, Kinnary Patel, Sergey Prosandeev, <b>Yehui Zhang</b>, Chonggui Zhong*, <b>Bin Xu*</b>, Laurent Bellaiche</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/10.1002/adfm.202106264" target="_blank"> Adv. Funct. Mater. 31, 2106264 (2021)</a>
+                         </li>
+                         <li>A two-dimensional multiferroic metal with voltage-tunable magnetization and metallicity
+                         <br><var>Xu Duan#, Jiawei Huang#, <b>Bin Xu</b> and Shi Liu*</var> 
+                         <br><a href="https://pubs.rsc.org/en/content/articlelanding/2021/MH/D1MH00939G" target="_blank"> Mater. Horiz. 8, 2316 (2021)</a>
+                         </li>
+                         <li>Ultrahigh energy storage density in epitaxial AlN/ScN superlattices
+                         <br><var>Zhijun Jiang, <b>Bin Xu*</b>, Hongjun Xiang*, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.5.L072401" target="_blank"> Phys. Rev. Materials 5, L072401 (2021)</a>
+                         </li>
+                         <li>First-principles study of spin spirals in the multiferroic BiFeO3
+                         <br><var><b>Bin Xu#*</b>, Sebastian Meyer#, Matthieu J. Verstraete, Laurent Bellaiche, and Bertrand Dupé</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.214423" target="_blank"> Phys. Rev. B 103, 214423 (2021)</a>
+                         </li>
+                         <li>Effect of biaxial strain and hydrostatic pressure on the magnetic properties of bilayer CrI3
+                         <br><var>Chong Xu, Qian-Jun Wang, <b>Bin Xu</b> and Jun Hu*</var>
+                         <br><a href="https://link.springer.com/article/10.1007/s11467-021-1073-x" target="_blank"> Front. Phys. 6, 53502 (2021)</a>
+                         </li>
+                         <li>Electrocaloric effects in multiferroics
+                         <br><var>Zhijun Jiang, <b>Bin Xu</b>, Sergey Prosandeev, Yousra Nahas, Sergei Prokhorenko, Jorge Íñiguez, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.L100102" target="_blank"> Phys. Rev. B 103, L100102 (2021)</a>
+                         </li>
+                         <li>Properties of (001) NaNbO3 films under epitaxial strain: A first-principles study
+                         <br><var>Kinnary Patel, Sergey Prosandeev, <b>Bin Xu</b>, Changsong Xu, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.094103" target="_blank"> Phys. Rev. B 103, 094103 (2021)</a>
+                         </li>
+                         <li>Ferroelastic-switching-driven large shear strain and piezoelectricity in a hybrid ferroelectric
+                         <br><var>Yuzhong Hu#, Lu You#, <b>Bin Xu</b>#, Tao Li, Samuel Alexander Morris, Yongxin Li, <b>Yehui Zhang</b>, <b>Xin Wang</b>, Pooi See Lee, Hong Jin Fan* and Junling Wang*</var>
+                         <br><a href="https://www.nature.com/articles/s41563-020-00875-3" target="_blank"> Nat. Mater. 20, 612 (2021)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2020</b>
+                         <li>Thermoelectric properties of elemental metals from first principles electron-phonon coupling
+                         <br><var><b>Bin Xu</b>*, Marco Di Gennaro, and Matthieu J. Verstraete</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.155128" target="_blank"> Phys. Rev. B 102, 155128 (2020)</a>
+                         </li>
+                         <li>Tunable phase transitions and high photovoltaic performance of two-dimensional In2Ge2Te6 semiconductors
+                         <br><var>Naihua Miao*, Wei Li, Linggang Zhu, <b>Bin Xu</b>, Jian Zhou, Stephen R. Elliott, and Zhimei Sun*</var>
+                         <br><a href="https://pubs.rsc.org/en/content/articlehtml/2020/nh/d0nh00395f#fn1" target="_blank"> Nanoscale Horiz. 5, 1566 (2020)</a>
+                         </li>
+                         <li>Enhanced transient negative capacitance during inhomogeneous ferroelectric switching
+                         <br><var><b>Bin Xu</b>*, Sergey Prosandeev, Charles Paillard, and L. Bellaiche*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.180101" target="_blank"> Phys. Rev. B 101, 180101(R) (2020)</a>
+                         </li>
+                         <li>Atomic-scale Origin of Ultrahigh Piezoelectricity in Samarium-doped PMN-PT Ceramics
+                         <br><var>Chunchun Li, <b>Bin Xu</b>*, Shujun Zhang, Dabin Lin, Laurent Bellaiche, Thomas R. Shrout, and Fei Li*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.140102" target="_blank"> Phys. Rev. B 101, 140102(R) (2020)</a>
+                         </li>
+                         <li>In situ monitoring silver adsorption on assembled gold nanorods by surface-enhanced Raman scattering
+                         <br><var>Fei Zhao, <b>Xin Wang</b>, <b>Yehui Zhang</b>, Xuxing Lu, Hao Xie, <b>Bin Xu</b>*, Weixiang Ye*, and Weihai Ni*</var>
+                         <br><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ab8400" target="_blank"> Nanotechnology 31, 295601 (2020)</a>
+                         </li>
+                         <li>Strain-induced resonances in the dynamical quadratic magnetoelectric response of multiferroics
+                         <br><var>S. Omid Sayedaghaee, Charles Paillard, Sergey Prosandeev, <b>Bin Xu</b>, and L. Bellaiche</var>
+                         <br><a href="https://www.nature.com/articles/s41524-020-0311-z" target="_blank"> npj Computational Materials 6, 60 (2020)</a>
+                         </li>
+                         <li>Macroscopic and microscopic structures of cesium lead iodide perovskite from atomistic simulations
+                         <br><var>Lan Chen, <b>Bin Xu</b>, Yurong Yang*, and L. Bellaiche</var>
+                         <br><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201909496" target="_blank"> Adv. Funct. Mater. 30, 1909496 (2020)</a>
+                         </li>
+                         <li>Strain-tunable out-of-plane polarization in two-dimensional materials
+                         <br><var>J. Z. Zhao#, L. C. Chen#, <b>B. Xu</b>, B. Zheng, J. Fan, and H. Xu*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.121407" target="_blank"> Phys. Rev. B 101, 121407(R) (2020)</a>
+                         </li>
+                         <li>Universality and Origin of Ultra-short Negative Capacitance
+                         <br><var>Sergey Prosandeev, Charles Paillard, <b>B. Xu</b>, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.024111" target="_blank"> Phys. Rev. B 101, 024111 (2020)</a>
+                         </li>
+                         <li>Inverse transition of labyrinthine domain patterns in ferroelectric thin films
+                         <br><var>Y. Nahas*, S. Prokhorenko, J. Fischer, <b>B. Xu</b>, C. Carrétéro, S. Prosandeev, S. Fusil, B. Dkhil, V. Garcia, and L. Bellaiche</var>
+                         <br><a href="https://www.nature.com/articles/s41586-019-1845-4" target="_blank">  Nature 577, 47 (2020)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2019</b>
+                         <li>Temperature dependency of polar modes in hybrid improper ferroelectrics
+                         <br><var>Kinnary Patel, Sergey Prosandeev, <b>Bin Xu</b>, and L. Bellaiche*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.214107" target="_blank"> Phys. Rev. B 100, 214107 (2019)</a>
+                         </li>
+                         <li>A Magnetic Phase Diagram for Nanoscale Epitaxial BiFeO3 Films
+                         <br><var>D. Sando*, F. Appert, <b>B. Xu</b>, O. H. C. Paull, S. R. Burns, C. Carrétéro, B. Dupé, V. Garcia, Y. Gallais, A. Sacuto, M. Cazayous, B. Dkhil, J. M. Le Breton, A. Barthélémy, M. Bibes, L. Bellaiche, V. Nagarajan, and J. Juraszek*</var>
+                         <br> <a href="https://aip.scitation.org/doi/10.1063/1.5113530#" target="_blank">Applied Physics Reviews 6, 041404 (2019)</a>
+                         </li>
+                         <li>Enhanced photocatalytic and photoelectrochemical performance of g-C3N4/BiVO4 heterojunction: A combined experimental and theoretical study
+                         <br><var>Tianqi Jiang, Feng Nan, Ju Zhou, Fengang Zheng, Yuyan Wen, Tianyi Cai*, Sheng Jua, <b>Bin Xu</b>, and Liang Fang*</var>
+                         <br> <a href="https://aip.scitation.org/doi/full/10.1063/1.5090410" target="_blank">AIP Advances 9, 055225 (2019)</a>
+                         </li>
+                         <li>Order-disorder transition in the prototypical antiferroelectric PbZrO3
+                         <br><var><b>Bin Xu</b>*, Olle Hellman, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020102" target="_blank"> Phys. Rev. B 100, 020102(R) (2019)</a>
+                         </li>
+                         <li>Uncompensated Polarization in Incommensurate Modulations of Perovskite Antiferroelectrics
+                         <br><var>Tao Ma#, Zhongming Fan#, <b>Bin Xu</b>, Tae-Hoon Kim, Laurent Bellaiche, Matthew J. Kramer, Xiaoli Tan*, and Lin Zhou*</var>
+                         <br><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.217602" target="_blank">Phys. Rev. Lett. 123, 217602 (2019)</a>
+                         </li>
+                         <li>Magnetic interactions in BiFeO3: A first-principles study
+                         <br><var>Changsong Xu, <b>Bin Xu</b>*, Bertrand Dupé, and L. Bellaiche*</var>
+                         <br><a href="https://link.aps.org/doi/10.1103/PhysRevB.99.104420" target="_blank">Phys. Rev. B 99, 104420 (2019)</a>
+                         </li>
+                         <li>Giant Piezoelectricity of Sm-Doped Pb(Mg1/3Nb2/3)O3-PbTiO3 Single Crystals
+                         <br><var>Fei Li#*, Matthew J. Cabral#, <b>Bin Xu</b>, Zhenxiang Cheng, Elizabeth C. Dickey, James M. LeBeau, Jianli Wang, Jun Luo, Samuel Taylor, Wesley Hackenberger, Laurent Bellaiche, Zhuo Xu, Long-Qing Chen, Thomas R. Shrout, and Shujun Zhang*</var>
+                         <br><a href="https://science.sciencemag.org/content/364/6437/264" target="_blank">Science 364, 264–268 (2019)</a>
+                         </li>
+                         <li>Expansion of the spin cycloid in multiferroic BiFeO3 thin films
+                         <br><var>Stuart R. Burns, Daniel Sando*, <b>Bin Xu</b>, Bertrand Dupé, Lachlan Russell, Richard Clements, Oliver H. C. Paull, Guochu Deng, Jan Seidel, Laurent Bellaiche, Nagarajan Valanoor, and Clemens Ulrich</var>
+                         <br><a href="https://www.nature.com/articles/s41535-019-0155-2" target="_blank">npj Quantum Materials 4, 18 (2019)</a>
+                         </li>
+                         <li>Novel Dynamical Magnetoelectric Effects in Multiferroic BiFeO3
+                         <br>S. Omid Sayedaghaee, <b>Bin Xu</b>, Sergey Prosandeev, Charles Paillard, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.097601" target="_blank">Phys. Rev. Lett. 122, 097601 (2019)</a>
+                         </li>
+                         <li>Symmetry modulation and enhanced multiferroic characteristics in Bi1-xNdxFeO3 ceramics
+                         <br><var>Jing Chen#, <b>Bin Xu</b>#, Xiao Qiang Liu, Ting Ting Gao, Laurent Bellaiche and Xiang Ming Chen</var>
+                         <br><a href="https://doi.org/10.1002/adfm.201806399" target="_blank">Adv. Funct. Mater. 29, 1806399 (2019)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2018</b>
+                         <li>Revisiting spin cycloids in multiferroic BiFeO3
+                         <br><var><b>Bin Xu</b>, Bertrand Dupé, Changsong Xu, Hongjun Xiang, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.184420" target="_blank">Phys. Rev. B 98, 184420 (2018)</a>
+                         </li>
+                         <li>Refreshing Piezoelectrics: Distinctive Role of Manganese in Lead-Free Perovskites
+                         <br><var>Fang-Zhou Yao, Mao-Hua Zhang, Ke Wang, Jia-Jun Zhou, Feng Chen, <b>Bin Xu</b>, Fei Li, Yang Shen, Qing-Hua Zhang, Lin Gu, Xiao-Wen Zhang, Jing-Feng Li</var>
+                         <br><a href="https://pubs.acs.org/doi/abs/10.1021/acsami.8b14958" target="_blank">ACS Appl. Mater. Interfaces 10, 37298 (2018)</a>
+                         </li>
+                         <li>Polarization switching in the PbMg1/3Nb2/3O3 relaxor ferroelectric: An atomistic effective Hamiltonian study
+                         <br><var>Sergey Prosandeev, <b>Bin Xu</b>, L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.024105" target="_blank">Phys. Rev. B 98, 024105 (2018)</a>
+                         </li>
+                         <li>Giant resistive switching in mixed phase BiFeO3 via phase population control
+                         <br><var>David Edwards, Niall Browne, Kristina M. Holsgrove, Aaron B. Naden, Sayed O. Sayedaghaee, <b>Bin Xu</b>, Sergey Prosandeev, Dawei Wang, Dipanjan Mazumdar, Martial Duchamp, Arunava Gupta, Sergei V. Kalinin, Miryam Arredondo, Raymond G. P. McQuaid, Laurent Bellaiche, J. Marty Gregg and Amit Kumar</var>
+                         <br><a href="https://dx.doi.org/10.1039/C8NR03653E" target="_blank">Nanoscale 10, 17629 (2018)</a>
+                         </li>
+                         <li>Understanding and revisiting the most complex perovskite system via atomistic simulations
+                         <br><var>Yali Yang, <b>Bin Xu</b>, Changsong Xu, Wei Ren, and Laurent Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.174106" target="_blank">Phys. Rev. B 97, 174106(2018)</a>
+                         </li>
+                         <li>The Intrinsic Role of Excess Electrons in Surface Reactions on Rutile TiO2 (110): Using Water and Oxygen as Probes
+                         <br><var>Hao Tian, <b>Bin Xu</b>, Jing Fan, and Hu Xu</var>
+                         <br><a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b12451" target="_blank">J. Phys. Chem. C 122, 8270 (2018)</a>
+                         </li>
+                         <li>2D Intrinsic Ferromagnets from van der Waals Antiferromagnets
+                         <br><var>Naihua Miao, <b>Bin Xu</b>, Linggang Zhu, Jian Zhou, Zhimei Sun*</var>
+                         <br><a href="https://pubs.acs.org/doi/abs/10.1021/jacs.7b12976" target="_blank">J. Am. Chem. Soc. 140, 2417 (2018)</a>
+                         </li>
+                         <li>Photostriction and elasto-optic response in multiferroics and ferroelectrics from first principles
+                         <br><var>Yurong Yang, Charles Paillard, <b>Bin Xu</b>, and L. Bellaiche</var>
+                         <br><a href="http://iopscience.iop.org/article/10.1088/1361-648X/aaa51f" target="_blank">J. Phys.: Condens. Matter. 30, 073001 (2018)</a>
+                         </li>
+                         <li>Controllable dissociation of H2O on CeO2 (111) surface
+                         <br><var>Jing Fan, <b>Bin Xu</b>,  Jinzhu Zhao  and  Hu Xu</var>
+                         <br><a href="http://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp06117j" target="_blank">Phys. Chem. Chem. Phys. 20, 1575 (2018)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2017</b>
+                         <li>Tunable Magnetism and Extraordinary Sunlight Absorbance in Indium Triphosphide Monolayer
+                         <br><var>Naihua Miao, <b>Bin Xu</b>, Nicholas C Bristowe, Jian Zhou, Zhimei Sun*</var>
+                         <br><a href="http://pubs.acs.org/doi/abs/10.1021/jacs.7b05133" target="_blank">J. Am. Chem. Soc. 139, 11125 (2017)</a>
+                         </li>
+                         <li>Designing lead-free antiferroelectrics for energy storage
+                         <br><var><b>Bin Xu</b>*, Jorge Íñiguez, and Laurent Bellaiche*</var>
+                         <br><a href="https://www.nature.com/articles/ncomms15682" target="_blank">Nat. Commun. 8 15682 (2017)</a>
+                         </li>
+                         <li>Photostrictive two-dimensional materials in the monochalcogenide family
+                         <br><var>Raad Haleoot, Charles Paillard, Thaneshwor P. Kaloni, Mehrshad Mehboudi, <b>Bin Xu</b>, L. Bellaiche, and Salvador Barraza-Lopez*</var>
+                         <br><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.227401" target="_blank">Phys. Rev. Lett. 118, 227401 (2017)</a>
+                         </li>
+                         <li>Intrinsic polarization switching mechanisms in BiFeO3
+                         <br><var><b>Bin Xu</b>*, Vincent Garcia, Stéphane Fusil, Manuel Bibes, and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.104104" target="_blank">Phys. Rev. B 95, 104104(2017)</a>
+                         </li>
+                         <li>Learning through ferroelectric domain dynamics in solid-state synapses
+                         <br><var>Sören Boyn*, Julie Grollier, Gwendal Lecerf, <b>Bin Xu</b>, Nicolas Locatelli, Stéphane Fusil, Stéphanie Girod, Cécile Carrétéro, Karin Garcia, Stéphane Xavier, Jean Tomas, Laurent Bellaiche, Manuel Bibes, Agnès Barthélémy, Sylvain Saïghi, Vincent Garcia*</var>
+                         <br><a href="https://www.nature.com/articles/ncomms14736" target="_blank">Nat. Commun. 8, 14736 (2017)</a>
+                         </li>
+                         <li>Properties of rare-earth iron garnets from first principles
+                         <br><var>Ryan Nakamoto, <b>Bin Xu</b>*, Changsong Xu, Hu Xu, and L. Bellaiche*</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.024434" target="_blank">Phys. Rev. B 95, 024434 (2017)</a>
+                         </li>
+                         <li>Few-layer arsenic trichalcogenides: Emerging two-dimensional semiconductors with tunable indirect-direct band-gaps
+                         <br><var>Naihua Miao, Jian Zhou, Baisheng Sa, <b>Bin Xu</b>, Zhimei Sun</var>
+                         <br><a href="http://www.sciencedirect.com/science/article/pii/S0925838816342803" target="_blank">J. Alloys Compd. 699, 554-560 (2017)</a>
+                         </li>
+                         <li>Pressure-induced multiferroics via pseudo Jahn-Teller effects and novel couplings
+                         <br><var>Changsong Xu, Yang Li, <b>Bin Xu</b>, Jorge Íñiguez, Wenhui Duan, and L. Bellaiche</var>
+                         <br><a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201604513/abstract" target="_blank">Adv. Funct. Mater. 27, 1604513 (2017)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2016</b>
+                         <li>Pinched hysteresis loop in defect-free materials
+                         <br><var><b>Bin Xu</b>, Charles Paillard, Brahim Dkhil and L. Bellaiche</var>
+                         <br><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.140101" target="_blank">Phys. Rev. B 94, 140101(R) (2016)</a>
+                         </li>
+                         <li>Strain-induced effects in the electronic and spin properties of a monolayer of ferromagnetic GdAg2
+                         <br><var>A. Correa, <b>B. Xu</b>, M. J. Verstraete and L. Vitali*</var>
+                         <br><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2016/NR/C6NR06398E#!divAbstract" target="_blank">Nanoscale 8, 19148 (2016)</a>
+                         </li>
+                         <li>Surface Reactivity Enhancement by O2 Dissociation on a Single-layer MgO Film Deposited on Metal Substrate
+                         <br><var>Cequn Li, Jing Fan, <b>Bin Xu</b>, and Hu Xu</var>
+                         <br><a href="http://aip.scitation.org/doi/abs/10.1063/1.4965433?journalCode=jcp" target="_blank">J. Chem. Phys. 145, 164701 (2016)</a>
+                         </li>
+                         <li>Special quasirandom structures for perovskite solid solutions
+                         <br><var>Zhijun Jiang, Yousra Nahas, <b>Bin Xu</b>, Sergey Prosandeev, Dawei Wang and L. Bellaiche</var>
+                         <br><a href="http://iopscience.iop.org/article/10.1088/0953-8984/28/47/475901" target="_blank">J. Phys.: Condens. Matter. 28, 475901 (2016)</a>
+                         </li>
+                         <li>Atomistic mechanism leading to complex antiferroelectric and incommensurate perovskites
+                         <br><var>Kinnary Patel, Sergey Prosandeev, Yurong Yang, <b>Bin Xu</b>, Jorge Íñiguez and L. Bellaiche</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.94.054107" target="_blank">Phys. Rev. B 94, 054107 (2016)</a>
+                         </li>
+                         <li>Nonmonotonic anisotropy in charge conduction induced by antiferrodistortive transition in metallic SrTiO3
+                         <br><var>Qian Tao, Bastien Loret, <b>Bin Xu</b>, Xiaojun Yang, Carl Willem Rischau, Xiao Lin, Benoît Fauqué, Matthieu J. Verstraete, and Kamran Behnia</var>
+                         <br><a href="https://link.aps.org/doi/10.1103/PhysRevB.94.035111" target="_blank">Phys. Rev. B 94 035111 (2016)</a>
+                         </li>
+                         <li>High temperature ferromagnetism in a GdAg2 monolayer
+                         <br><var>M. Ormaza, L. Fernández, M. Ilyn, A. Magaña, <b>B. Xu</b>, M. J. Verstraete, M. Gastaldo, M. A. Valbuena, P. Gargiani, A. Mugarza, A. Ayuela, L. Vitali, M. Blanco-Rey, F. Schiller, and J. E. Ortega</var>
+                         <br><a href="http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b01197" target="_blank">Nano Lett. 16 4230 (2016)</a>
+                         </li>
+                         <li>Photostriction in ferroelectrics from density functional theory
+                         <br><var>Charles Paillard, <b>Bin Xu</b>, Brahim Dkhil, Gregory Geneste, and L. Bellaiche</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevLett.116.247401" target="_blank">Phys. Rev. Lett. 116 247401 (2016)</a>
+                         </li>
+                         <li>Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+                         <br><var>Naihua Miao, Jian Zhou, Baisheng Sa, <b>Bin Xu</b>, and Zhimei Sun</var>
+                         <br><a href="http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl" target="_blank">Appl. Phys. Lett. 108 213902 (2016)</a>
+                         </li>
+                         <li>Recent developments in the ABINIT software package
+                         <br><var>X. Gonze, F. Jollet, F. Abreu Araujo, D. Adams, B. Amadon, T. Applencourt, C. Audouze, J.-M. Beuken, J. Bieder, A. Bokhanchuk, E. Bousquet, F. Bruneval, D. Caliste, M. Côté, F. Dahm, F. Da Pieve, M. Delaveau, M. Di Gennaro, B. Dorado, C. Espejo, G. Geneste, L. Genovese, A. Gerossier, M. Giantomassi, Y. Gillet, D.R. Hamann, L. He, G. Jomard, J. Laflamme Janssen, S. Le Roux, A. Levitt, 5, A. Lherbier, F. Liu, I. Lukačević, A. Martin, C. Martins, M.J.T. Oliveira, S. Poncé, Y. Pouillon, T. Rangel, G.-M. Rignanese, A.H. Romero, B. Rousseau, O. Rubel, A.A. Shukri, M. Stankovski, M. Torrent, M.J. Van Setten, B. Van Troeye, M.J. Verstraete, D. Waroquiers, J. Wiktor, <b>B. Xu</b>, A. Zhou, J.W. Zwanziger</var>
+                         <br><a href="http://www.sciencedirect.com/science/article/pii/S0010465516300923" target="_blank">Comput. Phys. Commun. 205 106 (2016)</a>
+                         </li>
+                         <li>First-Principles Study of the Thermoelectric Properties of SrRuO3
+                         <br><var>Naihua Miao, <b>Bin Xu</b>, Nicholas C. Bristowe, Daniel I. Bilc, Matthieu J. Verstraete, and Philippe Ghosez</var>
+                         <br><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02514" target="_blank">J. Phys. Chem. C 120 9112 (2016)</a>
+                         </li>
+                         <li>A multiferroic on the brink: Uncovering the nuances of strain-induced transitions in BiFeO3
+                         <br><var>D. Sando, <b>Bin Xu</b>, L. Bellaiche, and V. Nagarajan</var>
+                         <br><a href="http://aip.scitation.org/doi/full/10.1063/1.4944558" target="_blank">Appl. Phys. Rev. 3 011106 (2016)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2015</b>
+                         <li>Hybrid Improper Ferroelectricity in multiferroic superlattices: Finite-temperature Properties and Electric-field-driven Switching of Polarization and Magnetization
+                         <br><var><b>Bin Xu</b>, Dawei Wang, Hong Jian Zhao, Jorge Íñiguez, Xiang Ming Chen, and Laurent Bellaiche</var>
+                         <br><a href="https://doi.org/10.1002/adfm.201501113" target="_blank">Adv. Funct. Mater. 25 3626 (2015)</a>
+                         </li>
+                         <li>Finite-temperature Properties of Rare-Earth-Substituted BiFeO3 Multiferroic Solid Solutions
+                         <br><var><b>Bin Xu</b>, Dawei Wang, Jorge Íñiguez, and Laurent Bellaiche</var>
+                         <br><a href="https://doi.org/10.1002/adfm.201403811" target="_blank">Adv. Funct. Mater. 25 552 (2015)</a>
+                         </li>
+                         <li>Prediction of a stable post-post-perovskite structure from first principles
+                         <br><var>Changsong Xu, <b>Bin Xu</b>, Yurong Yang, Huafeng Dong, Artem R. Oganov, Shanying Wang, Wenhui Duan, Binglin Gu, and L. Bellaiche</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.91.020101" target="_blank">Phys. Rev. B 91 020101(R) (2015)</a>
+                         </li>
+                         <li>Electric dipole sheets in BaTiO3/BaZrO3 superlattices
+                         <br><var>Zhijun Jiang, <b>Bin Xu</b>, Fei Li, Dawei Wang, and C.-L. Jia</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.91.014105" target="_blank">Phys. Rev. B 91 014105 (2015)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2014</b>
+                         <li>First Principles explanation of the positive Seebeck coefficient of lithium
+                         <br><var><b>Bin Xu</b> and Matthieu J. Verstraete</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevLett.112.196603" target="_blank">Phys. Rev. Lett. 112 196603 (2014)</a>
+                         </li>
+                         <li>Ab initio calculation of the thermal conductivity of indium antimonide
+                         <br><var>Alonso L Miranda, <b>Bin Xu</b>, Olle Hellman, Aldo H Romero, and Matthieu Verstraete</var>
+                         <br><a href="http://iopscience.iop.org/article/10.1088/0268-1242/29/12/124002/meta" target="_blank">Semicond. Sci. Technol. 29 124002 (2014)</a>
+                         </li>
+                         <li>First-principles study of the lattice dynamical properties of strontium ruthenate
+                         <br><var>Naihua Miao, Nicholas C Bristowe, <b>Bin Xu</b>, Matthieu Verstraete and Philippe Ghosez</var>
+                         <br><a href="http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035401" target="_blank">J. Phys.: Condens. Matter. 26(3) 035401 (2014)</a>
+                         </li>
+                       </br></p>
+
+                       <p><b>2005-2013</b>
+                         <li>First-principles study of transport properties in Os and OsSi
+                         <br><var><b>Bin Xu</b> and Matthieu J. Verstraete</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.87.134302" target="_blank">Phys. Rev. B 87 134302 (2013)</a>
+                         </li>
+                         <li>LaAu2 and CeAu2 surface intermetallic compounds grown by reactive deposition on Au(111)
+                         <br><var>M. Ormaza, L. Fernández, S. Lafuente, M. Corso, F. Schiller, <b>B. Xu</b>, M. Diakhate, M. J. Verstraete, and J. E. Ortega</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.88.125405" target="_blank">Phys. Rev. B 88 125405 (2013)</a>
+                         </li>
+                         <li>Equilibrium and metastable phase transitions in silicon nitride at high pressure: a first-principles and experimental study
+                         <br><var><b>Bin Xu</b>, Jianjun Dong, Paul F. McMillan, Olga Shebanova, and Ashkan Salamat</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.84.014113" target="_blank">Phys. Rev. B 84 014113 (2011)</a>
+                         </li>
+                         <li>First-principles calculation of kinetic barriers and metastability for the corundum-to-Rh2O3(II) transition in Al2O3
+                         <br><var><b>Bin Xu</b>, Harold Stokes, and Jianjun Dong</var>
+                         <br><a href="http://iopscience.iop.org/article/10.1088/0953-8984/22/31/315403/meta" target="_blank">J. Phys.: Condens. Matter. 22 (31), 315403 (2010)</a>
+                         </li>
+                         <li>High-pressure study of β-to-α transition in Ga2O3
+                         <br><var>Denis Machon, Paul F. McMillan, <b>Bin Xu</b>, and Jianjun Dong</var>
+                         <br><a href="http://link.aps.org/doi/10.1103/PhysRevB.73.094125" target="_blank">Phys. Rev. B 73, 094125 (2006)</a>
+                         </li>
+                         <li>Spinel-Structured Gallium Oxynitride (Ga3O3N) Synthesis and Characterization: An Experimental and theoretical Study
+                         <br><var>Emmanuel Soignard, Denis Machon, Paul F. McMillan, Jianjun Dong, <b>Bin Xu</b>, and Kurt Leinenweber</var>
+                         <br><a href="http://pubs.acs.org/doi/abs/10.1021/cm051224p" target="_blank">Chem. Mater. 17 (22), 5465, (2005)</a>
+                         </li>
+                         <li>Blueshifted Raman scattering and its correlation with the [110] growth direction in gallium oxide nanowires
+                         <br><var>R. Rao, A. M. Rao, <b>B. Xu</b>, J. Dong, S. Sharma, and M. K. Sunkara</var>
+                         <br><a href="http://aip.scitation.org/doi/abs/10.1063/1.2128044?journalCode=jap" target="_blank">J. Appl. Phys. 98(9), 094312, (2005)</a>
+                         </li>
+
+                       <br>
+                       <a href="#top">Back to top</a>
+
+                       </ol>
+          <!--<div class="model-box">
+            <iframe class="model" src="papers.html" frameborder="0" allowfullscreen="" ></iframe>
+          </div> -->
+          </p>
+
+        </div>
+          <!-- Opening -->
+          <div class="col-md-12" >
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="opening"><b>招生|Opening</b></div>
+            </p>
+                       课题组致力于凝聚态物理方向的计算研究，注重计算方法的开发和应用第一性原理方法解决前沿问题，与国内外高水平理论和实验组保持密切合作。</p>
+                       <p><b>招收博士/硕士研究生</b>
+                       <br>欢迎对计算感兴趣的同学报考并加入课题组。具体要求：
+                       <ul>
+                         <li>物理、材料或化学背景</li>
+                         <li>有钻研精神、对学习和工作积极主动</li>
+                         <li>已通过CET-4和CET-6</li>
+                         <li>有第一性原理研究经验和编程经验优先考虑</li>
+                         <li>有效申请材料：请在邮件中附上本科成绩单及英语四六级成绩单（博士申请者需另附硕士成绩单）</li>
+                       </ul>
+
+                       <p><b>招收本科生</b>
+                       <br>欢迎对科研有兴趣的本科同学来课题组学习交流。
+                       </br></p>
+
+                       <p>与多个国外理论研究组有良好的合作关系，可推荐联合培养、交流或出国深造。
+                       <br>欢迎来信垂询！(binxu19[at]suda[dot]edu[dot]cn)
+
+                       <p><b>招聘青年教师</b>
+                       <br>课题组拟招聘1名青年学者加入研究团队，苏州大学优秀青年学者岗位。请邮件发送简历并与我联系。
+                       </br></p>
+
+                       <br>
+                       <a href="#top">Back to top</a>
+
+          </div>
+          </p>
+          <!-- Links -->
+          <div class="col-md-12" >
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;" id="links"><b>Links</b></div>
+            </p>
+                       <p><b>Software</b>
+                       <ul>
+                         <li><a href="https://www.abinit.org" target="_blank">ABINIT</a></li>
+                         <li><a href="https://www.vasp.at" target="_blank">VASP</a></li>
+                         <li><a href="http://www.flapw.de/pm/index.php" target="_blank">Fleur</a></li>
+                         <li><a href="http://www.wannier.org" target="_blank">Wannier90</a></li>
+                         <li><a href="http://www.wanniertools.com" target="_blank">WannierTools</a></li>
+                         <li><a href="http://ollehellman.github.io" target="_blank">TDEP</a></li>
+                         <li><a href="http://www.cryst.ehu.es/cryst/amplimodes.html" target="_blank">Amplimodes</a></li>
+                         <li><a href="http://stokes.byu.edu/iso/isotropy.php" target="_blank">ISOTROPY</a></li>
+                         <li><a href="http://data.gokhansurucu.com" target="_blank">Tolerance Factor Calculator</a></li>
+                         <li><a href="https://www.ifm.liu.se/theomod/compphys/band-unfolding/" target="_blank">BandUP</a></li>
+                         <li><a href="https://romerogroup.github.io/pyprocar/" target="_blank">PyProcar</a></li>
+                         <li><a href="https://www.secondprinciples.unican.es" target="_blank">SCALEUP</a></li>
+                         <li><a href="https://apps.automeris.io/wpd/" target="_blank">WebPlotDigitizer</a></li>
+                       </ul>
+
+                       <p><b>Database</b>
+                       <ul>
+                         <li><a href="https://materialsproject.org/" target="_blank">Materials Project</a></li>
+                         <li><a href="http://aflowlib.org" target="_blank">AFLOW</a></li>
+                         <li><a href="https://nomad-repository.eu/" target="_blank">NOMAD</a></li>
+                         <li><a href="http://www.aiida.net" target="_blank">AiiDA</a></li>
+                         <li><a href="https://www.materialscloud.org" target="_blank">MATERIALSCLOUD</a></li>
+                         <li><a href="https://atomly.net" target="_blank">Atomly</a></li>
+                         <li><a href="https://omdb.diracmaterials.org" target="_blank">OMDB</a></li>
+                         <li><a href="http://oqmd.org" target="_blank">OQMD</a></li>
+                         <li><a href="https://materialsweb.org/" target="_blank">MaterialsWeb</a></li>
+                         <li><a href="http://wurm.info" target="_blank">WURM</a></li>
+                         <li><a href="http://www.cryst.ehu.es" target="_blank">Bilbao Crystallographic Server</a></li>
+                         <li><a href="https://physics.nist.gov/cuu/Constants/" target="_blank">Physical constants</a></li>
+                         <li><a href="https://ptable.com" target="_blank">Periodic Table</a></li>
+                         <li><a href="https://www.connectedpapers.com" target="_blank">Connected Papers</a></li>
+                         <li><a href="https://latex-cookbook.net" target="_blank">LaTeX Cookbook</a></li>
+                       </ul>
+
+                       <p><b>Journals</b>
+                       <ul>
+                         <li><a href="https://onlinelibrary.wiley.com/journal/16163028" target="_blank">Advanced Functional Materials</a></li>
+                         <li><a href="https://onlinelibrary.wiley.com/journal/15214095" target="_blank">Advanced Materials</a></li>
+                         <li><a href="http://aip.scitation.org/journal/apl" target="_blank">Applied Physics Letters</a></li>
+                         <li><a href="http://aip.scitation.org/journal/are" target="_blank">Applied Physics Reiviews</a></li>
+                         <li><a href="https://pubs.acs.org/journal/jacsat" target="_blank">Journal of the American Chemical Society</a></li>
+                         <li><a href="(http://iopscience.iop.org/journal/0953-8984" target="_blank">Journal of Physics: Condensed Matter</a></li>
+                         <li><a href="pubs.acs.org/NanoLett" target="_blank">Nano Letters</a></li>
+                         <li><a href="https://www.nature.com/nature/" target="_blank">Nature</a></li>
+                         <li><a href="https://www.nature.com/ncomms/" target="_blank">Nature Communications</a></li>
+                         <li><a href="https://www.nature.com/nmat/" target="_blank">Nature Materials</a></li>
+                         <li><a href="https://www.nature.com/nphys/" target="_blank">Nature Physics</a></li>
+                         <li><a href="https://journals.aps.org/prb/" target="_blank">Physical Review B</a></li>
+                         <li><a href="https://journals.aps.org/prl/" target="_blank">Physical Review Letters</a></li>
+                         <li><a href="https://journals.aps.org/prmaterials/" target="_blank">Physical Review Materials</a></li>
+                         <li><a href="https://journals.aps.org/prx/" target="_blank">Physical Review X</a></li>
+                         <li><a href="http://www.pnas.org" target="_blank">Proceedings of the National Academy of Sciences</a></li>
+                         <li><a href="http://www.sciencemag.org" target="_blank">Science</a></li>
+                       </ul>
+                       </br></p>
+
+                       <a href="#top">Back to top</a>
+
+          </div>
+            
+      </div>
+      <!-- <div class="footer">
+        Content Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tapajit Dey &mdash; All rights reserved | This template is made with <a style="color:#ebeff3;font-size:0.8em;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> 
+      </div> -->
+    </div>
+    <!-- /.container -->
+    
+    
+    
+</body>
+
+</html>
+<img src="/_visitcount?siteId=79&type=2&columnId=23212" style="display:none" width="0" height="0"></image>
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="79"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>

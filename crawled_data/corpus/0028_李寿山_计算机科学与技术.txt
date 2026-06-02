@@ -1,0 +1,33 @@
+doc_id: 28
+name: 李寿山
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/lishoushan
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Dong Zhang, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Multi-Modal Sentiment Classification With Independent and Interactive Knowledge via Semi-Supervised Learning.,IEEE Access 8,(SCI),2020
+2、Ruirui Bai, Zhongqing Wang, Fang Kong, Shoushan Li, Guodong Zhou. Neural Co-training for Sentiment Classification with Product Attributes. ,ACM Trans. Asian Low Resour. Lang. Inf. Process.,(CCF-C),2020
+3、Zhongqing Wang, Qingying Sun, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Neural Stance Detection With Hierarchical Linguistic Representations.,IEEE ACM Trans. Audio Speech Lang. Process.,(CCF-B),2020
+4、Jiancheng Wang, Jingjing Wang, Changlong Sun, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang, Guodong Zhou. Sentiment Classification in Customer Service Dialogue with Topic-Aware Multi-Task Learning.,AAAI 2020,(CCF-A),2020
+5、Xiao Chen, Changlong Sun, Jingjing Wang, Shoushan Li, Luo Si, Min Zhang, Guodong Zhou.  Aspect Sentiment Classification with Document-level Sentiment Preference Modeling.,ACL 2020,(CCF-A),2020
+6、Liangqing Wu, Dong Zhang, Qiyuan Liu, Shoushan Li, Guodong Zhou. Speaker Personality Recognition With Multimodal Explicit Many2many Interactions.,ICME 2020,(CCF-B),2020
+7、Hanqian Wu, Siliang Cheng, Jingjing Wang, Shoushan Li, Lian Chi. Multimodal Aspect Extraction with Region-Aware Alignment Network.,NLPCC2020,(CCF-C),2020
+8、Peipei Zhu, Zhongqing Wang, Hongling Wang, Shoushan Li, Guodong Zhou. Event Detection with Document Structure and Graph Modelling.,NLPCC2020,(CCF-C),2020
+9、Qingying Sun, Zhongqing Wang, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Stance detection via sentiment information and neural network model.,Frontiers Comput. Sci.,(SCI),2019
+10、Suyang Zhu, Shoushan Li, Guodong Zhou. Adversarial Attention Modeling for Multi-dimensional Emotion Regression.,ACL 2019,(CCF-A),2019
+11、Jingjing Wang, Changlong Sun, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang, Guodong Zhou. Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network.,ACL2019,(CCF-A),2019
+12、Hanqian Wu, Shangbin Zhang, Jingjing Wang, Mumu Liu, Shoushan Li. Multi-label Aspect Classification on Question-Answering Text with Contextualized Attention-Based Neural Network.,CCL2019,(CCF-C),2019
+13、Xiabing Zhou, Zhongqing Wang, Shoushan Li, Guodong Zhou, Min Zhang. Emotion Detection with Neural Personal Discrimination.,EMNLP/IJCNLP 2019,(CCF-B),2019
+14、Jingjing Wang, Changlong Sun, Shoushan Li, Jiancheng Wang, Luo Si, Min Zhang, Xiaozhong Liu, Guodong Zhou. Human-Like Decision Making: Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning.,EMNLP/IJCNLP 2019,(CCF-B),2019
+15、Dong Zhang, Liangqing Wu, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Multi-Modal Language Analysis with Hierarchical Interaction-Level and Selection-Level Attentions.,ICME 2019,(CCF-B),2019
+16、Dong Zhang, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Modeling the Clause-Level Structure to Multimodal Sentiment Analysis via Reinforcement Learning.,ICME 2019,(CCF-B),2019
+17、DongLai Ge, Junhui Li, Muhua Zhu, Shoushan Li. Modeling Source Syntax and Semantics for Neural AMR Parsing.,IJCAI 2019,(CCF-A),2019
+18、Dong Zhang, Liangqing Wu, Changlong Sun, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations.,IJCAI 2019,(CCF-A),2019
+19、Dong Zhang, Shoushan Li, Qiaoming Zhu, Guodong Zhou. Effective Sentiment-relevant Word Selection for Multi-modal Sentiment Analysis in Spoken Language.,ACM Multimedia 2019,(CCF-A),2019
+20、Yang Xu, Qiyuan Liu, Dong Zhang, Shoushan Li, Guodong Zhou. Many vs. Many Query Matching with Hierarchical BERT and Transformer.,NLPCC 2019,(CCF-C),2019
+21、Qiyuan Liu, Liangqing Wu, Yang Xu, Dong Zhang, Shoushan Li, Guodong Zhou. Hierarchical-Gate Multimodal Network for Human Communication Comprehension.,NLPCC 2019,(CCF-C),2019
+22、朱苏阳, 李寿山, 周国栋  基于对抗式神经网络的多维度情绪回归,软件学报,(北大核心),2019
+23、Limin Wang, Shoushan Li, Qian Yan, Guodong Zhou. 

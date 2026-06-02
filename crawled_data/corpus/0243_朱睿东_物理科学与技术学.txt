@@ -1,0 +1,10 @@
+doc_id: 243
+name: 朱睿东
+career: 
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/zrd
+---
+姓名:
+页面标题:物理科学与技术学院
+论文:论文：

@@ -1,0 +1,61 @@
+doc_id: 175
+name: 康红梅
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/khm
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+研究领域:计算机辅助几何设计
+等几何分析
+CAD/CAE一体化
+插值逼近
+深度学习
+社会职务
+个人简介:康红梅，苏州大学副教授
+，硕士生导师。本科为吉林大学，
+2009
+年-2014年在
+中国科学技术大学数学学院攻读博士
+。
+2016
+年
+至
+2017
+年
+在意大利国家研究所
+CNR-IMATI
+从事博士后研究，合作导师为欧洲科学院院士、
+Collatz
+奖获得者
+Annalisa Buffa
+。博士后期间参与由欧洲学术界和工业界合作项目
+CAxMan
+的开发，主要负责等几何分析软件
+IGATOOLS
+与几何表示库
+GoTools
+的交互开发。近年来的主要研究领域为计算机辅助几何设计
+(
+CAGD
+)
+、等几何分析、
+CAD/CAE
+一体化、插值逼近、深度学习等
+。
+欢迎对科研充满热情的优秀本科生、硕士研究生、博士研究生加入我的课题组！加入课题组后，你将接受系统严谨的科研训练，参与丰富的科研活动与广泛的学术交流。课题组将致力于培养掌握几何建模、仿真分析、优化设计与深度学习等先进技术的复合型人才。
+赋能科研梦想，成就复合人才！
+感兴趣的同学请尽早与我联系khm@suda.edu.cn!
+论文:1、A new method to design cubic Pythagorean-hodograph spline curves with control polygon,Communications in Mathematics and Statistics,SCI,2019,Hongmei Kang,Xin Li,Xin Li,7/363-381
+2、Computing IGA-suitable Planar Parameterizations by PolySquare-enhanced Domain Partition,Computer Aided Geometric Design,SCI,2018,Shiwei Xiao,Xiaoming Fu,Hongmei Kang,Hongmei Kang  Xiaoming Fu,62/29-43
+3、de Boor-like evaluation algorithm for Analysis-suitable T-splines,Graphical Models,SCI,2019,Hongmei Kang,Xin Li,Xin Li,106
+4、 Knot calculation for spline fitting based on the unimodality property,Computer Aided Geometric Design,SCI,2019,JiaqiLuo,Hongmei Kang,ZhouwangYang,Hongmei Kang,73/54-69
+5、An economical representation of PDE solution by using compressive sensing approach,Computer-Aided Design ,SCI,2019, Hongmei Kang,Ming-Jun Lai,Xin Li,Xin Li,115/78-86
+6、A new basis for PHT-splines,Graphical Models,SCI,2015,Hongmei Kang,Falai Chen,Falai Chen,82/149-159
+7、Knot calculation for spline fitting via sparse optimization,Computer-Aided Design,SCI,2015,Hongmei Kang,Falai Chen,Falai Chen,58/179-188
+8、ModifiedT-splines,Computer Aided Geometric Design,SCI,2013,Hongmei Kang,Falai Chen,Falai Chen,30/827-843
+9、Truncated Hierarchical Loop Subdivision Surfaces and application in isogeometric analysis,Computers and Mathematics with Applications,SCI,2016,Hongmei Kang,Xin Li,Xin Li,72/2041-2055
+10、Hierarchical B-splines on regular triangular partitions,Graphical Models,SCI,2014,Hongmei Kang,Falai Chen,Falai Chen,76/289-300
+11、Content-aware image resizing using quasi-conformal mapping,Visual Computer,SCI,2017,Jinlan Xu,Hongmei Kang,Falai Chen,34/431-442
+12、The Unimodality of Initial B-spline Approximations in Spline Fitting,communications in mathematics and statistics,SCI,2021,Zhiguo Yong,Hongmei Kang

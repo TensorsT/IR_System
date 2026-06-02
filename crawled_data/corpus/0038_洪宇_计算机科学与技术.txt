@@ -1,0 +1,11 @@
+doc_id: 38
+name: 洪宇
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/hongy
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、A novel method for parallel resources acquisition from bilingual web pages,Journal of Computational Information Systems,EI,2013,洪宇

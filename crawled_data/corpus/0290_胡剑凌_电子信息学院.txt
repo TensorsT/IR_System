@@ -1,0 +1,20 @@
+doc_id: 290
+name: 胡剑凌
+career: 教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/jlhu
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、Aggregation of DTN Bundles for Space Internetworking System,IEEE Systems Journal,SCI,2013.12,Jianling Hu,Soochow Univ.,4/7/658-668
+2、Memory dynamics for DTN protocol in deep-space communications,IEEE Aerospace and Electronic Systems Magazine,SCI,2014.02,Jianling Hu,Soochow Univ.,29/2/22-30
+3、The effect of DTN custody transfer in deep-space communications,IEEE Wireless Communications,SCI,169-176,Qian Yu,Soochow Univ.,20/5/169-176,5
+4、Performance of DTN Protocols in Space Communications,ACM/Springer Wireless Networks (WINET),SCI,2013.11,Xue Sun,Soochow Univ.,19/8/2029-2047,6
+5、Analytical characterization of Licklider transmission protocol (LTP) in cislunar communications,IEEE Transactions on Aerospace and Electronic Systems,SCI,2014.07,Zhihua Yang,Jianling Hu,Soochow Univ.,50/3/2019-2031,7
+6、Memory Dynamics and Transmission Performance of Bundle Protocol (BP) in Deep-Space Communications,IEEE Transactions on Wireless Communications,SCI,2015.05,Chunhai Feng,Soochow Univ.,Jianling Hu,Soochow Univ.,14/5/2802-2813,5
+7、MmWave-NOMA-Based Low-latency and High-Reliable Communications for Enhancement of V2X Services,IEEE Access,SCI,2020.12,Bicheng Wang,Soochow Univ.,Jianling Hu,Soochow Univ.,8/1/57049-57062,4
+8、Fast Prediction Mode Selection and CU Partition for HEVC Intra Coding,IET Image Processing,SCI,2020.09,Bin Fu,Soochow Univ.,Jianling Hu,Soochow Univ.,14(9),3
+9、Underdetermined Wideband DOA Estimation utilizing Noncircular Complex Gaussian Distribution,IEEE Sensors Letters,EI,2020,Nan Hu,Soochow Univ.,Jianling Hu,Soochow Univ.,4
+10、A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems,IEEE/ACM Transactions on Networking,SCI,2021.10,Tianqi Yu,Soochow Univ.,Jianling Hu,Soochow Hu,29(5),3

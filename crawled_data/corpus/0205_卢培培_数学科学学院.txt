@@ -1,0 +1,22 @@
+doc_id: 205
+name: 卢培培
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/pplu
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、A robust multilevel method for the time-harmonic Maxwell equation  with high wave number,SIAM Journal on Scientific Computing,2016,Peipei Lu,Xuejun Xu
+2、An absolutely stable hp-HDG method for the time harmonic Maxwell equation with high wave number,Mathematics of Computation,2017,Peipei Lu,Huangxin Chen,Weifeng Qiu
+3、Homogeneous multigrid for HDG,IMA Journal of  Numerical Analysis,2022,Peipei Lu,Andreas Rupp,Guido Kanschat
+4、Analysis of injection operators in geometric  multigrid solvers for HDG methods, SIAM Journal on Numerical Analysis,2022,Peipei Lu,Andreas Rupp,Guido Kanschat
+5、Homogeneous multigrid for HDG applied  to the Stokes equation,IMA Journal of Numerical Analysis,2024,Peipei Lu,Wei Wang,Andreas, Rupp
+6、A hybridizable discontinuous Galerkin method for the Helmholtz equation with high wave number,SIAM Journal on Numerical Analysis,2013,Huangxin Chen,Peipei Lu,Xuejun Xu
+7、A robust multilevel method for hybridizable discontinuous Galerkin method for the Helmholtz equation,Journal of Computational Physics,2014,Huangxin Chen,Peipei Lu,Xuejun Xu
+8、A Hybridizable Discontinuous Galerkin Method for the Time-Harmonic Maxwell Equations with High Wave Number,Comput. Methods Appl. Math.,2016,Xiaobing Feng,Peipei Lu,Xuejun Xu
+9、A Robust Multilevel Preconditioner Based on a Domain Decomposition Method for the Helmholtz Equation,Journal of Scientific Computing,2019,Peipei Lu,Xuejun Xu
+10、Continuous interior penalty finite elementmethods for the time-harmonic Maxwell equation with high wave number,Advances in Computational Mathematics,2019,Peipei Lu,Haijun Wu,Xuejun Xu
+11、Two-level Schwarz Methods for Hybridizable Discontinuous Galerkin Methods,Journal of Scientific Computing,2023,Peipei Lu,Andreas Rupp,Guido Kanschat
+12、Homogeneous multigridmethod for hybridizable interior penaltymethod,Numerical Algorithms,2024,Peipei Lu,Juan Wang

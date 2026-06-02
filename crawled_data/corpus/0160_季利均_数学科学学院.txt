@@ -1,0 +1,16 @@
+doc_id: 160
+name: 季利均
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/jilijun
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、 Direct constructions of column-orthogonal strong orthogonal arrays,J. Combin. Theory Ser. A ,SCIE,2025,Bao Jingjun,Ji Lijun,Xu Juanjuan,209 (2025), Paper No. 105965, 24 pp.
+2、Two new constructions of cyclic subspace codes via Sidon spaces,Des. Codes Cryptogr.,SCIE,2024,Yu Shuhui,JI Lijun,92 (2024), no. 11, 3799-3811.
+3、Almost affinely disjoint subspaces and covering Grassmannian codes,Finite Fields Appl.,SCIE,2023,Yu Shuhui,JI Lijun,92 (2023), Paper No. 102292, 15pp
+4、Double multilevel constructions for constant dimension codes,IEEE Trans. Inform. Theory,SCIE,2023,Liu Shuangqing,Ji Lijun,69 (2023), no. 1, 157-168
+5、Large sets of t-designs over finite fields exist for all t,Des. Codes Cryptogr.,SCIE,2022,Bao Jingjun,Ji Lijun,90 (2022), no. 7, 1599-1609
+6、Symmetric abelian group-invariant Steiner quadruple systems,J. Combin. Theory Ser. A,SCIE,2021,Ji Lijun,Lu Xiaonan, 181 (2021), 105435, 21 pp.

@@ -1,0 +1,417 @@
+doc_id: 13
+name: 朱斐
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/zhufei
+---
+姓名:计算机科学与技术学院（软件学院）
+页面标题:计算机科学与技术学院（软件学院）
+研究领域:人工智能、
+机器学习、强化学习、深度强化学习、
+生物信息、医学信息。
+基本信息
+朱斐
+职称：
+副教授
+院部/部门：
+计算机科学与技术学院（软件学院）
+学历：
+博士
+学位：
+研究生
+毕业学校：
+毕业专业：
+联系方式
+通讯地址：
+邮政编码：
+215006
+电子邮箱：
+zhufei@suda.edu.cn
+联系电话：
+051265113107
+传真号码：
+办公地点：
+计算机科学与技术学院
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持
+科学研究
+人工智能、
+机器学习、强化学习、深度强化学习、生物信息、医学信息。
+2021
+横向项目
+1.商场门店环境中行人重识别技术研发，主持，2021-2022
+2.网络安全威胁智能感知与主动防御研究，主持，2021-2024
+3.系统版本及文档管理，主持，2021-2024
+4.基于知识图谱的网络安全模型研究，主持，2021-2023
+5.智能水利信息系统，主持，2021-2022
+6.主动网络安全模型研究，主持，2021-2022
+7.面向终端设备的网络安全模型研究，主持，2021-2022
+2019
+横向项目
+1.
+食品安全区域监管科技示范工程项目, 主持
+, 2019-2022
+2.
+大数据图形化展示及挖掘
+，
+主持，
+2019-2023
+3.面向大数据的
+多维度网络管理
+，
+主持，
+2019-2023
+4.面向动态大数据的
+交互式数据管理
+，
+主持，
+2019-2023
+5.
+网络安全威胁智能感知与主动防御研究
+，
+主持，
+2019-2023
+2018
+纵向项目
+1.苏州市
+重点产业技术创新—前瞻性应用研究项目，
+安全深度强化学习中若干关键问题的研究与应用
+，主持，2018-2021
+横向项目
+1.
+信通
+终端准入监控预警平台完善研发，
+主持，
+2018-2019
+2.
+信通
+终端准入监控预警平台提升研发，
+主持，
+2018-2019
+2017
+纵向
+项目
+1. 国家自然科学基金项目，基于强化学习的前列腺癌蛋白质间相互作用网络的模型及方法研究，主持, 2013-2016
+2. 国家自然科学基金项目，基于部分感知的贝叶斯强化学习理论及方法，参与（第二），2017-2020
+3. 国家自然科学基金项目，基于支持向量机的增量式强化学习技术及其应用研究，参与（第三），2013-2017
+4. 国家自然科学基金项目，基于深度学习的时序3D深度图动作语义理解，参与（第三），2013-2017
+5. 国家自然科学基金项目，靶向蛋白质精氨酸甲基转移酶PRMT1的药物发现与机理研究，参与（第二），2013-2016
+6. 江苏省高等学校自然科学研究重大项目，基于大规模强化学习的癌症生物分子网络系统建模与研究 ，主持，2017-2020
+7. 江苏省
+高等学校自然科学研究
+面上项目，基于核方法的强化学习在癌症生物分子网络中应用研究，主持，2013-2016
+8. 教育部重点实验室项目，强化学习在大规模文本中挖掘生物作用网络的研究与应用，主持，2014-2015
+9. 苏州市应用基础研究计划项目，基于视频大数据的交通协调控制在线学习模型关键技术研究， 主持，2014-2018
+10. 江苏省重点实验室项目， 大规模文本中生物分子网格构建及演化的强化学习模型研究与应用，主持，2016-2018
+横向
+项目
+1.
+IP管控系统
+，主持，2017-
+2. 基于SDN的电力终端接入网IPv6过渡关键技术研究，主持，2016-2017
+3. 基于RFID技术的电力信通设备移动管理平台研发，主持，2015-2016
+科研团队
+2020级
+邓磊、田旭、余明骏、吴淳阳、孟金令、全唐锟、张琳、丁矾
+2019级
+周效舒、邓善中、李一凡、杨斯杰、赵沛尧、杜冠廷
+2018级
+彭湃、刘成浩、徐大勇、厉菲菲、葛洋洋
+2017级
+叶飞
+已毕业研究生
+2019年
+吴文
+2017年
+朱海军
+2016年
+许志鹏
+2015年
+房俊恒
+2014年
+金玉净、朱稷涵、朱文文
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持
+个人简介:朱斐，男，
+1978
+年
+1
+月生，博士，苏州大学计算机科学与技术学院副教授，中国计算机学会会员，中国运筹学会会员。
+2016-2018
+年（
+美国加州大学圣地亚哥分校，博士后
+）、
+2010
+年（
+美国
+Troy
+大学
+）
+进行交流访问和合作研究。
+近年来，主持国家自然科学基金
+1
+项，作为主要成员参与国家自然科学基金项目
+5
+项，主持
+江苏省高校自然科学
+基金
+重大科研
+项目1项、
+江苏省高校自然科学基金面上项目
+1
+项、教育部重点实验室项目
+1
+项、江苏省重点实验室开放课题
+1
+项、苏州市
+重点产业技术创新—前瞻性应用研究项目
+1
+项，
+苏州市工业应用基础项目
+1
+项，主持开发横向项目20余
+项。主持苏州大学研究生教改项目
+1
+项，主持苏州大学本科教改项目多项，开设硕士生课程
+2
+门，获得较好教学效果，荣获苏州大学交行奖教金
+1
+次、苏州大学计算机科学与技术学院瑞翼奖教金
+1
+次、指导论文荣获江苏省优秀本科毕业论文三等奖。
+论文:2025
+1.
+Qinglong Chen
+（硕士生）
+,...,
+Fei Zhu*
+,
+Improving robustness by action correction via multi-step maximum risk estimation,
+Neural Networks, 2025,
+Volume 184,
+107045,
+TOP期刊
+2
+.
+Shuai Qing
+（硕士生）
+,...,
+Fei Zhu
+*,
+CoSD: Balancing behavioral consistency and diversity in unsupervised skill discovery,
+Neural Networks,2025,
+Volume 182,
+106889,
+TOP期刊
+3
+.Dianlei Gao
+（硕士生）
+,
+Fei Zhu
+*,
+GraphCF: Drug–target interaction prediction via multi-feature fusion with contrastive graph neural network
+,
+Artificial Intelligence in Medicine
+,2025,
+Volume 167,
+103196,
+TOP期刊
+4
+.Xingzheng Zhu
+（硕士生）
+,Zhihong Zhao,
+Fei Zhu
+*,
+Scaffold-driven molecular generation via reinforced RNN with centroid distance evaluation,
+Expert Systems with Applications
+,2025,
+Volume 292,
+128606,
+SCI 一区 TOP期刊
+5.
+Dianlei Gao
+（硕士生）
+,
+Fei Zhu
+*,
+HMT-DTI: Hierarchical Meta-Path Learning with Transformer for Drug-Target Interaction Prediction，
+Neural Networks, 2025，
+TOP期刊
+6.Jialin Cai
+（硕士生）
+,
+Fei Zhu
+*,
+Mitigate discrimination caused by data bias: Learning fair representations with information reinforcement via recurrent encoding，
+Expert Systems with Applications
+,2025,
+SCI 一区 TOP期刊
+7.
+Sijia Gu
+（硕士生）
+,
+Fei Zhu
+*,
+Weakly Supervised Multi-modal Imitation Learning from Incompletely Labeled Demonstrations,
+Neural Networks, 2025，
+TOP期刊
+2024
+1.Chunli Sha
+（硕士生）
+,
+Fei Zhu*,
+Goal-directed molecule generation with fine-tuning by policy gradient,
+E
+xpert Systems With Applications,2024,
+Volume 246
+,
+123127,
+SCI 一区 TOP期刊
+2.Xinmiao Peng
+（硕士生）
+,
+Fei Zhu*,
+Hitting stride by degrees: Fine grained molecular generation via diffusion model，
+E
+xpert Systems With Applications,2024,
+Volume 244,
+122949,
+SCI 一区 TOP期刊
+3.Shuai Qing
+（硕士生）
+,
+Fei Zhu*
+,
+Refine to the Essence: Less-redundant Skill Learning via Diversity Clustering To be published in: Engineering Applications of Artificial Intelligence,
+Engineering Applications of Artificial Intelligence
+,2024,
+Volume 133,
+107981
+,
+SCI 二区 TOP期刊
+4.Wenfeng Fan
+（硕士生）
+, Yue He,
+Fei Zhu*
+,RM-GPT: Enhance the comprehensive generative ability of molecular GPT model via LocalRNN and RealFormer,Artificial Intelligence in Medicine,
+2024,
+Volume 150
+,
+102827
+,
+SCI 二区
+5.Sijia Gu
+（硕士生）
+,
+Fei Zhu*
+,
+BAGAIL: Multi-modal Imitation Learning from Imbalanced Demonstrations,
+Neural Networks,
+2024
+,
+Volume 174
+,
+106251,
+SCI 一区 TOP期刊
+6.Guangyu Zhang
+（硕士生,共同一作）
+, Cai Zhang
+（硕士生,共同一作）
+, Mingyue Cai, Cheng Luo,
+Fei Zhu*
+（共同通信）
+,
+Zhongjie Liang**
+（共同通信）
+, FuncPhos-STR: An integrated deep neural network for functional phosphosite prediction based on AlphaFold protein structure and dynamics，International Journal of Biological Macromolecul
+es
+，2024，
+Volume 266,
+131180，
+SCI 一区
+TOP期刊
+7.Cai Zhang
+（硕士生）,Xiaoxiong Zhang, Hui Zhang,
+Fei Zhu*
+,
+Collaborative Promotion: Achieving Safety and Task Performance by Integrating Imitation Reinforcement Learning
+,
+E
+xpert Systems With Applications,2024, A
+ccepted,
+SCI
+一区 TOP期刊
+8.Jing Wang
+（硕士生）,
+Fei Zhu*
+.
+Multi-objective molecular generation via clustered Pareto-based reinforcement learning,
+Neural Networks,
+2024
+,
+106596
+,
+SCI 一区 TOP期刊
+9.
+Jing Wang
+（硕士生）,
+Fei Zhu*
+.ExSelfRL: An exploration-inspired self-supervised reinforcement learning approach to molecular generation,
+E
+xpert Systems With Applications,2024, A
+ccepted,
+SCI
+一区 TOP期刊
+2023
+1.Weicheng Xiong
+（硕士生）
+,et al.,
+Fei Zhu*,
+Personalized Federated Reinforcement Learning: Balancing Personalization and Experience Sharing via Distance Constraint,
+E
+xpert Systems With Applications, 2024,
+Volume 238,
+122290
+SCI 一区 TOP期刊
+2.Hao Lin
+（硕士生）
+,et al.,
+Fei Zhu*,
+Taking complementary advantages: Improving exploration via double self-imitation learning in procedurally-generated environments
+,
+E
+xpert Systems With Applications,2024,
+Volume 238,
+122145
+SCI 一区 TOP期刊
+3.Zhongjie Liang#,Tonghai Liu#, Qi Li#, Guangyu Zhang#
+（硕士生,共同一作）
+,
+Bei Zhang
+,
+Xikun Du
+,
+Jingqiu Liu
+,
+Zhifeng Chen
+,
+Hong Ding
+,
+Guang Hu
+,
+Hao Lin
+,
+Fei Zhu*
+（共同通信）
+, Cheng Luo
+*
+（共同通信）
+,
+Deciphering the functional landscape of phosphosites with deep

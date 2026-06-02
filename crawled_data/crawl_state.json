@@ -1,0 +1,2762 @@
+{
+  "colleges": [
+    {
+      "collegeId": 15,
+      "collegeName": "计算机科学与技术学院（软件学院）",
+      "count": 101,
+      "fullDepartName": "计算机科学与技术学院（软件学院）",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 79,
+      "collegeName": "物理科学与技术学院",
+      "count": 61,
+      "fullDepartName": "物理科学与技术学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 74,
+      "collegeName": "外国语学院",
+      "count": 47,
+      "fullDepartName": "外国语学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 85,
+      "collegeName": "电子信息学院",
+      "count": 64,
+      "fullDepartName": "电子信息学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 78,
+      "collegeName": "数学科学学院",
+      "count": 66,
+      "fullDepartName": "数学科学学院",
+      "departCategoryId": "5"
+    }
+  ],
+  "teacher_briefs": [
+    {
+      "name": "黄河",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/huangh",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "周经亚",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jy_zhou/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "李正华",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhli13",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "刘安",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/anliu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "赵朋朋",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/ppzhao/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张莉",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhangliml",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "曹敏",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/caomin",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "周国栋",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/gdzhou",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "汪磊",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wanglei",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "贾俊铖",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jiajuncheng",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张正超",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zzc",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杨璐",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yanglu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "朱斐",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhufei",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "李培峰",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/pfli",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "付国宏",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/ghfu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "谷飞",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/gufei/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "邝泉声",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/kqs",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "周夏冰",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhouxiabing",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "晁平复",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/cpf",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "冯思为",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/fsw",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "俞莉莹",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yuliying",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "陈伟",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/robertchen",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "曹自强",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/21n062_37750",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "陈文亮",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wlchen",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王中卿",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wangzq",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "李军辉",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jhli/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "程宝雷",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/chengbaolei",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "李寿山",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/lishoushan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "梁合兰",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/hlliang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "蔡蔚然",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wrcai",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "刘全",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/quanliu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "孙铭杰",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/smj",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "吴庭芳",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/tfwu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "段湘煜",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xiangyuduan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "瞿剑峰",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jjf2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "权丽君",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/ljquan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "高国举",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/ggj",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "陈越",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/cheny",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "洪宇",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/hongy",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杜扬",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/duyang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "赵雷",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhaol",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "章晓芳",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xfzhang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "龚晨",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/gongchen18",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杨哲",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yangzhe",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "房俊华",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jhfang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "许佳捷",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xujj",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "陈宇",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/chenyu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "刘纯平",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/cpliu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "白志凤",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zfbai",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张栋",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zd2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杨壮",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yz2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "朱晓旭",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xiaoxzhu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "刘力",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/lliu6819",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "唐灯平",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/tangdengping",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "崔爽",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/scui",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "何红亮",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/hlhe",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "朴明浩",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/pmh",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王红玲",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/hlwang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "汪笑宇",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xywang21",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王绍丹",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wang_shaodan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杨洋",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yyang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "吕强",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/qiang/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "姚望舒",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wshyao",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "韩恺",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/hk",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "钱忠",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/qz",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张可",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/kzhang19",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "贡正仙",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zhxgong",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "朱苏阳",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zsy",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "弋维君",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wjyi",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王邦军",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wangbangjun",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "曹金华",
+      "career": "高级实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/caojh",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "邓滔",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/dt",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王岩",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wangyanme",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "高珊",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/gaoshan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "孔芳",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/kongfang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "徐超",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xuchao",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "陈宁",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/cn/index.html",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "樊佳庆",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jqfan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张若茜",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/rqzhang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "凌兴宏",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/lingxinghong",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "骞微著",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wzqian",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "屈蕴茜",
+      "career": "高级实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/quyq",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "胡沁涵",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/huqinhan",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王栋",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wangdong",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "赵爽",
+      "career": "助教",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zs",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "杨浩",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yang_hao",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "刘钊",
+      "career": "高级实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/liuzhao",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "罗路尧",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/lly",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "王伟行",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wwx",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "汤健智",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/tjz",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "徐汀荣",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/trxu",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "邓飞霞",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/fxdeng",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "夏文文",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/xww2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "蒋德茂",
+      "career": "实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/jdm",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "李明翰",
+      "career": "副教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/lmh",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张春生",
+      "career": "",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zcs",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "汪庆淼",
+      "career": "实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/qmwang",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "於晓明",
+      "career": "实验师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/yxm",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "张妍",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/zy2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "高捷",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/gj2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "吴锦辉",
+      "career": "讲师",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "http://web.suda.edu.cn/wjh2",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "周国栋",
+      "career": "教授",
+      "department": "计算机科学与技术学院（软件学院）",
+      "cn_url": "https://web.suda.edu.cn/gdzhou",
+      "college_id": 15,
+      "site_id": 15
+    },
+    {
+      "name": "古海波",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/guhaibo",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "毕鹏",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/bp",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "刘宏刚",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/lhg",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "张大群",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zdq",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "李克",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/sudalike",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "陆洵",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/lux",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "付思婧",
+      "career": "",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/fsj",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王军",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/junwang",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "荆兴梅",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/jingxm",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "张乃禹",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zny0313",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "陈宁阳",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/nychen",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王坤",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/wk2",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "余茜文",
+      "career": "",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/yqw",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "孙玉良",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/syl",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "陶丽",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/ltao",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "莫俊华",
+      "career": "",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/sdjunhua",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "彭文青",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/wqpeng",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "宋艳芳",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/songyf",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王雯",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/jelecherche",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "朱彦",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/t_yanzhu",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "石晓菲",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/shixf",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "孙继强",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/sunjq",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "钱激扬",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/jyqian",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "杨彩梅",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/cmyang",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "朱玲",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zhuling01",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "陆一琛",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/yclu",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "周春霞",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zhouchunxia",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "段慧敏",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/duanhm",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "李佳",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/lijia2023",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "Politova Anastasia",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/politova91",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "徐卫",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/xuwei",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "宋晔辉",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/songyehui",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "魏笑阳",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/weixiaoyang",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "范立",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/lfan",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "张萍",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/blacrosezhang",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "陈超美",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/ccm",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "梅雨晗",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/myh",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "孟祥春",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/mengxiangchun",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王婉莹",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/wwy",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "张越",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zhangyue1106",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王海贞",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/wanghaizhen",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "曹俊雯",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/caojunwen",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "王宇",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/wangyu",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "施晖",
+      "career": "教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/t_tshihui",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "洪艺花",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/yhhong",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "归溢",
+      "career": "副教授",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/ygui",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "章悦",
+      "career": "讲师",
+      "department": "外国语学院",
+      "cn_url": "http://web.suda.edu.cn/zhangyue",
+      "college_id": 74,
+      "site_id": 74
+    },
+    {
+      "name": "徐玉红",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yhxu",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "白占强",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zqbai",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "马欢飞",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/hfma/index.html",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "莫仲鹏",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zpmo",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "曹永罗",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ylcao",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "董超平",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/dcp",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "陈剑宇",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/jychen",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "张雷洪",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zlh",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "张影",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yzhang",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "吴建春",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/wujianchun",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "程东亚",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/dycheng",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "季利均",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/jilijun",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "张园园",
+      "career": "副研究员",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/21d009",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "陆珺",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lujun284",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "蔡延安",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yatsai",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "杨凌",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lyang",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "王奎",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/kuiwang",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "彭志峰",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zfpeng",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "顾怡",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/sudaguyi2017",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "王志国",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zgwang",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "梁兵兵",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lbb",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "刘洋",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/liuyang2023",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "黄金枝",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/hjz2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "陈旻昕",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/chenminxin",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "王义乾",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yiqian",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "张亚楠",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ynzhang",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "康红梅",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/khm",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "王云",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ywang3",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "杨大伟",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yangdw",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "赵云",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zhaoyun",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "吕仁才",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/rlu",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "汪馨",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/xinw",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "严继高",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yanjigao",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "蔡傲",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ca",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "楼嘉霖",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/jialinlou",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "徐礼柏",
+      "career": "讲师",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/xlb",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "卢丹诚",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ludancheng",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "张涵",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zh2_46441",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "褚利忠",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/chulizhong",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "顾振华",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/guzh",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "朱广俊",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zhuguangjun",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "沈中宇",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/szy2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "秦文新",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/qinwx",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "李慧",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/hui.li",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "毛仁荣",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/rrmao",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "胡长青",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/huchangqing",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "葛洵",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/gexun",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "钱定边",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/dbqian",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "骆佳琦",
+      "career": "讲师",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ljq2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "陈富军",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/fjchen",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "金贤",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/jinxian",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "董自康",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/dzk",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "周琪",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/zq2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "陆斯成",
+      "career": "讲师",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lsc",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "刘思璐",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lsl2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "肖楠楠",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/xnn",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "卢培培",
+      "career": "副教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/pplu",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "谢金海",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/xiejinhai",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "丁睿",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/dingrui",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "沈玉良",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/ylshen",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "刘芳",
+      "career": "讲师",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lf2",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "王涛",
+      "career": "讲师",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/wt",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "李泮池",
+      "career": "",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/lpc",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "吴俊德",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/wujund",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "颜洁",
+      "career": "教授",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/yanjie",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "孙晨",
+      "career": "助理研究员",
+      "department": "数学科学学院",
+      "cn_url": "http://web.suda.edu.cn/sc1",
+      "college_id": 78,
+      "site_id": 78
+    },
+    {
+      "name": "蒋建华",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/jianhuajiang",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "赵承良",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhaochengliang",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "蒋密",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/jm",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "罗杰",
+      "career": "研究员",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/luojie",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "高东梁",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/dlgao",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "许彬",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/binxu19/index.html",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "徐亚东",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/ydxu",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "倪卫海",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/niweihai",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "冯岩",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/fengyan",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "高雷",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/leigao",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "陈康",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/kangchen",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "丁泓铭",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/dinghm",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "杨恺",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yangkai",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "倪江锋",
+      "career": "",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/jeffni",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "游陆",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/lyou",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "田文得",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/tianwende",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "薛琪",
+      "career": "讲师",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xq",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "陈亚红",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yahongchen",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "施夏清",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xqshi",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "汤如俊",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/tangrj",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "张晓华",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhangxiaohua",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "雷扬",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/leiyang",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "徐新平",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xuxinping/index.html",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "石子亮",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/phzshi",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "陈垂针",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/czchen",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "杨朝晖",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yangzhaohui",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "徐震宇",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhenyuxu",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "李亮",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/lli",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "朱睿东",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zrd",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "吴雪梅",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xmwu",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "俞颉翔",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yjx2",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "宋瑛林",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/ylsong",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "杭志宏",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhhang",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "曹风人",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/frcao",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "范荣磊",
+      "career": "",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/rlfan",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "史振中",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/szz",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "刘琳",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/liulin",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "辛煜",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yuxin",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "徐惠中",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/hzxu",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "田维",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/wtian",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "杨礼富",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/ylf",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "陈航燕",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/chenhangyan",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "张天辉",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhangtianhui",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "孟林兴",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/mlx",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "孙浩轩",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/hxsun",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "董雪薇",
+      "career": "讲师",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/dxw",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "赵永峰",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yfzhao",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "董裕力",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yldong",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "邹帅",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zoushuai",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "张卫东",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zhangweidong",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "苏晓东",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xdsu",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "李登兵",
+      "career": "教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/ldb",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "刘壮",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/lz1",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "邸维帅",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/dws",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "刘增泽",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/lzz2",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "段煜",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/dy1",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "徐亮",
+      "career": "副教授",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/xl",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "阎增帅",
+      "career": "讲师",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/yzs",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "高峰",
+      "career": "讲师",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/gf",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "朱成杰",
+      "career": "",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/zcj",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "孙华",
+      "career": "",
+      "department": "物理科学与技术学院",
+      "cn_url": "http://web.suda.edu.cn/hsun",
+      "college_id": 79,
+      "site_id": 79
+    },
+    {
+      "name": "蔡轶",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/yicai",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "方禾",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/fh",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "倪锦根",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jni",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "刘昌荣",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/crliu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "陈小平",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/xpchen",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "白春风",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/cfbai",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "刘宁",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ln",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "康健",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jiankang/index.html",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "张允晶",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/yjzhang1223",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "黄鹤",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/hhuang",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "高明义",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/mygao",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "王明湘",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/mingxiang_wang",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "孙林",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/sl_41476",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "朱伟芳",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/wfzhu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "胡剑凌",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jlhu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "陈伯文",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/bwchen",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "向德辉",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/xiangdehui",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "李喆",
+      "career": "研究员",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/lizhe/index.html",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "陈俊",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/junchen",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "张冬利",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/dongli_zhang",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "莫建华",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jhmo",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "由骁迪",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/yxd",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "李泳成",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ycli",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "羊箭锋",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jfyang",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "于天琪",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ytq",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "聂宝清",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/qixinbq",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "于文博",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ywb/index.html",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "沈纲祥",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/shengx",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "方二喜",
+      "career": "高级实验师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/fangerxi",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "鲁征浩",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/luzhh",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "石霏",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/shifei",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "孙斌",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/sb2",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "邵雷",
+      "career": "高级实验师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/shaolei",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "李军",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ljun",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "张文海",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zwh",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "胡南",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/hunan",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "曹洪龙",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/caohonglong",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "孔令辉",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/lhkong",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "袁骥德",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jide_yuan",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "钱敏",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/qianmin",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "杨玉丽",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/yyl",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "刘学观",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/txdzlxg",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "郑依琳",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zyl2",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "马敏",
+      "career": "",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/mm",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "朱哲辰",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zczhu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "吴晨健",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/cjwu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "向练",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/lxiang",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "陈雪勤",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/chenxueqin",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "黄欢",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/huanghuan",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "邹冬冬",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zdd2",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "芮贤义",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/xyrui",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "朱子聪",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zzc2",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "朱占宇",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zyzhu",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "郭宁宁",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/gnn",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "刘丽娜",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/lln",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "陈虞苏",
+      "career": "助教",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/rai",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "蒋琪",
+      "career": "",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/jq2",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "何安",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/ha",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "郭晓雯",
+      "career": "讲师",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/xwguo",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "邹玮",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/zouwei",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "吕楠楠",
+      "career": "",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/lvnannan",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "王槐生",
+      "career": "副教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/wanghuaisheng",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "侯嘉",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/houjia",
+      "college_id": 85,
+      "site_id": 85
+    },
+    {
+      "name": "唐斯昱",
+      "career": "教授",
+      "department": "电子信息学院",
+      "cn_url": "http://web.suda.edu.cn/tsy2",
+      "college_id": 85,
+      "site_id": 85
+    }
+  ],
+  "saved_at": "2026-06-02 15:00:57"
+}

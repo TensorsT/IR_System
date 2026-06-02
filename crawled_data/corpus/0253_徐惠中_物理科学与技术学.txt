@@ -1,0 +1,16 @@
+doc_id: 253
+name: 徐惠中
+career: 副教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/hzxu
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+论文:论文：
+1、Molecular organization of mammalian meiotic chromosome axis revealed by expansion STORM microscopy,Proc. Natl. Acad. Sci. U.S.A.,2019,Xu H#,Tong Z#,Ye Q#,... ,Cang H,116(37): 18423-18428
+2、Direct Observation of Folding Energy Landscape of RNA Hairpin at Mechanical Loading Rates,J. Phys. Chem. B,2017,Xu H,Plaut B,Zhu X,...,Mandal M,121(10): 2220-2229
+3、Single-molecule analysis reveals multi-state folding of a guanine riboswitch,Nat. Chem. Biol.,2017,Chandra V#,Hannan Z#,Xu H#,Mandal M,13(2): 194-201
+4、Measurement of expansion factor and distortion for expansion microscopy using isolated renal glomeruli as landmarks,J. Biophotonics,2021,Chen Zhu,Aidong Wang,Lili Chen,...,Huizhong Xu,e202100001
+5、Single-Molecule Force Spectroscopy of Deoxyribonucleic Acid and Deoxyribonucleic Acid Polymerase Activity Impacted by Alkylating Agents,J. Phys. Chem. Lett.,2023,Tianyu Cai,Jiaqing Zhang,Jingjing Deng,...,,Huizhong Xu,14(20):4842-4849
+6、Expanding the toolset of fluorescent covalent staining of biological samples by labeling carboxylate and phosphate groups,J. Biophotonics,2023,Kexin Hu,Qimeng Sun,Ruifen Chen,...,,Huizhong Xu,e202300027

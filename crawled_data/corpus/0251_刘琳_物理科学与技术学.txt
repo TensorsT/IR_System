@@ -1,0 +1,23 @@
+doc_id: 251
+name: 刘琳
+career: 副教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/liulin
+---
+姓名:个人简介
+页面标题:物理科学与技术学院
+论文:论文成果：
+荣誉及奖励
+荣誉及奖励：
+Teaching
+开授课程：
+课程教学：
+招生信息
+招生信息：
+招生信息1：
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持

@@ -1,0 +1,126 @@
+doc_id: 197
+name: 骆佳琦
+career: 讲师
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/ljq2
+---
+数学科学学院
+教师个人主页
+English
+返回首页
+欢迎登录
+导航
+个人资料
+个人概况
+研究领域
+开授课程
+科研项目
+论文
+科研成果
+荣誉及奖励
+招生信息
+833
+访问
+相关教师
+个人资料
+院部/部门：
+数学科学学院
+联系电话：
+性别：
+男
+电子邮箱：
+***@***
+专业技术职务：
+办公地址：
+毕业院校：
+苏州大学
+通讯地址：
+学位：
+理学博士
+邮编：
+学历：
+博士研究生
+传真：
+个人简介
+个人简介：
+个人简介：
+于苏州大学数学科学学院分别获得本科和博士学位，导师为
+杨周旺教授
+。毕业后前往昆山杜克大学Data Science Research Center从事数学与人工智能落地研究，合作导师为
+徐士鑫教授
+。后去加拿大Fields数学研究所做博士后，合作导师为
+黄华雄教授
+和
+Arvind Gupta教授
+。
+主要从事人工智能与应用数学的交叉研究。
+My
+English CV.pdf
+.
+教育经历
+教育经历：
+2011.9-2015.6,苏州大学,本科
+2015.9-2020.6,苏州大学,博士
+工作经历
+工作经历：
+2020.7-2023.10,昆山杜克大学,研究员
+2023.11-2024.11,The Fields Institute for Research in Mathematical Sciences,博士后
+2025.2-至今,苏州大学, 数学科学学院,讲师
+社会职务
+社会职务：
+社会职务：
+个人简介
+个人简介：
+个人简介：
+于苏州大学数学科学学院分别获得本科和博士学位，导师为
+杨周旺教授
+。毕业后前往昆山杜克大学Data Science Research Center从事数学与人工智能落地研究，合作导师为
+徐士鑫教授
+。后去加拿大Fields数学研究所做博士后，合作导师为
+黄华雄教授
+和
+Arvind Gupta教授
+。
+主要从事人工智能与应用数学的交叉研究。
+My
+English CV.pdf
+.
+社会职务
+社会职务：
+社会职务：
+研究领域
+研究方向：
+1, 最优化理论与应用
+2, 机器学习算法与应用
+3, AI for Science,  AI for Medicine, AI for Industry
+开授课程
+开授课程：
+1、Python程序设计
+2、非结构化数据分析
+3、统计机器学习
+科研项目
+论文
+论文：
+1、Jiaqi Luo, Hongmei Kang, and Zhouwang Yang. Knot calculation for spline fitting based on the unimodality property.  Computer Aided Geometric Design 73 (2019): 54-69.
+2、Jiaqi Luo, Hongmei Kang, and Zhouwang Yang. Knot placement for B-spline curve approximation via l_{infty, 1}-norm and differential evolution algorithm. Journal of Computational Mathematics 40(4) (2021): 592-609.
+3、Zepeng Wen, Jiaqi Luo, and Hongmei Kang. The deep neural network solver for B-spline approximation. Computer-Aided Design 169 (2024): 103668.
+4、Jiaqi Luo, Zihao Wei, Junkai Man, and Shixin Xu. TRBoost: A Generic Gradient Boosting Machine based on Trust-region Method. Applied Intelligence 53.22 (2023): 27876-27891
+5、Jiaqi Luo and Shixin Xu. NCART: Neural Classification and Regression Tree for Tabular Data. Pattern Recognition 154 (2024): 110578.
+6、Jiaqi Luo, Yuan Yuan, and Shixin Xu. Improving GBDT Performance on Imbalanced Datasets: An Empirical Study of Class-Balanced Loss Functions. Neurocomputing 634 (2025) : 129896.
+7、Jiaqi Luo, Yahong Yang, Yuan Yuan, Shixin Xu, and Wenrui Hao. An Imbalanced Learning-based Sampling Method for Physics-informed Neural Networks. Journal of Computational Physics 534 (2025): 114010.
+8、Jiaqi Luo, Yuan Yuan, and Shixin Xu. TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning. arXiv:2506.00813
+9、Jiaqi Luo, Yuedong Quan, and Shixin Xu. Robust-GBDT: Leveraging Robust Loss for Noisy and Imbalanced Classification with GBDT.  Knowledge and Information Systems. 67(12) (2025): 12361-12381.
+10、Jiaqi Luo, Shixin Xu, and Zhouwang Yang. Efficient Global-Local Fusion Sampling for Physics-Informed Neural Networks. arXiv:2510.24026
+11、Ruizhe Liu and Jiaqi Luo. TILBench: A Systematic Benchmark for Tabular Imbalanced Learning Across Data Regimes. arXiv:2605.14915
+科研成果
+软件著作
+著作：
+专利
+专利：
+荣誉及奖励
+荣誉及奖励：
+招生信息
+招生信息：
+Copyright 苏州大学 2019, All Rights Reserved 苏州市十梓街1号
+推荐使用IE8.0以上，1366*768以上分辨率访问本网站

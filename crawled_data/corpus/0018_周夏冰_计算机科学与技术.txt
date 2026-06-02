@@ -1,0 +1,40 @@
+doc_id: 18
+name: 周夏冰
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/zhouxiabing
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、LEMT:  A Label Enhanced Multi-task Learning Framework for Malevolent Dialogue Response Detection,PAKDD,2024,Kaiyue Wang,Fan Yang, Yucheng Yao, Xiabing Zhou
+2、G-SPEED: General SParse Efficient Editing MoDel,EMNLP,2023,Zhang Haoke,Wang Yue, Li Juntao, Zhou xiabing, Zhang Min
+3、A Pairing Enhancement Approach for Aspect Sentiment Triplet Extraction,KSEM,2023,Fan Yang,Mian Zhang, Gongzhen Hu, Xiabing Zhou
+4、LPN: Label-Enhanced Prototypical Network for Legal Judgment Prediction,entropy,2023,Chen Junyi,Han Yingjie,Zhou Xiabing, Zan Hongying, Zhou Qinglei
+5、An Approach Based on Cross-Attention Mechanism and Label-Enhancement Algorithm for Legal Judgment Prediction,mathematics,2023,Junyi Chen,Xuanqing Zhang, Xiabing Zhou, Yingjie Han,  Qinglei Zhou
+6、 Emotion Recognition in Conversation from Variable-length Context,ICASSP,2023,Mian Zhang,Xiabing Zhou, Wenliang Chen, Min Zhang
+7、Friend-training: Learning from Models of Different but Related Tasks,EACL,2023,Mian Zhang,Lifeng Jin, Linfeng Song, Haitao Mi, Xiabing Zhou, Dong Yu
+8、Mulan: A Multiple Residual Article-Wise Attention Network for Legal Judgment Prediction, ACM Trans. Asian Low Resour. Lang,2023,Junyi Chen,Lan Du, Ming Liu, Xiabing Zhou
+9、Emotion Recognition with Conversational Generation Transfer, ACM Trans. Asian Low Resour. Lang,2022,Hongchao Ma,Zhongqing Wang, Xiabing Zhou,,Guodong Zhou, Qinglei Zhou
+10、Exploring Logographic Image for Chinese Aspect-based Sentiment
+Classification,EMNLP,2022,Xiabing Zhou,Renjie Feng, Xiaotong Jiang, ZhongqingWang
+11、Neural Emotion Detection via Personal Attributes,Journal of computer science and technology,2022,Xiabing Zhou, Zhongqing Wang, Xingwei Liang,Min Zhang, Guodong Zhou,Zhongqing Wang
+12、Mulan: A Multiple Residual Article-Wise Attention Network
+for Legal Judgment Prediction,ACM Trans. Asian Low-Resour. Lang. Inf. Process.,,2022,Junyi Chen, Lan Du, Ming Liu, Xiabing Zhou
+13、Emotion Recognition with Conversational Generation,ACM Trans. Asian Low-Resour. Lang. Inf. Process.,,2022,Hongchao Ma,Zhongqing Wang, Xiabing Zhou,Guodong Zhou, Qinglei Zhou
+14、基于多信息感知的多方对话问答方法,NLPCC(北大学报),2022,高晓倩，周夏冰，张民
+15、基于预训练语言模型的商品属性抽取,中文信息学报,2022,张世奇, 马进, 贾昊,周夏冰, 陈文亮, 张民
+16、基于多方注意力建模的对话情感分类,中文信息学报,2022,陈晨，周夏冰，王中卿，张民
+17、Sentiment Classification via User and Product Interactive Modeling.,Science China Information Science,2021,Xiabing Zhou, Zhongqing Wang, Min Zhou, Qifa Wang,Shoushan Li, Min Zhang, Guodong Zhou,Zhongqing Wang
+18、Emotion Classification with Explicit and Implicit Syntactic Information,NLPCC,2021,Nan Chen,Qingrong Xia,Xiabing Zhou, Wenliang Chen, Min Zhang
+19、面向问答领域的数据增强方法,NLPCC(北大学报),2021,丁家杰，肖康，叶恒，周夏冰，张民
+20、中文知识库问答中的路径选择,中文信息学报,2021,吴锟,周夏冰,李正华,梁兴伟,陈文亮
+21、Towards Accurate and Consistent Evaluation A dataset for Distantly-Supervised Relation Extraction,COLING,2020,Tong Zhu, Haitao Wang, Junjie Yu,Xiabing Zhou, Wenliang Chen, Min Zhang,Xiabing Zhou
+22、基于类卷积交互式注意力机制的属性抽取研究,计算机研究与发展,2020,尉桢楷，程　梦，周夏冰,李志峰，邹博伟，洪　宇，姚建民,周夏冰
+23、CMeIE: Construction and Evaluation of Chinese Medical Information Extraction Dataset,NLPCC,2020,Tongfeng Guan, Hongying Zan,Xiabing Zhou, Hongfei Xu, Kunli Zhang,Hongying Zan, Xiabing Zhou
+24、Emotion Detection with Neural Personal Discrimination,EMNLP,2019,Xiabing Zhou, Zhongqing Wang,Shoushan Li, Guodong Zhou, Min Zhang,Zhongqing Wang
+25、Question Generation Based Product Information,NLPCC,2019,Kang Xiao,Xiabing Zhou, Zhongqing Wang,Xiangyu Duan, Min Zhang,Xiabing Zhou
+26、A Depth Evidence Score Fusion Algorithm for Chinese Medical Intelligence Question Answering System,Journal of Healthcare Engineering,2018,Xiabing Zhou, Binglin Wu, Qinlei Zhou,Binglin Wu
+27、Discovering spatio-temporal dependencies based on time-lag in intelligent transportation data. ,Neurocomputing,2017,iabing Zhou, Haikun Hong, Xingxing Xing,Kaigui Bian, Kunqing Xie, Mingliang Xu,Kaigui Bian
+28、Structure Feature Learning Method for Incomplete Data,Int. J. Pattern Recognit. Artif. Intell.,2016,Xiabing Zhou, Xingxing Xing, Lei Han,Haikun Hong, Kaigui Bian, Kun

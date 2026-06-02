@@ -1,0 +1,18 @@
+doc_id: 29
+name: 梁合兰
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/hlliang
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、A comprehensive multi-objective approach of service selection for service processes with twofold restrictions,Future Generation Computer Systems,SCI一区,2020,梁合兰,苏州大学
+2、A comprehensive multi-objective approach of service selection for service processes with twofold restrictions,Future Generation Computer Systems,SCI一区,2019,梁合兰,苏州大学
+3、Business value-aware task scheduling for hybrid IaaS cloud,Decision Support Systems,SCI二区,2018,梁合兰,苏州大学
+4、Dynamic service selection with QoS constraints and inter-service correlations using cooperative coevolution,Future Generation Computer Systems,SCI二区,2017,梁合兰,苏州大学
+5、Two-Stage dynamic optimization of service processes with temporal constraints,International Journal of High Performance Computing and Networking,EI,2016,梁合兰,苏州大学
+6、基于协同进化的松弛时序约束多服务流程优化,计算机集成制造系统,EI,2015,梁合兰,苏州大学
+7、Dynamic service scheduling in cloud computing using a novel hybrid algorithm,IEEE International Conference on E-business Engineering (ICEBE),EI,2015,梁合兰,苏州大学
+8、时序约束下科学工作流的动态调度,系统工程理论与实践,EI,2015,梁合兰,苏州大学

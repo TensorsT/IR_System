@@ -1,0 +1,10 @@
+doc_id: 141
+name: 张越
+career: 讲师
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/zhangyue1106
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：

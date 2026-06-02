@@ -1,0 +1,12 @@
+doc_id: 62
+name: 姚望舒
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/wshyao
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Online Knowledge Distillation with Multi-Architecture Peers,Joint Conference on Neural Networks,CCF-C Conference,2022,Xuan Zhu,Soochow University,Wangshu Yao,Kang Song,Wangshu Yao,Soochow University,2
+2、Filter Pruning via Similarity Clustering for Deep Convolutional Neural Networks,International Conference on Neural Information Processing,CCF-C Conference,2022,Kang Song,Soochow University,Wangshu Yao,Xuan Zhu,Wangshu Yao,Soochow University,2

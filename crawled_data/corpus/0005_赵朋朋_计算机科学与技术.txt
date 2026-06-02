@@ -1,0 +1,9 @@
+doc_id: 5
+name: 赵朋朋
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/ppzhao/index.html
+---
+姓名:Biography
+页面标题:Pengpeng Zhao 赵朋朋

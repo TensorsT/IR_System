@@ -1,0 +1,14 @@
+doc_id: 302
+name: 于文博
+career: 
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/ywb/index.html
+---
+姓名:苏州大学・电子信息学院・于文博
+页面标题:苏州大学・电子信息学院・于文博
+研究领域:多源遥感 Multi-source remote sensing
+高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
+模式识别与机器学习 Pattern recognition and machine learning
+光谱重建与生成模型 Spectral reconstruction and generative model
+机械臂控制及路径规划 Robotic arm control and path planning

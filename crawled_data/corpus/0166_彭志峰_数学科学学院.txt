@@ -1,0 +1,11 @@
+doc_id: 166
+name: 彭志峰
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/zfpeng
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、 Multiplicity formula and stable trace formula,The American journal of mathematics,2019,zhifeng Peng,114 (1037-1085)

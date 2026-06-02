@@ -1,0 +1,490 @@
+doc_id: 292
+name: 向德辉
+career: 教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/xiangdehui
+---
+电子信息学院
+个人信息
+科学研究
+成果奖励
+教学招生
+个人信息
+个人简介
+本科毕业于四川大学自动化系，并在中科院自动化所完成硕博联读，现任苏州大学电子信息学院电子信息工程系教授、博士及硕士研究生导师。长期以来进行医学影像处理与分析等方面科学研究并承担信息处理方面的教学工作，已在
+国际期刊或会议上
+发表100余篇学术论文，以第一、通讯作者在
+Medical Image Analysis
+、
+Pattern Recognition
+、
+IEEE Transactions on Medical Imaging
+、
+IEEE Transactions on Image Processing
+、
+IEEE Journal of Biomedical and Health Informatics
+、
+IEEE Transactions on Biomedical Engineering
+、
+IEEE Transactions on Visualization and Computer Graphics
+等国际知名期刊上发表30余篇论文，
+获得吴文俊人工智能技术发明奖一等奖、
+江苏省自然科技技术奖二等奖，申请40余项国内发明专利，其中授权30余项。主持国家自然科学基金面上项目2项、
+国家自然科学基金青年项目1项、江苏省高校自然科学
+项目1项，参与科技部青年973项目、科技部重点专项、省部级项目各1项，《中国体视学与图像分析》编委。
+研究领域
+医学影像处理与分析，具体如下
+：
+1、人工智能、深度学习算法（域自适应学习、域泛化学习、半监督学习、弱监督学习等）；
+2、多模态医学影像处理与分析（视网膜、胰腺、腹部脏器、肿瘤等）；
+3、
+基于深度学习的图像分割与分类方法
+；
+4、
+基于形状模型的图像分割方法
+；
+5、
+基于图割、图搜索的图像分割方法
+。
+基本信息
+向德辉
+职称：
+教授
+院部/部门：
+电子信息学院
+学历：
+博士
+学位：
+博士研究生
+毕业学校：
+中国科学院自动化所
+毕业专业：
+模式识别与智能系统
+联系方式
+通讯地址：
+江苏省苏州市十梓街1号
+邮政编码：
+215006
+电子邮箱：
+***@***
+联系电话：
+传真号码：
+办公地点：
+电子楼
+科学研究
+研究进展
+2026.1.29 祝贺联合培养同学查子安
+Pattern Recognition
+论文接收.
+2025.10.10
+祝贺
+孙飞宇
+同学获得2025年度研究生国家奖学金.
+2025.6.3
+祝贺孙飞宇同学
+IEEE Transactions on Biomedical Engineering
+论文接收.
+2024.11.11
+祝贺廖世辰同学获得2024年度研究生国家奖学金.
+2024.10.18
+祝贺
+陈忠宇
+同学获得2024年度研究生国家奖学金.
+2024.8.17
+祝贺陈朗同学
+IEEE Transactions
+on
+Image Processing
+论文接收
+.
+2024.8.16
+祝贺陈忠宇同学
+IEEE Transactions on Medical Imaging
+论文接收
+.
+2024.4.18
+祝贺廖世辰同学
+IEEE Transactions on Biomedical Engineering
+论文接收.
+2024.3.12
+祝贺许文轩同学
+IEEE Transactions on Biomedical Engineering
+论文接收
+.
+2024.2.24
+祝贺沈尔伟同学
+Physics in Medicine & Biology
+论文发表.
+Funding
+1、
+面向年龄相关性黄斑变性诊断的迁移学习算法研究，国家自然科学基金面上项目，主持，在研；
+2、面向息肉样脉络膜血管病变多源异构数据的深度学习算法研究，国家自然科学基金面上项目，主持，结题；
+3、基于图的
+PET-CT
+图像肺肿瘤分割算法研究，江苏省普通高校自然科学研究项目，主持，结题；
+4、基于支持向量机与图搜索的
+PET-CT
+图像中肺肿瘤分割算法研究，国家自然科学基金青年项目
+，主持，结题。
+Membership and service
+IEEE Member
+2021-2022, Topic Editor,
+Frontiers in Neuroscience
+2015, The 2nd MICCAI Workshop on Ophthalmic Medical Image Analysis, Munich, Germany. Program Committee
+2015, The 3rd Suzhou International Symposium on Medical Imaging. Program Committee
+2014, Ophthalmic Medical Image Analysis First International Workshop, OMIA 2014, Held in Conjunction with MICCAI 2014, Boston, Massachusetts, September 14, 2014. Program Committee.
+2014, The 2nd Suzhou International Symposium on Medical Imaging. Program Committee
+2013, The 1st Suzhou International Symposium on Medical Imaging. Program Committee
+Reviewer for peer-reviewed journals (selected)
+2025 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
+2024 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
+2023 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
+2022 IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer
+Medical Image Analysis
+IEEE Transactions on Cybernetics
+IEEE Transactions on Medical Imaging
+IEEE Transactions on Image Processing
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Biomedical Engineering
+IEEE Journal of Biomedical and Health Informatics
+IEEE Transactions on Multimedia
+Neural Networks
+Optics Express
+科研团队
+博士生
+2025
+级
+刘永淇
+硕士生
+2025
+级
+姚轶骏
+侯焕稳
+郝毅
+黄成
+2024
+级
+张国好         张名峰        张盛林
+2023
+级
+李沧鑫
+曾剑斌
+王成前
+孙飞宇
+2022
+级
+陈忠宇
+廖世辰
+2021
+级
+陈朗
+陈慕阳
+沈尔伟
+许文轩
+2020
+级
+樊礼纲
+吴昊
+周治邦
+朱晓奕
+2019
+级
+韩召然
+陆宇轩
+2018
+级
+潘声雪
+杨长兴
+蔡木林
+2017
+级
+田海鸿
+杨宵玲
+2016
+级
+陈庚
+论文
+2026
+1.
+Enting Gao, Zian Zha, Yonggang Li, Junhui Zhu, Yong Wang, Xinjian Chen, Naihui Zhou*,
+Dehui Xiang*
+.
+Amplitude-guided Deep Reinforcement Learning for Semi-Supervised Layer Segmentation
+.
+Pattern Recognition
+, 176:113204,
+2026
+2.
+Dehui Xiang
+, Guohao Zhang, Zhongyu Chen, Weifang Zhu, Fei Shi, Tao Peng*, Xinjian Chen, Haoyu Chen*.
+Multi-source Unsupervised Domain Adaptation Fundus Lesion Segmentation of Various OCT Devices with Moment Consistency
+,
+IEEE Journal of Biomedical and Health Informatics
+,
+doi: 10.1109/JBHI.2026.***
+, 2026
+2. Feiyu Sun, Ling Gao, Haoyu Chen, Bei Tian, Tao Peng, Weifang Zhu, Fei Shi, Ronghan Wu, Xinjian Chen,
+Dehui Xiang*
+.
+Kurtosis Transformation for Multi-source Domain Generalization Segmentation of OCT Images from Multi-Manufacturers' Devices
+,
+IEEE Transactions on Biomedical Engineering
+,
+vol.
+73, no. 1, pp. 90-102, 2026
+3. Tao Peng,
+Dehui Xiang
+*, Zhongyi Zhang, Binbin Jiang, Baoqing Nie, Fei Shi, Derun Li, Caishan Wang, Weifang Zhu, Jing Cai, Enting Gao*, Xinjian Chen*.
+Designing a hybrid optimization methodology for delineating boundary of ultrasound prostate cancer with an explainable mathematical model
+,
+Neurocomputing
+, 659 (2026), 131794, 2026
+2025
+1.
+Zhongyu Chen, Yun Bian, Erwei Shen, Ligang Fan, Weifang Zhu, Fei Shi, Chengwei Shao, Xinjian Chen,
+Dehui Xiang*
+.
+Moment-Consistent Contrastive CycleGAN for Cross-Domain Pancreatic Image Segmentation
+,
+IEEE Transactions on Medical Imaging
+,  vol. 44, no. 1, pp. 422-435, Jan. 2025.
+2.
+Dehui Xiang*
+, Tao Peng, Yun Bian, Lang Chen, Jianbin Zeng, Fei Shi, Weifang Zhu, Xinjian Chen.
+Unpaired Dual-modal Image Complementation Learning for Single-modal Medical Image Segmentation
+,
+IEEE Transactions on Biomedical Engineering
+,
+vol. 72, no. 2, pp. 664-674, Feb.
+2025
+3. Jingtao Wang, Muhammad Mateen,
+Dehui Xiang
+, Weifang Zhu, Fei Shi, Jing Huang, Kai Sun, Jun Dai, Jingcheng Xu, Su Zhang, Xinjian Chen. Task
+Augmentation-Based Meta-Learning Segmentation Method for Retinopathy
+.
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+, 2025.
+4. Ziting Yin, Bo Wu, Weifang Zhu,
+Dehui Xiang
+, Xinjian Chen, Tao Peng, Qing Peng, Fei Shi.
+Meta-learning with Unlabeled Query Updating and Consistency Learning for Few-shot OCT Image Classification
+,
+IEEE Transactions on Biomedical Engineering
+, 2025
+5.Yi Zhou, Tao Peng, Thiara Sana Ahmed, Fei Shi, Weifang Zhu,
+Dehui Xiang
+, Leopold Schmetterer, Jianxin Jiang, Bingyao Tan, Xinjian Chen
+AMeta-FD: Adversarial Meta-learning for Few-shot retinal OCT image Despeckling
+.
+Computerized Medical Imaging and Graphics
+, 2025: 102597, 2025.
+6. Jiaxin Wang, Weifang Zhu,
+Dehui Xiang
+, Xinjian Chen, Tao Peng, Qing Peng, Meng Wang, Fei Shi.
+Uncertainty‐guided cross‐level fusion network for retinal OCT image segmentation
+,
+Medical Physics
+, 52(9): e18102, 2025.
+7. Weifang Zhu, Dengfeng Liu, Xinyu Zhuang, Tian Gong, Fei Shi,
+Dehui Xiang
+, Tao Peng, Xiaofeng Zhang, Xinjian Chen.
+Strip and boundary detection multi‐task learning network for segmentation of meibomian glands
+.
+Medical Physics
+, 52(3): 1615-1628, 2025.
+8. Muhammad Mateen, Weifang Zhu, Fei Shi,
+Dehui Xiang
+, Baoqing Nie, Tao Peng, Xinjian Chen.
+The role of artificial intelligence in the diagnosis of diabetic retinopathy through retinal lesion features: a narrative review
+,
+Quantitative Imaging in Medicine and Surgery
+15(5):4816–4846, 2025.
+9. Ruiqi Ma, Qian Cheng, Jing Yao, Zhiyu Peng, Mingxu Yan, Jie Lu, Jingjing Liao, Lejin Tian, Wenjun Shu, Yunqiu Zhang, Jinghan Wang, Pengfei Jiang, Weiyi Xia, Xiaofeng Li, Lu Gan, Yue Zhao, Jiang Zhu, Bing Qin, Qin Jiang, Xiawei Wang, Xintong Lin, Haifeng Chen, Weifang Zhu,
+Dehui Xiang
+, …Chen Zhao.
+Multimodal machine learning enables AI chatbot to diagnose ophthalmic diseases and provide high-quality medical responses
+.
+npj Digital Medicine
+, 8(1): 64, 2025.
+2024
+1
+.
+Lang Chen, Yun Bian, Jianbin Zeng, Qingquan Meng, Weifang Zhu, Fei Shi, Chengwei Shao, Xinjian Chen,
+Dehui Xiang*
+.
+Style Consistency Unsupervised Domain Adaptation Medical Image Segmentation
+,
+IEEE Transactions on Image Processing
+,
+vol. 33, pp. 4882-4895,
+202
+4
+2. Shichen Liao,
+Tao Peng,
+Haoyu Chen, Tian Lin, Weifang Zhu, Fei Shi, Xinjian Chen,
+Dehui Xiang*
+.
+Dual-Spatial Domain Generalization for Fundus Lesion Segmentation in Unseen Manufacturer’s OCT Images
+.
+IEEE Transactions on Biomedical Engineering
+,
+7
+1(9):
+2789-2799
+,
+20
+2
+4
+3.  Wenxuan Xu, Cangxin Li,
+Yun Bian
+,
+Qingquan Meng, Weifang Zhu, Fei Shi, Xinjian Chen, Chengwei Shao
+,
+Dehui Xiang
+*.
+Cross-modal Consistency for Single-modal MR Image Segmentation
+,
+IEEE Transactions on Biomedical Engineering
+,
+71(9):
+2557-2567,
+202
+4
+4.
+Erwei Shen, Zhenmao Wang, Tian Lin, Qingquan Meng, Weifang Zhu, Fei Shi, Xinjian Chen, Haoyu Chen and
+Dehui Xiang
+*.
+DRFNet: a deep radiomic fusion network for nAMD/PCV differentiation in OCT images
+,
+Physics in Medicine & Biology
+, 69
+:075012,
+2024
+5.
+Jing Shang, Erwei Shen, Yang Yu, Aiying Jin, Xuemei Wang,
+Dehui Xiang*
+.
+Relationship between abnormal intrinsic functional connectivity of subcortices and autism symptoms in high-functioning adults with autism spectrum disorder
+.
+Psychiatry Research: Neuroimaging
+, 337, 111762,
+2024
+6.
+Jian Zhou, Yuqing Dai, Dongmei Liu,
+Weifang Zhu,
+Dehui Xiang
+, Xinjian Chen, Fei Shi, Wentao Xia.
+Improving deep learning based segmentation of scars using multi-view images
+.
+Biomedical Signal Processing and Control
+, 94: 106254
+,
+2024
+.
+7. Qingxin Jiang, Ying Fan, Menghan Li, Sheng Fang, Weifang Zhu,
+Dehui Xiang
+, Tao Peng, Xinjian Chen, Xun Xu, Fei Shi.
+HyFormer: a hybrid transformer-CNN architecture for retinal OCT image segmentation
+,
+Biomedical Optics Express
+, 15, 6156-6170, 2024
+2023
+1.
+Dehui Xiang
+, Shenshen Yan, Ying Guan, Mulin Cai, Zheqing Li, Haiyun Liu, Xinjian Chen, Bei Tian:
+Semi-Supervised Dual Stream Segmentation Network for Fundus Lesion Segmentation
+.
+IEEE Trans. Medical Imaging
+42(3): 713-725 (2023)
+2.
+Dehui Xiang
+, Bin Zhang, Yuxuan Lu, Shengming Deng:
+Modality-Specific Segmentation Network for Lung Tumor Segmentation in PET-CT Images
+.
+IEEE J. Biomed. Health Informatics
+27(3): 1237-1248 (2023)
+3.
+Wenxuan Xu, Yun Bian, Yuxuan Lu, Qingquan Meng, Weifang Zhu, Fei Shi, Xinjian Chen, Chengwei Shao,
+Dehui Xiang*
+.
+Semi-supervised interactive fusion network for MR image segmentation
+.
+Medical Physics
+, 50(3):1586-1600, 2023.
+4.
+Zhibang Zhou, Yun Bian, Shengxue Pan, Qingquan Meng, Weifang Zhu, Fei Shi, Xinjian Chen, Chengwei Shao,
+Dehui Xiang*
+:
+A dual branch and fine-grained enhancement network for pancreatic tumor segmentation in contrast enhanced CT images
+.
+Biomed. Signal Process. Control.
+82: 104516 (2023)
+5.
+Ligang Fan, Yun Bian, Weifang Zhu, Fei Shi, Xinjian Chen, Chengwei Shao,
+Dehui Xiang
+*:
+Contrast Uncertainty Domain Alignment for Cross-Domain Pancreatic Image Segmentation
+.
+ISBI
+2023: 1-5
+6.
+Meng Wang, Tian Lin, Yuanyuan Peng, Weifang Zhu, Yi Zhou, Fei Shi, Kai Yu, Qingquan Meng, Yong Liu, Zhongyue Chen, Yuhe Shen,
+Dehui Xiang
+, Haoyu Chen, Xinjian Chen:
+Self-Guided Optimization Semi-Supervised Method for Joint Segmentation of Macular Hole and Cystoid Macular Edema in Retinal OCT Images
+.
+IEEE Trans. Biomed. Eng.
+70(7): 2013-2024 (2023)
+7.
+Pengfei Zhang, Xinjian Chen, Ziting Yin, Xin Zhou, Qingxin Jiang, Weifang Zhu,
+Dehui Xiang
+, Yun Tang, Fei Shi:
+Interactive Skin Wound Segmentation Based on Feature Augment Networks
+.
+IEEE J. Biomed. Health Informatics
+27(7): 3467-3477 (2023)
+8.
+Shengyong Diao, Jinzhu Su, Changqing Yang, Weifang Zhu,
+Dehui Xiang
+, Xinjian Chen, Qing Peng, Fei Shi:
+Classification and segmentation of OCT images for age-related macular degeneration based on dual guidance networks
+.
+Biomed. Signal Process. Control.
+84: 104810 (2023)
+9.
+Ao Liu, Hui Jiang, Weiwei Cao, Wenju Cui,
+Dehui Xiang
+, Chengwei Shao, Zhaobang Liu, Yun Bian, Jian Zheng:
+MLAGG-Net: Multi-level aggregation and global guidance network for pancreatic lesion segmentation in histopathological images
+.
+Biomed. Signal Process. Control.
+86(Part C): 105303 (2023)
+10.
+Xiao Tan, Xinjian Chen, Qingquan Meng, Fei Shi,
+Dehui Xiang
+, Zhongyue Chen, Lingjiao Pan, Weifang Zhu:
+OCT2Former: A retinal OCT-angiography vessel segmentation transformer
+.
+Comput. Methods Programs Biomed
+. 233: 107454 (2023)
+2022
+1.
+Enting Gao, Hui Jiang, Zhibang Zhou, Changxing Yang, Muyang Chen, Weifang Zhu, Fei Shi, Xinjian Chen, Jian Zheng, Yun Bian,
+Dehui Xiang*
+:
+Automatic multi-tissue segmentation in pancreatic pathological images with selected multi-scale attention network
+.
+Comput. Biol. Medicine
+151(Part): 106228 (2022)
+2.
+Xu Zhang, Bin Zhang, Shengming Deng, Qingquan Meng, Xinjian Chen and
+Dehui Xiang*
+.
+Cross modality fusion for modality-specific lung tumor segmentation in PET-CT images
+.
+Physics in Medicine and Biology
+, 67(22): 225006, 2022.
+3.
+Dehui Xiang
+, Haoy

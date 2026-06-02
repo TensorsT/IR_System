@@ -1,0 +1,12 @@
+doc_id: 202
+name: 陆斯成
+career: 讲师
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/lsc
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Counting mapping class group orbits under shearing coordinates, Geometriae Dedicata,2022.02, Sicheng Lu, Weixu Su,216:2
+2、Convergences of combinatorial Ricci flows to degenerated circle packings in hyperbolic background geometry, Journal of Functional Analysis, 2025-08, Guangming Hu, Sicheng Lu, Dong Tan, Youliang Zhong, Puchun Zhou, 289:3

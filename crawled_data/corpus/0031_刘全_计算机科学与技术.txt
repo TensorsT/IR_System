@@ -1,0 +1,671 @@
+doc_id: 31
+name: 刘全
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/quanliu
+---
+姓名:计算机科学与技术学院（软件学院）
+页面标题:计算机科学与技术学院（软件学院）
+研究领域:智能计算、深度学习、强化学习、自动推理、统计软件工程、分布式数据库检索及修正、网络信息安全及处理。
+主持的省级以上项目(只列出第一负责人项目）
+1.
+基于部分感知模型的贝叶斯强化学习理论及方法（
+201801-202112
+），国家自然科学基金
+2.
+基于模糊逻辑的大规模强化学习理论及方法（
+201501-201812
+），国家自然科学基金
+3.
+基于贝叶斯推理的模糊逻辑强化学习模型（
+61272005
+）（
+201301-201512
+），国家自然科学基金
+4.
+面向
+tableau
+模型的逻辑强化学习理论及方法研究（
+61070223
+）（
+201101-201312
+），国家自然科学基金
+5. 基于tableau的非经典逻辑经典化的自动定理证明（
+200901-201112
+），国家自然科学基金
+6. 基于核方法的连续状态空间强化学习技术及应用研究（
+BK2012616
+）（
+201207-201406
+），江苏省自然科学基金
+7. 面向tableau模型的逻辑强化学习技术及应用研究（
+BK2008161
+）（
+200807-201106
+），江苏省自然科学基金
+8. 面向大规模决策任务的深度强化学习算法与模型研究（
+18KJA520011
+）（
+201809-202108
+），江苏省高等学校自然科学研究重大项目
+9. 基于逻辑强化学习的Deep Web整体模式匹配与集成研究（09KJA150002）（
+201001-201212
+），江苏省高等学校自然科学研究重大项目
+10.基于混合逻辑的不相容知识处理技术研究（06KJB520104）（
+200607-200806
+），江苏省高等学校自然科学研究面上项目
+11. Deep Web
+中不完备知识处理的理论及方法研究（
+20704
+）（
+200701-200812
+），教育部科学研究重点项目
+基本信息
+刘全
+职称：
+教授
+院部/部门：
+计算机科学与技术学院（软件学院）
+学历：
+学位：
+毕业学校：
+毕业专业：
+联系方式
+通讯地址：
+邮政编码：
+电子邮箱：
+quanliu@suda.edu.cn
+联系电话：
+18051113532
+传真号码：
+办公地点：
+计算机科学与技术学院
+科学研究
+科研团队
+智能计算与认知软件
+课题组简介：
+智能计算与认知软件学科方向针对国家信息化发展及重大工程对软件的战略需求，采用人工智能理论和软件工程相结合的方法，以机器学习和智能计算为基础，主要开展关于深度学习、强化学习、智能软件测试、软件自适应验证检测、智能生物计算等方面的研究。开发了深度强化学习仿真与应用平台、智能软件测试与验证平台等，并应用于图像分析、智能交通、认知规划等大型软件中，为认知软件和自适应软件的研发提供了科学支撑。近五年来，依托苏州大学计算机科学、软件工程两个一级学科，在深度学习、强化学习、智能软件分析及测试、逻辑软件模型生成与检测、生物计算等方面取得了一批重要成果。承担了国家级、省部级项目
+30
+余项，在国内外权威期刊、会议发表论文
+80
+余篇，出版著作
+4
+部。并形成了一支具有团结协作、富于挑战、勇于创新的学术队伍。
+团队负责人：
+刘全
+团队组成人员：
+教
+授：刘全、崔志明、徐汀荣
+副教授：凌兴宏、章晓芳、杨璐、章宗长、朱斐、黄蔚、孙涌
+讲
+师：陈冬火、周小科、王辉、金海东、陈越
+个人简介:刘全，
+男，
+1969
+年
+10
+月生，教授，博士生导师。 毕业于吉林大学计算机软件与理论专业，获博士学位
+,
+南京大学软件新技术国家重点实验室博士后。近年来，共主持了
+“
+石油勘探开发分布式数据库建设
+”
+、
+“
+基于
+tableau
+的逻辑强化学习研究
+”
+等国家级项目
+8
+项，主持了
+“
+采油工程信息可视化系统
+”
+、
+“
+油田信息处理网络系统
+”
+、
+“
+基于核方法的强化学习应用研究
+”
+等省部级和市（局）级科研项目
+10
+多项，获省部级科技进步奖
+2
+项，市（局）级科技进步奖
+8
+项。先后在国内外学术会议及《计算机学报》、《软件学报》等国内核心期刊和统计源期刊上发表论文
+80
+余篇，其中
+30
+篇被
+SCl
+检索，
+40
+篇被
+EI
+检索。目前主要研究方向为：深度学习、强化学习、统计软件工程、分布式数据库检索及修正、网络信息安全及处理等。
+2012
+年获江苏省教工委优秀共产党员称号。
+2011
+年、
+2012
+年入选江苏省
+“
+六大人才
+”
+、江苏省
+“333”
+人才培养计划。目前为《通信学报》编委。
+E-mail:quanliu@suda.edu.cn
+论文:（1）近五年代表性论文：
+2018
+年：
+1.
+刘 全
+,
+翟建伟
+,
+章宗长
+,
+钟 珊
+,
+周 倩
+,
+章鹏
+,
+徐 进
+.
+深度强化学习综述
+.
+计算机学报
+, 2018, 41
+（
+1
+）
+:1-27
+2.
+陈东火
+,
+刘 全
+,
+朱斐
+,
+金海东
+.
+基于凸多面体抽象域的自适应强化学习技术研究
+.
+计算机学报
+, 2018, 41
+（
+1
+）
+:112-131
+2017
+年：
+3.
+刘 全
+,
+章 鹏
+,
+钟珊章
+,
+钱伟晟
+,
+翟建伟
+.
+连续空间中的一种动作加权行动者评论家算法
+.
+计算机学报
+, 2017, 40
+（
+6
+）
+:1252-1264
+4.
+刘 全
+,
+翟建伟
+,
+钟珊
+,
+章宗长
+,
+周 倩
+,
+章鹏
+.
+一种基于视觉注意力机制的深度循环
+Q
+网络模型
+.
+计算机学报
+, 2017, 40
+（
+6
+）
+:1353-1366
+5.
+朱 斐
+,
+刘 全
+,
+傅启明
+,
+陈冬火
+,
+王 辉
+,
+伏玉琛
+.
+一种不稳定环境下的策略搜索及迁移方法
+.
+电子学报
+, 2017, 45
+（
+2
+）
+:258-266
+6.
+梁 斌
+,
+刘 全
+,
+徐进
+,
+周 倩
+,
+章 鹏
+.
+基于多注意力卷积神经网络的特定目标情感分析
+.
+计算机研究与发展
+, 2017, 54
+（
+8
+）
+:1724-1735
+7.
+章 鹏
+,
+刘 全
+,
+钟珊
+,
+翟建伟
+,
+钱伟晟
+.
+增量式自然策略梯度的行动者评论家算法
+.
+通信学报
+, 2017, 38
+（
+4
+）
+:166-177
+2016
+年：
+8.
+刘 全
+,
+于 俊
+,
+傅启明
+,
+王 辉
+,
+朱 斐
+.
+一种基于随机投影的贝叶斯时间差分算法
+.
+电子学报
+, 2016, 44
+（
+11
+）
+:2752-2757
+9.
+陈东火
+,
+刘 全
+,
+金海东
+,
+朱 斐
+,
+王 辉
+.
+具有程序的静态结构和动态行为语义的时序逻辑
+.
+计算机研究与发展
+, 2016, 53
+（
+9
+）
+:2067-2084
+10.
+Zhang Zongzhang, FuQiming, Zhang Xiaofang, Liu Quan.
+Reasoning and predicting POMDP planningcomplexity via covering numbers
+[J].
+Frontier of Computer Science, 2016, 10(4): 726-740
+11.
+Zhong Shan, Liu Quan,Fu Qiming. E
+fficient actor critic algorithm with Hierarchical Model Learningand Planning
+[J].
+Computational Intelligenceand Neuroscience, 2016, 20(4): 489-500
+12.
+QianWeisheng, Liu Quan, Zhang Zongzhang, Pan Zhiyuan, Zhong Shan.
+Policy graphic pruning and optimization inMonte Carlo value iteration for continuous-state POMDPs
+[C]. Proc. of the 27
+th
+International IEEE Symposium on Adaptive Dynamic Programming and ReinforcementLearning
+（
+ADPRL
+）
+, Athens, 2016
+13.
+Zhang Zongzhang, LiuQuan.
+Covering Number: Analyses for approximate continuous state POMDPplanning
+[C]
+.
+Proc. of the 15
+th
+International Conference on AutonomousAgents and Multiagent Systems
+（
+AAMAS-2016
+）
+, Singapore, 2016
+2015
+年：
+14.
+刘
+全
+,
+傅启明
+,
+肖
+飞
+,
+周
+鑫
+.
+基于自适应归一化
+RBF
+网络的
+Q-V
+值函数协同逼近模型
+.
+计算机学报，
+2015,38
+（
+7
+）
+:1386-1396
+15.
+钟珊
+,
+刘
+全
+,
+傅启明
+,
+章宗长
+,
+朱
+斐
+,
+龚声蓉
+.
+一种近似模型表示的启发式
+Dyna
+优化算法
+.
+计算机研究与发展，
+2015,52
+（
+12
+）
+:2764-2775
+16.
+施梦宇
+,
+刘 全
+,
+傅启明
+.
+支持合并的自适应
+Tilecoding
+算法
+.
+通信学报
+, 2015, 36
+（
+2
+）
+:2015047
+17.
+Zhou Yicheng, LiuQuan, Fu Qiming, Zhang Zongzhang.
+Trajectory sampling value iteration:improve dyna search for MDPs
+[C].
+Proc. of the 14
+th
+InternationalConference on Autonomous Agents and Multiagent Systems
+（
+AAMAS-2015
+）
+, Istanbul, 2015
+18.
+YouShuhua, Liu Quan, Fu Qiming, Zhong Shan, Zhu Fei.
+A Byesian sarsa learning algorithm with Bandit-based method
+[C]. TheInternational Conference on Neural Information Processing
+（
+ICONIP
+）
+,Istanbul, 2015
+19.
+XuDan, Liu Quan.
+An improved Actor-criticmethod for POMDPs with internal state
+[C]. IEEE International Conference onTools with Artificial Intelligence
+（
+ICTAI2015
+），
+Salerno
+，
+2015
+20.
+YouShuhua, Liu Quan, Zhang Zongzhang, Wang Hui.
+Intelligent model learning based on variance for Bayesian reinforcementlearning
+[C]. IEEE International Conference on Tools with ArtificialIntelligence
+（
+ICTAI 2015
+）
+Salerno
+，
+2015
+2014
+年：
+21.
+傅启明
+,
+刘
+全
+,
+王
+辉
+,
+肖
+飞
+,
+于
+俊
+,
+李
+娇
+.
+一种基于线性函数逼近的离策略
+Q(
+l
+)
+算法
+.
+计算机学报
+,2014, 37(3)
+：
+77-88
+22.
+朱
+斐
+,
+刘
+全
+,
+傅启明
+,
+伏玉琛
+.
+一种用于连续动作空间的最小二乘行动者
+-
+评论家方法
+.
+计算机研究与发展
+,
+2014
+,
+51
+(
+3
+)
+：
+548-558
+23.
+黄
+蔚
+,
+刘 全
+,
+孙宏坤
+,
+傅启明
+,
+周小科
+.
+基于拓扑序列更新的值迭代算法
+.
+通信学报
+, 2014, 35
+（
+8
+）
+:56-62
+24.
+傅启明
+,
+刘 全
+,
+尤淑华
+,
+黄 蔚
+,
+章晓芳
+.
+一种新的基于值函数迁移的快速
+Sarsa
+算法
+.
+电子学报
+, 2014,42
+（
+11
+）
+:2157-2161
+25.
+Zhufei,Liu Quan, Wang Hui, Zhou Xiaoke, Fu Yuchen
+.
+Unregistered biological words recognition by Q-learning with transfer learning
+[J].
+The Scientific World Journal, 2014, 1-9
+26.
+Zhou Xiaoke, Zhu Fei, Liu Quan, Fu Yuchen, and HuangWei. A Sarsa(λ)-Based Control Model for Real-Time Traffic Light Coordination, TheScientific World Journal, vol. 2014, Article ID 759097, 7 pages, 2014.doi:10.1155/2014/759097
+2013
+年：
+27.
+刘
+全
+,
+李瑾
+,
+傅启明
+,
+崔志明
+,
+伏玉琛
+.
+一种最大集合期望损失的多目标
+Sarsa
+算法
+[J].
+电子学报
+,  2013, 43
+（
+8
+）：
+1469-1473
+28.
+傅启明
+,
+刘
+全
+,
+伏玉琛
+,
+周谊成
+,
+于
+俊
+.
+一种高斯过程的带参近似策略迭代算法
+[J] .
+软件学报
+, 2013, 24
+（
+11
+）：
+2676-2686
+29.
+孙洪坤
+,
+刘
+全
+,
+傅启明
+,
+肖
+飞
+,
+高
+龙
+.
+一种优先级扫描的
+Dyna
+结构优化算法
+[J].
+计算机研究与发展
+,  2013,  50(10)
+：
+2176-2184
+30.
+刘
+全
+,
+傅启明
+,
+杨旭东
+,
+荆玲
+,
+李瑾
+,

@@ -1,0 +1,134 @@
+doc_id: 227
+name: 杨恺
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/yangkai
+---
+姓名:个人简介
+页面标题:物理科学与技术学院
+研究领域:：
+1.  细胞相关的生命现象及物理机制；细胞膜的相行为，细胞界面-蛋白质/多肽相互作用；
+2.  Nano-Bio相互作用，纳米药物（
+抗肿瘤、抗菌机理研究
+），生物材料；
+3.  生命软物质体系的自组织/组装；
+4.  生物/高分子体系的分子模拟（
+计算
+）及其与实验结合。
+研究特色
+：
+“
+机制
++ 应用
+”
+“
+模拟
++
+理论
++ 实验
+”
+“
+物理 + 化学 + 生物 + 纳米
+”
+论文:论文成果：
+47. Wendong Ma#, Shuqing Sun#, Wenwen Li#, Zhihong Zhang, Zhao Lin, Yu Xia, Bing Yuan*, and
+Kai Yang
+*, Individual Roles of Peptides PGLa and Magainin 2 in Synergistic Membrane Poration.
+Langmuir
+2020, dx.doi.org/10.1021/acs.langmuir.0c00194.
+46. Cheng Xu#, Wendong Ma#, Kang Wang, Kejie He, Zhonglan Chen, Jiaojiao Liu,
+Kai Yang
+*, and Bing Yuan*, Correlation between Single-Molecule Dynamics and Biological Functions of Antimicrobial Peptide Melittin.
+J. Phys. Chem. Lett.
+2020, 11, 4834−4841.
+45. Cheng Xu, Zhao Lin,
+Kai Yang
+*, Bing Yuan*, Single molecular kinetics during the interactions between melittin and a bi-component lipid membrane.
+Acta Physica Sinica (
+物理学报
+)
+2020, 69, 108701.
+44. Zhixiong Deng, Xuemei Lu, Cheng Xu, Bing Yuan* and
+Kai Yang
+*, Lipid-Specific Interactions Determine the Organization and Dynamics of Membrane-Active Peptide Melittin.
+Soft Matter
+2020, 16, 3498–3504. (Invited paper)
+43. Bin Dong, Yuchen Pei, Nourhan Mansour, Xuemei Lu,
+Kai Yang
+, Wenyu Huang*, and Ning Fang*, Deciphering Nanoconfinement Effects on Molecular Orientation and Reaction Intermediate by Single Molecule Imaging.
+Nat. Commun.
+2019,
+10: 4815.
+42. Zhixiong Deng, Jingliang Li, Bing Yuan* and
+Kai Yang
+*, Residue-Specialized Membrane Poration Kinetics of Melittin and Its Variants: Insight from Mechanistic Landscapes.
+Commun. Theor. Phys.
+2019, 71: 887–902 (Editor’s Suggestion).
+41. Jiajia Hong, Xuemei Lu, Zhixiong Deng, Shufeng Xiao, Bing Yuan* and
+Kai Yang
+*, How Melittin Inserts into Cell Membrane: Conformational Changes, Inter-Peptide Cooperation, and Disturbance on the Membrane.
+Molecules
+, 2019, 24, 1775 (Invited Review).
+40. Shufeng Xiao#, Xuemei Lu#, Lu Gou#, Jingliang Li, Yuqiang Ma, Jiaojiao Liu*,
+Kai Yang
+*, Bing Yuan*, Graphene oxide as antibacterial sensitizer: Mechanically disturbed cell membrane for enhanced poration efficiency of melittin.
+Carbon
+, 2019, 149, 248-256.
+39. Xuemei Lu#,
+Jiaojiao Liu#, Lu Gou#,
+Jingliang Li, Bing Yuan*,
+Kai Yang
+*, and YuqiangMa*,  Designing Melittin-Graphene HybridComplexes for Enhanced Antibacterial Activity.
+Adv. Healthcare Mater.
+, 2019,1801521.
+38.
+Kai Yang
+#, Ran Yang#, Xiaodong Tian#, Kejie He, Seth Leon Fibrun, Ning Fang, Yuqiang Ma and Bing Yuan*, Partitioning of nanoscale particles on a heterogeneous multicomponent lipid bilayer.
+Phys. Chem. Chem. Phys.
+, 2018, 20, 28241-28248.
+37. Jiaojiao Liu, Shufeng Xiao, Jingliang Li, Bing Yuan*,
+Kai Yang
+*, Yuqiang Ma, Molecular details on the intermediate states of melittin action on a cell membrane.
+BBA-Biomembranes
+, 2018, 1860, 2234-2241.
+36.
+Jiaojiao Liu, Bin Song, Jingliang Li, Xiaodong Tian, Yuqiang Ma,
+Kai Yang
+* and
+Bing Yuan*
+, Photoluminescence modulation of silicon nanoparticles via highly ordered arrangement with phospholipid membranes,
+Colloids and Surfaces B: Biointerfaces
+, 2018, 170, 656-662.
+35.
+Wenbin Wang, Ran Yang, Fei Zhang, Bing Yuan*,
+Kai Yang
+* and Yu-qiang Ma, Partner-facilitating transmembrane penetration ofnanoparticles: a biological test in Silico,
+Nanoscale
+, 2018, 10, 11670-11678.
+34.
+Ming Wen, Mengjie Liu, Wentao Xue,
+Kai Yang
+, Gaojian Chen*, and Weidong Zhang*
+,
+Simple and Green Strategy for the Synthesis of “Pathogen-Mimetic” Glycoadjuvant@AuNPs by Combination of Photoinduced RAFT and Bioinspired Dopamine Chemistry
+,
+ACS Macro Lett.
+, 2018, 7,
+70
+-
+74
+.
+33. Jiao-Jiao Liu#, Qi Chang#, Mei-Mei Bao, Bing Yuan*,
+Kai Yang
+*, and Yu-Qiang Ma, Silicon quantum dots delivered phthalocyanine for fluorescence guided photodynamic therapy of tumor,
+Chin. Phys. B
+, 2017, 26, 098102. (#equal contribution)
+32. Fei Zhao, Kuancai Chen, Bin Dong,
+Kai Yang
+*, Yan Gu*, and Ning Fang*, Localization accuracy of gold nanoparticles in single particle orientation and rotational tracking,
+Optics Express
+, 2017, 25, 9860-9871.
+31. Jiaojiao Liu, Rui Wang, Sicong Wu, Bing Yuan*, Meimei Bao, Jingliang Li, Yujiang Dou, Yao He and
+Kai Yang
+*, One-pot synthesis of silicon based nanoparticles with incorporated phthalocyanine for long-term 

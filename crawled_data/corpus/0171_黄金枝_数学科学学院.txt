@@ -1,0 +1,17 @@
+doc_id: 171
+name: 黄金枝
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/hjz2
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、On inner iterations of Jacobi-Davidson type methods for large SVD computations, SIAM Journal on Scientific Computing, SCI, 2019, Jinzhi Huang, Zhongxiao Jia, 41 (3), pp. A1574–A1603
+2、On choices of formulations of computing the generalized singular value decomposition of a large matrix pair, Numerical Algorithms, SCI, 2021, Jinzhi Huang, Zhongxiao Jia, 87, pp. 689–718
+3、Two harmonic Jacobi–Davidson methods for computing a partial generalized singular value decomposition of a large matrix pair,Journal of Scientific Computing, SCI, 2022, Jinzhi Huang, Zhongxiao Jia, 93 (41), 29 pages
+4、A cross-product free Jacobi–Davidson type method for computing a partial generalized singular value decomposition of a large matrix pair, Journal of Scientific Computing, SCI, 2023, Jinzhi Huang, Zhongxiao Jia, 94 (3), 32 pages
+5、A skew-symmetric Lanczos bidiagonalization method for computing several extremal eigenpairs of a large skew-symmetric matrix, SIAM Journal on Matrix Analysis and Applications, SCI, 2024, Jinzhi Huang, Zhongxiao Jia, 45 (2), pp. 1114-1147
+6、Refined and refined harmonic Jacobi–Davidson methods for computing several GSVD components of a large regular matrix pair, Numerical Algorithms, SCI, 2025, Jinzhi Huang, Zhongxiao Jia, 99, pp. 895-920
+7、A generalized skew-symmetric Lanczos bidiagonalization method for computing several extreme eigenpairs of a large skew-symmetric/symmetric positive definite matrix pair, Numerical Algorithms, SCI, 2026, Jinzhi Huang, 38 pages

@@ -1,0 +1,12 @@
+doc_id: 272
+name: 阎增帅
+career: 讲师
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/yzs
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+研究领域:计算生物物理和统计物理交叉领域研究
+论文:论文：
+1、请见“研究领域”标签页

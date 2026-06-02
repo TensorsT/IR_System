@@ -1,0 +1,12 @@
+doc_id: 260
+name: 董雪薇
+career: 讲师
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/dxw
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+研究领域:计算物理生物
+论文:论文：
+1、请见“研究领域”标签页

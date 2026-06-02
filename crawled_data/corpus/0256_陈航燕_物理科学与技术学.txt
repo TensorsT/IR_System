@@ -1,0 +1,22 @@
+doc_id: 256
+name: 陈航燕
+career: 副教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/chenhangyan
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+论文:论文：
+1、Strain-induced bandgap engineering in C3N nanotubes,Chemical Physics Letters, YulingYin,Hangyan Chen*, Qinghong Yuan*,768: 138390, 2021.
+2、Self‐Assembled Water Molecules as a Functional Valve for a High‐Pressure Nanocontainer,Angew andte Chemie International Edition,Hangyan Chen,Deyan Sun,Xingao Gong ,Zhifeng Liu*,52: 1973~1976 ,2013.
+3、Zwitterion Functionalized Carbon Nanotube/Polyamide Nanocomposite Membranes for Water Desalination,ACS Nano,Waifong Chan,Hangyan Chen(co-author),Anil Surapathi,Michael G. Taylor,Xiaohong Shao, Eva Marand, J. Karl Johnson*,7: 5308~5319, 2013.
+4、Separation of Hydrogen Using a Size-Changeable Nanochannel,The Journal of Physical Chemistry C,Hangyan Chen ,Xingao Gong,Zhifeng Liu,Deyan Sun*,115: 4721~4725, 2011.
+5、Design of a one-way nanovalve based on carbon nanotube junction and C60,Microfluidics and Nanofluidics,Hangyan Chen ,Zhifeng Liu,Xingao Gong,Deyan Sun*,10: 927~933, 2010.
+6、核心素养视域下的航天情境类试题解析及其命制特点分析——以BPhO IPC 试题为例,物理教学,樊济川，曹浴，薛丽娜,陈航燕*,45,2023.
+7、核心素养视角下高中物理实验试题命制启示—以2022年英国物理奥林匹克竞赛实验项目为例,中学物理,曹浴,陈航燕*,41,2023.
+8、IGCSE物理实验操作及笔试试题命制方式差异的分析与启示,物理之友,单磊,陈航燕*,已录用.
+9、中英中考物理试题呈现方式的对比分析 ——以"光学"为例,中学物理,李迎芳,陈航燕*,袁海泉*,40，2022
+10、英国奥林匹克物理竞赛实验操作试题特色分析,物理通报,肖婵娟,陈航燕*,袁海泉*,12,2022.
+11、中英中学物理实验考题支架构建特点的分析与启示,物理通报,蒋昱宸,陈航燕*,9,2021.
+12、基于日常生活经验的中考物理试题特征分析,王胜团,陈航燕*,袁海泉*,10,2021.

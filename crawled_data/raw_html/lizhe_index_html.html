@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!--
+    Plain-Academic by Vasilios Mavroudis
+    Released under the Simplified BSD License/FreeBSD (2-clause) License.
+    https://github.com/mavroudisv/plain-academic
+-->
+
+<html lang="en">
+<head>
+  <title>Zhe Li</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <script src="jquery.min.js"></script>
+  <script src="bootstrap.min.js"></script>
+
+   <style>
+    details {
+      font-size: 13px;
+      font-family: "Microsoft YaHei Light", sans-serif;
+      color: #333333;
+      background: #fefeff;
+      width: fit-content;
+      margin-bottom: 10px; /* 行间距 */
+    }
+
+    summary {
+      cursor: pointer;
+      list-style: none;
+      display: inline-flex;       /* 关键：使文字和箭头紧贴一起 */
+      align-items: center;
+    }
+
+    summary::marker {
+      display: none;
+    }
+
+    .arrow::after {
+      content: "▼";
+      margin-left: 5px;
+      font-size: 11px;
+    }
+
+    details[open] > summary .arrow::after {
+      content: "▲";
+    }
+
+    .dropdown-item {
+      margin-left: 20px;
+      padding: 2px 0;
+      line-height: 1.6; /* 增加每一项的行高 */
+    }
+
+    .nested-dropdown {
+      margin-left: 20px;
+      margin-top: 8px; /* 增加子下拉之间的行距 */
+    }
+
+    body {
+      padding-top: 50px; /* Adjust if your navbar is taller */
+    }
+
+    html {
+  scroll-padding-top: 60px; /* Adjust to your navbar height */
+}
+  </style> 
+  <!--<link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>-->
+</head>
+<body>
+
+<!-- Navigation -->
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	  <div class="container">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+            <li><a href="#" id="lang-switch">中文/EN</a></li>
+            <li><a href="#curr" id="nav-curr">教学课程</a></li>                  
+            <li><a href="#proj" id="nav-proj">科研项目</a></li>
+            <li><a href="#pub" id="nav-pub">科研成果</a></li> 
+            <li><a href="#stu" id="nav-stu">招生信息</a></li>
+            <li><a href="#stu_past" id="nav-stu-past">历届学生</a></li>
+		  </ul>
+		</div>
+	  </div>
+	</nav>
+  <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Entries Column -->
+            <div class="col-md-8" style="height: 100vh;">
+                
+                <!-- Main Image -->
+                <img class="img-responsive" src="Banner_CV_900x408_Gemini.png" alt=""><br>
+                
+                                                                    <div style="margin-top:3%; text-align:justify;">
+                                                                        <p class="MsoNormal" style="text-indent:28px">
+                                                                            <span id="bio-text" style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff"></span>
+                                                                               <!--  审稿记录详见<span lang="EN-US"><span style="font-size:16px;color:#333333;background:#fefeff none repeat scroll 0% 0%;font-family:calibri;"></span>(<a href="https://www.webofscience.com/wos/author/record/2128402" style="font-family:arial, helvetica, sans-serif;text-decoration:underline;"><span style="font-size:16px;color:#333333;background:#fefeff none repeat scroll 0% 0%;font-family:calibri;">WOS</span></a>)</span> -->
+                                                                        </p>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-indent:28px">
+                                                                            <span style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff"></span><br />
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-indent:28px">
+                                                                            <span style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US"></span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff" id="curr">教学课程：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="courses-undergrad" style="font-family:microsoft yahei light, sans-serif;color:#333333;background:#fefeff none repeat scroll 0% 0%;font-size:16px;">大一春季学期《电路分析》</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="courses-grad" style="font-family:microsoft yahei light, sans-serif;color:#333333;background:#fefeff none repeat scroll 0% 0%;font-size:16px;">研一秋季学期《现代信号处理》</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span id="subtitle-resfields" style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff">研究方向：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="resfields-1" style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">(1). 复数与多元信号处理、复数机器学习，及其在卫星通信、物联网中的应用。</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="resfields-2" style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">(2). 电磁信号感知计算，及其在目标检测、测距定位和自主导航中的应用。</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff" id="proj">科研项目：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="proj-NSFCGen" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[1] 国家自然科学基金面上项目 — 非圆高斯信号的高增益成形策略研究（2025-2028）</span>
+                                                                        </p>                                                                                                                   <p class="MsoNormal">
+                                                                        <span id="proj-Enterprise1" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[2] 某企业横向 — 通用OFDM信号盲处理技术（2023）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="proj-NSFCYouth" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[3] 国家自然科学基金青年基金项目 — 面向全双工的新型多天线RFID读卡器的自干扰抵消关键技术研究（2020-2022）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="proj-Postdoc" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[4] 中国博士后科学基金面上资助项目 — 全双工多天线RFID系统的理论与技术研究（2020-2022）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="proj-Jiangsu" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[5] 江苏省高等学校自然科学研究面上项目 — 基于降维张量网络的深度学习方法研究及应用（2019-2021）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff" id="pub">部分主要论文：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[1]<strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>, Y. Gu, J. Ni, H. Jin, D. Xu and Danilo P. Mandic, “Time-averaged ACLMS algorithm for improper cyclostationary inputs: Performance analysis and application to interference-limited systems” <em><strong>IEEE Tran. Sig. Process.</strong></></em>,<span style="color:black">&nbsp;vol. 73, pp. 3795–3811, 2025.</span></span><strong></strong>
+                                                                        </p> 
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[2]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">李喆</span></strong>, 林威洪, 羊箭锋 和 朱占宇, “基于星链下行信号的多普勒定位方法” <em><strong>信号处理</strong></em>,<span style="color:black">&nbsp;41(11), pp.1788-1799, 2025.</span></span><strong></strong>
+                                                                        </p> 
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[3]<span style="mso-spacerun:yes"></span>H. Jin, <strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>(*), H. Cheng, Y.Xia and H. Hu, “Sum-rate maximization for uplink multi-user NOMA with improper Gaussian signaling: A deep reinforcement learning approach” <em><strong>IEEE Tran. Veh. Technol.</strong></></em>,<span style="color:black">&nbsp;vol. 74, no. 5, pp. 7808-7820, May 2025.</span></span><strong></strong>
+                                                                        </p>  
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[4]<span style="mso-tab-count:1"></span>H. Jin, <strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>(*), J. Yuan and Y. Xia, “Improper Gaussian signaling for secrecy transmission in RIS-aided downlink NOMA” <em><strong>IEEE Commun. Lett.</strong></em>,<span style="color:black">&nbsp;vol. 29, no. 1, pp. 50–54, Jan. 2025.</span></span><strong></strong>
+                                                                        </p>
+																																				<p class="MsoNormal">
+                                                                        <span style="font-size:13px" lang="EN-US">[5]<span style="mso-tab-count:1"></span>董琛, <strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">李喆</span></strong>(*), 邓伟, “一种非合作通信场景下的 OFDM 数据帧检测算法” <em><strong>电讯技术</strong></em>,<span style="color:black">&nbsp;65(04), pp.579-587, 2025.</span></span><strong></strong>
+                                                                        </p> 
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[6]<span style="mso-spacerun:yes"></span>Q. Zhang, <strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>(*), H. Jin and X. Chen, “An augmented complex-valued gradient-descent total least-squares algorithm for noncircular signals” <em><strong>Signal Process.</strong></em>,<span style="color:black">&nbsp;vol. 228, p. 109740, Mar. 2025.</span></span><strong></strong>
+                                                                        </p>                                                                       
+                                                                        <p class="MsoNormal">
+                                                                       	<span style="font-size:13px" lang="EN-US">[7]<span style="mso-tab-count:1"></span>Q. Wang <strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>(*), W. Deng, Z. Babic, L. Stankovic and D. Mandic “Widely linear matched filter: A lynchpin towards the interpretability of complex-valued CNNs” <em><strong>Proc. Int. Joint Conf. Neural Netw. (IJCNN)</strong></em>,<span style="color:black">&nbsp;pp.1-8, 2024.</span></span><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[8]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">李喆</span></strong>, 林威洪, 邓伟, 羊箭锋 和 朱占宇, “Starlink下行信号的多普勒效应影响分析” <em><strong>通信学报</strong></em>,<span style="color:black">&nbsp;45(03), pp.131-141, 2024.</span></span><strong></strong>
+                                                                        </p>
+
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[9]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, R. Pu, Y. Xia and W. Pei, “An affine combination of two augmented CLMS adaptive filters for processing noncircular Gaussian signals” <em><strong>Signal Process.</strong></em>,<span style="color:black">&nbsp;vol. 201, pp.108719, 2022.</span></span><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[10]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, W. Deng, Z. Zhu and D. P. Mandic, “A layer-wise distribution analysis of the WLMMSE-SIC MIMO receiver for rectilinear or quasi-rectilinear signals” <em><strong>Signal Process.</strong></em>,<span style="color:black">&nbsp;vol. 198, pp.108230, 2021.</span></span><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[11]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, R. Pu, Y. Xia, W. Pei, and D. P. Mandic, “A Full Second-Order Analysis of the Widely Linear MVDR Beamformer for Noncircular Signals” <em><strong>IEEE Trans. Signal Process.</strong></em>,<span style="color:black">&nbsp;vol. 69,pp. 4257-4268, 2021.</span></span><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[12]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, “A total least squares enhanced smart DFT technique for frequency estimation of unbalanced three-phase power systems,” <em><strong>Inter. J. Elect. Power Energy Syst.,</strong></em>, vol. 128, pp. 106722, 2021. </span>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[13]<span style="mso-spacerun:yes"></span>W. Deng, Y. Xia, <strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>(*), and W. Pei, “On the distribution of SINR for widely linear MMSE MIMO systems with rectilinear or quasi-rectilinear signals,”<em><strong>IEEE Trans. Veh. Technol. </strong></em>, Vol.71, No.2, pp. 1643-1655, 2022.</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[14]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, Y. Xia, W. Pei, and D. P. Mandic, “A cost-effective nonlinear self-interference canceller in full-duplex direct-conversion transceivers,” <em><strong>Signal Process.</strong></em>, vol. 158, pp. 4–14, 2019. </span>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[15]<span style="mso-tab-count:1"></span>W. Deng, <strong><span style="text-decoration:underline;"><span style="mso-bidi-font-weight:normal">Z. Li</span></span></strong>(*), Y. Xia, K. Wang, and W. Pei, “A widely linear MMSE anti-collision method for multi-antenna RFID readers,” <em><strong>IEEE Commun. Lett.</strong></em>, vol. 23, no. 4, pp. 644–647, Apr. 2019.</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[16]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, Y. Xia, W. Pei, K. Wang, and D. P. Mandic, “An augmented nonlinear LMS for digital self-interference cancellation in full-duplex direct-conversion transceivers,” <em><strong>IEEE Trans. Signal Process.</strong></em>, vol. 66, no. 15, pp. 4065–4078, Aug. 2018. </span>
+                                                                        </p>
+                                                                        <p class="MsoNormal" style="text-align:left;line-height:21px;text-align:left;">
+                                                                            <span style="font-size:13px" lang="EN-US">[17]<span style="mso-tab-count:1"></span><strong style="mso-bidi-font-weight:normal"><span style="text-decoration:underline;">Z. Li</span></strong>, Y. Xia, W. Pei, K. Wang, Y. Huang, and D. P. Mandic, “Noncircular measurement and mitigation of I/Q imbalance for OFDM-based WLAN transmitters,” <em><strong>IEEE Trans. Instrum. Meas.</strong></em>, vol. 66, no. 3, pp. 383–393, 2017. </span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span id="monograph" style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff">编写专著：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px" lang="EN-US">[1] <span style="color:black">Xia Y., Xiang M., <strong><span style="text-decoration:underline;">Li Z.</span></strong>, Mandic D.P. <em>Echo state networks for multidimensional data: Exploiting noncircularity and widely linear models. Adaptive Learning Methods for Nonlinear System Modeling</em>. Elsevier, 2018.</span></span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span id="int-patents"  style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff">国际专利：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="us-patent1" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">[1] US Patent 12,277,472B2 RFID Tag Quantity Estimation System, RFID Tag Quantity Estimation Method, and Processor-Readable Medium，已授权</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span id="chn-patents" style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff">中国专利：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[1] ZL 202411308403.2 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种三相电频率估算方法、装置及计算机可读存储介质（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[2] ZL 202010342199.1 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种<span lang="EN-US">RFID</span>标签信号数量的估计系统、方法和处理器可读介质（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[3] ZL 201910042865.7 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种超高频RFID标签信号的恢复方法（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[4] ZL 201811397028.8 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种应用于全双工通信收发机的非线性数字自干扰消除装置及方法（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[5] ZL 201510098640.5 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种发射机中IQ不平衡的补偿方法和装置（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[6] ZL 202111522089.4 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种自适应功率分配方法及处理器可读介质（已授权）</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff" lang="EN-US">[7] ZL 202111493891.5 </span><span style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">一种鲁棒的复数自适应系统及迭代方法（已受理）</span>
+                                                                        </p>
+
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span  style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff" id="stu">招生信息：</span></strong><strong></strong>
+                                                                        </p>
+																																				<p class="MsoNormal">
+																																				<span id="recruit-id" style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">招生代码：081000 信息与通信工程，085402 通信工程，085401 新一代信息技术。</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <span id="recruit-content" style="font-size:16px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">每年可招收1名博士研究生，固定招收3~4名学术型或专业型硕士研究生。欢迎对信号处理、人工智能、电磁感知等领域感兴趣的学生报考，将提供研究所需的硬件支持以及与成果相匹配的绩效奖励。也欢迎对这些课题感兴趣的本科生参与研究。</span>
+                                                                        </p>
+                                                                        <p class="MsoNormal">
+                                                                            <strong><span style="font-size:19px;mso-bidi-font-size:16px;font-family:microsoft yahei light,sans-serif;mso-ascii-font-family:calibri;mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#333333;background:#fefeff" id="stu_past">历届学生及其研究内容：</span></strong><strong></strong>
+                                                                        </p>
+                                                                        
+																																		
+																																		<details>
+																																		    <summary>
+   																																				<span id="stu-2021" class="summary-label">2021级硕士：</span>
+    																																			<span class="arrow"></span>
+  																																				</summary>
+
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Guyy21" class="summary-label">顾洋洋</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	    	<div id="stu-Guyy21-achievements" class="dropdown-item">主要成果：发表TSP论文1篇</div>
+																																	    	<div id="stu-Guyy21-thesis" class="dropdown-item">毕业论文：《非圆循环平稳信号的自适应滤波算法及应用研究》</div>
+																																	  	</details>
+																																	  
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Dongc21" class="summary-label">董琛</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	    	<div id="stu-Dongc21-achievements" class="dropdown-item">主要成果：在《电讯技术》发表论文1篇</div>
+																																	    	<div id="stu-Dongc21-thesis" class="dropdown-item">毕业论文：《非合作通信场景下5G NR广播信号的半盲处理方法研究》</div>
+																																	  	</details>
+																																		</details>																																
+
+																																		<details>
+																																		    <summary>
+   																																				<span id="stu-2022" class="summary-label">2022级硕士：</span>
+    																																			<span class="arrow"></span>
+  																																				</summary>
+
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Jinhl22" class="summary-label">靳洪雷</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	    	<div id="stu-Jinhl22-achievements" class="dropdown-item">主要成果：发表TVT 1篇，CL 1篇，ICDSP会议论文1篇</div>
+																																	    	<div id="stu-Jinhl22-thesis" class="dropdown-item">毕业论文：《基于深度强化学习的非圆信号传输方法的研究》</div>
+																																	  	</details>
+																																	  
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Linwh22" class="summary-label">林威洪</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	    	<div id="stu-Linwh22-achievements" class="dropdown-item">主要成果：在《通信学报》和《信号处理》各发表论文1篇</div>
+																																	    	<div id="stu-Linwh22-thesis" class="dropdown-item">毕业论文：《星链下行信号的多普勒效应与定位方法研究》</div>
+																																	  	</details>																																
+																																		
+																																			<details class="nested-dropdown">
+																																		    	<summary>
+																																		      	<span id="stu-Wangqc22" class="summary-label">王庆晨</span>
+																																		      	<span class="arrow"></span>
+																																		    	</summary>
+																																		    	<div id="stu-Wangqc22-achievements" class="dropdown-item">主要成果：在IJCNN会议发表论文1篇</div>
+																																		    	<div id="stu-Wangqc22-thesis" class="dropdown-item">毕业论文：《复数卷积神经网络的可解释性研究及其应用》</div>
+																																		  	</details>
+																																		
+																																			<details class="nested-dropdown">
+																																		    	<summary>
+																																		      	<span id="stu-Zhangq22" class="summary-label">张琪（合作培养）</span>
+																																		      	<span class="arrow"></span>
+																																		    	</summary>
+																																		    	<div id="stu-Zhangq22-achievements" class="dropdown-item">主要成果：在Signal Processing期刊发表论文2篇，授权发明专利1项，获研究生国家奖学金</div>
+																																		    	<div id="stu-Zhangq22-thesis" class="dropdown-item">毕业论文：《面向电力系统频率估计问题的自适应滤波算法的研究》</div>
+																																		  </details>
+																																		</details>
+																																		
+																																		<details>
+																																		<summary>
+   																																				<span id="stu-2023" class="summary-label">2023级硕士：</span>
+    																																			<span class="arrow"></span>
+  																																				</summary>
+
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Wuy23" class="summary-label">吴莹</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Yangxl23" class="summary-label">杨晓龙</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  	
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Caozc23" class="summary-label">曹泽辰</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																		</details>	
+																																		
+																																		<details>
+																																		<summary>
+   																																				<span id="stu-2024" class="summary-label">2024级硕士：</span>
+    																																			<span class="arrow"></span>
+  																																				</summary>
+
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Duj24" class="summary-label">杜洁</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Gurx24" class="summary-label">谷瑞欣</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  	
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Panlc24" class="summary-label">潘林川</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																		</details>	
+																																		
+																																		<details>
+																																		<summary>
+   																																				<span id="stu-2025" class="summary-label">2025级硕士：</span>
+    																																			<span class="arrow"></span>
+  																																				</summary>
+
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Huangjq25" class="summary-label">黄家琦</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Wulj25" class="summary-label">吴丽娟</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																	  	
+																																	  	<details class="nested-dropdown">
+																																	    	<summary>
+																																	      	<span id="stu-Buyn25" class="summary-label">卜怡宁</span>
+																																	      	<span class="arrow"></span>
+																																	    	</summary>
+																																	  	</details>
+																																		</details>	
+																																		
+                                                                    <p class="MsoNormal">
+                                                                        <span id="stu-2026-info" style="font-size:13px;font-family:microsoft yahei light,sans-serif;color:#333333;background:#fefeff">2026级硕士： 已确定3名同学。</span>
+                                                                    </p>
+																																				
+                                                                    </div>
+            </div> 
+
+            <!-- Contact Info on the Sidebar -->
+            <div class="col-md-4">
+            	<div id="bioinfo" style="font-family: 'microsoft yahei light', sans-serif; font-size: 24px;color:#b5bec9;"><b>基本信息</b></div><br>
+                <img class="img-responsive" src="lizhe_avatar.jpg" width="130" alt=""><br>
+				<div id="bioinfo-name" style="font-family: 'Calibri', sans-serif; font-size: 32px;"><b>李喆</b></div><br>
+                <p><span id="bioinfo-title">职称：研究员<br></span></p>
+                <p><span id="bioinfo-department">所属单位：苏州大学电子信息学院<br></span></p>
+                <p><span id="bioinfo-email">电子邮箱：lizhe@suda.edu.cn<br></span></p>
+                <p><span id="bioinfo-office">办公地点：电子楼357 <br></span></p>
+            </div>
+            
+            
+            <!-- Links on the Sidebar -->
+            <div class="col-md-4" style="margin-top:2%">
+              <!--<dd><a href="https://scholar.google.com.hk/citations?user=w5WiE8EAAAAJ&hl=en">Google Scholar</a></dd> 
+              <dd><a href="#">Twitter</a></dd>
+              <dd><a href="#">LinkedIn</a></dd>-->
+            </div>
+        </div>
+    </div>
+    <!-- /.container -->
+    
+    <!-- Other people may like it too! 
+    <a style="color:#b5bec9;font-size:0.8em; float:right;" href="https://github.com/mavroudisv/plain-academic">Plain Academic</a> -->
+    <script src="switchCNEN.js"></script>    
+</body>
+
+</html>
+<img src="/_visitcount?siteId=85&type=2&columnId=23350" style="display:none" width="0" height="0"></image>
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="85"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>

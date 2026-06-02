@@ -1,0 +1,10 @@
+doc_id: 117
+name: 莫俊华
+career: 
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/sdjunhua
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：

@@ -1,0 +1,16 @@
+doc_id: 88
+name: 王伟行
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/wwx
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Domain generalization for face anti-spoofing via negative data augmentation,IEEE Transactions on Information Forensics and Security,CCF-A,2023,vol. 18,pp. 2333-2344
+2、Conv-mlp: A convolution and mlp mixed model for multimodal face anti-spoofing,IEEE Transactions on Information Forensics and Security,CCF-A,2022,vol. 17,pp. 2284–2297
+3、A complementary fusion strategy for RGB-D face recognition,International Conference on MultiMedia Modeling,CCF-C,2022,pp. 339–351
+4、A high-computational efficiency human detection and flow estimation method based on TOF measurements,Sensors,SCI,2019,vol. 19, p. 729
+5、Phase unwrapping for time-of-flight sensor based on image segmentation,IEEE Sensors Journal,SCI,2021,vol. 21, no. 19, pp. 21600–21611
+6、Self-supervised End-to-end ToF Imaging Based on RGB-D Cross-modal Dependency,IJCAI 2025,CCF-A,2025,（已录用）

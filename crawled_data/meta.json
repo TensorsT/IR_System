@@ -1,0 +1,42 @@
+{
+  "source": "https://web.suda.edu.cn/xylb/list.htm",
+  "colleges": [
+    {
+      "collegeId": 15,
+      "collegeName": "计算机科学与技术学院（软件学院）",
+      "count": 101,
+      "fullDepartName": "计算机科学与技术学院（软件学院）",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 79,
+      "collegeName": "物理科学与技术学院",
+      "count": 61,
+      "fullDepartName": "物理科学与技术学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 74,
+      "collegeName": "外国语学院",
+      "count": 47,
+      "fullDepartName": "外国语学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 85,
+      "collegeName": "电子信息学院",
+      "count": 64,
+      "fullDepartName": "电子信息学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 78,
+      "collegeName": "数学科学学院",
+      "count": 66,
+      "fullDepartName": "数学科学学院",
+      "departCategoryId": "5"
+    }
+  ],
+  "teacher_count": 339,
+  "max_per_college": "unlimited"
+}

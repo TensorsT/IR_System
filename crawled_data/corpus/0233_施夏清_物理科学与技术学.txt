@@ -1,0 +1,302 @@
+doc_id: 233
+name: 施夏清
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/xqshi
+---
+物理科学与技术学院
+返回首页
+姓名：
+施夏清
+职称：
+教授
+院部/部门：
+物理科学与技术学院
+学位：
+博士
+学历：
+毕业院校：
+南京大学
+毕业专业：
+物理学
+通讯地址：
+邮编：
+电子邮箱：
+***@***
+联系电话：
+***
+传真：
+办公地址：
+物理科技楼255-研究生办公室
+个人简介
+个人简介：
+施夏清, 教授, 国家优秀青年基金获得者（2019）
+Xiaqing SHI, Professor
+Email: ***@***
+工作经历
+2019年9月至今
+：苏州大学，
+特聘教授
+Center for soft condensed matter physics and interdisciplinary research & School of physical science and technology, Distinguished Professor
+2013年6月-2019年9月
+：
+苏州大学，
+副教授
+Center for soft condensed matter physics and interdisciplinary research & School of physical science and technology, Associate Professor
+2010年7月-2013年6月：
+苏州大学，高聘
+副教授
+Center for soft condensed matter physics and interdisciplinary research & School of physical science and technology, Assistant Professor
+教育经历
+2005年9月-2010年6月：
+南京大学物理学院，固体微结构国家重点实验室，获得物理学博士学位。导师：马余强
+School of physics & national lab of solid state micro-structures, Ph.D. in physics. Supervisor: Prof. Yuqiang Ma
+2006年11月-2007年1月：
+香港浸会大学物理系，交换研究生。导师：汤雷翰
+HKBU, exchange research student. Supervisor: Prof. Leihan Tang
+2001年9月-2005年6月：
+南京大学物理系理论物理、生物物理专业，获得理论物理学士学位。
+Department of physics, Nanjing Univeristy, majored in theoretical physics and
+biophysics
+,  B.S. in theoretical physics.
+早期访问研究经历
+2017年6月-2018年6月：
+访问法国原子能委员会 CEA-Saclay, Hugues
+Chat
+é
+CEA-Saclay, Paris, France
+2014年11月-2015年2月：
+访问法国
+原子能委员会
+CEA-Saclay, Hugues
+Chat
+é
+CEA-Saclay, Paris, France
+2014年1月-2014年3月：
+访问美国UCSB卡弗里理论物理研究所
+KITP, UCSB, US
+2013年5月-2013年7月：
+访问德国马普所物理复杂系统研究所
+MPIPKS, Dresden, Germany
+研究领域
+研究方向：
+活性物质的统计物理：从微观驱动到宏观集体行为
+活性物质（Active Matter）代表了一类普遍存在却极具挑战性的非平衡物质状态。与传统统计物理所研究的平衡或近平衡体系不同，活性物质的根本特征在于能量注入的局域性与持续性——体系中每个个体单元均能自主将化学自由能或其他形式的储存能量转化为定向力学运动，从而在微观层次上持续驱动整个体系偏离热力学平衡态。这一机制从根本上打破了经典统计物理中关于涨落-耗散定理、细致平衡原理以及平衡态配分函数描述的适用前提，使得活性物质成为非平衡统计物理前沿研究对象之一。
+活性物质个体的局域运动通过空间相互作用（位阻、流体力学耦合、化学信号等）在大尺度上涌现出令人惊叹的集体行为——从细菌湍流、细胞迁移中的极化波，到细胞骨架的自组织收缩结构，再到鸟群、鱼群的集体定向运动。这些现象的出现揭示了活性物质体系中对称性破缺、序参量动力学与相变的丰富物理内涵。如何从微观个体动力学出发，系统地建立描述介观和宏观集体行为的流体动力学方程（粗粒化理论），是活性物质领域的核心理论任务。这一问题深刻联系着非平衡统计力学的基础问题，也是连接微观模型与宏观可观测量的关键桥梁。
+本研究组长期致力于活性物质体系的数值模拟与理论建模，以统计物理为核心工具，围绕细菌、细胞、细胞骨架及自驱动颗粒等典型模型体系，系统探索活性物质中的相变机制、集体动力学规律与自组织行为。目前重点开展以下四个方向的研究：
+(1) 活性物质模型体系的相变及其动力学
+探索活性体系中因非平衡驱动所诱导的新型相变行为，包括活性相分离（MIPS，运动诱导相分离）、极化有序-无序转变（Vicsek类相变）等，研究这些相变的临界行为、标度律及其与平衡相变的本质区别。
+(2) 活性物质体系的拓扑结构与动力学
+关注活性体系中拓扑缺陷（如向列相中的±1/2缺陷）的产生、运动与湮灭过程，以及拓扑结构对集体动力学的调控机制，揭示活性拓扑缺陷驱动的力学行为与生物学功能。
+(3) 活性物质的微观模型与流体动力学方程理论
+发展从微观粒子动力学出发的系统粗粒化方法，推导活性体系的水动力学场方程（Active Hydrodynamics），建立微观参数与宏观输运系数之间的定量联系，为理解活性流体的宏观行为提供坚实的理论基础。
+(4) 细菌与胶体体系的理论计算及集体动力学
+针对细菌悬浮液、活性胶体等具体实验体系，开展定量理论与计算研究，探讨游动策略、流体力学相互作用、化学趋向性等因素对集体运动模式形成的影响机制。
+科研项目
+科研项目：
+1、活性体系动力学有序态的标度行为的数值和理论研究,2022-2025,国家自然科学基金面上项目
+2、活性物质统计物理研究,2020-2022,国家自然科学基金优秀青年基金
+3、微驱动软物质体系的拓扑结构和集体动力学,2014-2018,国家自然科学基金面上项目
+4、活性杆状粒子体系的相行为和动力学:模拟和运动学方程理论,2016-2020,国家自然科学基金面上项目
+5、活力物质非平衡有序结构理论研究,2011-2014,国家自然科学基金理论物理专项基金
+6、自驱多体系统中自发流的涌现及其动力学特性,2013-2016,国家自然科学基金青年基金
+7、参与：活性系统的热耗散及长时动力学,2017-2022,项目负责人：汤雷翰,国家自然科学基金重点项目
+8、参与：复杂大分子可控组装的理论和模拟,2011-2015,项目负责人：马余强,重大研究计划重点支持项目
+科学研究（旧版）：
+科研成果
+软件著作
+著作：
+专利
+专利：
+论文
+论文成果（旧版）：
+1.
+X.-q. Shi
+, H. Chaté, B. Mahault, XY Model with Persistent Noise.
+Physical Review Letters
+136, 088302 (2026).
+2. D. Dopierala, H. Chaté,
+X.-q. Shi
+, A. Solon, Inescapable Anisotropy of Nonreciprocal XY Models.
+Physical Review Letters
+135, 088302 (2025).
+3.
+Y. Wang, B. Ventéjou, H. Chaté,
+X.-q. Shi
+, Condensation and Synchronization in Aligning Chiral Active Matter.
+Physical Review Letters
+133
+, 258302 (2024).
+4.
+H. Li,
+H. Chaté, M. Sano,
+X.-q. Shi
+,
+H. Zhang, Robust Edge Flows in Swarming Bacterial Colonies. Physical Review X
+14, 041006 (2024).
+5.
+X.-q. Shi
+, F. Cheng,
+H.
+Chaté, Extreme Spontaneous Deformations of Active Crystals. Physical Review Letters
+131, 108301 (2023). 【Editors' Suggestion; Physics Viewpoint: Active particles push the boundaries of two-dimensional solids】
+Physics Viewpoint: Active Particles Push the Boundaries of Two-Dimensional Solids
+6.  J.
+Codina, B. Mahault, H.
+Chaté, J. Dobnikar, I. Pagonabarraga,
+X.-q. Shi
+,
+Small Obstacle in a Large Polar Flock.
+Physical Review Letters
+128
+, 218001 (2022).
+7.  B. Ventejou, H. Chaté, R. Montagne,
+X.-q. Shi
+,
+Susceptibility of orientationally ordered active matter to chirality disorder.
+Physical Review Letters
+127, 238001 (2021).
+8.
+Z. Liu,Y. Shi, Y. Zhao,
+H.
+Chaté,
+X.-q. Shi
+, T. Zhang,
+Activity waves and freestanding vortices in populations of subcritical Quincke rollers.
+PNAS
+118
+, e*** (2021).
+9.  Y. Duan, B. Mahault, Y. Ma,
+X.-q. Shi
+, H. Chaté, Breakdown of ergodicity and self-Averaging in polar flocks with quenched disorder.
+Physical Review Letters
+126, 178001 (
+2021
+).
+10.
+X.-q. Shi
+,
+G.
+Fausti,
+H.
+Chaté,
+C.
+Nardini, A. Solon, Self-organized critical coexistence phase in repulsive active particles.
+Physical Review Letters
+125
+, 168001 (2020).
+11.  张何朋，施夏清，杨明成，涌现于交叉科学的新方向 -- 活性物质. 《物理》 51卷， 41期， 217-227，(2022).
+12.
+X.-q. Shi
+, H Chaté, Self-propelled rods: linking alignment-dominated and repulsion-dominated active matter. arXiv:1807.00294
+13.  D. Huang, S. Lu,
+X.-q. Shi
+, J. Goree, F. Feng, Fluctuation theorem convergence in a viscoelastic medium demonstrated experimentally using a dusty plasma. Phys. Rev. E 104, 035207 (2021).
+14.  X. Jiang, Y. Ma,
+X.-q. Shi
+,
+Regulation of microtubule array in its self-organized dense active crowds. Chinese Phys. B
+29
+, 078201 (2020).
+15.  Y. Zhong,
+X.-q. Shi
+,
+Collective behaviors of self-propelled rods under semi-flexible elastic confinement.  Acta Physica Sinica
+69
+, 080507 (2020).
+16. L.Cai, H. Chaté, Y. Ma,
+X.-q. Shi
+, Dynamical sub-classes of dry active nematics.
+Physical Review E(R)
+99, 010601 (2019).
+17. H. Li,
+X.-q. Shi
+, M. Huang, X. Chen, M. Xiao, C. Liu, H. Chaté, H. Zhang, Data-driven quantitative modeling of bacterial active nematics.
+PNAS
+116, 777–785 (2018).
+18.
+B.
+Mahault,
+X.
+Jiang,
+E.
+Bertin,
+Y.
+Ma,
+A.
+Patelli,
+X.-q.
+Shi
+,
+H.
+Chaté, Self-propelled particles with velocity reversals and ferromagnetic alignment: active matter class with second-order transition to quasi-long-range polar order.
+Physical Review Letters
+120, 258002 (2018).
+19. Q. Chen, A. Patelli, H. Chaté, Y. Ma,
+X.-q. Shi
+, Fore-aft asymmetric flocking.
+Physical Review E(R)
+96, 020601 (
+2017
+).
+20. C. Chen, S. Liu,
+X.-q.
+Shi
+, H. Chaté, Y. Wu, Weak synchronization and large-scale collective oscillation in dense bacterial suspensions.
+Nature
+542, 210–214 (2017).
+21.
+X.-q.
+Shi
+, H. Chaté, Y. Ma, Instabilities and chaos in a kinetic equation for active nematics.
+New Journal of Physics
+16, 035003 (2014).
+22.
+X.-q.
+Shi
+, Y. Ma, Topological structure dynamics revealing collective evolution in active nematics.
+Nature Communications
+4, 3013 (2013).
+23.
+X.-q.
+Shi
+, Y. Ma, Understanding phase behavior of plant cell cortex microtubule organization.
+PNAS
+107, 11709–11714 (2010).
+24.
+施夏清, 马余强, 活力物质的非平衡结构和动力学.
+物理
+41, 31–38 (2012).
+25.
+X.-q.
+Shi
+,
+Y.
+Ma, Effective attraction interactions between like-charge macroions bound to binary fluid lipid membranes.
+The Journal of Chemical Physics
+126, 125101 (2007).
+荣誉及奖励
+荣誉及奖励：
+1、能够从事有趣的物理学理论研究已是最好的荣誉和奖励 Enjoy Physics!
+Teaching
+开授课程：
+课程教学（旧版）：
+（1）2019-至今  热力学与统计物理 Thermal Dynamics and Statistical Physics
+（2）2014-2021  计算物理 Computational Physics
+（3）2011-2015  研究生“软物质”课程 Graduate Course for Soft Matter
+招生信息
+招生信息：
+招生信息（旧版）：
+招收有兴趣从事生命、活性物质、软物质等复杂物理系统的理论和模拟研究的硕士、博士研究生。
+招聘博士后从事活性物质、
+软物质、生物物理、
+统计物理
+模型的理论和计算的合作研究工作，待遇从优。
+招聘科研助理从事短期的访问合作研究工作。
+也欢迎本科生联系进实验室学习和研究。
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持

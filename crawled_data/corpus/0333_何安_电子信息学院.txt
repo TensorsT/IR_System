@@ -1,0 +1,21 @@
+doc_id: 333
+name: 何安
+career: 讲师
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/ha
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、Monolithic Integration of Embedded III-V Lasers on SOI,Light: Science & Applications,SCI,2023
+2、Ultra-Low Loss SiN Edge Coupler for III-V/SiN Hybrid Integration,Laser & Photonics Reviews,SCI,2023
+3、Low Loss, Large Bandwidth Fiber-Chip Edge Couplers Based on Silicon-on-Insulator Platform,Journal of Lightwave Technology,SCI,2020
+4、Ultra-Compact Coupling Structures for Heterogeneously Integrated Silicon Lasers,Journal of Lightwave Technology,SCI,2020
+5、Recent advances of heterogeneously integrated III–V laser on Si,Journal of Semiconductors,2019
+6、Ultra-compact fiber-to-chip metamaterial edge coupler,ACS Photonics,SCI,2021
+7、Broadband and Low-Loss Metamaterial Silicon Nitride Edge Coupler,Optical Fiber Communications Conference and Exhibition (OFC),会议,2024
+8、O-Band Self-Injection Locked Soliton Comb,ECOC会议,2025
+9、Reconfigurable optical filter based on double injection rings with variable coupling angles,POEM会议,2025
+10、Tunable coffee-ring effect on a superhydrophobic surface,Optics Letters,SCI,2017
+11、Nanosecond laser ablated copper superhydrophobic surface with tunable ultrahigh adhesion and its renewability with low temperature annealing,Applied Surface Science,SCI,2018

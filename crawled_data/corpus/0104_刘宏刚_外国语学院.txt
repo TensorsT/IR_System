@@ -1,0 +1,38 @@
+doc_id: 104
+name: 刘宏刚
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/lhg
+---
+姓名:教师个人主页
+页面标题:外国语学院
+研究领域:•
+外语学习心理（学习动机、学习者情绪等）
+•
+外语教师发展（外语教师心理、外语专业师范生培养模式等）
+•
+社会阶层与外语学习
+•
+世界英语与外语教育
+论文:论文：
+1、Exploring the mediating role of anxiety between resilience and academic achievement in students’ English learning,Humanities and Social Sciences Communications,,2025,https://doi.org/10.1057/s41599-025-06123-w,第一作者
+2、Understanding the moderating role of school achievement level between growth mindsets, engagement and achievement in students’ English learning,International Review of Applied Linguistics in Language Teaching,2025,https://doi.org/10.1515/iral-2025-0010,第一作者
+3、Unveiling the relationship between students’ perceived support by significant others and academic achievement in English learning: the mediating roles of buoyancy and burnout.,International Journal of Applied Linguistics,2025,https://doi.org/10.1111/ijal.12846,第一作者
+4、Exploring individual's emotional and autonomous learning profiles in AI-enhanced data-driven language learning: An expanded SOR perspective,Learning and Individual Differences,2025,https://doi.org/10.1016/j.lindif.2025.102753,第一作者
+5、Unravelling English as a foreign language teacher resilience and work engagement: The mediating role of subjective well-being.,European Journal of Education,2025,60(4), 1-12.,第一作者
+6、Exploring the mediating role of EFL teachers’ emotion regulation in the relationship between emotional intelligence and resilience,International Journal of Applied Linguistics,2025,doi: 10.1111/ijal.12672.,第一作者
+7、AI-mediated communication in EFL classrooms: the role of technical and pedagogical stimuli and the mediating effects of AI literacy and enjoyment,European Journal of Education,2024,https://doi.org/10.1111/ejed.12813,第一作者
+8、Uncovering the mediating role of resilience between EFL teacher turnover intention and wellbeing: A conservation-of-resources theory perspective,System,2024,https://doi.org/10.1016/j.system.2024.103394,独立作者
+9、Measuring teacher resilience: Evidence from the scale development and validation of EFL teachers,International Journal of Applied Linguistics,2024,https://doi.org/10.1111/ijal.12562,第一作者
+10、Demystifying the Relationship between Parental Investment in Learners' English Learning and Learners' L2 Motivational Self System in the Chinese Context: A Bourdieusian capital perspective,International Journal of Education Development,2023,104, 102973,1-10, https://doi.org/10.1016/j.ijedudev.2023.102973;（SSCI 一区）,独立作者
+11、Behind the Screen, I Still Care about my Students!: exploring the emotional labour of English language teachers in online teaching during the COVID-19 pandemic,International Journal of Applied Linguistics,2023,DOI: 10.1111/ijal.12501（SSCI一区；A&HCI),第一作者
+12、The mediating roles of resilience and motivation in the relationship between students' English learning burnout on engagement: A conservation-of-resources perspective,International Review of Applied Linguistics in Language Teaching,2023,DOI: 10.1515/iral-2023-0089.(SSCI 二区）,第一作者
+13、Demystifying the predictive role of students' perceived foreign language teacher support in foreign language anxiety: the mediating role of L2 grit,Journal of Multilingual and Multicultural Development,2023,https://doi.org/10.1080/01434632.2023.2223171.（SSCI一区；A&HCI),第一作者
+14、Unravelling students' perceived EFL teacher support,System: An International Journal of Educational Technology and Applied Linguistics,2023,https://doi.org/10.1016/j.system.2023.103048,第一作者，文章免费下载
+15、Uncovering English as a foreign language teacher resilience: a structural equation modeling approach,Applied Linguistics Review,2023,https://doi.org/10.1515/applirev-2022-0172.（SSCI一区；A&HCI),第一作者
+16、高校外语教师学术研修动机生态模型构建研究,《中国外语》,2023,（6）：24-31；CSSCI来源刊,独立作者
+17、外语教师动机研究25年（1995-2020）：回顾与展望,《语言学研究》,2023,第32辑：145-157,独立作者
+18、高中英语课堂教学中的"问题链"：内涵与设计,《中小学英语教学与研究》,2023,（1）：34-38，北大核心期刊；本文被人大复印资料《中学外语教与学》2023（7）：56-58全文转载,第一作者
+19、外语教师心理韧性：综述与展望,《中国外语》,2022,（6）：91-98 （CSSCI）,第一作者
+20、Exploring EFL teacher resilience in the Chiense context,System: An International Journal of Educational Technology and Applied Linguistics,2022,102752, （SSCI 一区）,第一作者

@@ -1,0 +1,10 @@
+doc_id: 279
+name: 刘昌荣
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/crliu
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：

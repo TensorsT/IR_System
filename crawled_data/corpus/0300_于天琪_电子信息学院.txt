@@ -1,0 +1,17 @@
+doc_id: 300
+name: 于天琪
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/ytq
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems,IEEE/ACM Transactions on Networking,SCI,2021,Tianqi Yu,Soochow Univ,Xianbin Wang,Jianling Hu
+2、Topology Verification Enabled Intrusion Detection for In-Vehicle CAN-FD Networks,IEEE Communications Letters ,SCI,2020,Tianqi Yu,Xianbin Wang
+3、UAV-Enabled Spatial Data Sampling in Large-Scale IoT Systems Using Denoising Autoencoder Neural Network,IEEE Internet of Things Journal ,SCI,2019,Tianqi Yu,Xianbin Wang,Abdallah Shami
+4、Cloud-Orchestrated Physical Topology Discovery of Large-Scale IoT Systems Using UAVs,IEEE Transactions on Industrial Informatics,SCI,2018,Tianqi Yu,Xianbin Wang,Jiong Jin, Kenneth McIsaac
+5、Recursive Principal Component Analysis-Based Data Outlier Detection and Sensor Data Aggregation in IoT Systems,IEEE Internet of Things Journal,SCI,2017,Tianqi Yu,Xianbin Wang,Abdallah Shami
+6、Multi-Agent Proximal Policy Optimization-based Dynamic Client Selection for Federated AI in 6G-Oriented Internet of Vehicles,IEEE Transactions on Vehicular Technology,SCI,2024,Tianqi Yu,Soochow Univ,Xianbin Wang,Jianling Hu,Jianfeng Yang
+7、MADRL-Based Multi-UAV 3D Trajectory Planning for 6G-Oriented Communication Assistance,IEEE Transactions on Intelligent Transportation Systems,SCI,2025,Tianqi Yu,Soochow Univ,Feifan Cao,Xianbin Wang,Jianling Hu

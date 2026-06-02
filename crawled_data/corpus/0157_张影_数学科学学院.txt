@@ -1,0 +1,11 @@
+doc_id: 157
+name: 张影
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/yzhang
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Zhongzi Wang, Ying Zhang: Length minima for an inﬁnite family of ﬁlling closed curves on a one-holed torus, Geometriae Dedicata, 218:6 (2024)

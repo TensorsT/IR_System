@@ -1,0 +1,15 @@
+doc_id: 164
+name: 杨凌
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/lyang
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、High-throughput discovery of genetic determinants of circadian misalignment.,PLoS Genetics,2020.01,Zhang T.,Yang L., Xu Y.
+2、An intensity ratio of interlocking loops determines circadian period length,Nucleic Acids Research,2014.08,Yan J.,Yang L., Xu Y.
+3、The circadian mutation PER2(S662G) is linked to cell cycle progression and tumorigenesis,Cell Death and Differentiation,2012,Gu X.,Yang L., Xu Y.
+4、Mitochondrial Oscillations and Waves in Cardiac Myocytes: Insights from Computational Models,Biophysical Journal,2010,Yang L.,Qu Z.
+5、Controlling hyperchaos,Physical Review Letters,2000,Yang L.,Mao J.

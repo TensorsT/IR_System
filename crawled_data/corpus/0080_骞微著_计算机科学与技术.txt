@@ -1,0 +1,14 @@
+doc_id: 80
+name: 骞微著
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/wzqian
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Uncertainty Quantification for Traffic Forecasting: A Unified Approach,ICDE,CCF A,2023,Weizhu Qian, et al.
+2、Towards A Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting,TKDE,CCF A,2023,Weizhu Qian, et al.
+3、Supervised and Semi-supervised Deep Probabilistic Models for Indoor Positioning Problems,Neurocomputing,CCF C,2021,Weizhu Qian, et al.,435,  228-238
+4、 Uncertainty-Aware Temporal Graph Convolutional Network for Traffic Forecasting.,IEEE  Transactions on Intelligent Transportation Systems,CCF B,2024,Weizhu Qian, et al.

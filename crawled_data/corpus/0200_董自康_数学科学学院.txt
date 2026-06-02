@@ -1,0 +1,17 @@
+doc_id: 200
+name: 董自康
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/dzk
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Distribution of Dirichlet L-functions, Mathematika, 2023, Zikang Dong, Weijia Wang, Hao Zhang
+2、On the distribution of large values of ζ(1 it), Period. Math. Hung., 2023, Zikang Dong
+3、A note on large values of ζ^(l)(1 it), Bull. Aust. Math. Soc., 2023, Zikang Dong, Bin Wei
+4、On the distribution of large values of ζ(σ it), Bull. Malays. Math. Sci. Soc., 2025, Zikang Dong
+5、On derivatives of zeta and L-functions, Ramanujan J., 2025, Zikang Dong, Yutong Song, Weijia Wang, Hao Zhang
+6、 Large zeta sums, Period. Math. Hung., 2025, Zikang Dong, Weijia Wang, Hao Zhang
+7、Almost meromorphic modular forms and their associated L-functions, Adv. Math., 2026, Zikang Dong, Weijia Wang, Hao Zhang

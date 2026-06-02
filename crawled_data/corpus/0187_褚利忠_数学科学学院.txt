@@ -1,0 +1,18 @@
+doc_id: 187
+name: 褚利忠
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/chulizhong
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+个人简介:本人从事基础数学研究，专业方向为交换代数，在局部上同调、组合交换代数方面做了一些研究，研究成果先后获得江苏省高校一般项目、国家自然科学基金青年天元项目、国家自然科学基金青年项目等资助.先后到巴西圣保罗大学、德国埃森大学等访学交流活动.
+本人热爱教学工作，先后指导过校级大学生创新创业项目两项、国家级大学生创新创业项目一项，长期参与数学竞赛培训工作与学院毕业生论文指导工作.
+欢迎有志于基础数学代数方向发展的同学与我联系，互助共成长！
+论文:1、Ideal transforms and local cohomology defined by a pair of ideals,Journal of Algebra and Its Applications,SCI,2018,L.Z. Chu,V. H. Jorge Perez,P. H. Lima,17/10/1-20
+2、Castelnuovo-Mumford regularity and projective dimension of a squarefree monomial ideal,Front. Math. China,SCI,2018,L.Z. Chu, S.S. Liu,Z.M. Tang,13/2/277-286
+3、The Stanley regularity of complete intersections and ideals of mixed products,Journal of Algebra and Its Applications,SCI,2017,L.Z. Chu,V. H. Jorge Perez,16/7/1-13
+4、Top Local Cohomology modules with Respect to a pair of ideals,Proc. Amer. Math. Soc.,SCI,2011,L.Z. Chu,139/3/777-782
+5、Some Results on Local Cohomology Modules Defined by a Pair of Ideals,J. Math. Kyoto Univ.,SCI,2009,L.Z. Chu,49/1/193-200
+6、The Socle module of a monomial  ideal ,Rocky Mountain Journal of Mathematics,SCI,2021-8,Chulizhong,Soochow University,Jürgen Herzog,Ludancheng,Ludangcheng,Soochow University,51(3) 2021,第一

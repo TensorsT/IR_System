@@ -1,0 +1,118 @@
+doc_id: 222
+name: 倪卫海
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/niweihai
+---
+姓名:个人简介
+页面标题:物理科学与技术学院
+论文:论文成果（旧版）：
+Recent representative publications
+19. Li K, Geng TP, Wang S, Li H, Hu NN, Zhang H, You L,* Zhou C,* Liz-Mar
+zán LM
+,
+Ni WH
+,* Plasmon Damping Induced by Ferroelectric Phase Transition in a Single Plasmonic Nanocavity,
+ACS Photonics
+, 2026.
+18. Li H, Renero-Lecuna C,
+Ni WH
+,* Liz-Marzán LM,* Circular Differential Scattering Spectroscopy for the Characterization of Single Chiral Nanostructures: Fundamentals, Development, and Perspectives,
+National Materials
+, 2026.
+17. Li DY, Li H, Zhang H, Wang L, Wang JF
+,*
+Ni WH
+,*
+“
+Unraveling On-Resonance Amplification and Reversion of Molecular Optical Chirality Mediated by Plexcitons in Single Nanocavities
+”
+,
+ACS Nano
+, 2026, 20, 9902−9912.
+16. Pan R, Li H, Wang XY, Zhang H, Liz-Marzán LM, Zhou C,*
+Ni WH
+,* “Dynamics of Reconfigurable Plasmonic Metamolecules Characterized by High-Throughput Time-Resolved Circular Differential Scattering
+”
+,
+ACS Nano
+, 2025, 19, 27731-27739.
+15. Geng TP, Wang L, Hu NN, Li H, Zhang H, Feng XJ, Li L, Jiang JH, Liz-Marzán LM,
+Ni WH
+,* “Mapping Plasmon-Enhanced Photocurrent in Single Au Nanoplate/MoS2 Heterostructures”,
+ACS Photonics
+, 2025, 12, 3735-3744.
+14. Khan M, Han C, Li H, Dong BQ, Li DY, Khan Z, Hu HT, Sun JW,*
+Ni WH
+,* Lan X,* “Single-Particle Insights into the Optical Activity of Planar-Layered Chiral Plasmonic Superstructures”
+Nano Research
+, 2025, 18, 94907416.
+13. Li H, Van Gordon K, Zhang H, Wang L, Hu NN, Liz-Marzán LM,*
+Ni WH
+,* “Resolving Artifacts and Improving the Detection Limit in Circular Differential Scattering Measurement of Chiral and Achiral Gold Nanorods”
+ACS Nano
+, 2025, 19, 3635−3644.
+12. Wang L, Geng TP, Hu NN, Li H, Wang KY, Hao LS,
+Ni WH
+,* “Constructing Chiral Core-Shell-Satellite Superstructures for Highly Efficient Antenna-Reactor Hot Electron Generation”
+Adv. Optical Mater.
+, 2024, 2402760.
+11.
+Wang L, Zheng JP, Wang KY, Khan M, Hu NN, Li H, Li L, Wang JF,
+Ni WH
+,*
+“Circular Differential Photocurrent Mapping of Hot Electron Response from Individual Plasmonic Nanohelicoids”
+ACS Appl. Mater. Interfaces
+2024, 16, 24951−24960.
+10. Yang YY, Jia HL,* Hu NN, Zhao MX, Li JZ,
+Ni WH
+,* Zhang CY.* Construction of Gold/Rhodium Freestanding Superstructures as Antenna-Reactor Photocatalysts for Plasmon-Driven Nitrogen Fixation.
+J. Am. Chem. Soc.
+2024, 146, 11, 7734–7742.
+9. Hao LS, Hu NN, Wang L, Jia HL,
+Ni WH
+,* “Room-temperature Synthesis of Au@AuCu Alloyed Nanorods in Aqueous Solutions for High Catalytic Activity and Enhanced Stability”,
+ACS Appl. Nano Mater.
+, 2024, 7, 23028−23036.
+8. Sa JY, Hu NN, Heyvaert W, Van Gordon K, Li H, Wang L, Bals S, Liz-Marzan LM,
+Ni WH
+,* “Spontaneous Chirality Evolved at Au-Ag Interface in Plasmonic Nanorods”,
+Chem. Mater.
+, 2023, 35, 6782-6789.
+7. Zhang Q, Wang XY, Wu HY, Zhang JJ, Lin XY, Sa JY, Li H, Zhou C,*
+Ni WH
+,* “Observation of Enantiomeric Switching of Individual Plasmonic Metamolecules”,
+Nano Lett.
+, 2023, 23, 5180−5186.
+6. Lin XY, Zhou YH, Pan XY, Zhang Q, Hu NN, Li H, Wang L, Xue Q, Zhang W,
+Ni WH
+.*
+“Trace Detection of Chiral J-aggregated Molecules Adsorbed on Single Au Nanorods”,
+Nanoscale
+, 2023, 15, 10667.
+5. Wang YL, Chen C, Zhu P, Shen JX, Zou S, Dong W, Su XD,
+Ni WH
+,* Fan RL,* Shen MR.* “Enhanced solar hydrogen production by manipulating the spatial distribution of Pt catalyst onto Si micro-pyramid arrays”,
+Appl. Phys. Lett.
+, 2023, 193902.
+4. Yang Y, Wang KY, Khan M, Hu NN,
+Ni WH.
+* “Enhancement of Hot Electron Generation in Colloidal Plasmonic Nanocrystals by Adsorption of Pt Clusters”,
+Adv. Optical Mater.
+, 2022, 2102720.
+3. Xu ZY, Xie H, Ye WX, Yang Y,
+Ni WH
+.* “4.9% Au stabilizes Ag in atomically homogenous bimetallic alloy for anisotropic nanocrystals with enhanced stability under light irradiation”,
+Nanoscale
+, 2021, 13
+, 10335
+.
+2. Xie H, Wang KY, Li Y, Zhao F, Ye Y, Ye WX,
+Ni WH
+.*
+“
+Gold nanorod@Ruthenium oxide core-shell heterostructures: synthesis, single-particle characterizations, and enhanced hot electron generation”,
+A
+dv. Optical Mater.
+, 2021, 2002136.

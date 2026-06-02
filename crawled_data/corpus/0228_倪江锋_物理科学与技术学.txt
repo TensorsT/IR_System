@@ -1,0 +1,9 @@
+doc_id: 228
+name: 倪江锋
+career: 
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/jeffni
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院

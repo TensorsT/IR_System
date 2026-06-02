@@ -1,0 +1,11 @@
+doc_id: 246
+name: 宋瑛林
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/ylsong
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+论文:论文：
+1、 Jia JD, Wu XZ, Fang Y, Yang JY, Guo X, Xu QY, Han YB, Song YL. Ultrafast Broad-Band Optical Limiting in Simple Hydrazone Derivatives with a Π-Conjugated System: Effect of Two-Photon-Induced Singlet-State Absorption[J]. ,The Journal  of Physical Chemistry C ,SCI,2018,Jidong Jia,Yinglin Song,122(28): 16234-16241

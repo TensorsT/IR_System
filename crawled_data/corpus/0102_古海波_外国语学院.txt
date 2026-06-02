@@ -1,0 +1,57 @@
+doc_id: 102
+name: 古海波
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/guhaibo
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、Preschool Bilingual Education Agency in Interactions between Children, Teachers, and Parents（book review), International Journal of Bilingual Education and Bilingualism,SSCI,2019,Tao Wei,Haibo Gu
+2、高校英语教师科研情感调节策略研究,解放军外国语学院学报,CSSCI,2019年第5期,古海波,顾佩娅,1
+3、Creating a Technology-enhanced Constructivist Learning Environment for Research Ability Development in a BA Thesis Writing Course,Computer Assisted Language Learning,SSCI,2019,Peiya Gu,Ye Zhang,Haibo Gu,3
+4、研究型英语教师发展叙事探究,基础外语教育,2019年第4期,古海波,王千,韩昕、刘林峰,1
+5、研究型外语教师专业发展个案研究,中小学外语教学,北大中文核心,2019年第8期,刘林峰,古海波,韩昕,2
+6、农村小学英语教师职业幸福感提升：积极心理学视角∗,基础外语教育,2019年第5期,陶伟,古海波,2
+7、中学英语研究型教师成长案例研究,基础外语教育,2018年第4期,古海波,韩昕,1
+8、从教师到教学设计师：论英语课堂活动设计原则,教学月刊,北大中文核心,2018年第9期，由人大复印报刊资料《中学外语教与学》2018年第11期全文转载,古海波,1
+9、改进高校跨文化交际课程 助力人类命运共同体构建,中国社会科学报,2018年8月23日,古海波,王千,1
+10、中学英语教师研究能力框架建构,基础外语教育,2017年第5期，由人大复印报刊资料《中学外语教与学》2018年第5期全文转载,古海波,1
+11、外语教师专业发展环境研究综述,外语教学与研究,CSSCI,2016年第1期,顾佩娅,陶伟,古海波、金琳,3
+12、《批评性英语教学中的情感研究》评介,外语教学与研究,CSSCI,2015年第4期,古海波,顾佩娅,1
+13、国际教师情感研究可视化分析及其启示,外语电化教学,CSSCI,2015年第3期,古海波,顾佩娅,1
+14、在与环境的互动中成长-老一代英语教师专业发展案例研究,外国语文研究,2015年第3期,顾佩娅,古海波,2
+15、高校英语教师专业发展环境调查,解放军外国语学院学报,CSSCI,2014年第4期,顾佩娅,古海波,陶伟,2
+16、优秀外语教师学科教学知识案例研究,中小学外语教学,北大中文核心,2014年第4期,古海波,1
+17、高校英语教师专业发展环境叙事问卷的设计与初步应用,中国外语,CSSCI,2013年第6期,顾佩娅,许悦婷,古海波,3
+18、例析工作坊促进外语教师专业发展,教学月刊,北大中文核心,2012年第12期，由人大复印报刊资料《中学外语教与学》2013年第2期全文转载,古海波,1
+19、中学优秀外语教师专业成长因素个案研究,中小学英语教学与研究,北大中文核心,2011年第11期，由人大复印报刊资料《中学外语教与学》2012年第2期全文转载,古海波,1
+20、反思实践视角下的生存期外语教师专业发展途径研究,中小学英语教学与研究,北大中文核心,2011年第6期,古海波,1
+21、英语专业本科毕业论文课研究性教学设计与实践,外语教学理论与实践,CSSCI,2010年第4期,顾佩娅,张烨,古海波,3
+22、计算机辅助外语教师素质初探,江苏外语教学与研究,2008年第3期,古海波,1
+23、《早期外语学习与教师教育》评介,外语教育研究前沿,CSSCI,2020第4期,古海波,王千
+24、研究型英语教师发展模式差异的案例研究,基础外语教育,被人大复印报刊资料《中学外语教与学》2021年第4期全文转载,2021第1期,古海波,裴语昕,1,1
+25、生态动态系统论视角下初中英语教师职业倦怠案例研究,基础外语教育,2021,古海波,赵璐,王玉,1
+26、中学英语新教师情感劳动策略案例研究,外语教育研究前沿,CSSCI,2021年,古海波,许娅楠,第4期
+27、老一代优秀英语教师阅读经历的案例研究,基础外语教育,2021,古海波,徐思雨,第3期
+28、 	我国外语教材研究综述(2010—2019),浙江外国语学院学报,2020,陶伟,古海波,第3期
+29、Have we addressed internationalization sufficiently: Investigation British and Sino-British postgraduate curricula with a post colonial design perspective,The Curriculum Journal,ESCI,2022.1,Qian Wang,西交利物浦大学,Haibo Gu,苏州大学/新疆师范大学
+30、做研究型英语教师：内涵、意义与策略探究,教育视界（外语教学）,2022.9,刘林峰,古海波,9,第二
+31、"痛并快乐着“：高校英语教师科研情感案例研究,顾佩娅等《中国高校英语教师专业发展环境研究》,2017,古海波,外语教学与研究出版社
+32、外语教师情感研究：概念内涵、研究评述与发展趋势,王蔷、张莲、顾佩娅等著《中国外语教师教育与发展研究》,2022,古海波,清华大学出版社
+33、中小学外语教师情感研究：现状与展望,基础外语教育,2023,古海波,苏州大学,刘子怡,（2）
+34、指向中学英语教师专业发展的网络研讨模式探究* 网络研讨模式探究 ——以苏新论坛为例,教学月刊（外语教学）,2023,陈玉松,古海波,古海波,苏州大学,6,2
+35、基于名师工作室的小学英语教师教学能力提升策略,小学教学研究,人大复印资料《小学英语教与学》2024年第1期全文转载,2023,古海波,苏州大学,卫钱喻,9,1
+36、解析女性研究型英语教师教研论文写作与发表经历,基础外语教育,2023,古海波,王思懿,5
+37、基于名师共同体的中小学英语教师研究能力提升,教育视界（外语版）,人大复印《中学外语教与学》2024年第5期全文转载,2023,古海波,石玉,12,1
+38、基于心流体验的中学英语教师专业发展,教学月刊（外语教学）,2024,古海波,夏雪颖,3
+39、The mediating role of technology acceptance and moderating role of emotion regulation in faculty’s online professional development,Australasian Journal of Educational Technology,SSCI,2024,Xiaochen Lin,Xi’an Jiaotong-Liverpool University,40(2),6
+40、Exploring the resilience development of secondary school English teacher-researchers: a Chinese case study,HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS,SSCI & AHCI,2024,Haibo Gu,Soochow University,Siyi Wang,Xiaofeng Chen,Qian Wang,11,1
+41、研究型英语教师学习途径及影响因素探究,小学教学研究,2024,古海波,石玉,刘蓉,7
+42、A case study of College English teachers’ emotional experiences in the blended teaching context,Fronties in Psychology,SSCI,2023,Shi Yu,Haibo Gu,Soochow University
+43、人工智能辅助英语阅读教学的实践探究,中小学英语教学与研究,人大复印资料《中学外语教与学》2025年第3期全文转载,2024,古海波,乔若雪,11
+44、Chinese EFL Teachers’ Emotion Regulation in Blended Teaching:  A Contextual Perspective,The Asia-Pacifc Education Researcher,SSCI,2025,Gu Haibo,Soochow University,Xu Yanan,Qian Wang,Qian Wang,1
+45、小学英语教育教学研究 2024 年度综述-基于 2024 年《复印报刊资料·小学英语教与学》论文转载情况的统计分析,小学教学设计（英语）,2025,沈琰琰,古海波,1-2
+46、新教材背景下小学英语教师的教材使用策略,小学教学研究,人大复印资料《小学英语教与学》2025年第11期全文转载,2025,徐欣烨,陶婷婷,古海波,5,3
+47、A case study of a teacher’s extrinsic emotion regulation on  students’ positive emotions and learning experience,Inte

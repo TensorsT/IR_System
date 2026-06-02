@@ -1,0 +1,199 @@
+doc_id: 234
+name: 汤如俊
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/tangrj
+---
+姓名:个人简介
+页面标题:物理科学与技术学院
+论文:论文成果：
+Selected Publications (Classified with research topics)
+：
+1.
+Magnetic, electric and Magneto-electric Properties
+[1]
+J.T. Li, R.N. Wang, C. Wang, Y. Xu,..., Y.H. Sun ,J. Zhao*,
+R. J. Tang*,
+G.F. Zou*, Three-dimensional Synergistic Strategy
+for Enhancing Voltage Output of ZnO Hydrovoltaic Devices,
+Advanced Functional Materials
+, v35, n34 (2025).
+[2]
+S.Y. Gao,
+R. J. Tang
+, P. Duan, J. Tan, S.G. Yuan, ... O. Akdim, J. Sun*, G. Hutchings*
+, Ultra-Fast Self-Powered
+Heterojunction Blue-Light Photodetector Based on Boronate-Ester-Linked COF-5,
+Angew. Chem. Int. Ed. v
+64, n36 (2025).
+[3]
+Y.F. Xu, Y. Xu,
+H.Z. Yu, A.D. Zhou, W.L.Zhang, B. Peng, X.H.Zhao,
+R. J. Tang*
+,
+High temperature conduction
+mechanism  of Al
+2
+O
+3
+/AlON/Al
+2
+O
+3
+multilayer thin films in near vacuum environment
+,
+Ceramics International,
+48, 22486 (2025).
+[4]
+J. Zhang; F. Peng; N. Su; L. Zhang; Y.G. Zhang; Y. Sun;
+R. J. Tang*
+,
+Y.S. Cai*
+, Tuning of quantum paraelectricity of the M
+-type hexaferrite
+BaFe
+12
+O
+19
+by external parameters,
+Physical Review B
+, v110, n23 (2024).
+[5]
+A
+.J.
+Dong,
+R
+.Y
+.Liu,
+Z
+.Q.
+Tian,
+F
+.
+Peng,
+R
+.
+Zhao,
+X
+.D.
+Su,;
+R. J. Tang*
+Effect of pre-sintering particle size on the
+microstructure and magnetic properties of two-step hot-press prepared BaFe12O19 thick films
+.
+Journal of Alloys and
+Compounds
+, 967,368e374 (2023).
+[6] X.Y. Wang, L. Ma, C.L. Wang, J. Wang, J. Guo,
+R. J. Tang*
+,
+J.T. Zhu*, G.F. Zou*, Seed Engineering toward Layer-regulated Growth of Magnetic Semiconductor VS
+2
+,
+Advanced Functional Materials
+, 2213295,1-9 (2023).
+[7]
+G.Q. Liang, S.C. Xu, H. Zhou, X.D.Su, R.n Zhao, H. Yang
+*
+,
+R. J. Tang*
+,
+Multi-field tuning of dielectric relaxation in epitaxial multiferroic hexaferrite thin film around room temperature: Property and mechanisms,
+Ceramics International,
+48, 30012(2022).
+[8]
+Feng Peng, A.J. Dong, G.Q. Liang, R. Zhao, W.W. Li, K. Sun, X.D.Su,
+R. J. Tang*
+,
+Submicron pre-sintering grain size effects on the microstructure and magnetic properties of hot-press sintered barium hexaferrite thick films,
+Ceramics International,
+48, 22486 (2022).
+[9]
+Q. S. Zhu,
+R. J. Tang*
+, G.Q. Liang, H. Wang, H.Y. Wang, R. Zhao, L. You, X.D.Su,
+Low voltage control of magnetism in BaFe
+10.2
+Sc
+1.8
+O
+19
+/BaTiO
+3
+bilayer epitaxial thin film at temperatures up to 390 K,
+Applied Physics Letters
+,
+120, 062401 (2022).
+[10]
+S.C. Xu, Q.S. Zhu, G.Q. Liang, J.M. Zhang, H. Wang, H.Y. Wang, R. Zhao, L.You, X.D. Su,
+R. J. Tang*
+, Lattice defects related magnetic and magnetocapacitance properties of multiferroic BaFe
+10.2
+Sc
+1.8
+O
+19
+epitaxial thin films,
+Scripta Materialia
+, 210(114466) (2022).
+[11]
+Q. S. Zhu,
+R. J. Tang*
+, F. Peng, H. Wang, H.Y. Wang, R. Zhao, L. You, X.D. Su, Mechanical regulation of the magnetic properties of uniaxial anisotropic hexaferrite thin films,
+Physical Review Applied
+, 16(054006),1-10 (2021).
+[12]
+J. Wang, L. Ma, X.Y. Wang, X.H. Wang, J.J. Yao, Q.H. Yi,
+R. J. Tang
+, and G.F. Zou, Sub-Nanometer Thick Wafer-Size NiO Films with Room-Temperature Ferromagnetic Behavior,
+Angew. Chem. Int. Ed.
+60, 25020–25027 (2021). (Collaboration with
+50% contribution
+).
+[13]
+Dan Zhou, Hansong Zeng, Guoqing Liang,
+R. J. Tang*
+, Zhi H. Hang, Zhiwei Hu,Zixi Pei& X. S. Ling, On the Origin of the Anomalous Hall Effect in Nb Thin Films,
+Chinese Physics B
+30(3) 211850, (2021).
+[14]
+Hansong Zeng, Dan Zhou, Guoqing Liang,
+R. J. Tang*
+, Zhi H. Hang, Zhiwei Hu,Zixi Pei& X. S. Ling, Kondo effect and superconductivity in niobium with iron impurities,
+Scientific Reports
+,11:14256(2021).
+[15]
+Q
+.S.Zhu,
+R. J. Tang*
+H. Zhou, et’al, Chemical tuning of the magnetic properties of epitaxial BaFe
+12-x
+Sc
+x
+O
+19
+(0< x < 2.1) hexaferrite thin films,
+Journal of Alloys and Compounds
+, 802, 522-527 (2019).
+[16]
+J. Shen, C. Jiang, C.Y. Li and
+R. J. Tang*
+, Investigation of magnetic properties of Sr
+3
+(Co, Zn)
+2
+Fe
+24
+O
+41
+Z-type hexaferrites,
+Materials Research Express 6, 066111
+(2019).
+[17]
+J.J Zhang
+,
+W.L.Kong,
+R. J. Tang*
+, X.D.Su*, J.S.Chen* et’al, Piezoelectric control
+of 

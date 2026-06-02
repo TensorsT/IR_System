@@ -1,0 +1,20 @@
+doc_id: 22
+name: 陈伟
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/robertchen
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、User Account Linkage Across Multiple Platforms with Location Data,JCST,CCF-B,2020.7,Wei Chen,Lei Zhao
+2、Measuring Semantic Relatedness with Knowledge Association Network,DASFAA,CCF-B,2019.5,Jiapeng Li,Wei Chen,Lei Zhao
+3、Publishing Graph Node Strength Histogram with Edge Differential Privacy,DASFAA,CCF-B,2018.5,Qing Qian,Wei Chen,Lei Zhao
+4、Effective and Efcient User Account Linkage Across Location Based Social Networks,ICDE,CCF-A,2018.6,Wei Chen,Weiqing Wang,Lei Zhao,Hongzhi Yin
+5、A Privacy-Preserving Framework for Subgraph Pattern Matching in Cloud,DASFAA,CCF-B,2018.5,Jiuru Gao,Wei Chen,Lei Zhao
+6、Exploiting Spatio-Temporal User Behaviors for User Linkage,CIKM,CCF-B,2017.11,Wei Chen,Lei Zhao
+7、When Peculiarity Makes a Difference: Object Characterisation in Heterogeneous Information Networks,DASFAA,CCF-B,2016.5,Wei Chen,Lei Zhao,Feida Zhu
+8、Trip Oriented Search on Activity Trajectory,JCST,CCF-B,2015.8,Wei Chen,Lei Zhao
+9、Ranking Based Activity Trajectory Search,WISE,CCF-C,2014.10,Wei Chen,Lei Zhao
+10、Extracting representative user subset of social networks towards user characteristics and topological features,WWWJ,CCF-B,2020.1,Yiming Zhou,Wei Chen,Lei Zhao

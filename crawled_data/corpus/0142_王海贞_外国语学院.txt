@@ -1,0 +1,16 @@
+doc_id: 142
+name: 王海贞
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/wanghaizhen
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、学习者因素与英语口语成绩关系的结构方程模型研究,外语教学理论与实践,CSSCI,2019,王海贞,1
+2、网络自主学习环境下英语学习者训练的行动研究,苏州大学学报 教育科学版,2017,王海贞,1
+3、任务条件、口语产出与分数的交互影响研究,中国外语,CSSCI,2015,王海贞,1
+4、策略准备时间对二语对话型口语表现的影响（英文）,中国应用语言学,2015,王海贞,1
+5、Visual literacy in secondary EFL education in China: A semiotic perspective,Language and Semiotic Studies,2021,王海贞,1
+6、Thinking for speaking and gesturing motion events: A typological perspective,Language and Semiotic Studies,2018,王海贞,1

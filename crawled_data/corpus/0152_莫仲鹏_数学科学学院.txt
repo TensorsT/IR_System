@@ -1,0 +1,22 @@
+doc_id: 152
+name: 莫仲鹏
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/zpmo
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Sato-Tate distribution for abelian varieties with real multiplication over function fields,Mathematical Research Letters,2007,14卷1期，113-128页
+2、The exceptional zero conjecture for Hilbert modular forms,Compositio Mathematica,2009,145卷1期，1-55页
+3、Special values of L-functions of elliptic curves over Q and their base change to real quadratic fields,Journal of Number Theory,2010,130卷2期， 431-438页
+4、Heegner points and p-adic L-functions for elliptic curves over certain totally real fields,Commentarii Mathematici Helvetici,2011,86卷4期，867-945页
+5、L-invariant of the adjoint Galois representation of modular forms of finite slope,Journal of the London Mathematical Society,2012,86卷2期，626-640页
+6、Galois representations attached to automorphic forms on GL(2) over CM fields,Compositio Mathematica,2014,150卷4期，523-567页
+7、Over-convergent families of Siegel-Hilbert modular forms,Canadian Journal of Mathematics,2015,67卷4期，893-922页
+8、Endoscopic classification of representation of quasi-split unitary groups,Memoirs of the American Mathematical Society,2015,235卷1108期
+9、On Teitelbaum type L-invariants of Hilbert modular forms attached to definite quaternions,Journal of Number Theory,2015,147卷，633-665页
+10、A weak form of beyond endoscopic decomposition for the stable trace formula for odd orthogonal groups,Science China Mathematics,2018,61卷6期，993-1012页
+11、The spectral side of stable local trace formula,Documenta Mathematica,2019,24卷，303-329页
+12、On a theorem of Bertolini-Darmon on the rationality of Stark-Heegner points over genus fields of real quadratic fields,Transactions of the American Mathematical Society,2021,374卷, 1391-1419 页

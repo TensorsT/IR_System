@@ -1,0 +1,108 @@
+doc_id: 2
+name: 周经亚
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/jy_zhou/index.html
+---
+姓名:个人简介
+页面标题:Jingya Zhou | Homepage
+个人简介:周经亚，博士，教授，博士生导师，
+CCF高级会员，ACM/IEEE会员，"青蓝工程"优秀青年骨干教师，
+2013年10月毕业于东南大学计算机应用技术专业，获工学博士学位，2018年晋升副教授，2023年破格晋升教授，
+累计发表论文90余篇，其中以第一、通讯作者身份在《ACM
+                Computing Surveys》、《IEEE Transactions on Computational Social Systems》、《Information Sciences》、《Information Processing & Management》、《World Wide Web》、《中国科学：信息科学》、《软件学报》、INFOCOM、ICDE、KDD、SIGIR、ICDCS、ICPP、ECAI和DASFAA等国内外权威期刊及顶级学术会议上发表论文近50篇，ESI高被引论文1篇，
+现阶段研究兴趣包括人工智能、机器学习、大模型智能体、智能计算、社会网络、边缘计算等，与美国佐治亚理工学院（Georgia
+                Tech）、微软亚洲研究院（MSRA）保持长期合作关系。
+报考咨询
+>>>
+博士研究生报考，鼓励热爱科研，具有良好科研基础的同学报考。报考前请先对我的研究方向有一定了解，再邮件咨询
+e-mail
+！
+>>>
+硕士研究生报考咨询，2026级研究生名额充足（含推免），请
+邮件咨询
+e-mail
+，
+联系前对我的研究方向有一定了解
+。
+建议考研同学确定进入复试后第一时间与我联系，保研同学暑假期间可尽早联系！
+>>>
+欢迎优秀本科生加入，加入后将得到全面指导并在科研、项目、竞赛、考（保）研、出国留学、实习等方面获得更多机会，邮件咨询
+e-mail
+！
+最新消息
+Congratulations to my graduate student Qilong Lin! Our paper
+                    entitled 'SNBot: Modeling Self–Neighborhood Representation Discrepancy for Social Bot Detection' has been accepted by
+SIGIR'26
+(CCF rank A)
+, April, 2026.
+Congratulations! Our paper
+                    entitled 'Mirror: Disentangling and Purifying Multimodal Information for Recipe Recommendation' has been accepted by
+DASFAA'26
+(CCF rank B)
+, January, 2026.
+祝贺研究生林其隆获得研究生国家奖学金，2025年11月.
+科研项目“社交网络多源信息传播中的群体交互机制与传播预测研究”获得国家自然科学基金面上项目资助，2025年8月.
+祝贺研究生施莹丹硕士论文获评苏州大学优秀硕士学位论文，2025年8月.
+I was invited to serve as an Associate Editor of
+IEEE Transactions on Big Data
+, August, 2025.
+Congratulations! Our paper
+                    entitled 'Partial Decode and Compare: An Efficient Verification Scheme for Coded Edge Computing' has won
+the Runner-up of the 2024 Best Paper Award from IEEE Transactions on Cloud Computing
+, August, 2025.
+Congratulations to my graduate student Boyu Du! Our paper
+                    entitled 'Joint Task Scheduling and Resource Allocation in Cloud-Edge Collaborative Computing Systems' has been accepted by
+ICPP'25
+(CCF rank B)
+, June, 2025.
+Congratulations to my graduate student Qilong Lin! Our paper
+                    entitled 'BotBR: Social Bot Detection with Balanced Feature Fusion and Reliability-Enhanced Graph Learning' has been accepted by
+SIGIR'25
+(CCF rank A)
+, April, 2025.
+Congratulations to my undergraduate student Haoyu Guo! Our paper
+                    entitled 'MACRec: A Meta-learning Enhanced Model for Academic Collaborator Recommendation' has been accepted by
+CSCWD'25
+(CCF rank C, Best Paper Award)
+, February, 2025.
+Congratulations to my graduate student Yingdan Shi! Our paper
+                    entitled 'Influence Contribution Ratio Estimation in Social Networks' has been accepted by
+Information Sciences
+(中科院一区Top, CCF rank B)
+, February, 2025.
+获得第四届苏州大学教师教学创新大赛一等奖，2025年1月.
+Congratulations! My paper entitled 'A Diffusion-based Triple Embedding Model for User Identity Linkage across Social Networks' has been accepted by
+DASFAA'25
+(CCF rank B)
+, January, 2025.
+祝贺研究生吴臻、王杰硕士论文获评江苏省计算机学会优秀硕士学位论文，2024年12月.
+祝贺研究生吴臻、王杰硕士论文获评苏州大学优秀硕士学位论文，2024年9月.
+Congratulations to my graduate student Congcong Zhang! Our paper
+                    entitled 'Order-Sensitive Competitive Revenue Maximization for Viral Marketing in Social Networks' has been accepted by
+Information Sciences
+(中科院一区Top, CCF rank B)
+, September, 2024.
+Congratulations to my graduate student Boyu Du! Our paper entitled 'FL-GNN: Efficient Fusion of Fuzzy Neural Network and Graph Neural Network' has been accepted by
+ECAI'24
+(CCF rank B)
+, July, 2024.
+Congratulations to my graduate student Zhenyu Hu! Our paper
+                    entitled 'Predicting Cross-domain Collaboration using Multi-Task Learning' has been accepted by
+Expert Systems With Applications
+(中科院一区Top)
+, June, 2024.
+Congratulations to my graduate student Zhen Wu! Our paper entitled 'A Deep Prediction Framework for Multi-Source Information via Heterogeneous GNN' has been accepted by
+KDD'24
+(CCF rank A)
+, May, 2024.
+祝贺本科生刘卓扬、李扬、曾祥赫、杨懿、张佳卉获得国家级创新训练计划项目资助，2024年5月.
+祝贺本科生郭浩宇获得2024年苏州大学“莙政基金”项目，2024年3月.
+Congratulations to my graduate students Xiaolong She and J
+论文:项目
+教学
+荣誉
+语言切换：
+中文
+English

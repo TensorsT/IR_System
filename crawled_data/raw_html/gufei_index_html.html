@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--  <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no;">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <meta name="format-detection" content="telephone=no">
+
+    <title>Homepage</title>
+</head>
+<link rel="stylesheet" href="./css/index.css">
+<link rel="stylesheet" href="./css/base.css">
+<link rel="stylesheet" href="./css/reset.css">
+<script type="text/javascript" src="./language-switch.js">
+
+
+    var system = {};
+
+    var p = navigator.platform;
+
+    console.log(p);
+
+
+    system.win = p.indexOf("Win") == 0;
+
+    system.mac = p.indexOf("Mac") == 0;
+
+    if (system.win || system.mac) {//如果是电脑
+
+        console.log('pc');
+        localStorage.setItem('dropIf', false)
+
+        //document.getElementById("dropContent").style.display='none'
+
+    } else { //如果是手机,
+
+        console.log('移动端');
+        localStorage.setItem('dropIf', false)
+        document.getElementById("dropContent").style.display = 'none'
+
+    }
+
+
+    function drop() {
+        console.log(document.getElementById("dropContent").style)
+        let ifdrop = localStorage.getItem('dropIf')
+        console.log(ifdrop)
+        if (ifdrop == 'false') {
+            document.getElementById("dropContent").style.display = 'block'
+            localStorage['dropIf'] = true
+        } else {
+            document.getElementById("dropContent").style.display = 'none'
+            localStorage['dropIf'] = false
+        }
+
+
+    }
+</script>
+<body background="img/beijing.png"
+      style="background-repeat: no-repeat; background-size: 100% 100%; background-attachment: fixed;width: 100%">
+      <header class="site_head" id="pcHeader">
+        <div class="topbar">
+            <div class="center" style="display: flex; justify-content: space-between; align-items: center;">
+                <div class="nav-r" style="font-family: 'Times New Roman', Times, serif;">
+                    <a href="index.html">
+                        <span class="lang-en" style="display:none;">Fei Gu Homepage</span>
+                        <span class="lang-zh">谷飞的主页</span>
+                    </a>
+                </div>
+                <nav class="shortcut-links">
+                    <ul style="font-family: 'Times New Roman', Times, serif; display: flex;">
+                        <li class="active">
+                            <a href="index.html" class="lang-en">Homepage</a>
+                            <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+                        </li>
+                        <li>
+                            <a href="biography.html" class="lang-en">Biography</a>
+                            <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+                        </li>
+                        <li>
+                            <a href="publications.html" class="lang-en">Publications</a>
+                            <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+                        </li>
+                        <li>
+                            <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+                            <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="lang-en">Research</a>
+                            <a class="lang-zh" style="display:none;">科学研究</a>
+                            <div class="dropdown-content">
+                                <a href="research_area.html" class="lang-en">Research Area</a>
+                                <a href="research_group.html" class="lang-en">Research Group</a>
+                                <a href="research_life.html" class="lang-en">Research Life</a>
+                                <a href="projects.html" class="lang-en">Research Project</a>
+                                <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+                                <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+                                <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+                                <a href="projects.html" class="lang-zh" style="display: none;">研究项目</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="teaching.html" class="lang-en">Teaching</a>
+                            <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+                        </li>
+                        <li>
+                            <a href="services.html" class="lang-en"> Social Services</a>
+                            <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+                        </li>
+                        <li>
+                            <a href="recruiting.html" class="lang-en">Recruiting</a>
+                            <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" class="lang-switch">Language</a>
+                            <div class="dropdown-content">
+                                <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                                <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header> 
+<header class="moHeader" id="moHeader">
+    <div style="color: white; margin-left: 3vh; font-weight: bolder;">
+        <span class="lang-en">HOME</span>
+        <span class="lang-zh" style="display:none;">主页</span>
+    </div>
+    <div class="HeaderButton" id="dropbtn" onclick="drop()">
+        <div class="sanTiaoHengXian"></div>
+        <div class="sanTiaoHengXian2"></div>
+        <div class="sanTiaoHengXian"></div>
+    </div>
+</header>
+<div style="width: 100%;height: 46vh;background-color: black;z-index: 4;display:none " id="dropContent" class="pages">
+    <ul style="font-family: 'Times New Roman', Times, serif;" class="page">
+        <li class="active">
+            <a href="index.html" class="lang-en">Homepage</a>
+            <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+        </li>
+        <li>
+            <a href="biography.html" class="lang-en">Biography</a>
+            <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+        </li>
+        <li>
+            <a href="publications.html" class="lang-en">Publications</a>
+            <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+        </li>
+        <li>
+            <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+            <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+        </li>
+        <li >
+            <a href="research_area.html" class="lang-en">Research Area</a>
+            <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+        </li>
+        <li>
+            <a href="research_group.html" class="lang-en">Research Group</a>
+            <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+        </li>   
+        <li>
+            <a href="research_life.html" class="lang-en">Research Life</a>
+            <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+        </li>
+        <li>
+            <a href="projects.html" class="lang-en">Research Project</a>
+            <a href="projects.html" class="lang-zh" style="display:none;">研究项目</a>
+        </li>
+        <li>
+            <a href="teaching.html" class="lang-en">Teaching</a>
+            <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+        </li>
+        <li>
+            <a href="services.html" class="lang-en"> Social Services</a>
+            <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+        </li>
+        <li>
+            <a href="recruiting.html" class="lang-en">Recruiting</a>
+            <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+        </li>
+        <li class="dropdown">
+            <a href="javascript:void(0)" class="lang-switch">Language</a>
+            <div class="dropdown-content">
+                <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+            </div>
+        </li>
+    </ul>
+</div>
+
+
+<div class="content">
+    <div class="top" style="margin-bottom: -20px;margin-top: -40px;margin-left: 1px;">
+        <div class="title" >
+            <div class="word" >
+                <span class="lang-en">Welcome to Fei Gu's Homepage!</span>
+                <span class="lang-zh" style="display:none;">欢迎来到谷飞的主页!</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="swipers" style="margin-top: 0;">
+        <div class="block">
+            <div class="swiper">
+                <img src="img/swiper/01.png" alt="轮播图">
+                <img src="img/swiper/02.png" alt="轮播图">
+                <img src="img/swiper/03.png" alt="轮播图">
+                <img src="img/swiper/04.png" alt="轮播图">
+                <img src="img/swiper/05.png" alt="轮播图">
+                <img src="img/swiper/06.png" alt="轮播图">
+                <img src="img/swiper/07.png" alt="轮播图">
+                <img src="img/swiper/08.png" alt="轮播图">
+                <img src="img/swiper/01.png" alt="轮播图">
+                <img src="img/swiper/02.png" alt="轮播图">
+                <img src="img/swiper/03.png" alt="轮播图">
+                <img src="img/swiper/04.png" alt="轮播图"> 
+            </div>  
+        </div>
+    </div>
+    <div class="img-and-intr">
+        <img class="my-img" src="img/gufei.png" alt="">
+        <div class="intr" style="font-family: 'Times New Roman', Times, serif;">
+            <div style="width: 33%;height: 2px;background-color: rgb(235, 232, 232);"></div>
+            <div style="margin: 2px;font-size: 25px;font-weight: 1000;">
+                <span class="lang-en" style="display:none;font-size: 21px">Fei Gu, Associate Professor, Excellent Young Scholar at Soochow University</span>
+                <span class="lang-zh">谷飞，副教授，苏州大学优秀青年学者</span>
+            </div>
+            <div style="margin-top: 35px; width: 33%;height: 2px;background-color: rgb(235, 232, 232);"></div>
+            <div style="margin-top: 43px;font-size: 20px;font-weight: 500;">
+                <span class="lang-en" style="display:none;">Department of Computer Science and Technology, Soochow University</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+            </div>
+            <div style="margin-top: 68px;font-size: 20px;width: 1000px;font-weight: 500">
+                <span class="lang-en" style="display:none;">Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China</span>
+                <span class="lang-zh">江苏省苏州市十梓街1号苏州大学理工楼517房间</span>
+            </div>
+            <div style="margin-top: 93px;font-size: 20px;font-weight: 500">
+                <span class="lang-en" style="display:none;">Email: gufei@suda.edu.cn(Work) / jintiangufei@163.com(Private)</span>
+                <span class="lang-zh">电子邮箱: gufei@suda.edu.cn(工作) / jintiangufei@163.com(私人)</span>
+            </div>
+            <div style="margin-top: 163px;font-size: 20px;font-weight: 800">
+                <span class="lang-en" style="display:none;">School of Computer Science and Technology, Soochow University</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学学院</span>
+            </div>
+            <div style="margin-top: 193px;font-size: 20px;font-weight: 800">
+                <span class="lang-en" style="display:none;">Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China</span>
+                <span class="lang-zh">江苏省苏州市十梓街1号苏州大学理工楼517房间</span>
+            </div>
+        </div>
+    
+        <div class="intr-mb" style="font-family: 'Times New Roman', Times, serif;">
+            <div style="margin-bottom: 10px;font-size: 14px;font-weight: bolder;">
+                <span class="lang-en" style="display:none;">Fei Gu, Excellent Young Scholar at Soochow University</span>
+                <span class="lang-zh">谷飞，副教授，苏州大学优秀青年学者</span>
+            </div>
+            <div style="font-size: 11px;">
+                <span class="lang-en" style="display:none;">Department of Computer Science and Technology, Soochow University</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+            </div>
+            <div style="font-size: 11px;">
+                <span class="lang-en" style="display:none;">Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China</span>
+                <span class="lang-zh">江苏省苏州市十梓街1号苏州大学理工楼517房间</span>
+            </div>
+            <div style="font-size: 11px;">
+                <span class="lang-en" style="display:none;">Email: gufei@suda.edu.cn(Work)</span>
+                <span class="lang-zh">电子邮箱: gufei@suda.edu.cn(工作)</span>
+            </div>
+            <div style="font-size: 11px;">
+                <span class="lang-en" style="display:none;">Email: jintiangufei@163.com(Private)</span>
+                <span class="lang-zh">电子邮箱: jintiangufei@163.com(私人)</span>
+            </div>
+            <!-- <div style="font-size: 11px;margin-bottom: 10px;">
+                <span class="lang-en" style="display:none;">Tel:+86-1%3#9%2%1#9%6#9#0#9%6</span>
+                <span class="lang-zh">电话:+86-1%3#9%2%1#9%6#9#0#9%6</span>
+            </div> -->
+            <div style="font-size: 12px;font-weight: bold;">
+                <span class="lang-en" style="display:none;">School of Computer Science and Technology, Soochow University</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学学院</span>
+            </div>
+            <div style="font-size: 12px;font-weight: bold;">
+                <span class="lang-en" style="display:none;">Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China</span>
+                <span class="lang-zh">江苏省苏州市十梓街1号苏州大学理工楼517房间</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="news" style="font-family: 'Times New Roman', Times, serif;">
+        <div class="new">
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to graduate student Wu Zhiwen for receiving the authorization certificate for the national invention patent "Automatic Latent Image Recognition Method Based on Enhanced Spatiotemporal Feature Network" (ZL202510007159.4), on June 6, 2025.
+                </span>
+                <span class="lang-zh">恭喜组内研究生吴志文申请的国家发明专利（基于增强时空特征网络的自动化自发显影识别方法，ZL202510007159.4）获得授权证书，2025年6月6日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to our team (Prof. Gu Fei, Prof. Wu Jing, and student Zhang Ziheng) for winning <font color="red">the Second Prize of the 2024 Suzhou Artificial Intelligence Society Natural Science Award</font>, awarded in January 2025.
+                </span>
+                <span class="lang-zh">恭喜本团队（谷飞老师、武婧老师、张子恒同学）获得2024年度苏州市人工智能学会<font color="red">“人工智能自然科学二等奖”</font>，2025年1月。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Prof. Gu Fei has been appointed as a think tank expert of the Jiangsu Digital Economy Society in January 2025.
+                </span>
+                <span class="lang-zh">谷飞老师受聘“江苏省数字经济学会智库专家称号”，2025年1月。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to undergraduate student Zhao Changpeng (team members: Zhang Ziheng, Yang Jiahao, Zhang Minghao) for being granted a <font color="red">2024 National Undergraduate Innovation and Entrepreneurship Project</font>, with an excellent mid-term evaluation on May 13, 2025.
+                </span>
+                <span class="lang-zh">恭喜团队本科生赵昌鹏（团队成员：张子恒、杨佳豪、张茗皓）获得<font color="red">2024年度国家级大学生创新创业项目</font>，并且中期考核为优秀，2025年5月13日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to graduate student Zha Wei for winning the <font color="red">Second Prize </font>in the 2025 "Challenge Cup" Academic Science and Technology Competition at Soochow University, on March 14, 2025.
+                </span>
+                <span class="lang-zh">恭喜团队研究生查伟获得苏州大学2025年“挑战杯”大学生课外学术科技作品竞赛<font color="red">二等奖</font>，2025年3月14日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Prof. Gu Fei has been invited to serve as a PC Member of the 18th International Conference on Bioinformatics and Biomedicine (BIBM-2025, CCF B). We welcome your submissions! (<a href="https://biod.whu.edu.cn/bibm2025/" target="_blank">link</a>)
+                </span>
+                <span class="lang-zh">谷飞老师担任2025年18th International Conference on Bioinformatics and Biomedicine (BIBM-2025) (CCF B类) 会议的PC Member，请大家不吝赐稿！（<a href="https://biod.whu.edu.cn/bibm2025/" target="_blank">link</a>）</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to our team for being approved for a 2025 research project funded by the Jiangsu Digital Economy Society. (<a href="https://mp.weixin.qq.com/s/RQay4CSe5f8R-zHmd5mSIQ" target="_blank">link</a>)
+                </span>
+                <span class="lang-zh">恭喜团队获批2025年江苏省数字经济学会调研课题（<a href="https://mp.weixin.qq.com/s/RQay4CSe5f8R-zHmd5mSIQ" target="_blank">link</a>），2025年1月21日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to graduate student Wu Zhiwen for the approval of two software copyrights: "Spontaneous Latent Image Aided Diagnosis System v1.0" (2025SR0310805), and "Spatiotemporal Representation-Based Latent Image Recognition System v1.0" (2025SR0311467), on January 21, 2025.
+                </span>
+                <span class="lang-zh">恭喜组内研究生吴志文申请的两项软件著作权获批（基于关键区域分割的自发显影辅助诊断系统系统v1.0, 2025SR0310805；基于时空表征网络的自发显影识别系统v1.0，2025SR0311467），2025年1月21日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to graduate student Wei Zhihao for the approval of the software copyright "Task Migration Framework Software Based on WASM Runtime V1.0" (2025SR0981061), on June 11, 2025.
+                </span>
+                <span class="lang-zh">恭喜组内研究生魏志豪申请的软件著作权获批（基于WASM运行时的任务迁移框架软件V1.0, 2025SR0981061），2025年6月11日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Congratulations to the team for signing a cooperation agreement with Taicang First People's Hospital on April 17, 2025. The project focuses on multimodal data fusion for Parkinson's disease assisted diagnosis.
+                </span>
+                <span class="lang-zh">恭喜团队与太仓市第一人民医院签订合作合同（基于多模态数据融合的帕金森辅助诊断方案设计），2025年4月17日。</span>
+            </li>
+            <li><em>New</em>:
+                <span class="lang-en" style="display: none;">
+                    Prof. Gu Fei was invited to give a talk at the 17th "Tong·Innovation" Academic Salon at Soochow University on April 29, 2025. The topic was: Key Technologies for Cardiovascular Disease Diagnosis Based on Hybrid-Enhanced Intelligence. (<a href="http://file.suda.edu.cn/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38594259" target="_blank">link</a>)
+                </span>
+                <span class="lang-zh">谷飞老师受邀在苏州大学第17期“同·创新”学术沙龙作报告，主题为：基于混合增强智能的心血管疾病辅助诊断关键技术（<a href="http://file.suda.edu.cn/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38594259" target="_blank">link</a>），2025年4月29日。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display: none;">
+                    Congratulations to undergraduate student Dai Yuanchao's paper "MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals" for becoming a highly cited ESI paper.
+                </span>
+                <span class="lang-zh">恭喜组内本科生代渊超的论文“MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals”成为ESI高被引论文。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display: none;">
+                    Congratulations to our graduate student Guo Biren for having their paper titled "PVCsNet : A Specialized Artificial Intelligence-Based Model to Classify Premature Ventricular Contractions from ECG Images" accepted by the Journal of Biomedical and Health Informatics, September 2024.
+                </span>
+                <span class="lang-zh">祝贺组内研究生郭璧人同学的论文“PVCsNet : A Specialized Artificial Intelligence-Based Model to Classify Premature Ventricular Contractions from ECG Images. ”被中科院1区期刊Journal of Biomedical and Health Informatics接收，2024年9月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to graduate student Zhang Ziheng for his paper “SeLaNet: A Noninvasive Distilled Neural Network to Predict the Dense SEC/LAAT Based on Multi-layer Perceptron” accepted by CBD2024, September 2024.</span>
+                <span class="lang-zh">祝贺组内研究生张子恒同学的论文“SeLaNet: A Noninvasive Distilled Neural Network to Predict the Dense SEC/LAAT Based on Multi-layer Perceptron”被CBD2024接收，2024年9月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Our team has been awarded an open project from the National Key Laboratory of Virtual Reality Technology and Systems, Beihang University, 2024 (<a href="https://vrlab.buaa.edu.cn/info/1123/2307.htm">link</a>).</span>
+                <span class="lang-zh">恭喜本团队获得2024年度全国重点实验室（北京航空航天大学虚拟现实技术与系统）开放课题(<a href="https://vrlab.buaa.edu.cn/info/1123/2307.htm">link</a>)。</span>
+            </li>
+        </div>       
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Our team (Prof. Fei Gu, Prof. Jing Wu, and Director Shikun Sun) won the <font color="red">Second Prize</font> in the 2023 Suzhou Computer Science Association Science and Technology Award, January 25, 2024 (<a href="https://mp.weixin.qq.com/s/6y3yKh51SrsXzhCn4GwGvQ">link</a>).</span>
+                <span class="lang-zh">恭喜本团队（谷飞老师、武婧老师、孙世坤主任）获得2023年度苏州市计算机学会科学技术奖<font color="red">二等奖</font>，2024年1月25日(<a href="https://mp.weixin.qq.com/s/6y3yKh51SrsXzhCn4GwGvQ">link</a>)。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-zh">
+                    恭喜组内本科生张子恒、王子俊、林涛获得<font color="red">领航杯二等奖</font>，赵昌鹏、杨佳豪获得<font color="red">领航杯三等奖</font>，2024年1月8日。
+                </span>
+                <span class="lang-en">Congratulations to undergraduates Zhang Ziheng, Wang Zijun, and Lin Tao for winning the <font color="red">Second Prize of the Linghang Cup</font>, and to Zhao Changpeng and Yang Jiahao for winning the <font color="red">Third Prize of the Linghang Cup</font>, January 8, 2024.</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en">
+                    Professor Fei Gu was promoted to <font color="red">Senior Member of CCF</font> on September 22, 2023.
+                </span>
+                <span class="lang-zh">谷飞老师晋升<font color="red">CCF高级会员</font>，2023年9月22日。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en">
+                    Congratulations to Professor Fei Gu for being awarded the <font color="red">Suzhou Youth Entrepreneurship Leading Talent</font> in September 2023 (<a href="http://kjj.suzhou.gov.cn/szkj/tzgg/202309/f340a1d945074effa979e611839aadb3.shtml">link</a>).
+                </span>
+                <span class="lang-zh">恭喜谷飞老师获得2023年<font color="red">姑苏青年创业领军人才</font>，2023年9月(<a href="http://kjj.suzhou.gov.cn/szkj/tzgg/202309/f340a1d945074effa979e611839aadb3.shtml">link</a>)。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to Prof. Fei Gu for being awarded the 2023 National Natural Science Foundation Youth Project, “Research on Hybrid Enhanced Intelligent Networks for Ventricular Premature Beat Diagnosis,” August 2023.</span>
+                <span class="lang-zh">祝贺谷飞老师获批2023年度自然科学基金青年项目“面向室性早搏辅助诊断的混合增强智能网络研究”，2023年8月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en">
+                    Congratulations to undergraduate students Zijun Wang and Tao Lin for winning the <font color="red">Second Prize</font> in the Artificial Intelligence Practice Competition of the 2023 (16th) China Undergraduate Computer Design Contest for their project "Smart Cultural Relics—A Cultural Relic Information Digitization System Based on Convolutional Neural Networks," August 2023.
+                </span>
+                <span class="lang-zh">祝贺组内本科生王子俊、林涛同学的“智慧文物——基于卷积神经网络的文物信息数字化系统”项目获得2023年（第16届）中国大学生计算机设计大赛人工智能实践赛<font color="red">二等奖</font>，2023年8月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Prof. Fei Gu was awarded the 2023 Suzhou Basic Research Program (Medical Application Basic Research), “Research on the Application of Hybrid Enhanced Intelligence for Ventricular Premature Beat Diagnosis,” July 2023.</span>
+                <span class="lang-zh">祝贺谷飞老师获批2023年度苏州市基础研究计划（医学应用基础研究）项目“基于混合增强智能的室性早搏辅助诊断应用基础研究”，2023年7月。</span>
+            </li>
+        </div>
+        <div class="new">
+        <li><em>New</em>: 
+            <span class="lang-en" style="display:none;">I am co-chairing the 2023 International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2023). Please consider submitting your best work to the conference! Deadline: July 20, 2023 (<a href="http://www.iotcit.org/">link</a>).</span>
+            <span class="lang-zh">我将担任2023年国际物联网、通信与智能技术会议（IoTCIT 2023）的联合主席。请各位专家同仁赐稿！截止日期：2023年7月20日(<a href="http://www.iotcit.org/">link</a>)。</span>
+        </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en">
+                    Congratulations to undergraduate students Zijun Wang and Tao Lin for their project "Smart Cultural Relics—A Cultural Relic Information Digitization System Based on Convolutional Neural Networks," which was awarded a <font color="red">Major Project</font> under the 25th batch of the Soochow University Undergraduate Extracurricular Academic and Scientific Research Fund, July 2023.
+                </span>
+                <span class="lang-zh">恭喜组内本科生王子俊、林涛同学的“智慧文物——基于卷积神经网络的文物信息数字化系统”项目获得苏州大学第二十五批大学生课外学术科研基金<font color="red">重大项目</font>，2023年7月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to undergraduate student Zhang Ziheng, graduate students Guo Biren and Wu Zhiwen for their project awarded the <font color="red">general project</font> in the 25th batch of Soochow University’s Undergraduate Academic Research Fund, July 2023.</span>
+                <span class="lang-zh">恭喜组内本科生张子恒同学、研究生郭璧人同学、吴志文同学的项目获得苏州大学第二十五批大学生课外学术科研基金<font color="red">一般项目</font>，2023年7月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to undergraduate students Wang Zijun and Lin Tao for winning the <font color="red">third prize</font> in the 2023 Jiangsu Provincial University Computer Design Competition, May 2023.</span>
+                <span class="lang-zh">恭喜组内本科生王子俊、林涛同学的“智慧文物——基于卷积神经网络的文物信息数字化系统”项目在2023年（第10届）江苏省大学生计算机设计大赛暨中国大学生计算机设计大赛江苏省级赛中荣获<font color="red">三等奖(证书编号：JSUCDC-AI-2023082-03)</font>，2023年5月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "ECGNet: an Efficient Network for Detecting Premature Ventricular Complexes Based on ECG Images" has been accepted by IEEE Transactions on Biomedical Engineering <font color="blue">(Q1, IF=4.756)</font>, July 2022.</span>
+                <span class="lang-zh">恭喜！我们的论文 "ECGNet: an Efficient Network for Detecting Premature Ventricular Complexes Based on ECG Images" 已被IEEE Transactions on Biomedical Engineering 接收 <font color="blue">(Q1, IF=4.756)</font>，2022年7月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "TuSeSy: An Intelligent Turntable Servo System for Tracking Aircraft and Parachutes Automatically" has been accepted by Applied Sciences <font color="blue">(Q2, IF=2.679)</font>, May 2022.</span>
+                <span class="lang-zh">恭喜！我们的论文 "TuSeSy: An Intelligent Turntable Servo System for Tracking Aircraft and Parachutes Automatically" 已被Applied Sciences 接收 <font color="blue">(Q2, IF=2.679)</font>，2022年5月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "ODEM-GAN: An Object Deformation Enhancement Model Based on Generative Adversarial Networks" has been accepted by Applied Sciences <font color="blue">(Q2, IF=2.679)</font>, April 2022.</span>
+                <span class="lang-zh">恭喜！我们的论文 "ODEM-GAN: An Object Deformation Enhancement Model Based on Generative Adversarial Networks" 已被Applied Sciences 接收 <font color="blue">(Q2, IF=2.679)</font>，2022年4月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Prof. Fei Gu was awarded the title of <font color="red">Suzhou High-tech Zone Innovation and Entrepreneurship Leading Talent</font>, March 2022 (<a href="https://mp.weixin.qq.com/s/Ifjvz-E9Z5gb9bW4hrxHdA">link</a>).</span>
+                <span class="lang-zh">谷飞获得2022年<font color="red">苏州高新区创新创业领军人才</font>，2022年3月(<a href="https://mp.weixin.qq.com/s/Ifjvz-E9Z5gb9bW4hrxHdA">link</a>)。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to graduate student Fan Yuanzhao for winning the <font color="red">first prize</font> in the "Soochow Tiangong Cup" Academic Technology Competition with his project "Bus Driver Behavior Recognition and Monitoring System Based on Collaborative Sensing," March 2022.</span>
+                <span class="lang-zh">恭喜组内研究生范远照同学的“基于协同感知的公交车驾驶员行为识别与监控系统”项目获得苏州大学第二十二届“苏大天宫杯”“挑战杯”大学生课外学术科技作品竞赛<font color="red">一等奖</font>，2022年3月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">I am co-chairing the 2022 International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2022). Please consider submitting your best work to the conference! Deadline: April 15, 2022 (<a href="http://www.iotcit.org/">link</a>).</span>
+                <span class="lang-zh">我将担任2022年国际物联网、通信与智能技术会议（IoTCIT 2022）的联合主席。请各位专家同仁赐稿！截止日期：2022年4月15日(<a href="http://www.iotcit.org/">link</a>)。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN" has been accepted by ICDE 2022 <font color="blue">(CCF A)</font>, March 2022.</span>
+                <span class="lang-zh">恭喜！我们的论文 "Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN" 已被ICDE 2022 接收 <font color="blue">(CCF A)</font>，2022年3月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "RoiSeg: an Effective Moving Object Segmentation Approach Based on Region-of-Interest with Unsupervised Learning" has been accepted by Applied Sciences <font color="blue">(Q2, IF=2.679)</font>, March 2022.</span>
+                <span class="lang-zh">恭喜！我们的论文 "RoiSeg: an Effective Moving Object Segmentation Approach Based on Region-of-Interest with Unsupervised Learning" 已被Applied Sciences 接收 <font color="blue">(Q2, IF=2.679)</font>，2022年3月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to my undergraduate student Yuanchao Dai! Our paper entitled "MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals" has been accepted by ACM Transactions on Sensor Network <font color="blue">(CCF B, Q2, IF=2.253)</font>, February 2022.</span>
+                <span class="lang-zh">恭喜组内本科生代渊超同学！我们的论文 "MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals" 已被ACM Transactions on Sensor Network 接收 <font color="blue">(CCF B, Q2, IF=2.253)</font>，2022年2月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations to my graduate student Yuanzhao Fan! Our paper entitled "SafeDriving: An Effective Abnormal Driving Behavior Detection System based on EMG Signals" has been accepted by IEEE Internet of Things <font color="blue">(Q1, IF=9.471)</font>, November 2021.</span>
+                <span class="lang-zh">恭喜组内研究生范远照同学！我们的论文 "SafeDriving: An Effective Abnormal Driving Behavior Detection System based on EMG Signals" 已被IEEE Internet of Things 接收 <font color="blue">(Q1, IF=9.471)</font>，2021年11月。</span>
+            </li>
+        </div>
+        <div class="new">
+            <li><em>New</em>: 
+                <span class="lang-en" style="display:none;">Congratulations! Our paper entitled "SafePath: Exploiting Ubiquitous Smartphones to Avoid Vehicle-Pedestrian Collision" has been accepted by IEEE Internet of Things <font color="blue">(Q1, IF=9.471)</font>, September 2021.</span>
+                <span class="lang-zh">恭喜！我们的论文 "SafePath: Exploiting Ubiquitous Smartphones to Avoid Vehicle-Pedestrian Collision" 已被IEEE Internet of Things 接收 <font color="blue">(Q1, IF=9.471)</font>，2021年9月。</span>
+            </li>
+        </div>
+    
+
+
+        <div class="frend-link" style="margin-top: 100px;margin-left: 0px;">
+            <div style="font-weight: 800;font-size: 24px;">
+                <span class="lang-en" style="display:none;">Friendship Links:</span>
+                <span class="lang-zh">友情链接:</span>
+            </div>
+            <ul>
+                <li>
+                    <a style="font-family: 'Times New Roman', Times, serif;" href="https://www.suda.edu.cn/">
+                        <span class="lang-en" style="display:none;">Soochow University</span>
+                        <span class="lang-zh">苏州大学</span>
+                    </a>
+                </li>
+                <li>
+                    <a style="font-family: 'Times New Roman', Times, serif;" href="http://scst.suda.edu.cn/">
+                        <span class="lang-en" style="display:none;">School of Computer Science and Technology</span>
+                        <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+                    </a>
+                </li>
+                <li>
+                    <a style="font-family: 'Times New Roman', Times, serif;" href="https://dblp.uni-trier.de/">
+                        <span class="lang-en" style="display:none;">DBLP</span>
+                        <span class="lang-zh">DBLP</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="bottom" style="font-family: 'Times New Roman', Times, serif;">
+        <div>
+            <span class="lang-en" style="display:none;">Welcome to Visit Fei Gu's Homepage!</span>
+            <span class="lang-zh">欢迎访问谷飞的主页</span>
+        </div>
+        <div>
+            <span class="lang-en" style="display:none;">School of Computer Science and Technology, Soochow University!</span>
+            <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+        </div>
+    </div>
+
+</div>
+
+</body>
+
+</html><img src="/_visitcount?siteId=15&type=2&columnId=25552" style="display:none" width="0" height="0"></image>
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="15"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>

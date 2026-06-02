@@ -1,0 +1,157 @@
+doc_id: 14
+name: 李培峰
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/pfli
+---
+姓名:计算机科学与技术学院
+页面标题:计算机科学与技术学院
+研究领域:1.
+自然语言处理
+（1）事件抽取
+（2）事件关系抽取
+（3）事件推理
+（4）谣言检测
+（
+5
+）
+事件可信度计算
+（6）多模态信息处理
+2. 自然语言理解
+（1）实体、事件指代消解
+（2）篇章结构分析
+（3）对话分析
+（4）知识推理
+（5）多语言模型
+基本信息
+李培峰
+职称：
+教授
+院部/部门：
+计算机科学与技术学院（软件学院）
+学历：
+博士
+学位：
+研究生
+毕业学校：
+毕业专业：
+联系方式
+通讯地址：
+邮政编码：
+电子邮箱：
+pfli@suda.edu.cn
+联系电话：
+65243198
+传真号码：
+办公地点：
+本部纵横研究所202
+科学研究
+主要项目：
+（1）跨媒体事件信息抽取和融合研究
+，国家自然基金（面上项目），2023.1-2026.12，项目负责人
+（2）面向领域大数据的事件知识图谱构建研究，国家自然基金重点项目，2019.01-2023.12，子项目负责人
+（3）
+面向话题的事件关系抽取与网络构建研究，国家自然基金（面上项目），2018.1-2021.12，项目负责人
+（4）话语驱动的汉语篇章机器阅读理解，国家自然基金人工智能基础研究应急管理重点项目，2018.01-2022.12，子项目负责人
+（5）
+面向社会舆情的中文事件抽取及其其可信度计算的研究，国家自然基金（面上项目），2015.01-2018.12，项目负责人
+（6）工业废气智能处理综合服务云平台，江苏省产学研项目，2014.06-2016.06，项目负责人
+（7）多文档事件信息融合方法的研究，国家自然基金（面上项目），2011.01-2013.12，项目负责人
+（8）面向统计机器翻译的同步短语树结构归约机制研究，国家自然基金（面上项目），2013.01-2016.12，排名第二
+授权发明专利：
+(1)李培峰，江丽，朱巧明. 一种云计算的租户调整方法及系统,2017,中国发明专利，ZL 2014 1 0399793.9
+(2)李培峰，朱巧明，刁红军，朱晓旭，张玉华.一种微博信息的压缩编码和解码的方法及装置,2013，中国发明专利, ZL 2011 1 0298118.3
+(3)李培峰、周国栋、朱巧明、孔芳，朱晓旭.一种中文事件触发词的抽取系统及方法,2017,中国发明专利，ZL 2014 1  0626003.6
+(4)李培峰、周国栋、朱巧明、孔芳、刁红军一种中文事件的处理方法及系统2017,中国发明专利，ZL201410403486.3
+(5)李培峰，周国栋，朱巧明，孔芳. 一种中文事件信息挖掘方法与系统, 2017, 中国发明专利，ZL 2013 1 0664718.6
+(6)李培峰，朱巧明，周国栋，张玉华，孔芳. 一种论元抽取方法和系统，2016， 中国发明专利， ZL 2013 1 0482550.7
+(7)李培峰，朱巧明，朱晓旭. 中文事件触发词的扩展方法及系统，2015， 中国发明专利， ZL2012 1 0321193.1
+(8)李培峰 ，朱巧明，周国栋，张玉华，孔芳. 一种中文事件的抽取方法及系统，2014，中国发明专利， ZL 2012 1 0182651.8
+(9)李培峰，朱巧明，周国栋，王红玲，朱晓旭. 事件信息融合方法和系统， 2013，中国发明专利， ZL 2011 1 0269307.8
+(10)李培峰，朱巧明，孔芳，周国栋，钱龙华. 文本信息抽取方法和系统， 2012，中国发明专利，ZL 2011 1 0273322.X
+科研团队
+周国栋教授
+朱巧明教授
+孔芳教授
+洪宇教授
+李军辉教授
+朱晓旭副教授
+王中卿副教授
+钱忠副教授
+个人简介:李培峰（1971-），
+男，教授，博士生导师，江苏省教育名师，江苏苏州人，
+多个
+IEEE/ACM Transactions
+国际期刊、计算机学报、软件学报、中文信息学报的审稿人和ACL、EMNLP、AAAI、IJCAI等多个自然语言处理和人工智能顶级会议的PC。
+近几年来，先后主持或参加国家863项目、国家自然科学基金重点和面上项目、军口国家重点项目等国家级项目
+20余项，获得发明专利授权20余项，完成并通过省级科研鉴定项目10余项，完成横向项目50余项。主持开发各类软件50余个，参与编写教材和学术著作3部，主持或参与出版发行软件5套。
+发表在核心期刊上的学术论文200余篇，其中包括IEEE/ACM Transactions、国际顶级会议ACL/IJCAI/ EMNLP/COLING、权威核心期刊论文40余篇，SCI/EI收录论文60余篇。获得教育部科技进步二等奖1次、江苏省科技进步三等奖3次，苏州市科技进步二等奖2次。目前主要研究方向：中文信息处理、自然语言处理、机器学习等。主要讲授的课程有：操作系统原理（国家精品在线课程，负责人）和中文信息处理（国家精品资源共享课，排名第二）等。
+论文:2025：
+1）Feng Wang, Sheng Xu, Peifeng Li, Qiaoming Zhu: Integrating element correlation with prompt-based spatial relation extraction.
+Frontiers Comput. Sci.
+19(2): 192308 (2025)
+2）Tiening Sun, Chengwei Liu, Lizhi Chen, Zhong Qian, Peifeng Li, Qiaoming Zhu: A unified framework for multi-modal rumor detection via multi-level dynamic interaction with evolving stances.
+Inf. Process. Manag.
+62(3): 104066 (2025)
+3）Xinyu Chen, Peifeng Li, Qiaoming Zhu: Improving cross-document event coreference resolution  by discourse coherence and structure.
+Inf. Process. Manag
+. 62(3): 104085 (2025)
+4）Zhong Qian, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MRC and Transfer Learning framework for Document-level Event Factuality Identification with Heterogeneous Spectral Attention Networks.
+Journal of Artificial Intelligence Research
+, 82 (2025) 1691-1710J5)
+5）Yaxin Fan, Peifeng Li, Fang Kong, and Qiaoming Zhu: Enhancing Multiparty Dialog Discourse Parsing With Dynamic Task-Adaptive Graph Transformer and Difficulty-Aware Task Scheduling.
+IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+, 2025.
+6）Yaxin Fan, Peifeng Li, Qiaoming Zhu: Improving Dialogue Discourse Parsing through Discourse-aware Utterance Clarification,
+ACL
+2025: 18800–18816 (Main).
+7）Didi Zhang, Yaxin Fan, Peifeng Li, Qiaoming Zhu: Enhancing Goal-oriented Proactive Dialogue Systems via Consistency Reflection and Correction,
+ACL
+2025: 21656–21672 (Main).
+8）Xinyu Chen, Peifeng Li, Qiaoming Zhu: Employing Discourse Coherence Enhancement to Improve Cross-Document Event and Entity Coreference Resolution,
+ACL
+2025: 23272–23286(Main).
+9）Shichen Li, Zhongqing Wang, Zheyu Zhao, Yue Zhang, Peifeng Li. Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification,
+AAAI
+2025: 24467-24475
+10）Lizhi chen, Zhong Qian, Peifeng Li, Qiaoming Zhu: Disconfounding Fake News Video Explanation with Causal Inference,
+IJCAI
+2025: 4842-4850.
+11） Zhiyu Cao, Peifeng Li, Qiaoming Zhu, Yaxin Fan: Two-stage Incomplete Utterance Rewriting on Editing Operation.
+COLING
+2025: 496-507
+12） Yuanxiang Huangfu, Peifeng Li, Yaxin Fan, Qiaoming Zhu: Non-Emotion-Centric Empathetic Dialogue Generation.
+COLING
+2025: 989-999
+13） Shannan Liu, Peifeng Li, Yaxin Fan, Qiaoming Zhu: Enhancing Multi-party Dialogue Discourse Parsing with Explanation Generation.
+COLING
+2025: 1531-1544
+14） Zihao Zhang, Zhong Qian, Xiaoxu Zhu, Peifeng Li, Qiaoming Zhu: Trucidator: Document-level Event Factuality Identification via Hallucination Enhancement and Cross-Document Inference.
+COLING
+2025: 2038-2048
+15） Huiyao Wang, Peifeng Li, Yaxin Fan, Qiaoming Zhu: Simulating Dual-Process Thinking in Dialogue Topic Shift Detection.
+COLING
+2025: 2592-2602
+16) Zhiyu Cao, Peifeng Li, Qiaoming Zhu: ICR: Iterative Clarification and Rewriting for Conversational Search.
+EMNLP 2025
+(Main)
+17) Shichen Li, Jiawei Zhang, Zhongqing Wang, Peifeng Li: Aligning Black-Box LLMs for Aspect Sentiment Quad Prediction.
+EMNLP 2025
+(Finding)
+18)
+Didi Zhang, Yaxin Fan, Peifeng Li, Qiaoming Zhu: Enhancing Goal-oriented Proactive Dialogue Systems.
+EMNLP 2025
+(Finding)
+19)
+Haibing Zhou, Zhong Qian, Peifeng Li and Qiaoming Zhu: Universal Rumor Detection on Modality Consistency and External Knowledge.
+ECAI 2025
+20) Yuming Chen, Peifeng Li and Qiaoming Zhu: Spatial Relation Extraction on Null-role and Multi-mention Relation Templates.
+ECAI 2025
+21) Zijie Qian, Zhong Qian, Chenwei Liu, Peifeng Li: AMR-GCC: Two-step Cross-Document Event Factuality Identification on Data Augmentation.
+DASFAA 2025
+22) Ruijie Yixi, Xiaoxu Zhu, Zhiong Qian, Peifeng Li: Enhancing Zero-Shot Cross-Lingual Event Argument Extraction with Language-Independent Information.
+ICASSP 2025
+.
+24) Hanmeng Zhong, Peifeng Li, Qiaoming Zhu, Linqing Chen, Wentao Wu, Weilei Wang: Document-level Event Coreference Resolution on Trigger Augmentation and Contrastive Learning. NLPCC 2025.
+25) Linfan Liu, Xinyu Chen, Peifeng Li, Qiaoming Zhu: Improving Cross-Document Event Coreference Resolution with Word Sense Disambig

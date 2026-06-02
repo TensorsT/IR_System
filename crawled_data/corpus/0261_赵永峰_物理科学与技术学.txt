@@ -1,0 +1,9 @@
+doc_id: 261
+name: 赵永峰
+career: 副教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/yfzhao
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院

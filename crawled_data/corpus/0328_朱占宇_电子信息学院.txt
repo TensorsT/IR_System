@@ -1,0 +1,24 @@
+doc_id: 328
+name: 朱占宇
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/zyzhu
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、Demonstration of 3-D Security Imaging at 24 GHz With a 1-D Sparse MIMO Array,IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,2020年,Zhanyu Zhu,Feng Xu.
+2、Microwave Imaging of Non-Rigid Moving Target Using 2D Sparse MIMO Array,IEEE Access,2019年,Zhanyu Zhu,Lei Kuang,Feng Xu.
+3、Raw Signal Simulation of Synthetic Aperture Radar Altimeter Over Complex Terrain Surfaces,Radio Science,2019年,Zhanyu Zhu,Hai Zhang,Feng Xu.
+4、A layer-wise distribution analysis of the WLMMSE-SIC MIMO receiver for rectilinear or quasi-rectilinear signals,Signal Processing,2021年,Zhe Li,Wei Deng,Zhanyu Zhu,Danilo P. Mandic.
+5、A high resolution imaging method for target using multi- static multi-frequency radar,2018 China International SAR Symposium (CISS),2018年,Zhanyu Zhu,Feng Xu.
+6、Microwave imaging of non-rigid moving target using 2D sparse MIMO array,2018 IEEE International Geoscience and Remote Sensing Symposium,2018年,Zhanyu Zhu,Feng Xu,Haipeng Wang.
+7、Human Detection and Action Classification Based on Millimeter Wave Radar Point Cloud Imaging Technology,2021 Signal Processing Symposium (SPSympo),2021年,Jiayu Wu,Zhanyu Zhu,Haipeng Wang.
+8、Compressive-sensing swept-source optical coherence tomography angiography with reduced noise,Journal of biophotonics,2022年,Lingyun Wang,Ziye Chen,Zhanyu Zhu
+9、SAR Time Series Despeckling via Nonlocal Total Variation Regularized Robust PCA,IEEE Geoscience and Remote Sensing Letters,2022年,Zhanyu Zhu,Jian Kang,Tengyu Ji
+10、A Simulation Method for Millimeter-wave Radar Sensing in Traffic Intersection Based on Bidirectional Analytical Ray Tracing Algorithm,IEEE Sensors Journal,SCI,2023,M. Zong,Soochow University,Z. Zhu,H. Wang,Z. Zhu,Soochow University,2023.3276798.
+11、An Ego-Motion Estimation Method Using Millimeter-Wave Radar in 3D Scene Reconstruction,2022 14th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC),2022,Zhikai Yang,Zhanyu Zhu
+12、A MMW Radar Indoor Mapping Method Based on Transfer Learning,2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI),2023,Peiyan Tu,Tao He,Zhikai Yang,Zhanyu Zhu
+13、Anti-jamming Method for SAR Using Joint Waveform Modulation and Azimuth Mismatched Filtering,IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,2023,Zhuan Sun,Zhanyu Zhu
+14、Proportionate Total Adaptive Filtering Algorithms for Sparse System Identification,IEEE Transactions on Systems, Man, and Cybernetics: Systems,SCI,2023,J. Ni,Y. Xing,Z. Zhu

@@ -1,0 +1,17 @@
+doc_id: 92
+name: 夏文文
+career: 
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/xww2
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Enhancing Sequential Recommendation via LLM-based Semantic Embedding Learning,WWW,CCF-A,2024,Jun Hu, Wenwen Xia, et al.
+2、Explaining Temporal Graph Models through an Explorer-Navigator Framework,ICLR,Top-tier AI Conference,2023,Wenwen Xia, Mincai Lai, Caihua Shan, et al.
+3、On the substructure countability of graph neural networks,IEEE Transactions on Knowledge and Data Engineering,CCF-A,2022,Wenwen Xia, Yuchen Li, and Shenghong Li
+4、Graph neural point process for temporal interaction prediction,IEEE Transactions on Knowledge and Data Engineering,CCF-A,2022,Wenwen Xia, Yuchen Li, and Shenghong Li
+5、Forecasting interaction order on temporal graphs,KDD,CCF-A,2021,Wenwen Xia, et al.
+6、Deepis: Susceptibility estimation on social networks,WSDM,CCF-B,2021,Wenwen Xia, Yuchen Li, Jun Wu, and Shenghong Li
+7、Efficient navigation for constrained shortest path with adaptive expansion control,ICDM,CCF-B,2022,Wenwen Xia, et al.

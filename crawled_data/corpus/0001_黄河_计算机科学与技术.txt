@@ -1,0 +1,101 @@
+doc_id: 1
+name: 黄河
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/huangh
+---
+姓名:个人简介
+页面标题:计算机科学与技术学院（软件学院）
+论文:论文成果：
+Selected Publications:
+He Huang
+, Jiakun Yu, Yang Du, Jia Liu, Haipeng Dai, Yu-E Sun. Memory-Efficient and Flexible Detection of Heavy Hitters in High-Speed Networks[C]. Santiago, Chile,
+ACM SIGMOD 2024
+, 2024.
+Yang Du,
+He Huang*
+, Yu-E Sun, Shigang Chen, Guoju Gao, Xiaocan Wu. Self-adaptive Sampling Based Per-flow Traffic Measurement[J].
+IEEE/ACM Transactions on Networking
+, 2022.
+He Huang
+, Yu-E Sun, Chaoyi Ma, Shigang Chen, Yang Du, Haibo Wang, Qingjun Xiao.
+Spread Estimation with Non-duplicate Sampling in High-speed Networks[J].
+IEEE/ACM Transactions on Networking
+, 2021.
+Guoju Gao,
+He Huang*
+, Mingjun Xiao, Jie Wu, Yu-E Sun, Yang Du. Budgeted Unknown Worker Recruitment for Heterogeneous Crowdsensing Using CMAB[J].
+IEEE Transactions on Mobile Computing
+, 2021.
+He Huang
+, Yu-E Sun, Chaoyi Ma, Shigang Chen, You Zhou, Wenjian Yang, Shaojie Tang, Hongli Xu, Yan Qiao. An Efficient K-persistent Spread Estimator for Traffic Measurement in High-speed Networks[J].
+IEEE/ACM Transactions on Networking
+, vol.  28, issue 4, pp. 1463-1476, 2020.
+Yu-E Sun,
+He Huang*
+, Chaoyi Ma, Shigang Chen, Yang Du, Qingjun Xiao. Online Spread Estimation with Non-duplicate Sampling[C]. in
+Proc. of
+IEEE INFOCOM 2020
+, Toronto, Canada, 2020.
+Yu-E Sun,
+He Huang*
+, Shigang Chen, Hongli Xu, Kai Han, Yian Zhou. Persistent Traffic Measurement Through Vehicle-to-Infrastructure Communications in Cyber-Physical Road Systems[J].
+IEEE Transactions on Mobile Computing
+, vol. 18, issue 7, pp. 1616-1630, 2019.
+He Huang
+, Yu-E Sun, Shigang Chen, Shaojie Tang, Kai Han, Jing Yuan, Wenjian Yang.
+You Can Drop but You Can't Hide: K-persistent Spread Estimation in High-speed Networks
+[C]. In
+Proc. of
+IEEE INFOCOM 2018
+, Hawaii, US, 2018.
+He Huang
+, Yu-E Sun, Xiang-Yang Li, Shigang Chen, Mingjun Xiao, Liusheng Huang,
+Truthful Auction Mechanisms with Performance Guarantee in Secondary Spectrum Markets
+[J],
+IEEE Transactions on Mobile Computing (TMC)
+, 14(6): 1315-1329, 2015.
+He Huang
+, Xiang-Yang Li, Yu-E Sun, Hongli Xu, Liusheng Huang,
+PPS: Privacy-Preserving Strategyproof Social-Efficient Spectrum Auction Mechanisms
+[J],
+IEEE Transactions on Parallel and Distributed Systems (TPDS)
+, 26(5): 1393-1404, 2015.
+荣誉及奖励
+荣誉及奖励：
+1、教育部高等学校科学研究优秀成果奖（科学技术）,黄河,2014,省部级,省部级
+2、安徽省自然科学一等奖,黄河(排名第2),2022,省部级,一等
+Teaching
+开授课程：
+课程教学：
+主要讲授的课程包括：
+数据结构
+(2014计科，物联网，2015软工，2016物联网)
+(本科)算法设计与分析 (2014网络工程，2015图灵、计科、
+2016级图灵班
+)
+无线传感器网络 (2014物联网, 2015
+物联网
+)
+无线通信与泛在网络
+(2010物联网
+)
+计算机应用技术（公选课
+）
+算法设计与分析(2017级、
+2018级
+、
+2020级硕士研究生
+)
+招生信息
+招生信息：
+招生信息1：
+I am looking for well motivated students to work on cutting-edge research projects.
+All well motivated students are welcome! You can directly contact me by E-mail.
+鼓励读研期间表现优异同学申报海外知名教授团队进行联合培养。
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持

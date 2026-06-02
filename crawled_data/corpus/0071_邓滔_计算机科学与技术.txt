@@ -1,0 +1,82 @@
+doc_id: 71
+name: 邓滔
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/dt
+---
+姓名:教师个人主页
+页面标题:代通
+论文:10
+篇，
+论文总引用次数超过
+1800
+次，
+H index=15
+。
+主持国家自然科学基金
+重大研究计划培育项目、面上项目和青年项目各
+1
+项
+。
+发表论文（
+#
+第一作者）
+1.
+Dai, T.#
+, Zhang, L.#, Ran, Y.#, Zhang, M., Yang, B., Lu, H., Lin, S., Zhang, L., and Zhou, F. (2023). MAVS deSUMOylation by SENP1 inhibits its aggregation and antagonizes IRF3 activation.
+Nat Struct Mol Biol
+, 30(6), 785–799.
+2. Wang, S.#,
+Dai, T.#
+, Qin, Z.#, Pan, T.#, Chu, F., Lou, L., Zhang, L., Yang, B., Huang, H., Lu, H., and Zhou, F. (2021). Targeting liquid-liquid phase separation of SARS-CoV-2 nucleocapsid protein promotes innate antiviral immunity by elevating MAVS activity.
+Nat Cell Biol
+, 23(7), 718-732.
+3.
+Dai, T.#
+, Wu, L.#, Wang, S., Wang, J., Xie, F., Zhang, Z., Fang, X., Li, J., Fang, P., Li, F., et al. (2018 Dec). FAF1 Regulates Antiviral Immunity by Inhibiting MAVS but Is Antagonized by Phosphorylation upon Viral Infection.
+Cell Host Microbe
+, 24(6), 776-790.e5.
+4. Gao, L.#, Wang, L.#,
+Dai, T.#
+, Jin, K.#, Zhang, Z.#, Wang, S., Xie, F., Fang, P., Yang, B., Huang, H., et al. (2018). Tumor-derived exosomes antagonize innate antiviral immunity.
+Nat Immunol
+, 19(3), 233-245.
+5. Wang, B.#, Zhang, L.#,
+Dai, T.#
+, Qin, Z.#, Lu, H., Zhang, L., and Zhou, F. (2021). Liquid–liquid phase separation in human health and diseases.
+Signal Transduct Target Ther
+, 6(1), 290.
+6. Dong, Y.#,
+Dai, T.#
+, Wei, Y.#, Zhang, L., Zheng, M., and Zhou, F. (2020). A systematic review of SARS-CoV-2 vaccine candidates.
+Signal Transduct Target Ther
+, 5(1), 237.
+7. Dong, Y.#,
+Dai, T.#
+, Wang, B.#, Zhang, L.#, Zeng, L.H., Huang, J., Yan, H., Zhang, L., and Zhou, F. (2021). The way of SARS-CoV-2 vaccine development: success and challenges.
+Signal Transduct Target Ther
+, 6(1), 387.
+8. Wang, B.#,
+Dai, T.#
+, Sun, W.#, Wei, Y.#, Ren, J., Zhang, L., Zhang, M., and Zhou, F. (2021). Protein N-myristoylation: functions and mechanisms in control of innate immunity.
+Cell Mol Immunol
+, 18(4), 878-888.
+9. Dong, Y.#,
+Dai, T.#
+, Liu, J.#, Zhang, L., and Zhou, F. (2020). Coronavirus in Continuous Flux: From SARS-CoV to SARS-CoV-2.
+Adv Sci
+, 7(20), 2001474.
+10. Cheng, Z.#,
+Dai, T.#
+, He, X.#, Zhang, Z., Xie, F., Wang, S., Zhang, L., and Zhou, F. (2020). The interactions between cGAS-STING pathway and pathogens.
+Signal Transduct Target Ther
+, 5(1), 91.
+2015.09-2020.12,免疫学,苏州大学,博士
+2021.01-2024.03,苏州大学,博士后
+2024.04-至今,苏州大学,副教授
+1
+2
+3
+4
+5

@@ -1,0 +1,28 @@
+doc_id: 303
+name: 沈纲祥
+career: 
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/shengx
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、G. Shen*, Y. Zhang, X. Zhou, Y. Sheng, N. Deng, Y. Ma, and A. Lord, “Ultra-Dense Wavelength Switched Network: A Special EON Paradigm for Metro Optical Networks,”IEEE Communications Magazine, vol. 56, no. 2, pp. 189-195, Feb. 2018.
+2、W. Chen, J. Zhang, M. Gao*, and G. Shen, “Performance improvement of 64-QAM coherent optical communication system by optimizing symbol decision boundary based on support vector machine,” Optics Communications, vol. 410, pp. 1-7, Mar. 2018.
+3、K. Xu, X. Li, S. K. Bose, and G. Shen*, “Joint Replica Server Placement, Content Caching, and Request Load Assignment in Content Delivery Networks,” IEEE Access, vol. 6, pp. 17968-17981, Mar. 2018.
+4、Y. Li, L. Zhu, S. K. Bose, and G. Shen*, “Energy-Saving in IP Over WDM Networks by Putting Protection Router Cards to Sleep,” IEEE/OSA Journal of Lightwave Technology, vol. 36, no. 14, pp. 3003-3017, Jul. 2018.
+5、J. Zhang, W. Chen, M. Gao*, Y. Ma, Y. Zhao, and G. Shen, “Intelligent adaptive coherent optical receiver based on convolutional neural network and clustering algorithm,” Optics Express, vol. 26, no. 14, pp. 18684-18698, Jul. 2018.
+6、J. Zhang, M. Gao*, W. Chen, and G. Shen, “Non-data-aided k-Nearest Neighbors Technique for Optical Fiber Nonlinearity Mitigation,” IEEE/OSA Journal of Lightwave Technology, vol. 36, no. 17, pp. 3564-3572, Sep. 2018.
+7、J. Zhang, M. Gao*, W. Chen, Y. Ye, Y. Ma, Y. Yan, H. Ren, and G. Shen, “Blind and Noise-Tolerant Modulation Format Identification,” IEEE Photonics Technology Letters, vol. 30, no. 21, pp. 1850-1853, Nov. 2018.
+8、X. Wang, S. K. Bose, and G. Shen*, “Exploiting Idle Capacity in Optical Networks to Pre-plan as Many Additional Paths as Possible for Enhancing Service Connection Availability,” IEEE Networking Letters, vol. 1, no. 1, pp. 42-45, Mar. 2019.
+9、Y. Li, Y. Yan, W. Chen, S. K. Bose, and G. Shen*, “Strategies and Benefits of Deploying Ultralow-Loss Fiber Links in an Elastic Optical Network,”IEEE/OSA Journal of Optical Communications and Networking,vol. 11, no. 5, pp. 238-249,May 2019.
+10、Y.Zhang, X. Zhou, N. Deng, S. K. Bose, and G. Shen*, “Exploiting efficiency of ultra-dense wavelength switched network for carrying metro network traffic,”Photonic Network Communications, vol. 37, no. 2,pp. 265-277, Feb. 2019.
+11、Z. Yang, M. Gao*, J. Zhang, Y. Ma, W. Chen, Y. Yan, andG. Shen,“Unsupervised Neural Network for Modulation Format Discrimination and Identification,”IEEE Access, vol. 7, no. 2, pp. 70077-70087, Feb. 2019.
+12、S. Ding, S. K. Bose, and G. Shen*, “Spectrum trading between virtual optical networks with time-varying traffic in an elastic optical network,”IEEE/OSA Journal of Optical Communications and Networking, vol. 12, no. 3, pp. 24-37, Mar. 2020.
+13、Y. Ma, M. Gao, L. Wang, Y. Sha, W. Shao, and G. Shen, “Accuracy Enhancement of Moments-based OSNR Monitoring in QAM Coherent Optical Communication,”IEEE Communications Letters, vol. 24, no. 4, pp. 821-824, Apr. 2020.
+14、Y. Li, W. Chen, S. K. Bose, and G. Shen*, “Efficient Multi-Stage Deployment of Ultra-Low Loss Fibers in Elastic Optical Networks,”IEEE/OSA Journal of Lightwave Technology, vol. 38, no. 14, pp. 3542-3552, Jul. 2020.
+15、S. Ding, G. Shen*, K. X. Pan, S. K. Bose, Q. Zhang, and B. Mukherjee, “Blockchain-Assisted Spectrum Trading Between Elastic Virtual Optical Networks,” IEEE Network, vol. 34, no. 6, pp. 205-211, Nov./Dec. 2020.
+16、C. Guo, K. Xu, G. Shen*, and M. Zukerman, “Temperature-Aware Virtual Data Center Embedding to Avoid Hot Spots in Data Centers,” IEEE Transactions on Green Communications and Networking, vol. 5, no. 1, pp. 497-511, Mar. 2021
+17、F. Tang, G. Shen*, and G. Rouskas, “Crosstalk-Aware Shared Backup Path Protection in Multi-Core Fiber Elastic Optical Networks,” IEEE/OSA Journal of Lightwave Technology, vol. 39, no. 10, pp. 3025-3036, May 2021.
+18、W. Wang, L. Xiang, W. Shao, and G. Shen, “Stochastic Crosstalk Analyses for Real Weakly Coupled Multicore Fibers Using a Universal Semi-analytical Model,” in IEEE/OSA Journal of Ligh

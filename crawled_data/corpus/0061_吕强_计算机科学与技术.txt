@@ -1,0 +1,9 @@
+doc_id: 61
+name: 吕强
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/qiang/index.html
+---
+姓名:Welcome to Qiang Lü Homepage
+页面标题:Welcome to Qiang Lü Homepage

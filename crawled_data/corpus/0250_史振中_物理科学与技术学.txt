@@ -1,0 +1,10 @@
+doc_id: 250
+name: 史振中
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/szz
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+论文:论文：

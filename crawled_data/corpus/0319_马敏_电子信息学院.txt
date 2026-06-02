@@ -1,0 +1,11 @@
+doc_id: 319
+name: 马敏
+career: 
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/mm
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、待更新

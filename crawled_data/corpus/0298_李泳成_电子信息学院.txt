@@ -1,0 +1,15 @@
+doc_id: 298
+name: 李泳成
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/ycli
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、Efficient Multi-Stage Deployment of Ultra-Low Loss Fibers in Elastic Optical Networks,IEEE/OSA Journal of Lightwave Technology,SCI二区,2020.07,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 38, no.14, pp. 3542 - 3552,（第一作者）
+2、Strategies and Benefits of Deploying Ultralow-Loss Fiber Links in an Elastic Optical Net,IEEE/OSA Journal of Optical Communications and Networking,SCI二区,2019.05,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 11, no. 5, pp. 238-249,（第一作者）
+3、Energy-Saving in IP Over WDM Networks by Putting Protection Router Cards to Sleep,IEEE/OSA Journal of Lightwave Technology,SCI二区,2018.07,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 36, no. 14, pp. 3003 - 3017, (第一作者)
+4、Lightpath Blocking Analysis for Optical Networks With ROADM Intra-Node Add-Drop Contention,SCIENCE CHINA-INFORMATION SCIENCES,SCI二区,2016.08,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 59, no. 10, pp. 102305:1-102305:17,（第一作者）
+5、Impact of ROADM Colorless, Directionless, and Contentionless (CDC) Features on Optical Network Performance,IEEE/OSA Jour nal of Optical Communications and Networking,SCI二区,2012.12,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 4, no. 11, pp.  B58 - B67,(第一作者)

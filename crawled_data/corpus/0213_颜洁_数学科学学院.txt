@@ -1,0 +1,9 @@
+doc_id: 213
+name: 颜洁
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/yanjie
+---
+姓名:提示信息
+页面标题:提示信息

@@ -1,0 +1,97 @@
+doc_id: 186
+name: 张涵
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/zh2_46441
+---
+数学科学学院
+教师个人主页
+English
+返回首页
+欢迎登录
+张涵
+副教授
+数学科学学院
+导航
+个人资料
+个人概况
+研究领域
+开授课程
+科研项目
+论文
+科研成果
+荣誉及奖励
+招生信息
+个人资料
+直属机构：
+数学科学学院
+联系电话：
+性别：
+男
+电子邮箱：
+***@***
+专业技术职务：
+办公地址：
+维格堂 214
+毕业院校：
+俄亥俄州立大学
+通讯地址：
+学位：
+理学博士学位
+邮编：
+学历：
+博士研究生毕业
+传真：
+教育经历
+教育经历：
+博士,-2021年5月,数学,俄亥俄州立大学
+工作经历
+工作经历：
+2021.9-2023.9,清华大学,博士后
+个人简历
+个人简介：
+研究领域
+研究领域：
+齐性动力系统及其在数论上的应用。齐性动力系统是研究李群作用在齐性空间上的动力系统。它与数论中的诸多问题有紧密联系。
+目前我的研究兴趣主要集中在齐性空间的有效等分布定理、分形上的辛钦定理等。
+开授课程
+开授课程：
+1、实分析基础,本科生,2024春-
+2、常微分方程,本科生,2024秋-
+课程教学：
+科研项目
+科研项目：
+论文
+论文：
+1、Locally unipotent invariant measures and limit distribution of a sequence  of polynomial trajectories on homogeneous spaces, Discrete and Continuous Dynamical Systems,2023,Han Zhang
+2、 Genericity on submanifolds and application to Universal hitting time statistics,Pure and Applied Mathematics Quarterly,2023,Han Zhang
+3、On connectedness in the parametric geometry of numbers,Combinatorics and number theory,2024,Yuming Wei ,Han Zhang
+4、Nondivergence on homogeneous spaces and rigid totally geodesic submanifolds,Israel Journal of Mathematics,2024,Han Zhang,Runlin Zhang
+5、Khintchine dichotomy for self-similar measures,arxiv,2024,Timothée Bénard,Weikun He,Han Zhang
+6、Pointwise equidistribution for almost smooth functions with an error rate and weighted Levy-Khintchine theorem,arxiv,2023,Bohan Yang,Han Zhang
+7、Nondivergence of reductive group action on homogeneous spaces,arxiv,2022,Han Zhang,Runlin Zhang
+科研成果
+软件著作
+软件著作：
+专利
+专利：
+荣誉及奖励
+荣誉及奖励：
+招生信息
+招生信息：
+招生信息1：
+学位：
+理学博士学位
+毕业院校：
+俄亥俄州立大学
+电子邮箱：
+***@***
+办公地址：
+维格堂 214
+联系电话：
+1343
+访问
+相关教师
+Copyright 苏州大学 2019, All Rights Reserved 苏州市十梓街1号
+推荐使用IE8.0以上，1366*768以上分辨率访问本网站

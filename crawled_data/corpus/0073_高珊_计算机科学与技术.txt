@@ -1,0 +1,10 @@
+doc_id: 73
+name: 高珊
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/gaoshan
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：

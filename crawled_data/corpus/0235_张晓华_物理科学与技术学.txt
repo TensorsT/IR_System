@@ -1,0 +1,57 @@
+doc_id: 235
+name: 张晓华
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/zhangxiaohua
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+个人简介:1999
+年四川大学高分子材料科学与工程学院获学士学位
+2002
+年四川大学高分子材料国家重点实验室获硕士学位
+2005
+年中国科学院化学研究所高分子物理与化学国家重点实验室获博士学位，
+导师：韩志超
+研究员
+2005
+年–
+2006
+,中国科学院化学研究所高分子物理与化学国家重点实验
+室,
+助理研究员
+2006
+年–
+2010
+年美国国家标准技术研究院(
+National Institute of Standards & Technology),
+聚合物部门(
+Polymer Division), 博士后，
+合作导师：
+Ronald L. Jones
+,
+Alamgir Karim
+2010
+年
+11
+月
+-
+至今 苏州大学
+论文:论文：
+1、Yang Yang, Yingjie Cao, Shengjie Li, Yana Wang, Xiaohua Zhang*, Yitan Li*, and Zhaohui Yang* Ultrastiff Bioinspired Protein−Carbon Nanotube Hybrid Sponge with Shape Memory Effects ACS Nano 2025, 19, 18874−18885.
+2、Jiapeng Zhang, Sheng Zhang, Yaoqieyu Song, Yuyan Weng, Yanhan Liang, Zhe Wu, Zhi Hong Hang*, Tianhui Zhang, Xiaohua Zhang*, Yitan Li*, Zhaohui Yang*, ,Surface structure engineering and electromagnetic character regulation synergestically boosts electromagnetic shielding performances of carbon nanotube sponge  ,Carbon 2025, 233, 119879 (11pages).
+3、Huijun Xu,  Ao Feng, Zhihao Huang, Rui Tan*, Zefan Wang*, Xiaohua Zhang*, Zhengbiao Zhang* Crystallization and Melting Behaviors of Discrete Butyolactone–Caprolactone Alternative Co-Oligomer: The Effect of End Groups Macromolecules 2025, 58, 4579–4590.
+4、Mengya Chang, Xiaohua Zhang,* and Zhaohui Yang* Artificial Metal-Ion Doped Spider Silk Fibers with Excellent Mechanical Property and Humidity-Driven Actuator Property Macromol. Chem. Phys. 2025, 2400502 (9 pages).
+5、Qionghao Xiong, Zhaohui Yang*, Xiaohua Zhang* Flexible triboelectric nanogenerator based on silk fibroin-modified carbon nanotube arrays Chem. Eng. J. 2024, 482, 148986 (10 pages).
+6、Ying Zhang,   Chengqing Tang,   Yaoqieyu Song,   Sheng Zhang,   Zhi Hong Hang,*  Xiaohua Zhang,*   Yitan Li,*  Zhaohui Yang* ,High-entropy alloy nanoparticles combined with an SiC coating synergistically boost the electromagnetic shielding performance of a carbon nanotube sponge J. Mater. Chem. A  2024, 12, 13498–13509.
+7、Xinyu Yao, Yitan Li,* Shengjie Li, Yaoqieyu Song, Jiapeng Zhang, Linglu Yang, Zhi Hong Hang,* Xiaohua Zhang,* and Zhaohui Yang* ,Hierarchically Structured Cellulose Acetate@Silk Protein Membrane with Enhanced Mechanical and Electromagnetic Interference Shielding Performances ACS Appl. Mater. Interfaces 2024, 16, 56427−56437.
+8、Shengjie Li, Chengqing Tang, Yaoqieyu Song, Sheng Zhang, Zhi Hong Hang,* Xiaohua Zhang,* Yitan Li,* Zhaohui Yang* ,Tailoring Interfaces of All-Carbon Electromagnetic Interference Shielding Materials for Boosting Comprehensive Performance  ACS Appl. Mater. Interfaces 2024, 16, 11821−11834.
+9、Hao Xun, Chuang Wang, Zhaohui Yang,* Xiaohua Zhang* A Solar Evaporator Based on Polypyrrole Coated 3D Carbon Nanotube Materials for Efficient Solar-Driven Vapor Generation Macromol. Rapid Commun. 2024, 45(11), 2300744 (11 pages).
+10、Bei Qi, Yitan Li,* Junyan Zhao, Jiapeng Zhang, Xiaohua Zhang,* Gaojian Chen,* Zhaohui Yang* Regulating Bacterial Culture through Tailored Silk Inverse Opal Scaffolds Macromol. Biosci. 2024, 2400238(8 pages).
+11、Jiaxin Sun, Shengjie Li, Yitan Li,* Xiaohua Zhang,* Zhaohui Yang* ,High-Performance Flexible Asymmetric Supercapacitor Based on Nanostructured MnO2 and Bi2O3 Decorated 3D Carbon Nanotube Sponge in an Aqueous Gel-Electrolyte ,ACS Appl. Energy Mater. 2024, 7, 7450−7458.
+12、Qinxin Sheng, Rui Tan, Xiaohua Zhang, Hang Shen,* and Zhengbiao Zhang* Enhancing Mechanophore Activation through Polymer Crystallization ACS Macro Lett. 2024, 13, 1670−1677.
+13、Chuang Wang, Shenglin Zhou, Chen Wu, Zhaohui Yang*, Xiaohua Zhang* Janus carbon nanotube sponges for highly efficient solar-driven vapor generation Chem. Eng. J. 2023, 454, 140501(10 pages).
+14、Chengqing Tang, Sheng Zhang, Jiapeng Zhang, Xiaohua Zhang,* Zhihong Hang,* Yitan Li,* Zhaohui Yang,* ,Silicon carbide coated carbon nanotube porous sponge with super Elasticity, low Density, high thermal Resistivity, and synergistically enhanced electromagnetic interference shielding performances  Chem. Eng. J. 2023, 469, 144011 (9 pages).
+15、Chen Wu, Shenglin Zhou, Chuang Wang, Jiapeng Zhang, Zhaohui Yang*, Xiaohua Zhang* ,Aerogels Based on MXene Nanosheet/Reduced Graphene Oxide Composites with Vertically Aligned Channel Structures for Solar-Driven Vapor Generation ACS Appl. Nano Mater. 2023, 6, 4455−4464.
+16、Lei Zhang, Yuanxi Yu, Liumin Suo, Wei Zhuang, Lunhua He, Xiaohua Zhang,* Liang Hong*，Pan Tan* The evolution of anionic nanoclu

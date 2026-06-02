@@ -1,0 +1,28 @@
+doc_id: 286
+name: 高明义
+career: 教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/mygao
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、IM/DD Probabilistically Shaped 64-QAM OFDM-PON Transmission Assisted by Selective-Mapping and Flexible Systematic Polar Code,Optics Communications,2021,沙炎平,苏州大学,高明义,苏州大学
+2、Accuracy enhancement of moments-based OSNR monitoring in QAM coherent optical communication,IEEE Communications Letters,2020,马媛媛,苏州大学,高明义,苏州大学
+3、Energy-efficient all optical wavelength converter for optical phase conjugation,Optical Fiber Technology,2020,王磊,苏州大学,高明义,苏州大学
+4、FPGA implementation of distance-independent symbol timing synchronization in IM/DD OFDM-PON,IEEE Access,2019,陈潇逸,苏州大学,高明义,苏州大学
+5、Modulation format identification based on constellation diagrams in adaptive optical OFDM systems,Optics Communications,2019,马媛媛,苏州大学,高明义,苏州大学
+6、Unsupervised neural network for modulation format discrimination and identification,IEEE Access,2019,杨子涵,加拿大滑铁卢大学,高明义,苏州大学
+7、Blind and noise-tolerant modulation format identification, IEEE Photon. Technol. Lett.,2018,张俊峰,苏州大学,高明义,苏州大学
+8、Intelligent adaptive coherent optical receiver based on convolutional neural network and clustering algorithm,Optics Express,2018,张俊峰,苏州大学,高明义,苏州大学
+9、Non-data-aided k-nearest neighbors technique for optical fiber nonlinearity mitigation,Journal of Lightwave Technology,2018,张俊峰,苏州大学,高明义,苏州大学
+10、Performance improvement of 64-QAM coherent optical communication system by optimizing symbol decision boundary based on support vector machine,Optics Communications,2018,陈伟,苏州大学,高明义,苏州大学
+11、Multi-population genetic algorithm for peak-to-average power ratio suppression in optical OFDM transmission,Applied Optics,2018,叶阳,苏州大学,高明义,苏州大学
+12、K-means-clustering-based fiber nonlinearity equalization techniques for 64-QAM coherent optical communication system,Optics Express,2017,张俊峰,苏州大学,高明义,苏州大学
+13、High-conversion-efficiency all-optical wavelength converter based on cascaded highly nonlinear fibers,Applied Optics,2017,钱佳沁,苏州大学,高明义,苏州大学
+14、A flexible millimeter-wave radio-over-fiber system for various transmission bit rate,Optics and Laser Technology,2017,杨涛,苏州大学,高明义,苏州大学
+15、Experimental Comparison of Orthogonal Frequency Division Multiplexing and Universal Filter Multi-carrier Transmission,Journal of Lightwave Technology,2021,张承杰,苏州大学,高明义,苏州大学
+16、Optical Phase Conjugation with Complex-Valued Deep Neural Network for WDM 64-QAM Coherent Optical Systems,IEEE Photonics Journal,2021,王磊,苏州大学,高明义,苏州大学
+17、Multi-distributed probabilistically shaped PAM-4 system for intra-data-center networks,Chinese Optics Letters,2021,刘梦丽,苏州大学,高明义,苏州大学
+18、Channel Estimation Based on Complex-valued Neural Networks in IM/DD FBMC/OQAM Transmission System,Journal of Lightwave Technology,2022,褚佳敏,苏州大学,高明义,苏州大学

@@ -1,0 +1,10 @@
+doc_id: 297
+name: 由骁迪
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/yxd
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：

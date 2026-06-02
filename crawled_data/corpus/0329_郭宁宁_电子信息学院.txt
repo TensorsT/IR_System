@@ -1,0 +1,21 @@
+doc_id: 329
+name: 郭宁宁
+career: 讲师
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/gnn
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、Impact of Fiber Attenuation and Effective Area on Spectrum Efficiency of Elastic Optical Networks,Journal of Lightwave Technology,SCI,2022.04,Ningning Guo,Soochow University,Sanjay K. Bose,Biswanath Mukherjee,Gangxiang Shen,Soochow University,40/8/2200-2213,1
+2、Protection against failure of machine-learning-based QoT prediction,Journal of Optical Communications and Networking ,SCI,2022.07,Ningning Guo,Soochow University,Longfei Li,Biswanath Mukherjee,Gangxiang Shen,Soochow University,14/7/572-585,1
+3、Impact of the band upgrade sequence on the capacity and capital expenditure of multi-band optical networks,Journal of Optical Communications and Networking,SCI,2023.10,Ningning Guo,Soochow University,Kai Zhang,Yongcheng Li,Gangxiang Shen,Soochow University,15/10/E1-E17,1
+4、Can channel power optimization with GSNR flatness maximize capacities of C L-Band optical systems and networks?,Journal of Lightwave Technology,SCI,2024.08,Ningning Guo,Soochow University,Gangxiang Shen,Ning Deng,Gangxiang Shen,Soochow University,42/16/5506-5521,1
+5、What if AI fails: protection against failure of AI-based QoT prediction,2020 Optical Fiber Communications Conference and Exhibition (OFC),EI,2020.03,Ningning Guo,Soochow  University,Longfei Li,Lian Xiang,Gangxiang Shen,Soochow  University,1-3,1
+6、Spectrum efficiency and cost evaluation for G.654.E fiber based optical transmission systems,2020 Asia Communications and Photonics Conference (ACP) and International Conference on Information Photonics and Optical Communications (IPOC),EI,2020.10,Ningning Guo,Soochow University,Yongcheng Li,Mingyi Gao,Gangxiang Shen,Soochow University,1-3,1
+7、How large should be the fiber effective area: A network-oriented case study,2021 Optical Fiber Communications Conference and Exhibition (OFC),EI,2021.06,Ningning Guo,Soochow University,Yichun Shen,Xinli Jiang,Gangxiang Shen,Soochow University,1-3,1
+8、Which band should be upgraded first after C L bands: a comprehensive case study,GLOBECOM 2022 - 2022 IEEE Global Communications Conference,EI,2022.12,Ningning Guo,Soochow University,Kai Zhang,Yongcheng Li,Gangxiang Shen,Soochow University,1-5,1
+9、Power optimization for C L-band signal transmission,2022 Asia Communications and Photonics Conference (ACP),EI,2022.11,Ningning Guo,Soochow University,Yifan Yu,Kai Zhang,Gangxiang Shen,Soochow University,1-3,1
+10、Performance analyses of wavelength assignment algorithms in wideband fixed-grid/flex-rate optical networks,2024 24th International Conference on Transparent Optical Networks (ICTON),EI,2024.07,Ningning Guo,Soochow University,Bruno Correia,Gangxiang Shen,Soochow University,1-3,1
+11、Inter-band wavelength conversion in multi-band optical networks with a partial set of band-upgraded links,2024 Asia Communications and Photonics Conference (ACP) and International Conference on Information Photonics and Optical Communications (IPOC),EI,2024.11,Ningning Guo,Soochow University,Vittorio Curri,Gangxiang Shen,Soochow University,1-3,1

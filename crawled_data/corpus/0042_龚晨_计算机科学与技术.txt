@@ -1,0 +1,11 @@
+doc_id: 42
+name: 龚晨
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/gongchen18
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、更多最新论文请查看：https://dblp.org/pid/21/8587-4.html

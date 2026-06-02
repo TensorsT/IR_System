@@ -1,0 +1,30 @@
+doc_id: 50
+name: 杨壮
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/yz2
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Variance reduced optimization with implicit gradient transport,Knowledge-Based Systems,SCI,2021,Zhuang Yang,212/106626,1
+2、Fast automatic step size selection for zeroth-order nonconvex stochastic optimization,Expert Systems with Applications,SCI,2021,Zhuang Yang,174/114749,1
+3、On the step size selection in variance-reduced algorithm for nonconvex optimization,Expert Systems with Applications ,SCI,2021,Zhuang Yang,169/114336,1
+4、Accelerating mini-batch sarah by step size rules,Information Sciences,SCI,2021,Zhuang Yang,Zengping Chen,Cheng Wang,558/157-173,1
+5、An accelerated stochastic variance-reduced method for machine learning problems,Knowledge-Based Systems,SCI,2020,Zhuang Yang,Zengping Chen,Cheng Wang,198/105941,1
+6、Accelerated stochastic gradient descent with step size selection rules,Signal Processing,SCI,2019,Zhuang Yang,Cheng Wang,Zhemin Zhang,159/171-186,1
+7、Mini-batch algorithms with online step size,Knowledge-Based Systems ,SCI,2019,Zhuang Yang,Cheng Wang,Zhemin Zhang,165/228-240,1
+8、Mini-batch algorithms with Barzilai–Borwein update step,Neurocomputing,SCI,2018,Zhuang Yang,Cheng Wang,Yu Zang,314/177-185,1
+9、Random Barzilai–Borwein step size for mini-batch algorithms,Engineering Applications of Artificial Intelligence,SCI,2018,Zhuang Yang,Cheng Wang,Zhemin Zhang,72/124-135,1
+10、Adaptive stochastic conjugate gradient for machine learning,Expert Systems with Applications,SCI,2022,Zhuang Yang,Soochow University,117719,1
+11、Large-scale machine learning with fast and stable stochastic conjugate gradient,Computers & Industrial Engineering,SCI,2022/09,Zhuang Yang,173,1
+12、Adaptive step size rules for stochastic optimization in large-scale learning,Statistics and Computing,SCI,2023,Zhuang Yang,Li Ma,33/2,1
+13、Painless Stochastic Conjugate Gradient for Large-Scale Machine Learning,IEEE Transactions on Neural Networks and Learning Systems,SCI,2023,Zhuang Yang,1-14,1
+14、Adaptive Powerball Stochastic Conjugate Gradient for Large-Scale Learning,IEEE transactions on Big Data,SCI,2023,Zhuang Yang,1-11,1
+15、Improved Powered Stochastic Optimization Algorithms for Large-Scale Machine Learning,Journal of Machine Learning Research,SCI,2023,Zhuang Yang,24/1-29,1
+16、Stochastic variance reduced gradient with hyper-gradient for non-convex large-scale learning,Applied Intelligence,SCI,2023/10,Zhuang Yang,1-15,1
+17、Powered stochastic optimization with hypergradient descent for large-scale learning systems,Expert Systems with Applications,SCI,2023/10,Zhuang Yang,Xiaotian Li,1
+18、 SARAH-M: A fast Stochastic Recursive Gradient Descent Algorithm via Momentum,Expert Systems with Applications,SCI,2023/11,Zhuang Yang,238/1-15,1
+19、The Powerball Method With Biased Stochastic Gradient Estimation for Large-Scale Learning Systems,IEEE Transactions on Computational Social Systems,SCI,2024/7/2,Zhuang Yang,X/X/1-13,1
+20、Adaptive Biased Stochastic Optimization,IEEE Transactions on Pattern Analysis and Machine Intelligence ,SCI,2025/1/10,Zhuang Yang,Soochow University,1-15,1

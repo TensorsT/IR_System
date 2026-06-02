@@ -1,0 +1,9 @@
+doc_id: 201
+name: 周琪
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/zq2
+---
+姓名:教师个人主页
+页面标题:苏州医学院药学院

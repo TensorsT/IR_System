@@ -1,0 +1,10 @@
+doc_id: 214
+name: 孙晨
+career: 助理研究员
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/sc1
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：

@@ -1,0 +1,17 @@
+doc_id: 236
+name: 雷扬
+career: 副教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/leiyang
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+论文:论文：
+1、Spin Matrix Theory in near 1/8-BPS corners of N = 4 super-Yang-Mills,Journal of High Energy Physics,SCI,Feb 24, 2022,Yang Lei,Kavli Institute of Theoretical Science,02/191
+2、SL(3, Z) Modularity and New Cardy limits of the N = 4 superconformal index,Journal of High Energy Physics,SCI,Nov 8, 2021,Yang Lei,Kavli Institute of Theoretical Science,11/047
+3、Symmetry structure of the interactions in near-BPS corners of N=4 super-Yang-Mills,Journal Of High Energy Physics,SCI,Apr 6, 202,Yang Lei,Kavli Institute of Theoretical Science,04/029
+4、Residues, modularity, and the Cardy limit of the 4d N = 4 superconformal index,Journal of High Energy Physics,SCI,Apr 21, 2021,Yang Lei,Kavli Institute of Theoretical Science,04/216
+5、Probing the EVH limit of supersymmetric AdS black holes,Journal of High Energy Physics,SCI,Feb 25, 2020,Yang Lei,Niels Bohr Institute,02/154
+6、Modularity in d > 2 free conformal field theory,Journal of High Energy Physics,DCI,2024.11,Yang Lei,Soochow University,Yang Lei,JHEP 11 (2024) 023
+7、Conformal mapping of non-Lorentzian geometries in SU(1, 2) Conformal Field Theory,Journal of High Energy Physics,SCI,2025.03,Yang Lei,Soochow University,JHEP 03 (2025) 100

@@ -1,0 +1,44 @@
+doc_id: 219
+name: 高东梁
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/dlgao
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+研究领域:专业：
+物理学
+(070200)；研究方向：
+理论物理、凝聚态物理、光学
+。具体内容为：
+光自旋轨道耦合，光学微操控，非线性复合材料，奇点光学，超界面材料，时空超材料
+1.
+时空超材料：广义四分之一波长阻抗变换器
+2.光自旋霍尔效应在三维对偶对称体系中的增强：
+3.牵引光束的奇点光学解释：
+4.双层热隐身：
+5.各向异性诱导
+Fano
+共振：
+6.隐形的探测器
+:
+同时实现多物理场中的探测和隐身：
+社会职务
+个人简介:Prof. Gao’s team from Physics
+department has multiple openings for Master and
+Ph.D
+students.
+We are dedicated to the research of
+Scattering of Nanoparticles and Optical Engineering
+.
+We are always looking for
+talented international
+applicants
+to join us.
+My Master
+student
+Aizaz Khan, who has obtained the CSC Silk-Road Program, will help you with the CSC scholarship
+application.
+（注：以上信息是针对外国留学生发布的）
+论文:1、在Physical Review Letters (B，A)，Advanced Materials，Light: Science & Applications，Laser & Photonics Reviews等SCI源期刊发表论文40余篇。截止到目前(2023年10月)，H-index=16，论文引用次数共2300余次。具体请见“招生信息”栏中本人所指导的学生发表论文情况。

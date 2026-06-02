@@ -1,0 +1,27 @@
+doc_id: 322
+name: 向练
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/lxiang
+---
+姓名:
+页面标题:电子信息学院
+论文:论文：
+1、Advanced perturbation technique for digital backward propagation in WDM systems,Optics Express,SCI,2013,Lian Xiang,Paul Harper,Xiaoping Zhang,1
+2、The Study of Information Capacity in Multi-span Nonlinear Optical Fiber Communication Systems Using a Developed Perturbation Technique,IEEE Journal of Lightwave Technology,SCI,2011,Lian Xiang,Xiaoping Zhang,1
+3、Nonlinear Propagation in Multicore Fiber Transmission Link Based on Coupled Mode Analysis,Asia Communications and Photonics Conference,2015,Lian Xiang,Lian Xiang,1
+4、Stochastic Crosstalk Analyses for Real Weakly Coupled Multicore Fibers Using a Universal Semi-analytical Model,IEEE Journal of Lightwave Technology,SCI,2021,Wenjie Wang,Lian Xiang
+5、Random Perturbations on Crosstalk in Quasi-homogeneous Multi-core Fiber with Bidirectional Transmission,Asia Communications and Photonics Conference,2020,Ke Tong,Lian Xiang
+6、Crosstalk Estimation in Multicore Fiber with Bending and Twisting Perturbations,Asia Communications and Photonics Conference,2019,Wenjie Wang,Lian Xiang
+7、弱耦合多芯光纤芯间串扰分布特性研究,光学学报,EI,2022,汪文杰,向练,42/2
+8、多芯激励下实际多芯光纤芯间串扰特性研究,通信学报,EI,2022.11,向练,潘洪峰,向练,43/11/233-241
+9、Evaluation of Crosstalk in Nonlinear Regime for Weakly Coupled Multi-Core Fiber With Random Perturbations Using a Split-Step Numerical Model,IEEE Journal of lightwave technology,SCI,2023,Lian Xiang,Shulin Jin,Lian Xiang,41/17/5729-5736
+10、Numerical Estimation of Inter-Core Crosstalk Affected by Stimulated Raman Scattering in Weakly Coupled Multicore Fiber,IEEE Journal of lightwave technology,SCI,2023,Yifan Yu,Lian Xiang
+11、Theoretical evaluation of Nonlinear Crosstalk in weakly Multi-core Fiber with Random Perturbations,26th Optoelectronics and Communications Conference (OECC),EI,2021,Shulin Jin,Lian Xiang,T2C. 3. 2021
+12、Analysis of nonlinear crosstalk suppression in weakly multi-core fiber based on coupled-power theory,Applied Optics and Photonics China 2021,EI,2021,Hongfeng Pan,Lian Xiang
+13、Estimation of Nonlinear Crosstalk in Weakly Coupled Multi-core Fiber,Asia Communications and Photonics Conference,EI,2021,Hongfeng Pan,Lian Xiang
+14、Signal-to-noise Ratio Estimation in Weakly Coupled Multi-core Fiber Transmission Systems,Asia Communications and Photonics Conference (ACP2022),EI,2022,Wencheng Li,Lian Xiang
+15、Theoretical Derivation of Mode Coupling Coefficient for the Crosstalk of Supermodes in Few-mode Multicore Fiber,Asia Communications and Photonics Conference (ACP2022),EI,2022,Haoyu Rui,Lian Xiang
+16、Split-step Crosstalk Analysis in Weakly Multicore Fiber Based on Coupled Nonlinear Schrodinger Equation,International Conference on Optical Communications and Networks,EI,2022,Haoyu Rui,Lian Xiang
+17、多跨距非线性光纤链路中基于微扰理论的优化方法,中国激光,EI,2010,向练,37/4/1033-1036

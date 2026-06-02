@@ -1,0 +1,97 @@
+doc_id: 237
+name: 徐新平
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/xuxinping/index.html
+---
+Xu Xinping's Homepage
+Prof. Xin-Ping Xu
+School of Physical Science and Technology, Soochow University
+No.1 Shizi street, Suzhou 215006, P. R. China
+Email: xuxp(AT)ihep.ac.cn   QQ: ***
+个人简介：
+徐新平，苏州大学教授，博士生导师。BESIII实验和Belle II实验国际合作组成员，长期从事粒子物理实验研究，培养和指导硕博研究生二十余名，在PRL、PRD、JHEP等刊物上发表国际合作组论文三十余篇，多次赴韩国首尔国立大学、日本KEK高能加速器中心、欧洲核子中心、中国科学院高能物理研究所等机构开展合作研究，主持和完成国家自然科学基金等国家级项目7项，担任Physical Review Letters, Physical Review系列等多个国际SCI期刊审稿人和基金委/科技部项目评审专家。
+研究兴趣(粒子物理与原子核物理方向):
+粒子物理实验:
+BESIII Experiment
+,
+Belle II Experiment
+研究方向简介:
+领先欧洲一步！
+中国或3年内启动
+【CCTV朝闻天下】
+环形正负电子对撞机概念设计完成
+【科技名家风采录】
+为高能物理研究步履不停——王贻芳
+凤凰卫视《名人面对面》科学家系列：张双南
+【子午编辑室】
+“撞”出来的舆论场
+【科技日报】：
+北京正负电子对撞机叩击微观世界大门
+【科技日报】：
+王贻芳实验团队获基础物理学突破奖
+CCTV科学重器：
+北京正负电子对撞机
+Selected Publications:
+BESIII Collaboration,
+Observation of D+ →
+η'μ+
+νμ and First Experimental Study of D+ → η′ℓ+νℓ
+      Decay Dynamics，
+Phys. Rev. Lett. 134, 111801 (2025), see
+Highlights.
+BESIII Collaboration,
+Study of the doubly Cabibbo-suppressed decays Ds+ → K+K+ π−  and Ds+ → K+K+ π− π0，
+Physical Review D 109, 032011 (2024)
+BESIII Collaboration,
+Observation of Ds+ →
+η'μ+νμ
+, Precision Test of Lepton Flavor Universality with  Ds+ →
+η(')l+ νl
+, and First Measurements of Ds+ →
+η(')μ+ νμ
+Decay Dynamics,
+Physical Review Letters  132, 091802 (2024), see
+Highlights
+.
+BESIII Collaboration,
+Observation  of the doubly Cabibbo-suppressed decays D+→ K+
+π
+0
+π
+0 and D+→ K+
+π
+0η，
+JHEP
+09
+,  107 (2022)
+BESIII Collaboration,
+First Observation of
+D
++
+→
+η
+μ
++
+ν
+μ
+and Measurement of Its Decay Dynamics
+,
+Physical Review Letters 124, 231801 (2020), see
+Highlights.
+BESIII Collaboration,
+Measurements of Absolute Branching Fractions of Fourteen Exclusive Hadronic
+D
+Decays to
+η
+,
+Physical Review Letters 124, 241803 (2020), see
+Highlights
+.
+BESIII Collaboration,
+Observation of a charged DD* mass peak in e+e- ->pi DD* at sqrt{s}=4.26GeV,
+Physical Review Letters 112, 022001 (2014), highlighted at
+physics websites
+. ESI high cited paper.
+Copyright@Soochow University, All rights reserved

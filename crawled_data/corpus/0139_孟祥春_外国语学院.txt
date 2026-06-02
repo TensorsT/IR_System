@@ -1,0 +1,27 @@
+doc_id: 139
+name: 孟祥春
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/mengxiangchun
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、Chinese practice and T.W. Ardorno’s theory of mass culture,Neohelicon 2014 (2),SSCI,2014,孟祥春
+2、“理论”与“反理论”----论利维斯的批评观,《文艺理论研究》,国内核心期刊,2015,孟祥春
+3、古诗英译“自我”的变化及原因探究,《苏州大学学报》（哲社）,国内核心期刊,2015,孟祥春
+4、翻译动理学：创构与阐释,《中国翻译》,2023.5,孟祥春,苏州大学
+5、文明互鉴学倡议,当代外语研究,2025.5,孟祥春,苏州大学
+6、8.	翻译中的多维“在场”与深度“格融”,《中国翻译》,孟祥春,苏州大学
+7、20.	Chinese Utopia: Its Evolution, Poetic Anchorage and Modern Transformation,World Literature Studies,Meng Xiangchun ,Soochow University
+8、“知识翻译学”命名与概念构建,当代外语研究,2023.5
+9、林语堂古文小品误译与思考,上海翻译,2016
+10、33.	另一种译法：“形”与“象”的民族化重构,《中国翻译》,2016.8
+11、《文待诏拙政园图》绍介,中国翻译,2016
+12、汉英短语翻译中的“趋避”意识与翻译策略探讨,中国翻译,2009
+13、《苏州园林》（节选）,《中国翻译》
+14、Workload_Studies_一项以人为本的口译...国际会议口译协会(AIIC)译员“工作负荷研究”述评,《中国翻译》
+15、中国周边涉美军事协定的“模糊战略”与翻译陷阱,《上海翻译》
+16、Glocal_Chimerican葛浩文英译研究,外国语,2016
+17、葛浩文论译者——基于葛浩文讲座与访谈的批评性阐释,《中国翻译》,2014

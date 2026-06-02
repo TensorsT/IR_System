@@ -1,0 +1,13 @@
+doc_id: 27
+name: 程宝雷
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/chengbaolei
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、A parallel algorithm to construct edge independent spanning trees on the line graphs of conditional bijective connection networks,Theoretical Computer Science（CCF 推荐B类SCI源期刊）,SCI, EI,2023,942: 33-46
+2、Constructing completely independent spanning trees in a family of line-graph-based data center networks,IEEE Transactions on Computers（CCF 推荐A类SCI源期刊）,SCI, EI,2022,71(5): 1194-1203 (2022)
+3、Constructing completely independent spanning trees in data center network based on augmented cube,IEEE Transactions on Parallel and Distributed Systems（CCF 推荐A类SCI源期刊）,SCI, EI,2021,32(3): 665-673

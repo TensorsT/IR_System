@@ -1,0 +1,105 @@
+doc_id: 103
+name: 毕鹏
+career: 副教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/bp
+---
+外国语学院
+教师个人主页
+导航
+个人资料
+个人概况
+研究领域
+开授课程
+科研项目
+论文
+科研成果
+荣誉及奖励
+招生信息
+English
+返回首页
+欢迎登录
+姓名：
+毕鹏
+学位：
+直属机构：
+外国语学院
+电子邮箱：
+***@***
+办公地址：
+联系电话：
+595
+访问
+个人资料
+直属机构：
+外国语学院
+联系电话：
+性别：
+男
+电子邮箱：
+***@***
+专业技术职务：
+办公地址：
+毕业院校：
+浙江大学
+通讯地址：
+学位：
+邮编：
+学历：
+传真：
+教育经历
+教育经历：
+工作经历
+工作经历：
+个人简介
+个人简介：
+浙江大学博士，研究兴趣主要为二语写作、学习者语料库、二语复杂度。在研项目两项，在SSCI收录期刊发表论文多篇。
+代表性论文：
+Jiang, J., Bi, P., & Liu, H. (2019). Syntactic complexity development in the writings of EFL learners: Insights from a dependency syntactically-annotated corpus.
+Journal of Second Language Writing
+,
+46
+.
+https://doi.org/10.1016/j.jslw.2019.100666
+Bi, P. (2020). Revisiting genre effects on linguistic features of L2 writing: A usage‐based perspective.
+International Journal of Applied Linguistics
+,
+30
+(3), 429–444. https://doi.org/10.1111/ijal.12297
+Bi, P., & Jiang, J. (2020). Syntactic complexity in assessing young adolescent EFL learners’ writings: Syntactic elaboration and diversity.
+System
+,
+91
+, 102248. https://doi.org/10.1016/j.system.2020.102248
+Jiang, J., Bi, P., Xie, N., & Liu, H. (2021). Phraseological complexity and low- and intermediate-level L2 learners’ writing quality.
+International Review of Applied Linguistics in Language Teaching
+. https://doi.org/10.1515/iral-2019-0147
+社会职务
+社会职务：
+研究领域
+研究领域：
+二语习得；学习者语料库；二语复杂度
+开授课程
+开授课程：
+1、英语视听说 1,英语专业大一
+2、英语教育研究方法（量化）,学科英语研一
+课程教学：
+科研项目
+科研项目：
+1、中低水平学习者中介语句法复杂度构成及评测研究,2021.05-,毕鹏,苏州大学2021年第一批人文社会科学优秀学术团队（项目培育）
+2、基于语料库的我国高中英语教材词汇以及词组特征研究,2021.07-,毕鹏,中国外语教材研究专项课题
+论文
+论文：
+科研成果
+软件著作
+软件著作：
+专利
+专利：
+荣誉及奖励
+荣誉及奖励：
+招生信息
+招生信息：
+招生信息1：
+Copyright 苏州大学 2019, All Rights Reserved 苏州市十梓街1号
+推荐使用IE8.0以上，1366*768以上分辨率访问本网站

@@ -1,0 +1,10 @@
+doc_id: 199
+name: 金贤
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/jinxian
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：

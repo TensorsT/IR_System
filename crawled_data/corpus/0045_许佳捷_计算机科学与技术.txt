@@ -1,0 +1,21 @@
+doc_id: 45
+name: 许佳捷
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/xujj
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction,SIGKDD 2022,CCF-A类会议,Yuan Xu, Jiajie Xu (通讯作者),Jing Zhao, Kai Zheng,An Liu, Lei Zhao, Xiaofang Zhou,pp. 2151-2159
+2、MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation,IJCAI 2022,CCF-A类会议,Yu Fan, Jiajie Xu （通讯作者）,Rui Zhou, Jianxin Li, Kai Zheng,Lu Chen, Chengfei Liu,pp. 2023-2029
+3、Efficient Maximal Biclique Enumeration for Large Sparse Bipartite Graphs,PVLDB 2022,CCF-A类会议,Lu Chen, Chengfei Liu,Rui Zhou,Jiajie Xu (通讯作者),15(8), pp. 1559-2571
+4、Reliable Community Search in Dynamic Networks,PVLDB 2022,CCF-A类会议,Yifu Tang, Jianxin Li, Nur AI Hasan Haldar,Ziyu Guan,Jiajie Xu, Chengfei Liu,15(11), pp.2826-2838
+5、MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation,IJCAI 2021,CCF-A类会议,Huimin Sun, Jiajie Xu（通讯作者）,Kai Zheng, Pengpeng Zhao,Pingfu Chao, Xiaofang Zhou,pp. 3017-3023
+6、Predicting Destinations by a Deep Learning based Approach,TKDE 2021,CCF-A类期刊,Jiajie Xu（第一作者）, Jing Zhao,Rui Zhou, Chengfei Liu,Pengpeng Zhao, Lei Zhao,33(2): 651-666
+7、Trajectory based Spatiotemporal Entity Linking,TKDE 2022,CCF-A类期刊,Fengmei Jin, Wen Hua, Thomas Zhou,Jiajie Xu, Matteo Francia,Maria E Orlowska, Xiaofang Zhou,34(9): 4499-4513
+8、Index-based Solutions for Efficient Density Peaks Clustering,TKDE 2022,CCF-A类期刊,Zafaryab Rasool, Rui Zhou,Lu Chen, Chengfei Liu, Jiajie Xu,34(5): 2212-2226
+9、A Survey and Quantitative Study on Map Inference Algorithms from GPS Trajectories,TKDE 2022,CCF-A类期刊,Pinfu Chao, Wen Hua, Rui Mao,Jiajie Xu, Xiaofang Zhou,34(1): 15-28
+10、Improving the Quality of Web-based Data Imputation with Crowd Intervention,TKDE 2021,CCF-A类期刊,Binbin Gu, Zhixu Li, An Liu,Jiajie Xu, Lei Zhao, Xiaofang Zhou,33(6): 2534-2547
+11、LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map-matching,ICDE 2023,CCF-A类会议,2023年4月,Weijie Shi, Jiajie Xu（通讯作者）,Junhua Fang, ,Pingfu Chao, An Liu, Xiaofang Zhou

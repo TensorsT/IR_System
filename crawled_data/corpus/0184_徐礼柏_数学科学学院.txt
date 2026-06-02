@@ -1,0 +1,18 @@
+doc_id: 184
+name: 徐礼柏
+career: 讲师
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/xlb
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、A note on information bias and efficiency of composite likelihood.,Statistica Sinica,SCI,2024,Libai Xu,Soochow University,Nancy Reid,Ximing Xu
+2、Gradual variance change point detection with a smoothly changing mean trend,Stat,SCI,2021,Wanfeng Liang,Nankai University ,Libai Xu ,Libai Xu ,Nankai University
+3、Existence and asymptotic behaviour of positive solutions to a stochastic multispecies Holling type II model,Stat,SCI,2021,Ximing Xu,Nankai University ,Libai Xu,Libai Xu,Nankai University
+4、Dietary leucine requirement of older men and women is higher than current recommendations,The American Journal of Clinical Nutrition,SCI,2021,Szwiega Sylwia,University of Toronto
+5、Proportional stochastic generalized Lotka-Volterra model with an application to learning microbial community structures,Applied Mathematics and Computation,SCI,2023,Libai Xu,Soochow University
+6、Asymptotic behaviour of a non-autonomous multispecies Holling type II model with a complex type of noises,Stat,SCI,2024 ,Libai Xu,Soochow University,Xintong Ma,Yanyan Zhao
+7、Protein intake affects erythrocyte glutathione synthesis in young healthy adults in a repeated-measures trial,The American Journal of Clinical Nutrition,SCI,2024,Sylwia Szwiega,University of Toronto,Libai Xu,Glenda Courtney-Martin,University of Toronto
+8、Gaussian variational approximation with composite likelihood for crossed random effect models,Statistica Sinica,SCI,Accepted,Libai Xu,Soochow University,Nancy Reid,Dehan Kong

@@ -1,0 +1,10 @@
+doc_id: 43
+name: 杨哲
+career: 
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/yangzhe
+---
+姓名:
+页面标题:计算机科学与技术学院（软件学院）
+论文:论文：

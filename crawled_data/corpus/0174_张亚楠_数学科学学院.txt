@@ -1,0 +1,15 @@
+doc_id: 174
+name: 张亚楠
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/ynzhang
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Finite difference methods for the time fractional diffusion equation on|non-uniform meshes,JOURNAL OF COMPUTATIONAL PHYSICS,SCIE,2014,张亚楠
+2、Numerical study of the effects of surface topography and chemistry on|the wetting transition using the string method,JOURNAL OF CHEMICAL PHYSICS,SCIE,2014,张亚楠
+3、Error Analysis of a Compact ADI Scheme for the 2D Fractional|Subdiffusion Equation,JOURNAL OF SCIENTIFIC COMPUTING,SCIE,2014,张亚楠
+4、Convergence analysis of a linearized Crank-Nicolson scheme for the two-dimensional complex Ginzburg- Landau equation,Numer. Methods Partial Differential Eq.,SCI,2013,张亚楠
+5、Compact alternating direction implicit schemes for the two-dimensional fractional diffusion-wave equation,SIAM J. Numer. Anal.,SCI,2012,张亚楠

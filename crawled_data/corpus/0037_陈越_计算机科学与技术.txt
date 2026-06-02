@@ -1,0 +1,13 @@
+doc_id: 37
+name: 陈越
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/cheny
+---
+姓名:计算机科学与技术学院
+页面标题:计算机科学与技术学院
+研究领域:科学研究
+科研团队
+个人简介:I have been teaching Java and python in Soochow University。
+论文:荣誉奖励

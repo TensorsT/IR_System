@@ -1,0 +1,14 @@
+doc_id: 67
+name: 朱苏阳
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/zsy
+---
+姓名:教师个人主页
+页面标题:体育学院
+论文:论文：
+1、Adversarial Attention Modeling for Multi-dimensional Emotion Regression,Proceedings of ACL 2019,EI, CCF-A,2019.7,Suyang Zhu,Soochow University,Shoushan Li,Guodong Zhou,Guodong Zhou,Soochow University,471-480,1
+2、Corpus Fusion for Emotion Classification,Proceedings of COLING 2016,EI, CCF-B,2016.12,Suyang Zhu,Soochow University,Shoushan Li,Ying Chen,Shoushan Li,Soochow University,3287-3297,1
+3、基于对抗式神经网络的多维度情绪回归,软件学报,EI,2019.7,朱苏阳,苏州大学,李寿山,周国栋,李寿山,苏州大学,2019,30(7):2091-2108,1
+4、Domanial and Dimensional Adversarial Learning for Emotion Regression,Neurocomputing,SCI, 2区,已录用待见刊,Suyang Zhu,Soochow University,Shoushan Li,Guodong Zhou,Shoushan Li,Soochow University,1

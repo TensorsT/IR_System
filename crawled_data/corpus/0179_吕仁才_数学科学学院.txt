@@ -1,0 +1,129 @@
+doc_id: 179
+name: 吕仁才
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/rlu
+---
+姓名:数学科学学院
+页面标题:数学科学学院
+研究领域:李代数
+基本信息
+吕仁才
+职称：
+教授
+院部/部门：
+数学科学学院
+学历：
+博士
+学位：
+博士
+毕业学校：
+中国科学院数学与系统科学研究院
+毕业专业：
+基础数学/李代数
+联系方式
+通讯地址：
+邮政编码：
+电子邮箱：
+rlu@suda.edu.cn
+联系电话：
+传真号码：
+办公地点：
+维格堂414
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持
+科学研究
+科研团队
+Copyright © 2011-2014
+苏州大学
+版权所有
+苏州大学信息化建设与管理中心
+技术支持
+个人简介:教育及工作经历
+2007-  苏州大学数学科学学院
+2005-2007 中科院数学所博士后
+2003-2005 北京大学数学学院博士后
+2000-2003  中科院系统所博士
+1993-2000 苏州大学数学学院本科、硕士研究生
+论文:41 Hu, jinxin;
+Lü, Rencai;
+Classification of simple Harish-Chandra modules of the Cartan type Lie algebra \bar{S}_2， to appear in J. Algebra.
+40 Y. Cai, R.
+Lü
+,X. Wang, Non-weight modules over the Lie (super)algebras related to the Virasoro algebra, J. Algebra {\bf 683} (2025), 834--857; MR4936484
+39
+Yan-an Cai;Rencai Lü;Yaohui Xue;
+Classification of Simple Strong Harish-Chandra Modules Over the Lie Superalgebra of Vector Fields on $C^{m|n}$, to appear in
+Transformation Groups.
+38 R.
+Lü
+, Y. Xue, Classification of simple Harish-Chandra modules over the generalized Witt algebras, J. Algebra {\bf 650} (2024), 54--79; MR4733241
+37 Y. Cai, Y. He ,R.
+Lü
+, Module structures on U(S^-) for the Schr\"odinger algebra, J. Geom. Phys. {\bf 191} (2023), Paper No. 104919, 8 pp.; MR4618896
+36
+Lü, Rencai;
+Xue, Yaohui;Bounded weight modules over the Lie superalgebra of Cartan W-type,
+Algebr. Represent. Theory
+26
+(
+2023
+)
+, no.
+3
+, 763–781
+.
+35
+Xue, Yaohui;
+Lü, Rencai;
+Classification of simple bounded weight modules of the Lie algebra of vector fields on $\bC^n$,
+Israel J. Math.
+253
+(
+2023
+)
+, no.
+1
+, 445–468
+.
+34 Cai, Yan-an,
+Lü, Rencai,
+Classification of simple Harish-Chandra modules over the Neveu-Schwarz algebra and its contact algebra,
+J. Pure Appl. Algebra
+226
+(
+2022
+)
+, no.
+3
+, Paper No. 106866, 14 pp
+.
+33 Xue, Yaohui;
+Lü, Rencai;
+Simple
+weight modules with finite-dimensional weight spaces over  Witt superalgebras, J. Algebra 574(2021), 92-116.
+32 Cai, Yan-an;
+Lü, Rencai; Wang,Yan;
+Classification of simple Harish-Chandra modules for map (super)algebras related to the Virasoro algebra, Journal of Algebra, 570(2021),397-415
+31 Cai, Yan-an; Liu, Dong; Lü, Rencai; Classification of simple Harish-Chandra modules over the N = 1 Ramond algebra, Journal of Algebra Volume 567(2021),
+114-127
+30 Lü, Rencai; Zhao, Kaiming Generalized oscillator representations of the twisted Heisenberg-Virasoro algebra. Algebr. Represent. Theory 23 (2020), no. 4, 1417–1442.
+29 Guo, Xiangqian; Liu, Genqiang; Lu, Rencai; Zhao, Kaiming; Simple Witt modules that are finitely generated over the Cartan subalgebra. Mosc. Math. J. 20 (2020), no. 1, 43–65.
+28 He, Yan; Cai, Yan-an; Lü, Rencai; A class of new simple modules for sln+1 and the Witt algebra. J. Algebra 541 (2020), 415–435.
+27 Brešar, Matej; Guo, Xiangqian; Liu, Genqiang; Lü, Rencai; Zhao, Kaiming; Zero product determined Lie algebras. Eur. J. Math. 5 (2019), no. 2, 424–453.
+26 Liu, Genqiang; Lu, Rencai; Zhao, Kaiming; Irreducible Witt modules from Weyl modules and gln-modules. J. Algebra 511 (2018), 164–181.
+25 Futorny, Vyacheslav; Liu, Genqiang; Lu, Rencai; Zhao, Kaiming; New families of irreducible weight modules over sl3. J. Algebra 501 (2018), 458–472.
+24 Cox, Ben; Guo, Xiangqian; Lu, Rencai; Zhao, Kaiming; Simple superelliptic Lie algebras. Commun. Contemp. Math. 19 (2017), no. 3, 1650032, 22 pp.
+23 Lü, Rencai; Zhao, Kaiming; A family of simple weight modules over the Virasoro algebra. J. Algebra 479 (2017), 437–460.
+22 Adamović, Dražen; Lü, Rencai; Zhao, Kaiming; Whittaker modules for the affine Lie algebra A(1)1. Adv. Math. 289 (2016), 438–479.
+21 Lü, Rencai; Mazorchuk, Volodymyr; Zhao, Kaiming; Classification of simple weight modules over the 1-spatial ageing algebra. Algebr. Represent. Theory 18 (2015), no. 2, 381–395.
+20 Lü, Rencai; Zhao, Kaiming; Finite-dimensional simple modules over generalized Heisenberg algebras. Linear Algebra Appl. 475 (2015), 276–291.
+19 Lü, Rencai; Mazorchuk, Volodymyr; Zhao, Kaiming; Simple weight modules over weak generalized Weyl algebras. J. Pure Appl. Algebra 219 (2015), no. 8, 3427–3444.
+18 Liu, Genqiang; Lu, Rencai; Zhao, Kaiming; A class of simple weight Virasoro modules. J. Algebra 424 (2015), 506–521.
+17 Dubsky, Brendan; Lü, Rencai; Mazorchuk, Volodymyr; Zhao, Kaiming; Category O for the Schrödinger algebra. Linear Algebra Appl. 460 (2014), 17–50.
+16
+Lu, Rencai; Zhao, Kaiming; Irreducible Virasoro modules from irreducible Weyl modules. J. Algebra 414 (2014), 271–287.

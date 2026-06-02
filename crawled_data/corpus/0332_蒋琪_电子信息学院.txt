@@ -1,0 +1,65 @@
+doc_id: 332
+name: 蒋琪
+career: 
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/jq2
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+研究领域:1、低轨卫星通信系统设计与信号处理
+2、深度学习赋能无线通信物理层安全
+社会职务
+IEEE ICCT 2023 TPC member
+IEEE ICC 2024 Workshop TPC member
+INFOCOM 2026
+Workshop TPC member
+ECIE 2026 Organizing Committee Chair
+IEEE TCOM、
+TWC
+、
+TIFS
+、
+TCCN
+、
+TAES
+、
+WCL
+、
+CL
+、
+GRSL
+等国际知名期刊审稿人
+个人简介:蒋琪
+，
+苏州大学优
+秀青年学者，硕士生导师，
+2025
+年获
+南京大学工学博士学位，同年
+7
+月加入苏州大学电子信息学院。主要研究方向包括
+卫星通信、物理层安全
+等
+。近三年来
+以第一作者发表IEEE
+论文7
+篇
+，中
+科院SCI
+2
+区及以上期刊论文5
+篇（
+IEEE TWC
+、
+IEEE
+TCCN
+、
+IEEE T
+AES
+等）
+。
+作为主要人员
+参与
+国家重点基础研究发展计划以及
+多项科研院所横向合作项目。

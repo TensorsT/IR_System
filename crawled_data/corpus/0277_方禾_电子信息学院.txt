@@ -1,0 +1,82 @@
+doc_id: 277
+name: 方禾
+career: 教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/fh
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+研究领域:本课题组利用
+人工智能、博弈论、图信号处理、跨层设计、多任务优化等多学科交叉优势攻克无线通信和网络安全研究领域的技术瓶颈，研究智能的、可扩展的和高效的解决方案，开发安全的无线通信系统。
+个人简介:方禾，
+苏州大学电子信息学院特聘教授、
+江苏省通信学会无线通信专委会、江苏省网络空间安全学会AI安全专委会、上海通信学会车联网专委会委员
+。
+博士毕业于加拿大西安大略大学电子与计算机工程专业，主要研究方向为无线通信技术、无线通信安全、智能认证、信任管理、异常检测与智能监测、分布式机器学习、博弈论与多任务优化方法。在重要国际期刊和会议上发表
+50
+余篇论文，其中第一作者
+/
+通讯作者论文30余
+篇，包括
+通信、安全和信号处理领域的
+TOP
+期刊
+17
+篇。
+课题组为优秀学生提供参加国际会议和联合培养等交流机会；全力支持和协助学生申请各种奖项。
+欢迎对无线通信和网络空间安全感兴趣的同学申请
+博士生、国际联合培养博士生和硕士研究生
+。
+课题组长期招聘相关研究领域的
+博士后和国际联合培养博士后
+，欢迎有无线通信、网络安全、优化理论、机器学习和数据科学基础的研究人员申请。
+2022级
+硕士研究生
+：
+马赟：
+IET book chapter（一作）、
+IEEE ICCC 2022
+、发明专利（在审）、美国专利（
+在审
+）
+朱文润：IEEE VTC-2023 fall（一作）、IEEE FNWF（特邀论文&英文汇报）、IEEE ICCC 2022、发明专利（在审）
+姚晨：
+课题组组长、
+IEEE ICCT（一作）、
+发明专利（在审）、
+美国专利（
+在审
+）
+2023级
+硕士研究生
+：
+蒋丽莲：
+发明专利（在审）、
+美国专利（
+在审
+）
+印雨佳
+：Sensors（SCI三区，特邀论文，一作）、区块链平台、IEEE TII（SCI一区，在审）
+徐瑞：区块链平台、
+发明专利（在审）、
+美国专利（
+在审
+）
+论文:1、Learning-aided physical layer authentication as an intelligent process, IEEE Transactions on Communications, 2019/03, He Fang, Xianbin Wang, Lajos Hanzo, （特邀论文，JCR一区，TOP期刊）
+2、Adaptive trust management for soft authentication and progressive authorization relying on physical layer attributes, IEEE Transactions on Communications, 2020/04, He Fang, Xianbin Wang, Lajos Hanzo, （JCR一区，TOP期刊）
+3、Lightweight continuous authentication via intelligently arranged pseudo-random access in 5G-and-beyond, IEEE Transactions on Communications, 2021/03, He Fang, Xianbin Wang, Nan Zhao, （JCR一区，TOP期刊）
+4、Fuzzy learning for multi-dimensional adaptive physical layer authentication: a compact and robust approach, IEEE Transactions on Wireless Communications, 2020/08, He Fang, Xianbin Wang, Li Xu, （JCR一区，TOP期刊）
+5、Distributed nonlinear polynomial graph filter and its output graph spectrum: Filter analysis and design, IEEE Transactions on Signal Processing, 2021/02, Zhenlong Xiao, He Fang, Xianbin Wang, He Fang, （JCR一区，TOP期刊）
+6、Machine learning for intelligent authentication in 5G-and-beyond wireless networks, IEEE Wireless Communications, 2019/10, He Fang, Xianbin Wang, S. Tomasin, （JCR一区，TOP期刊）
+7、Coordinated multiple relays based physical layer security improvement: a single leader-multiple followers Stackelberg game scheme, IEEE Transactions on Information Forensics and Security, 2018/01, He Fang, Li Xu, Xianbin Wang, （JCR一区，TOP期刊）
+8、Fast authentication and progressive authorization in large-scale IoT: How to leverage AI for security enhancement?, IEEE Network, 2020/06, He Fang, Xianbin Wang, （JCR一区，TOP期刊）
+9、Nonlinear polynomial graph filter for anomalous IoT sensor detection and localization, IEEE Internet of Things Journal, 2020/02, Zhenlong Xiao, He Fang, Xianbin Wang, He Fang, （JCR一区，TOP期刊）
+10、Anomalous IoT sensor data detection: An efficient approach enabled by nonlinear frequency- domain graph analysis, IEEE Internet of Things Journal, 2020/09, Zhenlong Xiao, He Fang, Xianbin Wang, He Fang, （JCR一区，TOP期刊）
+11、Three-stage Stackelberg game for defending against full-duplex active eavesdropping attacks in cooperative communication, IEEE Transactions on Vehicular Technology,2020, He Fang, Li Xu, Yulong Zou,（JCR二区）
+12、Stackelberg game-based relay selection for physical layer security and energy- efficiency enhancement in cognitive radio networks, Applied Mathematics and Computation, 2017/03, He Fang, Li Xu, （JCR一区，TOP期刊）
+13、Autonomous Collaborative Authentication with Privacy Preservation in 6G: From Homogeneity to Heterogeneity,IEEE Network,2022,方禾,苏州大学,Xianbin Wang,Lajos Hanzo,（JCR一区，TOP期刊）
+14、Lightweight Group Authentication for Decentralized Edge Collaboration,IEEE Communications Magazine,2022,方禾,苏州大学,（JCR一区，TOP期刊）
+15、Lightweight Flexible Group Authentication Utilizing Historical Collaboration Process Information,IEEE Transactions on Communications,2023,方禾,苏州大学,（JCR一区，TOP期刊）
+16、Collaborative Authentication for 6G Networks:  An Edge Intelligence Based Autonomous  Approach,IEEE Transactions on Information Forensics and Security,2023,方禾,苏州大学,（JCR一区，TOP期刊）
+17、Joint Sampling and Reconstruction of Time-Varying Signals over Directed Graphs,IEEE Transactions on Signal Processing,2023,（JCR一区，TOP期刊）

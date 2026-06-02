@@ -1,0 +1,9 @@
+doc_id: 293
+name: 李喆
+career: 研究员
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/lizhe/index.html
+---
+姓名:Zhe Li
+页面标题:Zhe Li

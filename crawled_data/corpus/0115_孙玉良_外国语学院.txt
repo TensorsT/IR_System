@@ -1,0 +1,28 @@
+doc_id: 115
+name: 孙玉良
+career: 副教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/syl
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、母语及二语语法体使用模式在三语写作中的迁移研究,外语教学与研究,CSSCI,2024,独作
+2、Análisis de las opiniones de alumnos sinohablantes universitarios sobre dos formas
+de clase virtual de español: la clase en directo y la clase grabada,Creatividad, innovación y diversidad en la enseñanza del español como LE/L2,2024,一作
+3、A study of integrating discourse-context information into Spanish aspect grammatical teaching for Sinophone learners,Porta Linguarum,SSCI/A&HCI,2023,一作
+4、The effect of lexical aspect and discourse grounding in the acquisition of Spanish past tense aspect by Mandarin Chinese speakers: replicating the approach used in Salaberry (2011),Revista de Signos,SSCI/A&HCI,2023 ,一作
+5、A study of the distribution of classes of lexical aspect in Spanish by Chinese learners of Spanish in oral narration,Poznan Studies in Contemporary Linguistics,SSCI/A&HCI,2023 ,一作
+6、Análisis comparativo de la redacción sobre anécdotas durante la pandemia por estudiantes universitarios españoles y chinos aprendices de ELE: perspectiva sociocultural,El camino hacia el plurilingüismo,2023,一作
+7、Understanding Digital Identity during the Pandemic: An
+Investigation of Two Chinese Spanish Teachers,Sustainability,SSCI,2023,通讯
+8、Análisis del patrón de uso de los pasados aspectuales pretérito indefinido e imperfecto de español por aprendices sinófonos en tareas de narración oral y escrita,Revista E-AESLA,2022,一作
+9、Estudios comparativos de la comprensión y producción de los tiempos aspectuales del pasado en español por aprendices sinohablantes,Revista Nebrija de lingüística aplicada a la enseñanza de lenguas,2021,一作
+10、A story-writing based study about the acquisition of aspect in Spanish by Mandarin Chinese learners,Spanish Journal of Applied Linguistics,SSCI / A&HCI,2020,一作
+11、The use of the past tense aspect in Spanish by study At-Home and Study-Abroad Chinese learners in semi-guided writing tasks,Círculo de Lingüística Aplicada a la Comunicación,SSCI/A&HCI,2020,一作
+12、A comparative study of the acquisition of Spanish aspectual past tenses by Mandarin Chinese learners using guided and semi-guided written productions,Language and Communication: Strategies and analyses in multilingual and international context,2019,一作
+13、La adquisición del aspecto de español por aprendices chinos,Círculo de Lingüística Aplicada a la Comunicación,SSCI/A&HCI,2019,一作
+14、The development of dynamicity in the acquisition of Spanish by Chinese learners,International Journal of Applied Linguistics,2019,一作
+15、Patrones adquisicionales de los pasados aspectuales en distintos tipos de tarea. ¿Cómo se acercan al uso nativo del aspecto los aprendices de ELE sinohablantes?,Revista de Didáctica Español Lengua Extranjera,2019,一作
+16、El aspecto léxico y gramatical en un corpus de narración escrita de aprendices sinohablantes y en nativos: uso, colocaciones y didáctica,Léxico y Cultura en LE/L2: corpus y diccionarios,2018,一作

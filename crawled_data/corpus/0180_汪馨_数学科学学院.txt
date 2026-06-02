@@ -1,0 +1,17 @@
+doc_id: 180
+name: 汪馨
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/xinw
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、New Bounds and Constructions for Multiply Constant-Weight Codes,IEEE TRANSACTIONS ON INFORMATION THEORY,SCI,NOV 2016,Xin Wang
+2、Linear (2, p, p)-AONTs exist for all primes p,DESIGNS CODES AND CRYPTOGRAPHY,SCI,OCT 2019,Xin Wang
+3、Deterministic convolutional compressed sensing matrices,FINITE FIELDS AND THEIR APPLICATIONS,SCI,NOV 2016,Xin Wang
+4、New bounds of permutation codes under Hamming metric and Kendall's tau-metric,DESIGNS CODES AND CRYPTOGRAPHY,SCI,DEC 2017,Xin Wang
+5、A strengthened inequality of Alon-Babai-Suzuki's conjecture on set systems with restricted intersections modulo p,DISCRETE MATHEMATICS,SCI,JAN 2018,Xin Wang
+6、Constructions of augmented orthogonal arrays,JOURNAL OF COMBINATORIAL DESIGN,SCI,2018,Xin Wang
+7、Improved Upper Bounds for Parent-Identifying Set ,DESIGNS CODES AND CRYPTOGRAPHY,SCI,2021,Xin Wang

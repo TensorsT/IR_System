@@ -1,0 +1,13 @@
+doc_id: 153
+name: 曹永罗
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/ylcao
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Dimension Estimates for Non-conformal Repellers and Continuity of Sub-additive Topological Pressure,Geom. Funct. Anal., ,2019,Cao Yongluo,Pesin,Zhao Yun,29: 1325--1368.
+2、Upper bounds on measure-theoretic tail entropy for dominated splittings,Ergod.Th. & Dynam.Sys.,2020,Cao Yongluo,Liao Gang,You Zhiyuan,40,2305-2316
+3、 Livšic theorems for Banach cocycles: existence and regularity. (English summary) ，, J.Funct.Anal. ,2021,Zou Rui,Cao Yongluo, 280 (2021), no. 5,  No. 108889, 37 pp.

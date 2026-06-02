@@ -1,0 +1,21 @@
+doc_id: 49
+name: 张栋
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/zd2
+---
+姓名:教师个人主页
+页面标题:苏州医学院放射医学与防护学院
+论文:论文：
+1、Dong Zhang, Xincheng Ju, Junhui Li, Shoushan Li, Qiaoming Zhu and Guodong Zhou. Multi-modal Multi-label Emotion Detection with Modality and Label Dependence. To appear in EMNLP 2020. (CCF-B类会议, Main Conference, Long paper)
+2、Dong Zhang, Weisheng Zhang, Shoushan Li, Qiaoming Zhu and Guodong Zhou. Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations. To appear in ACM MM 2020. (CCF-A类会议, Full paper, Oral presentation)
+3、Dong Zhang, Shoushan Li, Qiaoming Zhu and Guodong Zhou. Effective Sentiment-relevant Word Selection for Multi-modal Sentiment Analysis in Spoken Language. In ACM MM 2019: 148-156. (CCF-A类会议, Full paper, Oral presentation)
+4、Dong Zhang, Shoushan Li, Qiaoming Zhu and Guodong Zhou. Modeling the Clause-level Structure to Multimodal Sentiment Analysis via Reinforcement Learning. In ICME 2019: 730-735. (CCF-B类会议, Full paper, Oral presentation)
+5、Dong Zhang, Liangqing Wu, Shoushan Li, Qiaoming Zhu and Guodong Zhou. Multimodal Language Analysis with Hierarchical Interaction-level and Selection-level Attention. In ICME 2019: 724-729. (CCF-B类会议, Full paper, Oral presentation)
+6、Xincheng Ju, Dong Zhang*, Junhui Li and Guodong Zhou. Transformer-based Label Set Generation for Multi-modal Multi-label Emotion Detection. To appear in ACM MM 2020. (CCF-A类会议, Full paper, Oral presentation)
+7、Liangqing Wu, Dong Zhang*, Qiyuan Liu, Shoushan Li and Guodong Zhou. Speaker Personality Recognition with Multimodal Explicit Many2many Interactions. In ICME 2020: 1-6. (CCF-B类会议, Full paper, Oral presentation)
+8、吴良庆, 刘启元, 张栋*, 王建成, 李寿山, 周国栋. 基于情感信息辅助的多模态情绪识别. 北京大学学报自然科学版. 2020, (1): 75 -81. (Accepted by NLPCC 2019, Best Chinese Paper Award)
+9、Qiyuan Liu, Liangqing Wu, Yang Xu, Dong Zhang*, Shoushan Li, Guodong Zhou. Hierarchical-Gate Multimodal Network for Human Communication Comprehension. In NLPCC 2019: 210-219. (CCF-C类会议)
+10、Dong Zhang et al. Modeling both Context- and Speaker-Sensitive Dependence for Emotion Detection in Emotion Detection in Multi-speaker Conversations. In IJCAI 2019: 5415-5421. (CCF-A）
+11、Yang Xu, Qiyuan Liu, Dong Zhang, Shoushan Li, Guodong Zhou. Many vs. Many Query Matching with Hierarchical BERT and Transformer. In NLPCC 2019: 155-167. (CCF-C类会议，Full paper, Oral presentation)

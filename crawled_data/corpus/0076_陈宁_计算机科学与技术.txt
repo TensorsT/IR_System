@@ -1,0 +1,9 @@
+doc_id: 76
+name: 陈宁
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/cn/index.html
+---
+姓名:Ning Chen's homepage
+页面标题:Ning Chen's homepage

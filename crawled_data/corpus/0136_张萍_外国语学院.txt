@@ -1,0 +1,60 @@
+doc_id: 136
+name: 张萍
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/blacrosezhang
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、多义短语动词句子加工中的语义因素和意象图式,外国语,CSSCI,2022,张萍,王晓琳
+2、建构与调和：泰勒视域中语言与伦理关系新解,学海,CSSCI,2022,王琼,张萍*
+3、词素位置和语义透明对二语复合词加工的时间进程影响,解放军外国语学院学报,CSSCI扩展版,2021,张萍,卢雨晴,张北镇
+4、Translanguaging/trans-semiotizing in teacher-learner interactions on social media: Making learner agency visible and achievable,System,SSCI,2021,Chen, Y.,Zhang, p.*,Huang, L.
+5、 L1 congruency, word frequency, collocational frequency, L2 proficiency, and their combined effects on Chinese-English bilinguals’ L2 collocational processing,International Journal of Bilingualism,SSCI,2021,Fang, N.,Zhang, P.*
+6、 Interaction of trait emotional intelligence, foreign language anxiety, and foreign language enjoyment in the foreign language speaking classroom,Journal of Multilingual and Multicultural Development,SSCI,2021,Chen, Z.,Zhang, P.*
+7、Trait emotional intelligence and second language performance: a case study of Chinese EFL learners,Journal of Multilingual and Multicultural Development,SSCI,2020,Chen, Z.,Zhang, P.*
+8、词频、语义和语言水平对英语搭配加工的影响,外语教学与研究,CSSCI,2020,张萍,方南
+9、汉-英-日三语词汇加工中的语言距离和二语效应,北京第二外国语学院学报,北大中文核心,2019,陈艳艳,张萍
+10、输入频次与输入间隔对英语短语动词习得的影响,解放军外国语学院学报,CSSCI扩展版,2019,陈贺文,张萍
+11、词类型、翻译优势及具体性效应在翻译歧义词加工中的交互,当代外语研究,CSSCI,2019,王晓琳,张萍
+12、同译性与二语词频对英语搭配加工的影响,现代外语,CSSCI,2019,方南,张萍*
+13、语义聚类和主题呈现对英语词汇联想反应的影响,外语界,CSSCI,2018,陈艳艳,张萍*
+14、语境类型对英语词汇联想反应的启动效应,外语教学,CSSCI,2018,张萍,陈艳艳,陈颖园
+15、新词教学的呈现方式与二语词汇联想能力的动态发展,外语学刊,CSSCI,2018,张萍,陈艳艳,徐宜莹
+16、中国学生英语搭配加工中的母语语义启动与词类效应,外语教学与研究,CSSCI,2017,张萍
+17、近义相关和反义呈现对英语动词搭配学习的影响,解放军外国语学院学报,CSSCI,2017,张萍,李晨晨
+18、词汇联想研究：前世、今生、未来,外语教学理论与实践,CSSCI,2017,张萍,陈艳艳
+19、英语搭配加工中母语知识的同译效应研究,外语与外语教学,CSSCI,2017,张萍,魏江山,胡兵
+20、 “透视”第二语言习得心理过程——关于二语加工的一次学术访谈,外语教学理论与实践,CSSCI,2017,张萍,蒋楠（马里兰大学）
+21、中国英语学习者心理词汇语义加工中的同译效应,外语教学与研究,CSSCI,2016,张萍
+22、同译效应对汉-英-日三语者心理词库语义加工的影响,解放军外国语学院学报,CSSCI,2016,张萍,卢雅睿
+23、小组协作 项目驱动 任务分解——硕士研究生学术英语交流能力培养的教改实践,学位与研究生教育,CSSCI,2013,张萍
+24、英汉语心理词库联想反应的具体性效应对比研究,外语教学理论与实践,CSSCI,2011,张萍
+25、心理词库的非语义化：一项基于词汇联想的跟踪调查,《东南大学学报（哲社科版）》,CSSCI,2011,董丽莉,张萍*
+26、中国英语学习者心理词库联想模式对比研究,外语教学与研究,CSSCI,2010,张萍
+27、对单词联想测试选词和反应分类标准的再思考,解放军外国语学院学报,CSSCI,2010,张萍
+28、英语教学与研究中词汇能力的评估模式研究,《东南大学学报（哲社科版）》,CSSCI,2010,张萍
+29、 基于自建语料库对NBA英语新闻标题的分析,《东南大学学报（哲社科版）》,CSSCI,2010,陶雪城,张萍*
+30、词汇联想与心理词库：词汇深度知识研究现状,外语教学理论与实践,CSSCI,2009,张萍
+31、不同二语学习者词汇复杂度的语料库对比研究,中国外语,CSSCI,2007,张萍
+32、 “Besides”:基于语料库的对比研究,国外外语教学,CSSCI,2007,张萍,周敏
+33、国内二语词汇习得研究概述,解放军外国语学院学报,CSSCI,2006,张萍,王海啸
+34、二语词汇习得研究：十年回溯与展望,外语与外语教学,CSSCI,2006,张萍
+35、 学习者词汇策略对成绩的预测规律,外语与外语教学,CSSCI,2004,张萍
+36、以写带说，全面提高——硕士研究生英语运用能力训练的教改试验,学位与研究生教育,CSSCI,2003,张萍
+37、英语专业写作课教学实验和构想,药学教育,北大中文核心,2002,张萍
+38、英语学习者词汇观念和策略的性别差异研究,外语与外语教学,CSSCI,2002,张萍,高祖新,刘精忠
+39、硕士研究生基础英语和专业英语词汇策略研究,外语教学与研究,CSSCI,2001,张萍
+40、调整教学思路，明确阶段目标，转变教学模式──“硕士研究生英语阅读课”教学改革探索,学位与研究生教育,CSSCI,2001,张萍,岳志伟,刘黎黎
+41、关于硕士生英语运用能力训练的教改试验,《南京理工大学学报（哲社科版）》,北大中文核心,2001,张萍
+42、Vocabulary strategies and vocabulary learning,Teaching English in China,2001,Zhang, P.
+43、英汉语调比较及英语语调的语义语用功能,外语研究,CSSCI,2000,张萍
+44、文化导入在英语听能培养中的原则和方法研究,《无锡教育学院学报》,2000,张萍
+45、药学类硕士研究生英语运用能力及教学现状的调查和对策,药学教育,1999,张萍,张宏达,岳志伟
+46、充分利用精读课提高学生的听力,国外外语教学,CSSCI,1999,张萍
+47、Graeme Porte and Kevin McManus: Doing Replication Research in Applied Linguistics,Applied Linguistics,SSCI,2019,Chen, Z.,Zhang, P.
+48、Book review: The Cambridge Handbook of Bilingual Processing,System,SSCI,2017,Zhang, P.,Yu, J.
+49、《在二语研究中开展反应时研究》介述,当代外语研究,2017,张萍,俞建耀
+50、《二语习得之诸多研究视角》述介,外语教学与研究,CSSCI,2014,张萍,卢雅睿

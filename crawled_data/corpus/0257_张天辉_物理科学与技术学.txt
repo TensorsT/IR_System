@@ -1,0 +1,41 @@
+doc_id: 257
+name: 张天辉
+career: 教授
+department: 物理科学与技术学院
+college_id: 79
+url: http://web.suda.edu.cn/zhangtianhui
+---
+姓名:教师个人主页
+页面标题:物理科学与技术学院
+研究领域:非平衡时-空结构的涌现与控制
+。
+课题组进展
+刘增涛获
+2021
+年国家奖学金。
+课题组成员
+毕业生
+陆施情
+(2015
+级
+)
+周倩倩
+(2014
+级
+)
+曹镜声
+(2013
+级
+)
+刘通
+(2012
+级
+)
+相关链接
+ResearcherID
+:C-5066-2009
+ORCID
+:
+https://orcid.org/0000-0001-8671-2006
+论文:论文：
+1、 Activity waves and freestanding vortices in populations of subcritical Quincke rollers,   Proc. Nat. Acad. Sci. USA   ,   Z.T. Liu,   Y. Shi,   Y. Zhao,   H. Chaté,    X.-q. Shi,    T.H. Zhang,   118 (2021).

@@ -1,0 +1,175 @@
+doc_id: 101
+name: 周国栋
+career: 教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: https://web.suda.edu.cn/gdzhou
+---
+姓名:周国栋
+页面标题:周国栋的个人主页
+研究领域:自然语言理解
+信息抽取
+统计机器翻译
+机器学习
+国家级科研项目
+主持人(合作者:北京大学万小军副教授、新疆大学吐尔根教授): NSFC (重点项目), “跨语言社会舆情分析基础理论与关键技术研究(#61331011: 285万元: 2014.01-2018.12)"
+主持人(合作者:河南科技学院冯文侯副教授): NSFC (面上项目), “汉语篇章结构分析的资源建设与计算模型研究(#61273320: 81万元: 2013.01-2016.12)"
+主持人(合作者:中科院计算所米海涛副研究员):NSFC (重大研究计划培育项目), “基于配价结构和话题结构的汉语语法语义分析模型研究(#90920004: 50万元: 2010.01-2012.12)”
+主持人: NSFC (面上项目), “基于树核函数和弱指导学习的命名实体间语义关系抽取研究 (#60873150: RMB 300K: 2009.01-2011.12)”
+主持人: NSFC (面上项目), “基于机器学习的高性能自适应信息抽取关键技术研究 (#60673041: 27万元: 2007.01-2009.12)"
+联合主持人(主持人: 中科院自动化所宗成庆研究员):863前沿导向类项目, "大规模中文信息处理技术与系统（#2012AA011102: 72万元/649万元: 2012.01-2004.12）"
+联合主持人(主持人: 朱巧明教授): 863探索导向类项目, "多语言跨文本信息抽取研究（#2006AA01Z147: 69万元: 2007.01-2008.12）"
+教学
+课程
+研究生课程: 计算语言学
+研究生课程: 人工智能
+本科生课程: 编译原理
+个人简介:理想：
+发展自然语言处理和人工智能科技使之服务全人类
+目标：
+建立全球一流的自然语言处理和人工智能实验室
+教育背景：
+1989年07月在
+西安交通大学
+获得计算机应用学士学位；
+1992年04月在
+上海交通大学
+.获得计算机应用硕士学位；
+1995年04月到
+新加坡国立大学
+计算机学院攻读博士学位，1997年12月完成学业提交博士论文，并于1999年06月获得博士学位。
+工作背景：
+1992年04月至1995年03月在
+上海交通大学
+担任助教讲师；1998年01月至1999年03月在
+新加坡国立大学
+计算机学院进行博士后研究；1999年04月进入
+新加坡资讯通信研究院
+担任副科学家，2002年04月升任科学家博导，2005年04月升任副主任科学家博导，2006年08月加入
+苏州大学计算机科学与技术学院
+担任特聘教授博导。
+论文:周 国栋@Google Scholar Citations
+周 国栋@DBLP
+—
+NLP领域主要会议
+ACL: Annual Meeting of the Association for Computational Linguistics
+EMNLP: the SIGDAT Conference of Empirical Methods on Natural Language Processing
+COLING: International Conference on Computational Linguistics
+代表性论文
+—
+2014
+Li Peifeng, Zhu Qiaoming and Zhou Guodong*. 2014.
+Using compositional semantics and discourse consistency to improve Chinese trigger identification
+.
+Information Processing & Management
+. 50(2):399-415. [*通讯作者] [SCI源期刊IF 1.673]
+Zou Bowei, Zhu Qiaoming and Zhou Guodong*. 2014.
+Negation focus identification with contextual discourse information
+.
+ACL'2014
+: 522-530. [*通讯作者]
+Qian Longhua, Hui Haotian, Hu Ya’nan, Zhou Guodong* and Zhu Qiaoming. 2014.
+Bilingual active learning for relation classification via pseudo parallel corpora
+.
+ACL'2014
+: 582-592. [*通讯作者]
+Zhu Zhu, Li Shoushan*, Zhou Guodong and Xia Rui. 2014.
+Bilingual event extraction a case study on trigger type determination
+.
+ACL'2014(short)
+: 842-847. [*通讯作者]
+Wang Zhongqing, Li Shoushan*, Shi Hanxiao and Zhou Guodong. 2014.
+Skill inference with personal and skill connections
+.
+COLING'2014
+: 520-529. [*通讯作者]
+Li Peifeng, Zhu Qiaoming and Zhou Guodong. 2014.
+Employing event inference to improve semi-supervised Chinese event extraction
+.
+COLING'2014
+: 2161-2171. [*通讯作者]
+Li Yancui, Feng Wenhe, Kong Fang, Sun Jing and Zhou Guodong*. 2014.
+Building Chinese discourse corpus with connective-driven dependency tree structure
+.
+EMNLP'2014
+: ???-???. [*通讯作者]
+Kong Fang, Ng Hwee Tou and Zhou Guodong. 2014.
+A constituent-based approach to argument labeling with joint inference in discourse parsing
+.
+EMNLP'2014
+: ???-???.
+—
+2013
+Zhou Guodong and Li Peifeng. 2013.
+Improving syntactic parsing of Chinese with empty element recovery
+.
+Journal of Computer Science and Technology
+. 28(6): 1106-1116. [SCI源期刊IF 0.625]
+Wang Hongling and Zhou Guodong*. 2013.
+Semantic role labeling of Chinese nominal predicates with dependency-driven constituent parse tree structure
+.
+Journal of Computer Science and Technology
+. 28(6): 1117-1126. [*通讯作者][SCI源期刊IF 0.625]
+洪宇， 康杨杨， 姚建民， 朱巧明， 周国栋*. 2013.
+一种新型最优检索结果的发现与论证
+.
+计算机学报
+. 36(3): 643-653. [*通讯作者]
+徐凡，朱巧明*，周国栋. 2013.
+基于树核的隐式篇章关系识别
+.
+软件学报
+. 24(5): 1022-1035. [*通讯作者]
+Li Shoushan, Xue Yunxia, Wang Zhongqing and Zhou Guodong*. 2013.
+Active learning for cross-domain sentiment classification
+.
+IJCAI'2013
+:  2127-2133. [*通讯作者]
+Li Peifeng, Zhu Qiaoming and Zhou Guodong*. 2013.
+Joint modeling of argument identification and role determination in Chinese event extraction with discourse-level information
+.
+IJCAI'2013
+: 2120-2126. [*通讯作者]
+Kong Fang and Zhou Guodong*. 2013.
+A clause-level hybrid approach to Chinese empty element recovery
+.
+IJCAI'2013
+: 2113-2119. [*通讯作者]
+Li Peifeng, Zhu Qiaoming and Zhou Guodong*. 2013.
+Argument inference from relevant event mentions in Chinese argument extraction
+.
+ACL'2013
+: 1477-1487. [*通讯作者]
+Liu Huanhuan, Li Shoushan*, Zhou Guodong, Huang Chu-Ren, Li Peifeng. 2013.
+Joint modeling of news reader's and comment writer's emotions
+.
+ACL'2013(short)
+: 511-515. [*通讯作者]
+Wang Zhongqing, Li Shoushan*, Kong Fang, Zhou Guodong. 2013.
+Collective personal profile summarization with social networks
+.
+EMNLP'2013
+:715-725. [*通讯作者]
+Zou Bowei, Zhou Guodong and Zhu Qiaoming*. 2013.
+Tree kernel-based negation and speculation scope detection with structured syntactic parse features
+.
+EMNLP'2013
+: 968-976. [*通讯作者]
+Gao Wei, Li Shoushan*, Sophia Lee YM, Zhou Guodong and Huang Chu-Ren. 2013.
+Joint learning on sentiment and emotion classification
+.
+CIKM'2013(short)
+: 1505-1508. [*通讯作者]
+—
+2012
+Wang Yan, Fan Jianxi*, Zhou Guodong and Jia Xiaohua. 2012.
+Independent spanning trees on twisted cubes [pdf]
+.
+Journal of Parallel and Distributed Computing
+. 72(1): 58-69. [*通讯作者] [SCI源期刊IF 1.078]
+Qian Longhua and Zhou Gudong*.  2012.
+Tree kernel-based protein-protein interaction extraction from biomedical literature [pdf]
+.
+Journal of Biomedical Informatics
+. 45(3):535-543. [*通讯作者] [SCI源期刊IF 1.719]
+Wang H

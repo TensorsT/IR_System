@@ -1,0 +1,285 @@
+doc_id: 301
+name: 聂宝清
+career: 教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/qixinbq
+---
+姓名:电子信息学院
+页面标题:电子信息学院
+研究领域:柔性触觉传感技术
+：开展基于柔性材料的力学与化学传感器设计及制备，并配套开发高精度、多模态信号采集系统。
+无线无源传感技术
+：开展射频识别类无线传感器的研究与开发，探索其在复杂环境中的感知应用。
+生理信号处理与分析
+：聚焦柔性及无线传感技术在生物医学工程领域的应用，对多种生理信号的高效采集、智能处理与深度分析。
+基本信息
+聂宝清
+职称：
+教授
+院部/部门：
+电子信息学院
+学历：
+博士
+学位：
+博士研究生
+毕业学校：
+University of California, Davis
+毕业专业：
+生物医学工程
+联系方式
+通讯地址：
+邮政编码：
+电子邮箱：
+qixinbq@suda.edu.cn
+联系电话：
+传真号码：
+办公地点：
+本部电子楼304-1
+科学研究
+科研项目：
+国家自然科学基金青年科学基金项目，
+2017/01-2019/12
+，
+主持。
+江苏省高等学校自然科学研究面上项目，
+2020/12-2022/12
+，
+主持。
+江苏省基础研究计划（自然科学基金）
+--
+面上项目，
+2021/07-2024/06
+，
+主持。
+国家重点研发计划项目，
+2023.11-2026.10
+，参与。
+教育部产学合作协同育人项目，
+2023.12-2024.12
+，主持。
+国家自然科学基金面上项目，
+2025.01-2028.12
+，
+主持。
+江苏省高校生物光子科技重点（建设）实验室开放课题，
+2025.05-2027.04
+，
+主持。
+授权专利：
+聂宝清
+，胡亮，陈新建，张雨
+，
+基于
+PAAm
+柔性水凝胶的湿度传感器及其制备方法，
+发明，
+202110418006.0
+聂宝清
+，刘坚，陈新建，耿佳蕾，三维力柔性触觉传感器及其制备方法与解耦方法，发明，
+202011390552.X
+陈新建
+,
+聂宝清
+,
+汤昕冉
+,
+缪一辉，基于铁氧体膜的柔性电感式压力传感器阵列及其制备方法，发明，
+2019105646342
+聂宝清
+，陈新建，刘坚，姚婷，张忆秋，基于微液滴的全柔性无源压力传感器及其制造方法及其检测方法，发明，
+201711308033.2
+刘坚，张忆秋，
+聂宝清
+，液态金属薄膜电极的制造方法及柔性压力传感器，发明，
+2020104494190
+科研团队
+个人简介:聂宝清，
+苏州大学电子信息学院研究员。
+博士毕业于加州大学戴维斯分校生物医学工程系。
+曾获
+江苏省双创博士
+、
+苏州大学优秀青年学者。主要从事新型传感技术、可穿戴电子设备以及其在生物医学领域中的应用研究，
+在国内外权威期刊与重要会议上发表
+SCI/EI
+论文:代表性论文：
+Wenzhe Kou, Jian Liu, Jie Liu, Xinjian Chen, Xiaoyu Tang, Tao Peng, Muhammad Mateen, Yanyun Liu,
+Baoqing Nie
+.
+A
+P
+orous
+E
+lastomer with
+A
+C
+avity
+A
+rray for
+T
+hree-
+D
+imensional
+P
+lantar
+F
+orce
+S
+ensing
+.
+Chemical Engineering Journal
+, 2024, 497, 154553.
+Minghao Xu, Chenbin Zhao, Xueguan Liu, Xinjian Chen,
+Baoqing Nie
+.
+A Flexible Wireless Pressure Sensor Based on UHF RFID Technology
+.
+IEEE Transactions on Instrumentation and Measurement
+, 2024, 73,
+9514011
+.
+Qing Qu, Jinli Yan, Sidi Liu, Xiang Xiao, Yiqiu Zhang,
+Baoqing Nie*,
+Jian Liu*. Wireless Human Motion Monitoring by a Wearable 3D Spiral Liquid Metal Sensor with a Spinning Top-Shaped Structure.
+Advanced Materials Technologies
+, 2023,
+9, 14,
+2300896
+.
+Jinli Yan, Jie Liu, Qing Qu, Xinjian Chen, Jian Liu*,
+Baoqing Nie*
+. Wireless Human Motion Detection with a Highly-Sensitive Wearable Pressure Sensing Technology.
+Advanced Materials Technologies
+, 2023, 8, 22, 2201936.
+Tingting Feng, Xinjian Chen, Jialei Geng,
+Baoqing Nie
+. A Portable Applanation Tonometer for Accurate Intraocular Pressure Measurements.
+Sensors and Actuators A: Physical
+, 2022, 344, 113708.
+Yu Zhang, Chen Li, Han Yang, Rui Zhao, Xinjian Chen,
+Baoqing Nie*
+, Liang Hu*
+.
+A flexible organohydrogel-based humidity sensor for noncontact artificial sensation.
+Science China Technological Sciences
+, 2021,
+65, 191-200
+.
+Rui Zhao, Han Yang,
+Baoqing Nie*
+, Liang Hu*.
+Highly Transparent, Antifreezing and Stretchable Conductive Organohydrogels for Strain and Pressure Sensors.
+Science China Technological Sciences
+, 2021,
+64, 2532-2540
+.
+Baoqing Nie
+,
+Sidi Liu
+,
+Qing Qu
+,
+Yiqiu Zhang
+,
+Mengying Zhao
+,
+Jian Liu*
+. Bio-inspired Flexible Electronics for Smart E-skin
+.
+Acta Biomaterialia
+, 2022, 139, 280-295.
+Xinxing Miao, Qianqian Fang, Xiang Xiao, Sidi Liu, Renfei Wu, Jun Yan,
+Baoqing Nie*
+, Jian Liu*. Integrating Cycled Enzymatic DNA Amplification and Surface-Enhanced Raman Scattering for Sensitive Detection of Circulating Tumor DNA.
+Frontiers in Molecular Biosciences
+, 2021, 8, 676065.
+Baoqing Nie
+, Jialei Geng, Ting Yao, Yihui Miao, Yiqiu Zhang, Xinjian Chen*
+,
+Jian Liu*.Sensing Arbitrary Contact Forces with a Flexible Porous Dielectric Elastomer.
+Materials Horizons
+, 2021
+, 8, 962
+.
+Yiqiu Zhang, Sidi Liu, Yihui Miao, Han Yang, Xuyue Chen, Xiang Xiao, Zhongyun Jiang, Xinjian Chen,
+Baoqing Nie*
+, Jian Liu*
+.
+Highly Stretchable and Sensitive Pressure Sensor Array Based on Icicle-Shaped Liquid Metal Film Electrodes
+.
+ACS Applied Materials & Interfaces
+, 2020, 12, 25, 27961–27970
+.
+Xinkai Xie, Yi Zhang, Chen Chen
+,
+Xiaoping Chen, Ting Yao, Mingfa Peng
+,
+Xinjian Chen,
+Baoqing Nie
+*
+, Zhen Wen
+*
+,
+Xuhui Sun
+*.
+Frequency-
+I
+ndependent
+S
+elf-
+P
+owered
+S
+ensing
+B
+ased on
+C
+apacitive
+I
+mpedance
+M
+atching
+E
+ffect of
+T
+riboelectric
+N
+anogenerator.
+Nano Energy
+, 2019, 65, 103984.
+Xinran Tang, Yihui Miao, Xinjian Chen*
+,
+Baoqing Nie
+*
+.
+A Flexible and Highly Sensitive Inductive PressureSensor Array Based on Ferrite Films.
+Sensors
+, 2019,
+19
+,
+2406
+.
+Baoqing Nie
+, Rong Huang, Ting Yao, Yiqiu Zhang, Yihui Miao, Changrong Liu, Jian Liu
+*,
+Xinjian Chen
+*
+.Textile-Based Wireless Pressure Sensor Array for Human-Interactive Sensing.
+Advanced Functional Materials
+,
+2019, 29, 22,
+1808786.
+Baoqing Nie
+, Ting Yao, Yiqiu Zhang, Jian Liu*, Xinjian Chen*.
+A Droplet-Based Passive Force Sensor for Remote Tactile Sensing Applications.
+Applied Physics Letters
+, 2018,
+112
+,
+3
+,
+031904.
+荣誉奖励
+1、苏州大学优秀青年学者
+2、江苏省双创博士

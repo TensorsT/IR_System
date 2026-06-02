@@ -1,0 +1,20 @@
+doc_id: 55
+name: 何红亮
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/hlhe
+---
+姓名:教师个人主页
+页面标题:计算机科学与技术学院
+论文:论文：
+1、Hongliang He, Jun Wang, Pengxu Wei, Fan Xu, Xiangyang Ji, Chang Liu, and Jie Chen,“TopoSeg: Topology-Aware Nuclear Instance Segmentation.” In Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023,(CCF A类会议),第一作者
+2、Hongliang He, Zhongyi Huang, Yao Ding, Guoli Song, Lin Wang, Qian Ren, Pengxu Wei, Zhiqiang Gao, and Jie Chen,“CDNet: Centripetal Direction Network for Nuclear Instance Segmentation.” In Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 4026-4035.,(CCF A类会议),第一作者
+3、Hongliang He, Yanli Fan,“A Novel Hybrid Ensemble Model Based on Tree-based Method and Deep Learning Method for Default Prediction.” Expert Systems with Applications, 2021, 176: 114899.,(SCI, JCR Q1, 中科院1区, Top期刊, IF = 8.665),第一作者
+4、He, Hongliang, Wenyu Zhang, and Shuai Zhang,"A novel ensemble method for credit scoring: Adaption of different imbalance ratios." Expert Systems with Applications 98 (2018): 105-117.,(SCI, JCR Q1, 中科院1区, Top期刊, IF = 8.665),第一作者
+5、Hongliang He, Chi Zhang, Jie Chen, Ruizhe Geng, Luyang Chen, Yongsheng Liang, Yanchang Lu, Jihua Wu, and Yongjie Xu.,“A Hybrid-Attention Nested UNet for Nuclear Segmentation in Histopathological Images.” Frontiers in Molecular Biosciences, 2021, 8(6): 1-9.,(SCI, JCR Q2, 中科院3区, IF = 6.113),第一作者
+6、Bin Fu, Hongliang He, Pengxu Wei, Jie Chen,"Learning Task-Aligned Mask Query for Instance Segmentation." ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5.,(Top 3%) CCF B,第二作者
+7、Zhang, Wenyu, Hongliang He, and Shuai Zhang,"A novel multi-stage hybrid model with enhanced multi-population niche genetic algorithm: An application in credit scoring." Expert Systems with Applications 121 (2019): 221-232.,(SCI, JCR Q1, 中科院1区, Top期刊, IF = 8.665),第二作者
+8、Zhang, Haoting, Hongliang He, and Wenyu Zhang,"Classifier selection and clustering with fuzzy assignment in ensemble model for credit scoring." Neurocomputing 316 (2018): 210-221.,(SCI, JCR Q1, 中科院2区, Top期刊, IF = 6.0),第二作者
+9、近5年引用超800 ，更多内容见本人谷歌学术主页
+10、CA-SAM2: SAM2-based Context-Aware Network with Auto-Prompting for Nuclei Instance Segmentation,MICCAI2025,CCF B (医学顶级会议),He Hongliang (通讯作者)

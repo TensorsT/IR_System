@@ -1,0 +1,107 @@
+doc_id: 172
+name: 陈旻昕
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/chenminxin
+---
+姓名:个人简介
+页面标题:数学科学学院
+论文:论文成果（旧版）：
+发明专利：
+1.
+基于多尺度数据结构的快速谱聚类方法，
+ZL201910257841.3
+2.基于稀疏椭圆RBF神经网络的图像稀疏表示方法, CN202010495523.3
+软件著作权：高景深图像快速融合清晰化软件
+V１.０，２０２０SR１８６１８３１
+(1) Zhiwen Wang; Minxin Chen
+*
+; Jingrun Chen* ; Solving multiscale elliptic problems by sparse radial basis function neural networks, Journal of Computational Physics, 2023, 492:
+(2) Liyao Lyu; Zhen Zhang;
+Minxin Chen*
+; Jingrun Chen* ; MIM: A deep mixed residual method for solving high-order partial differential equations, Journal of Computational Physics, 2022, 452:
+(3) Zhang, Chongyang; Zhu, Guofeng; Lian, Bobo;
+Minxin Chen
+; Chen, Hong; Wu, Chenjian ; Image segmentation based on multiscale fast spectral clustering, Multimedia Tools and Applications, 2021, 80(16): 24969-24994
+(
+4
+)
+Sheng Gui, Zhaodi Chen, Benzhuo Lu*, and Minxin Chen*, Molecular Sparse Representation by 3D Ellipsoid Radial Basis Function Neural Network via L1 Regularization J.Chem.Inf.Model.2020,60,6054-6064
+(
+5
+)
+Bobo Lian
+,
+Hong Chen
+,
+Chenjian Wu
+*,
+Chen Minxin
+*,
+Fast Spectral Clustering algorithm based on wavelet basis decompositionJune 2020 IEEE 4th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)
+(
+6
+) Zhaodi Chen,Sheng Gui, Hong Chen,,
+Chenjian Wu
+*,Chen Minxin*, Sparse Representation of Images based on RBF Neural Network, June 2020, 2020 IEEE 4th Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)
+(
+7
+) Tiantian Liu, MinXin Chen*, and Benzhuo Lu*, Efficient and qualified mesh generation for Gaussian molecular surface using adaptive partition and piecewise polynomial approximation, SIAM J Sci. Computing., 40(2): B507-B527, 2018.
+(
+8
+) Tiantian Liu, Shiyang Bai, Bin Tu, Minxin Chen, Benzhuo Lu*, Mesh Construction for Membrane-Channel Protein System for Finite Element Simulations,Molecular Based Mathematical Biology, 2015
+，
+3(1):2299-3266, 2015.
+(
+9
+)
+Tiantian Liu, Minxin Chen, Benzhuo Lu*, Parameterization for molecular Gaussian surface and a comparison study of surface mesh generation, J. Molecular Modeling,2015,21(5):113.
+(
+10
+)
+Minxin Chen, Xiantao Li*, Chun Liu, Computation of the memory functions in the generalized Langevin models for collective dynamics of macromolecules ,The Journal of Chemical Physics,2014, 141, 064112
+(
+11
+)
+Shixin Xu, Minxin Chen*, Sheereen Majd, Xingye Yue, and Chun Liu Modeling and Simulating Asymmetrical Conductance Changes in Gramicidin Pores, Mol. Based Math. Biol. 2014; 2:34–55
+(
+12
+)
+Bin Tu, Minxin Chen, Yan Xie, Linbo Zhang, Bob Eisenberg, and Benzhuo Lu*, A Parallel Finite Element Simulator for Ion Transport through Three-dimensional Ion Channel Systems, J. Comput. Chem. ,2013,34(24): 2065-2078
+(
+1
+3)
+Minxin Chen, B. Z. Lu*, Advances in biomolecular surface meshing and its applications to mathematical modeling, 2013,Chinese Science Bulletin, 58(16):1843-1849
+(
+1
+4
+)
+Minxin Chen, Bin Tu, Benzhuo Lu*, Surface Triangular Mesh and Volume Tetrahedral Mesh Generation for Biomolecular Modeling, an book chapter in “Image-based Geometric Modeling and Mesh Generation”, Springer, Berlin Heidelberg, 2013, XI, p85-106.
+(
+1
+5
+) Minxin Chen, Bin Tu, Benzhuo Lu*, Triangulated Manifold Meshing Method Preserving Molecular Surface Topology, Journal of Molecular Graphics and Modelling, 2012
+，
+38: 411-418.
+(
+1
+6
+)
+Minxin Chen, Benzhuo Lu*, TMSmesh: A Robust Method for Molecular Surface Mesh Generation using Trace Technique, J. Chem. Theory Comput.,2011, 7:203-212
+(1
+7
+)Minxin Chen, Bingchuan Liu, Wenying Yan, Bairong Shen*, Wavelet Transform Based Protein Decoy Discrimination, the 3rd International Conference on Bioinformatics and Biomedical Engineering 2009
+(
+1
+8
+) Minxin Chen*, Modified RATTLE Method for Rigid Body Dynamics in Cartesian Coordinates, Commun. in Comput. Phys., 2007,2(3):530-544
+荣誉及奖励
+荣誉及奖励：
+1、北京市科学技术奖,分子模拟中的连续模型新方法及软件系统研究,卢本卓、张林波、陈旻昕,2014,三等奖
+2、离子通道内输运过程的模拟与软件平台，中国科学院数学与系统科学研究院2013年度十大科研进展,卢本卓，张林波，白石阳，陈旻昕,2013
+Teaching
+开授课程：
+1、面向对象程序设计,2013.01.16-,34,72
+2、概率统计,,城市轨道交通学院,2013级,,2014.07.01-,59,54
+3、数据科学概论,,数学

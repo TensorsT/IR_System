@@ -1,0 +1,9 @@
+doc_id: 327
+name: 朱子聪
+career: 讲师
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/zzc2
+---
+姓名:教师个人主页
+页面标题:苏州医学院

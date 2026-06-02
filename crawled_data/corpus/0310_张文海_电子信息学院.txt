@@ -1,0 +1,22 @@
+doc_id: 310
+name: 张文海
+career: 副教授
+department: 电子信息学院
+college_id: 85
+url: http://web.suda.edu.cn/zwh
+---
+姓名:教师个人主页
+页面标题:电子信息学院
+论文:论文：
+1、A Planar Bidirectional Circularly Polarized Antenna Using Orthogonal Magnetic Dipoles Without Extra Phase Shift Line,IEEE Transactions on Antennas and Propagation,JCR Q1,2022,W. H. Zhang,South China University of Technology,Q. Xue,W. Yang,Q. Xue,South China University of Technology,第一
+2、A planar end-fire circularly polarized complementary antenna with beam in parallel with its plane,IEEE Transactions on Antennas and Propagation,JCR Q1,Mar. 2016,W. H. Zhang,University of Macau,W. J. Lu,K. W. Tam,W. H. Zhang,University of Macau,64/3,第一
+3、Low-profile compact microstrip magnetic dipole antenna with large beamwidth and broad bandwidth for vehicular applications”,IEEE Transactions on Vehicular Technology,JCR Q1,Jun. 2021,W. H. Zhang,South China University of Technology,Q. Xue,S. Liao,Q. Xue,South China University of Technology,70/6,第一
+4、A linearly polarized low-profile complementary antenna with enhanced bandwidth and wide broadside beamwidth, IEEE Antennas and Wireless Propagation Letters,JCR Q1,Jul. 2021,W. H. Zhang,South China University of Technology,Q. Xue,S. Liao,Q. Xue,South China University of Technology,20/7,第一
+5、Low-profile broadband vertically polarized microstrip magnetic dipole antenna with endfire radiation,IEEE Antennas and Wireless Propagation Letters,JCR Q1,Oct. 2021,W. H. Zhang,South China University of Technology,L. Ke,S. Liao,Q. Xue,South China University of Technology,20/10,第一
+6、Circularly polarized complementary antenna based on orthogonal dipoles with tilted beam,IEEE Antennas and Wireless Propagation Letter,JCR Q1,Aug. 2018,W. H. Zhang,University of Macau,W.-J. Lu,K.-W. Tam,W. H. Zhang,University of Macau,18/8,第一
+7、Tilted bi-sense circularly-polarized antenna and its application for radio frequency identification system,International Journal of RF and Microwave Computer-Aided Engineering,JCR Q3,Feb. 2020, W. H. Zhang,South China University of Technology,K. W. Tam,W. J. Lu, W. H. Zhang,South China University of Technology,Article Number. e22198,第一
+8、Planar endfire circularly polarized antenna for low profile handheld RFID reader,IEEE Journal of Radio Frequency Identification,Mar. 2018,W. H. Zhang,University of Macau,P. Cheong,W. J. Lu,W. H. Zhang,University of Macau,vol. 2, no. 1, pp. 15-22,第一
+9、Design of circularly polarized conical RFID reader antenna based on natural boundary conditions,IEEE Journal of Radio Frequency Identification, Jun. 2018,W. H. Zhang,University of Macau,W. J. Lu,K. W. Tam,W. H. Zhang,University of Macau,vol. 2, no. 2, pp. 1-7,第一
+10、Novel Dual-Band Cavity-Backed Antenna Design and Its Application to Simultaneous RFID Communications and Partial Discharge Monitoring of High Voltage Facilities,Studies in Applied Electromagnetics and Mechanics,2017,W. H. Zhang,University of Macau,K. W. Tam,W. J. Lu,pp. 19-24,第一
+11、基于互补源的紧凑型圆极化倾斜波束天线,南京信息工程大学学报（自然科学版）,2019,张文海,澳门大学,薛泉,吕文俊,11（1）：13-16,第一
+12、Planar wideband loop-dipole composite antenna,IEEE Transactions on Antennas and Propagation,JCR Q1,Apr. 2014,W. J. Lu,Nanjing University of Posts and Telecommunications,W. H. Zhang,K. F. Tong,vol. 62. no. 4, pp. 2275-2279,第二

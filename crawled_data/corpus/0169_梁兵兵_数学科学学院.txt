@@ -1,0 +1,21 @@
+doc_id: 169
+name: 梁兵兵
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/lbb
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、Topological pressure for sub-additive potentials of amenable group actions. ,J. Funct. Anal.,2012,B.Liang,K.Yan,262, no. 2, 584-601
+2、Mean dimension, mean rank, and von Neumann-Lück rank. , J. Reine Angew. Math.,2018,H.Li,B.Liang,739, 207-240.
+3、Sofic mean length.,Adv.Math. ,2019,H.Li,B.Liang,353, 802–858.
+4、Dynamical correspondences of $L^2$-Betti numbers,Groups Geom. Dyn.,2019,B.Liang,13, no.1, 89-106.
+5、Entropy on modules over the group ring of a sofic group.,Proc. Amer. Math. Soc.,2019,B.Liang,147, no.2, 727-734.
+6、On the structure theory of cubespace fibrations.,J. Dyn. Differ. Equ.,2023,Y.Gutman,B.Liang,35/163-197.
+7、Conditional mean dimension,Ergodic Theory Dynam. Systems,2022,B. Liang,42/10/3152–3166
+8、Mean dimension of natural extension of algebraic systems,Proc. Amer. Math. Soc.,B.Liang,R.Shi,152/3/1207-1215
+9、The nonexistence of expansive actions of groups with subexponential growth on Suslinian continua,Topol. Appl.,B.Liang,E.Shi,Z.Xie & H.Xu, 343 (2024), Paper No. 108802.
+10、Naive mean dimension,Discrete and Continuous Dynamical Systems - Series S,2025,Bingbing Liang,Kesong Yan, Doi: 10.3934/dcdss.2025050
+11、Conditional sofic mean dimension,Journal of Differential Equations,2025,Bingbing Liang,452/113785

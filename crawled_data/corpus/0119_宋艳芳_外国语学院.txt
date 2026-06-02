@@ -1,0 +1,19 @@
+doc_id: 119
+name: 宋艳芳
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/songyf
+---
+姓名:教师个人主页
+页面标题:外国语学院
+论文:论文：
+1、放下重负：《重量》异质化叙述中的存在主义思考,《当代外国文学》2014年第1期,国内核心期刊,2014,宋艳芳
+2、以提高人文素养和学术研究能力为目标的“英语阅读”课程改革,《外语研究》,国内核心期刊,2015,宋艳芳
+3、Wang Shouren's Cross-cultural Vision and Technology-Enhanced Teaching of Foreign Literature in the Chinese Context,Interdisciplinary Studies of Literature,A&HCI,2024.6,SONG yanfang,独著
+4、谁该赎罪? 何以赎罪?———《赎罪》的伦理经纬,《外国文学研究》,A&HCI, CSSCI,2012.03,宋艳芳,罗媛,第一期,第一
+5、齐泽克与伊格尔顿笔下的“实在界”、现实与现实主义考辨,《外国文学动态研究》,CSSCI,2020.12,宋艳芳,第六期,独著
+6、《克里米纳博士》中的名人丑闻及功过辨析,《外国文学》,CSSCI,2019.03,宋艳芳,第一期,独著
+7、小说何为？——从《星期六》看小说的功能,《国外文学》,CSSCI,2013.08,宋艳芳,第三期,独著
+8、学院派小说,《外国文学》,CSSCI,2013.11,宋艳芳,第六期,独著
+9、其他有关英美文学、中国文学、学院派小说、西方文论、教学类论文详见中国知网及有关资源库

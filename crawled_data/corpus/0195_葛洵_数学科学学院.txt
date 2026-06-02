@@ -1,0 +1,22 @@
+doc_id: 195
+name: 葛洵
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/gexun
+---
+姓名:教师个人主页
+页面标题:数学科学学院
+论文:论文：
+1、On the correspondence between granular polytomous spaces and polytomous surmising functions,Journal of Mathematical Psychology,SSCI,2023,Xun Ge,Soochow University
+2、On Galois connections between polytomous knowledge structures and polytomous attributions,Journal of Mathematical Psychology,SSCI,2022,Xun Ge,Soochow University
+3、On the correspondence between knowledge structures and attribution functions,Journal of Mathematical Psychology,SSCI,2021,Xun Ge,Soochow University
+4、Notes on attribution functions,British Journal of Mathematical and Statistical Psychology,SSCI,2021,Xun Ge,Soochow University
+5、A note on the separability of items in knowledge structures delineated by skill multimaps,Journal of Mathematical Psychology,SSCI,2020,Xun Ge,Soochow University
+6、Some properties of the Hausdorff tvs-cone pseudo-metric spaces,Topology and its Applications,SCI,2017,Xun Ge,Soochow University
+7、The rough membership functions on four types of covering-based rough sets and their applications,Information Sciences,SCI,2017,Xun Ge,Soochow University
+8、Completions of partial metric spaces,Topology and its Applications,SCI,2015,Xun Ge,Soochow University
+9、Connectivity of covering approximation spaces and its applications on epidemiological issue,Applied Soft Computing,SCI,2014,Xun Ge,Soochow University
+10、Topological characterizations of covering for special covering-based upper approximation operators,Information Sciences,SCI,2012,Xun Ge,Soochow University
+11、Axiomatization and conditions for neighborhoods in a covering to form a partition,Information Sciences,SCI,2011,Xun Ge, Jiangsu University of Science and Technology
+12、An application of covering approximation spaces on network security,Computers & Mathematics with Applications,SCI,2010,Xun Ge,Soochow University

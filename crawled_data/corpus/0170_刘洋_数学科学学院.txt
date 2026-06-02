@@ -1,0 +1,18 @@
+doc_id: 170
+name: 刘洋
+career: 
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/liuyang2023
+---
+姓名:
+页面标题:数学科学学院
+论文:论文：
+1、Full likelihood inference for abundance from continuous time capture–recapture data, Journal of the Royal Statistical Society, Series B (Statistical Methodology), 2018, Yang Liu, Yukun Liu, Pengfei Li, and Jing Qin, 80(5), 995-1014
+2、Maximum likelihood abundance estimation from capture-recapture data when covariates are missing at random, Biometrics, 2021, Yang Liu, Yukun Liu, Pengfei Li, and Lin Zhu, 77(3), 1050-1060
+3、Semiparametric empirical likelihood inference for abundance from one-inflated capture–recapture data, Biometrical Journal, 2022, Yang Liu, Pengfei Li, Yukun Liu and Riquan Zhang, 64(6), 1040–1155
+4、Two-step semiparametric empirical likelihood inference from capture–recapture data with missing covariates, Test, 2024, Yang Liu, Yukun Liu, Pengfei Li, and Riquan Zhang, 33(3), 786-808
+5、Nearly optimal two-step Poisson sampling and empirical likelihood weighting estimation for M-estimation with big data, Statistica Sinica, 2024, Yan Fan, Yang Liu, Yukun Liu, and Jing Qin, doi: 10.5705/ss.202023.0274
+6、Penalized empirical likelihood estimation and EM algorithms for closed-population capture-recapture models, Statistics and Computing, 2025, Yang Liu, Pengfei Li and Yukun Liu, 35, 25
+7、Semi-supervised inference for false negatives using zero-inflated Bernoulli regression in case-control studies, Journal of Applied Statistics, 2026, Yejia Shang, Yang Liu, and Qian Sun, doi: 10.1080/02664763.2026.2660957
+8、Statistical inference with nonignorable non-probability survey samples, Electronic Journal of Statistics, 2026, Yang Liu, , Meng Yuan, Pengfei Li, and Changbao Wu, doi: 10.1214/26-EJS2531
