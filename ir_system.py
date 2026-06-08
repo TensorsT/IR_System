@@ -46,6 +46,43 @@ class SearchResult:
     snippet: str
 
 
+def _stable_sort_key(result: SearchResult) -> Tuple[float, str, str, str, str]:
+    teacher = result.teacher
+    return (
+        -result.score,
+        teacher.name or "",
+        teacher.department or "",
+        teacher.url or "",
+        result.doc.doc_id or "",
+    )
+
+
+def _dedupe_and_rank(results: List[SearchResult], top_k: int) -> List[SearchResult]:
+    if not results:
+        return []
+
+    merged: Dict[Tuple[str, str], SearchResult] = {}
+    for item in results:
+        teacher = item.teacher
+        key = (
+            (teacher.name or "").replace(" ", ""),
+            (teacher.department or "").strip(),
+        )
+        existing = merged.get(key)
+        if existing is None or item.score > existing.score:
+            merged[key] = item
+            continue
+
+        if item.score == existing.score:
+            # Keep deterministic output when scores tie.
+            if _stable_sort_key(item) < _stable_sort_key(existing):
+                merged[key] = item
+
+    ranked = list(merged.values())
+    ranked.sort(key=_stable_sort_key)
+    return ranked[:top_k]
+
+
 def load_teachers(path: str) -> List[TeacherRecord]:
     with open(path, "r", encoding="utf-8") as f:
         raw = json.load(f)
@@ -228,11 +265,7 @@ def _phrase_search(
             snippet = _extract_snippet(doc.text, query_tokens or [query])
             results.append(SearchResult(score=1.0, doc=doc, teacher=teacher, snippet=snippet))
 
-    if not results:
-        return []
-
-    results.sort(key=lambda x: x.score, reverse=True)
-    return results[:top_k]
+    return _dedupe_and_rank(results, top_k)
 
 
 def _token_search(
@@ -285,8 +318,7 @@ def _token_search(
         snippet = _extract_snippet(doc.text, query_tokens)
         results.append(SearchResult(score=final_score, doc=doc, teacher=teacher, snippet=snippet))
 
-    results.sort(key=lambda x: x.score, reverse=True)
-    return results[:top_k]
+    return _dedupe_and_rank(results, top_k)
 
 
 def _fuzzy_search(
@@ -322,8 +354,7 @@ def _fuzzy_search(
         snippet = _extract_snippet(doc.text, query_tokens or [query])
         results.append(SearchResult(score=float(score), doc=doc, teacher=teacher, snippet=snippet))
 
-    results.sort(key=lambda x: x.score, reverse=True)
-    return results[:top_k]
+    return _dedupe_and_rank(results, top_k)
 
 
 def search(
@@ -356,7 +387,7 @@ def search(
                 doc = DocRecord(doc_id=teacher.name, path="", text=teacher.personal_intro)
             snippet = _extract_snippet(doc.text, [teacher.name])
             results.append(SearchResult(score=1.0, doc=doc, teacher=teacher, snippet=snippet))
-        return results
+        return _dedupe_and_rank(results, top_k)
 
     if allow_relax:
         exact_results = _phrase_search(query, docs, teachers, top_k)
