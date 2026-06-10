@@ -47,6 +47,14 @@ DEFAULT_CASES: List[EvalCase] = [
     EvalCase("研究方向:信息抽取", "周国栋", "研究方向字段限定查询"),
 ]
 
+# 额外的拼写/近似查询样例，用于阈值敏感性测试
+MISSPELL_CASES: List[EvalCase] = [
+    EvalCase("机器翻yi", "周国栋", "拼写错误：yi 替代 译"),
+    EvalCase("机z械翻译", "周国栋", "插入无关字符"),
+    EvalCase("机器fanyi", "周国栋", "拼音混入"),
+    EvalCase("机器翻譯", "周国栋", "繁体字变体"),
+]
+
 
 def load_resources():
     teachers = load_teachers(TEACHERS_JSON)
@@ -65,6 +73,7 @@ def evaluate_mode(
     docs,
     inverted,
     doc_norms,
+    fuzzy_threshold: int = 70,
 ) -> List[Dict[str, str]]:
     rows: List[Dict[str, str]] = []
     for case in cases:
@@ -78,6 +87,7 @@ def evaluate_mode(
             top_k=top_k,
             allow_relax=allow_relax,
             enable_fuzzy=enable_fuzzy,
+            fuzzy_threshold=fuzzy_threshold,
         )
         elapsed_ms = (time.perf_counter() - t0) * 1000.0
         names = [r.teacher.name for r in results]
@@ -224,6 +234,16 @@ def main() -> None:
         default="outputs/eval_run_log.md",
         help="Markdown log file that appends what was done each run.",
     )
+    parser.add_argument(
+        "--threshold-sweep",
+        action="store_true",
+        help="Run a fuzzy_threshold sweep on a small set of misspelled queries and save per-threshold outputs.",
+    )
+    parser.add_argument(
+        "--thresholds",
+        default="50,60,70,80,90",
+        help="Comma-separated list of integer fuzzy thresholds to try when --threshold-sweep is used.",
+    )
     args = parser.parse_args()
 
     modes = [
@@ -246,6 +266,33 @@ def main() -> None:
             doc_norms=doc_norms,
         )
         all_rows.extend(rows)
+
+    # 如果请求阈值扫描, 对 MISSPELL_CASES 逐阈值执行 optimized 模式并保存单独输出
+    if args.threshold_sweep:
+        thresh_list = [int(x) for x in args.thresholds.split(",") if x.strip()]
+        sweep_rows: List[Dict[str, str]] = []
+        for t in thresh_list:
+            mode_name = f"optimized_fuzzy_{t}"
+            rows = evaluate_mode(
+                mode_name=mode_name,
+                allow_relax=True,
+                enable_fuzzy=True,
+                top_k=args.top_k,
+                cases=MISSPELL_CASES,
+                teachers=teachers,
+                docs=docs,
+                inverted=inverted,
+                doc_norms=doc_norms,
+                fuzzy_threshold=t,
+            )
+            out_path = Path(f"outputs/eval_threshold_{t}.csv")
+            write_csv(out_path, rows)
+            print(f"Wrote threshold {t} results to: {out_path}")
+            sweep_rows.extend(rows)
+        # 把 sweep 的汇总也写到 summary 路径并打印
+        sweep_summary = summarize_rows(sweep_rows)
+        write_csv(Path(args.summary_out), sweep_summary)
+        print_summary(sweep_summary)
 
     write_csv(Path(args.out), all_rows)
     summary_rows = summarize_rows(all_rows)

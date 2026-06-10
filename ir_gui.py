@@ -5,6 +5,13 @@ import webbrowser
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import BOTH, LEFT, X, Y
 
+try:
+    from fuzzywuzzy import fuzz
+
+    _FUZZY_AVAILABLE = True
+except Exception:
+    _FUZZY_AVAILABLE = False
+
 from ir_system import (
     build_display,
     build_index,
@@ -22,6 +29,17 @@ def _matches_text(value: str, needle: str) -> bool:
     return needle.casefold() in value.casefold()
 
 
+def _matches_text_fuzzy(value: str, needle: str, threshold: int = 70) -> bool:
+    if _matches_text(value, needle):
+        return True
+    if not (_FUZZY_AVAILABLE and value and needle):
+        return False
+    try:
+        return fuzz.partial_ratio(needle, value) >= threshold
+    except Exception:
+        return False
+
+
 def _sort_results(results, mode: str):
     if mode == "姓名":
         return sorted(results, key=lambda x: (x.teacher.name or "", -x.score))
@@ -32,7 +50,14 @@ def _sort_results(results, mode: str):
     return sorted(results, key=lambda x: x.score, reverse=True)
 
 
-def _filter_results(results, name_filter, research_filter, paper_filter):
+def _filter_results(
+    results,
+    name_filter,
+    research_filter,
+    paper_filter,
+    use_fuzzy: bool = True,
+    fuzzy_threshold: int = 70,
+):
     filtered = []
     for item in results:
         teacher = item.teacher
@@ -43,11 +68,19 @@ def _filter_results(results, name_filter, research_filter, paper_filter):
             haystack = " ".join(
                 [teacher.research_direction, teacher.personal_intro, doc_text]
             )
-            if not _matches_text(haystack, research_filter):
+            if use_fuzzy:
+                matched = _matches_text_fuzzy(haystack, research_filter, fuzzy_threshold)
+            else:
+                matched = _matches_text(haystack, research_filter)
+            if not matched:
                 continue
         if paper_filter:
             haystack = " ".join([teacher.papers_text, doc_text])
-            if not _matches_text(haystack, paper_filter):
+            if use_fuzzy:
+                matched = _matches_text_fuzzy(haystack, paper_filter, fuzzy_threshold)
+            else:
+                matched = _matches_text(haystack, paper_filter)
+            if not matched:
                 continue
         filtered.append(item)
     return filtered
@@ -152,6 +185,30 @@ def main():
         bootstyle="round-toggle",
     ).pack(anchor="w", pady=(6, 0))
 
+    threshold_frame = ttk.Frame(mode_frame)
+    threshold_frame.pack(fill=X, pady=(8, 0))
+    ttk.Label(
+        threshold_frame,
+        text="模糊阈值",
+        font=("Microsoft YaHei UI", 10, "bold"),
+    ).pack(anchor="w")
+    fuzzy_threshold_var = tk.IntVar(value=70)
+    fuzzy_threshold_spin = tk.Spinbox(
+        threshold_frame,
+        from_=0,
+        to=100,
+        textvariable=fuzzy_threshold_var,
+        width=6,
+        font=("Microsoft YaHei UI", 10),
+    )
+    fuzzy_threshold_spin.pack(anchor="w", pady=(4, 0))
+    ttk.Label(
+        threshold_frame,
+        text="0-100，越低越宽松",
+        font=("Microsoft YaHei UI", 9),
+        bootstyle="secondary",
+    ).pack(anchor="w", pady=(2, 0))
+
     config_frame = ttk.Labelframe(sidebar, text="结果配置", padding=10)
     config_frame.pack(fill=X, pady=(0, 8))
     ttk.Label(config_frame, text="Top-K", font=("Microsoft YaHei UI", 10, "bold")).pack(
@@ -167,6 +224,12 @@ def main():
         font=("Microsoft YaHei UI", 10),
     )
     topk_spin.pack(anchor="w", pady=(4, 8))
+    ttk.Label(
+        config_frame,
+        text="返回排名前 k 项（Top-K），用于计算 hit@k（越大召回越高）。",
+        font=("Microsoft YaHei UI", 9),
+        foreground="#6b7280",
+    ).pack(anchor="w", pady=(0, 8))
 
     ttk.Label(config_frame, text="排序方式", font=("Microsoft YaHei UI", 10, "bold")).pack(
         anchor="w"
@@ -391,7 +454,7 @@ def main():
             ).pack()
             ttk.Label(
                 empty,
-                text="可尝试放宽条件、切换优化模式，或更换关键词。",
+                text="可尝试放宽条件（增大top-k或缩小模糊阈值）、切换优化模式，或更换关键词。",
                 font=("Microsoft YaHei UI", 10),
                 bootstyle="secondary",
             ).pack(pady=(6, 0))
@@ -480,13 +543,21 @@ def main():
                 top_k=max(3, min(20, int(topk_var.get()))),
                 allow_relax=allow_relax_var.get(),
                 enable_fuzzy=enable_fuzzy_var.get(),
+                fuzzy_threshold=max(0, min(100, int(fuzzy_threshold_var.get()))),
             )
         elif name_filter:
             results = search(name_filter, docs, teachers, inverted, doc_norms)
         else:
             results = []
 
-        results = _filter_results(results, name_filter, research_filter, paper_filter)
+        results = _filter_results(
+            results,
+            name_filter,
+            research_filter,
+            paper_filter,
+            use_fuzzy=enable_fuzzy_var.get(),
+            fuzzy_threshold=max(0, min(100, int(fuzzy_threshold_var.get()))),
+        )
         results = _sort_results(results, sort_var.get())
         elapsed_ms = (time.perf_counter() - t0) * 1000.0
         mode_text = "优化模式" if allow_relax_var.get() else "基础模式"
@@ -609,7 +680,10 @@ def main():
         t1 = time.perf_counter()
         opt = search(
             query, docs, teachers, inverted, doc_norms,
-            top_k=top_k, allow_relax=True, enable_fuzzy=True,
+            top_k=top_k,
+            allow_relax=True,
+            enable_fuzzy=True,
+            fuzzy_threshold=max(0, min(100, int(fuzzy_threshold_var.get()))),
         )
         opt_ms = (time.perf_counter() - t1) * 1000.0
 

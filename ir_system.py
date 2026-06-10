@@ -1008,6 +1008,7 @@ def _fuzzy_search(
     docs: List[DocRecord],
     teachers: List[TeacherRecord],
     top_k: int,
+    threshold: int = 70,
 ) -> List[SearchResult]:
     if not _FUZZY_AVAILABLE or not query:
         return []
@@ -1028,7 +1029,7 @@ def _fuzzy_search(
         if not haystack.strip():
             continue
         score = fuzz.partial_ratio(query, haystack)
-        if score < 70:
+        if score < threshold:
             continue
         doc = next((d for d in docs if teacher.name and teacher.name in d.path), None)
         if not doc:
@@ -1087,6 +1088,7 @@ def search(
     top_k: int = 8,
     allow_relax: bool = True,
     enable_fuzzy: bool = True,
+    fuzzy_threshold: int = 70,
 ) -> List[SearchResult]:
     query = (query or "").strip()
     if not query:
@@ -1159,7 +1161,7 @@ def search(
         return base_results
 
     if enable_fuzzy and allow_relax:
-        return _fuzzy_search(query, docs, teachers, top_k)
+        return _fuzzy_search(query, docs, teachers, top_k, threshold=fuzzy_threshold)
 
     return []
 
