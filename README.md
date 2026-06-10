@@ -13,6 +13,7 @@
 - 片段智能去重: 当片段内容与已展示字段重复时自动隐藏.
 - 命中关键词高亮: 仅保留最长非重叠匹配词(如 "周国栋" 不再附带 "周国"/"栋" 碎片).
 - 更稳健脱敏: 邮箱需带合法域名(避免误伤 "@Google Scholar"), 电话仅匹配手机号/带分隔符座机(避免误伤课题编号与年份区间).
+- **中英文跨语言检索**: 输入 `NLP`/`ML`/`events extraction`/`GNN`/`5G` 等英文缩写或短语, 自动扩展为中文等价词检索语料, 效果与搜「自然语言处理」「事件抽取」等基本一致; GUI 快捷查询已加入英文示例.
 
 ## 功能概览
 
@@ -252,6 +253,35 @@ python crawler/llm_papers_screen.py --dry-run           # 预览不写回
 
 日志：`crawled_data/llm_papers_screen_log.txt`
 
+## 中英文跨语言检索（ir_system.py）
+
+语料以中文为主, 但论文标题/主页常含英文。检索层在 `search()` 前通过 `QueryPlan` 做查询扩展:
+
+| 类型 | 示例输入 | 扩展为 |
+|------|----------|--------|
+| 缩写 | `NLP` `ML` `GNN` `RAG` `LLM` `5G` `SDN` `FPGA` | 自然语言处理、机器学习、图神经网络… |
+| 短语 | `events extraction` `machine learning` `recommendation system` | 事件抽取、机器学习、推荐系统… |
+| 字段限定 | `research: NLP` `paper: event extraction` | 先剥前缀, 再扩展 |
+
+实现要点:
+
+- `_ABBR_ALIASES`: **149** 个独立英文单词 → 中文等价词
+- `_EN_PHRASE_RULES`: **142** 条正则短语 → 中文
+- 公开 API: `expand_query(query)`、`query_matches_text(text, query)`（GUI 侧栏过滤复用）
+- 检索顺序不变: 扩展短语精确匹配 → 扩展词项倒排检索 → 模糊兜底; 高亮关键词同样走扩展词
+
+验证样例（2026-06-10）:
+
+```
+NLP                  → 周国栋、李培峰…
+events extraction    → 李培峰、周国栋
+GNN                  → 周经亚、赵朋朋…
+bioinformatics       → 朱斐、权丽君…
+speech enhancement   → 陈雪勤
+```
+
+扩展表位于 `ir_system.py` 顶部 `_ABBR_ALIASES` / `_EN_PHRASE_RULES`, 可按领域继续追加.
+
 ---
 
 ## 实验过程与问题处理记录
@@ -286,6 +316,7 @@ flowchart LR
 | 问题           | 表现                                       | 处理                                                                                 |
 | -------------- | ------------------------------------------ | ------------------------------------------------------------------------------------ |
 | 查询过严无结果 | 「机器翻译」等复合词查不到                 | 多次迭代查询：精确短语 → 分块/词项 → 可选 `fuzzywuzzy` 模糊匹配                  |
+| 英文查不到中文 | 输入 `NLP`/`ML`/`events extraction` 无效果 | `QueryPlan` 跨语言扩展：149 缩写 + 142 短语规则; GUI 快捷查询加英文按钮          |
 | 结果冗余难读   | 语料头、页脚版权、重复片段堆在卡片里       | `build_display()` 剥离元数据头、裁剪模板、片段去重、字段长度截断                   |
 | 高亮碎片       | 「周国栋」同时高亮「周国」「栋」           | 仅保留最长非重叠匹配                                                                 |
 | 脱敏误伤       | `@Google Scholar`、课题编号被当邮箱/电话 | 邮箱需合法域名；电话仅匹配手机号/带分隔符座机                                        |
@@ -337,6 +368,7 @@ flowchart LR
 | 06-08 初版       | 80.95%         | 90.48%          | 早期语料，optimized 模糊召回更好                       |
 | 06-09 数据清洗后 | 85.71%         | 85.71%          | 去噪音后 baseline 升、optimized 部分查询不再「误召回」 |
 | 06-09 论文筛查后 | 85.71%         | 85.71%          | hit@k 均为 90.48%；数据更干净，指标稳定                |
+| 06-10 跨语言扩展后 | 85.71%       | 85.71%          | 内置 21 条中文评测无回归；英文查询需单独人工验证       |
 
 说明：数据清洗会去掉一些「靠噪音命中」的虚假召回，optimized 模式 hit@1 可能略降，但结果可信度更高。
 
@@ -363,7 +395,9 @@ flowchart LR
 | `crawler/llm_extract.py`        | 全量 LLM 结构化       | `llm_extract_log.txt`                     |
 | `crawler/llm_papers_screen.py`  | 论文专项筛查          | `llm_papers_screen_log.txt`               |
 | `evaluate.py`                   | baseline vs optimized | `outputs/eval_*.csv`、`eval_run_log.md` |
+| `ir_system.py`                  | 检索 + 跨语言扩展     | —                                          |
 | `ir_gui.py`                     | 检索 + 结构化论文展示 | —                                          |
+| `CHANGELOG.md`                  | 开发变更按日记录      | 根目录                                     |
 
 ### 八、经验小结
 
@@ -371,3 +405,15 @@ flowchart LR
 2. **论文比研究方向更难**：栏目差异大、中英文混排、统计句与真实标题难用单一正则区分 → 专项短 prompt 比全量抽取更稳。
 3. **空字段优于脏字段**：赵雷类案例宁可论文为空，也不展示 ICDE/TKDE 缩写，避免检索与 GUI 误导。
 4. **可复现**：各环节有 checkpoint、dry-run、限量参数；评测日志自动追加，便于报告引用。
+5. **英文查询靠扩展表**：语料是中文时, 不能指望倒排索引直接命中 `NLP`; 维护缩写/短语映射表是性价比最高的跨语言方案。
+
+### 九、开发变更记录（按时间）
+
+更完整的按日变更见根目录 [`CHANGELOG.md`](CHANGELOG.md)。摘要如下:
+
+| 日期 | 内容 |
+|------|------|
+| 06-08 | 初版检索 + GUI + `evaluate.py` 21 条评测 |
+| 06-09 | 爬虫 V2、LLM 全量抽取(338/339)、`batch_fix_teachers`、论文噪音清洗 |
+| 06-09 晚 | `llm_papers_screen.py`：赵雷等 14 人清噪音 + 324 人论文结构化 |
+| 06-10 | 中英文跨语言检索：`QueryPlan`、149 缩写 + 142 短语、GUI 英文快捷查询 |
