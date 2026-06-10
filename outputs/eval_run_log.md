@@ -148,3 +148,33 @@
 - optimized: hit@1=18/21 (85.71%), hit@k=20/21 (95.24%), avg_latency=1.61ms
 
 ---
+## 2026-06-10 16:53:42
+
+### 本次执行内容
+- 执行了 baseline（不放宽、不模糊）评测。
+- 执行了 optimized（放宽+模糊）评测。
+- 评测查询数: 21，top_k: 5。
+- 数据规模: teachers=339, docs=339。
+- 产出明细: `outputs/eval_compare.csv`。
+- 产出汇总: `outputs/eval_summary.csv`。
+
+### 指标摘要
+- baseline: hit@1=18/21 (85.71%), hit@k=19/21 (90.48%), avg_latency=0.48ms
+- optimized: hit@1=18/21 (85.71%), hit@k=19/21 (90.48%), avg_latency=2.05ms
+
+---
+## 2026-06-10 16:55:43
+
+### 本次执行内容
+- 执行了 baseline（不放宽、不模糊）评测。
+- 执行了 optimized（放宽+模糊）评测。
+- 评测查询数: 21，top_k: 5。
+- 数据规模: teachers=339, docs=339。
+- 产出明细: `outputs/eval_compare.csv`。
+- 产出汇总: `outputs/eval_summary.csv`。
+
+### 指标摘要
+- baseline: hit@1=18/21 (85.71%), hit@k=19/21 (90.48%), avg_latency=0.56ms
+- optimized: hit@1=18/21 (85.71%), hit@k=19/21 (90.48%), avg_latency=2.09ms
+
+---

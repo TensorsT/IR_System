@@ -1,3 +1,3 @@
 ﻿mode,cases,hit@1_count,hit@1_rate,hit@k_count,hit@k_rate,avg_latency_ms
-baseline,21,18,0.8571,21,1.0000,0.52
-optimized,21,18,0.8571,20,0.9524,1.61
+baseline,21,18,0.8571,19,0.9048,0.56
+optimized,21,18,0.8571,19,0.9048,2.09

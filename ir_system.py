@@ -75,6 +75,414 @@ class DisplayResult:
     profile_keywords: List[str] = field(default_factory=list)
 
 
+@dataclass
+class QueryPlan:
+    """检索计划：原始查询 + 跨语言扩展后的短语/词项。"""
+
+    original: str
+    phrases: List[str]
+    tokens: List[str]
+
+
+# 英文缩写 → 中文等价词（独立单词命中时扩展）
+_ABBR_ALIASES: Dict[str, List[str]] = {
+    # ── 人工智能 / NLP ──
+    "nlp": ["自然语言处理", "中文信息处理"],
+    "nlu": ["自然语言理解"],
+    "nlg": ["自然语言生成"],
+    "ml": ["机器学习"],
+    "ai": ["人工智能"],
+    "dl": ["深度学习"],
+    "drl": ["深度强化学习", "强化学习"],
+    "cv": ["计算机视觉"],
+    "ir": ["信息检索", "信息抽取"],
+    "ie": ["信息抽取"],
+    "mt": ["机器翻译", "神经机器翻译"],
+    "nmt": ["神经机器翻译", "机器翻译"],
+    "ner": ["命名实体识别", "实体识别"],
+    "re": ["关系抽取", "事件关系抽取"],
+    "ee": ["事件抽取"],
+    "srl": ["语义角色标注"],
+    "amr": ["抽象语义表示", "语义分析"],
+    "pos": ["词法分析", "词法句法分析"],
+    "qa": ["问答系统", "大模型问答", "智能问答"],
+    "chatbot": ["对话系统", "聊天机器人"],
+    "kbqa": ["知识图谱问答", "知识问答"],
+    "kg": ["知识图谱"],
+    "llm": ["大语言模型", "大模型"],
+    "llms": ["大语言模型", "大模型"],
+    "lm": ["语言模型", "大语言模型"],
+    "plm": ["预训练语言模型", "大语言模型"],
+    "rag": ["检索增强生成"],
+    "cot": ["思维链", "链式推理"],
+    "prompt": ["提示学习", "提示工程"],
+    "icl": ["上下文学习", "少样本学习"],
+    "asr": ["语音识别", "自动语音识别"],
+    "tts": ["语音合成", "语音转换"],
+    "ocr": ["文字识别", "光学字符识别"],
+    "mtl": ["多任务学习"],
+    "multimodal": ["多模态", "多模态信息处理"],
+    # ── 机器学习 / 数据 ──
+    "dm": ["数据挖掘"],
+    "bi": ["商业智能", "数据分析", "生物信息学"],
+    "rs": ["推荐系统"],
+    "cf": ["协同过滤", "推荐系统"],
+    "gnn": ["图神经网络"],
+    "gcn": ["图卷积网络", "图神经网络"],
+    "gat": ["图注意力网络", "图神经网络"],
+    "cnn": ["卷积神经网络", "深度学习"],
+    "rnn": ["循环神经网络", "深度学习"],
+    "lstm": ["长短期记忆网络", "循环神经网络"],
+    "gru": ["门控循环单元", "循环神经网络"],
+    "transformer": ["Transformer", "注意力机制"],
+    "vit": ["视觉Transformer", "计算机视觉"],
+    "bert": ["预训练语言模型", "自然语言处理"],
+    "gpt": ["大语言模型", "生成式模型"],
+    "vae": ["变分自编码器", "生成模型"],
+    "gan": ["生成对抗网络", "深度学习"],
+    "svm": ["支持向量机", "机器学习"],
+    "knn": ["近邻算法", "机器学习"],
+    "pca": ["主成分分析", "降维"],
+    "lda": ["主题模型", "线性判别分析"],
+    "rl": ["强化学习"],
+    "dqn": ["深度强化学习", "强化学习"],
+    "ppo": ["强化学习", "深度强化学习"],
+    "nn": ["神经网络"],
+    "mlp": ["多层感知机", "神经网络"],
+    "sgd": ["随机梯度下降", "优化算法"],
+    "adam": ["自适应优化", "优化算法"],
+    "loss": ["损失函数", "目标函数"],
+    "cl": ["对比学习", "表示学习"],
+    "ssl": ["自监督学习", "表示学习"],
+    "tl": ["迁移学习", "领域自适应"],
+    "da": ["领域自适应", "迁移学习"],
+    "fl": ["联邦学习", "隐私计算"],
+    "xai": ["可解释人工智能", "可解释性"],
+    "automl": ["自动机器学习", "机器学习"],
+    "ts": ["时间序列", "时序分析"],
+    "st": ["时空数据", "时空数据分析"],
+    # ── 系统 / 软件 / 网络 ──
+    "db": ["数据库", "图数据库"],
+    "gdb": ["图数据库"],
+    "sql": ["数据库", "结构化查询"],
+    "nosql": ["非关系数据库", "分布式数据库"],
+    "os": ["操作系统", "系统软件"],
+    "se": ["软件工程", "可信软件"],
+    "iot": ["物联网"],
+    "iiot": ["工业互联网", "物联网"],
+    "edge": ["边缘计算", "移动边缘计算"],
+    "mec": ["移动边缘计算", "边缘计算"],
+    "cloud": ["云计算", "云原生"],
+    "sdn": ["软件定义网络"],
+    "nfv": ["网络功能虚拟化", "软件定义网络"],
+    "5g": ["第五代移动通信", "无线通信"],
+    "6g": ["第六代移动通信", "无线通信"],
+    "wifi": ["无线局域网", "无线网络"],
+    "wlan": ["无线局域网", "无线网络"],
+    "manet": ["移动自组网", "无线网络"],
+    "vanet": ["车联网", "物联网"],
+    "ns": ["网络安全", "网络与信息安全"],
+    "sec": ["信息安全", "网络安全"],
+    "crypto": ["密码学", "信息安全"],
+    "pqc": ["后量子密码", "密码学"],
+    "blockchain": ["区块链", "分布式系统"],
+    "hci": ["人机交互", "智能人机交互"],
+    "ar": ["增强现实", "虚拟现实"],
+    "vr": ["虚拟现实", "增强现实"],
+    "xr": ["扩展现实", "虚拟现实"],
+    "hpc": ["高性能计算", "并行计算"],
+    "gpu": ["图形处理器", "并行计算"],
+    "cuda": ["并行计算", "深度学习"],
+    "fpga": ["现场可编程门阵列", "硬件加速"],
+    "asic": ["专用集成电路", "芯片设计"],
+    "soc": ["片上系统", "集成电路设计"],
+    "dsp": ["数字信号处理", "信号处理"],
+    "eda": ["电子设计自动化", "集成电路设计"],
+    # ── 通信 / 电子 / 信号 ──
+    "sp": ["信号处理", "智能信号处理"],
+    "isp": ["图像信号处理", "图像处理"],
+    "rf": ["射频", "微波技术"],
+    "microwave": ["微波技术", "电磁场"],
+    "antenna": ["天线设计", "天线"],
+    "mimo": ["多输入多输出", "无线通信"],
+    "ofdm": ["正交频分复用", "无线通信"],
+    "qam": ["正交幅度调制", "通信信号处理"],
+    "psk": ["相移键控", "调制解调"],
+    "ber": ["误码率", "通信系统"],
+    "snr": ["信噪比", "信号处理"],
+    "csi": ["信道状态信息", "信道估计"],
+    "beamforming": ["波束成形", "天线"],
+    "massive": ["大规模天线", "MIMO"],
+    "ris": ["智能超表面", "可重构超表面"],
+    "uwb": ["超宽带", "无线定位"],
+    "lidar": ["激光雷达", "点云"],
+    "slam": ["同步定位与建图", "机器人"],
+    "ros": ["机器人操作系统", "智能机器人"],
+    # ── 光学 / 材料 / 物理（语料常见）──
+    "led": ["发光二极管", "光电器件"],
+    "oled": ["有机发光二极管", "光电子器件"],
+    "pv": ["光伏", "太阳能电池"],
+    "pec": ["光电化学", "光催化"],
+    "dft": ["密度泛函理论", "计算物理"],
+    "md": ["分子动力学", "计算模拟"],
+    "sem": ["扫描电镜", "材料表征"],
+    "tem": ["透射电镜", "材料表征"],
+    "xrd": ["X射线衍射", "材料表征"],
+    "nmr": ["核磁共振", "谱学"],
+    # ── 生物 / 医学信息 ──
+    "bioinfo": ["生物信息学", "生物信息"],
+    "omics": ["组学", "生物信息学"],
+    "ppi": ["蛋白质相互作用", "生物信息"],
+    "drug": ["药物发现", "分子生成"],
+    # ── 数学 / 优化 ──
+    "opt": ["最优化", "优化算法"],
+    "or": ["运筹学", "最优化"],
+    "pde": ["偏微分方程", "数值方法"],
+    "ode": ["常微分方程", "数值方法"],
+    "fde": ["分数阶微分方程", "偏微分方程"],
+    "fem": ["有限元", "有限元方法"],
+    "fdm": ["有限差分", "有限差分法"],
+}
+
+# 英文短语 → 中文（较长模式优先）
+_EN_PHRASE_RULES: List[Tuple[re.Pattern, List[str]]] = [
+    # NLP / 文本
+    (re.compile(r"natural\s+language\s+processing", re.I), ["自然语言处理", "中文信息处理"]),
+    (re.compile(r"natural\s+language\s+understanding", re.I), ["自然语言理解"]),
+    (re.compile(r"natural\s+language\s+generation", re.I), ["自然语言生成"]),
+    (re.compile(r"chinese\s+information\s+processing", re.I), ["中文信息处理", "自然语言处理"]),
+    (re.compile(r"cross[\s-]?lingual", re.I), ["跨语言", "跨语言信息处理"]),
+    (re.compile(r"information\s+extraction", re.I), ["信息抽取"]),
+    (re.compile(r"events?\s+extraction", re.I), ["事件抽取"]),
+    (re.compile(r"event\s+extraction", re.I), ["事件抽取"]),
+    (re.compile(r"relation\s+extraction", re.I), ["关系抽取", "事件关系抽取"]),
+    (re.compile(r"entity\s+recognition", re.I), ["命名实体识别", "实体识别"]),
+    (re.compile(r"named\s+entity", re.I), ["命名实体识别", "实体识别"]),
+    (re.compile(r"semantic\s+role\s+labeling", re.I), ["语义角色标注"]),
+    (re.compile(r"semantic\s+parsing", re.I), ["语义分析", "语义角色标注"]),
+    (re.compile(r"discourse\s+analysis", re.I), ["篇章分析", "对话分析"]),
+    (re.compile(r"coreference\s+resolution", re.I), ["指代消解", "实体指代消解"]),
+    (re.compile(r"text\s+classification", re.I), ["文本分类", "自然语言处理"]),
+    (re.compile(r"text\s+summarization", re.I), ["文本摘要", "自动摘要"]),
+    (re.compile(r"text\s+mining", re.I), ["文本挖掘", "数据挖掘"]),
+    (re.compile(r"sentiment\s+analysis", re.I), ["情感分析"]),
+    (re.compile(r"opinion\s+mining", re.I), ["观点挖掘", "情感分析"]),
+    (re.compile(r"question\s+answering", re.I), ["问答系统", "智能问答"]),
+    (re.compile(r"dialogue\s+system", re.I), ["对话系统", "多轮对话"]),
+    (re.compile(r"machine\s+translation", re.I), ["机器翻译", "神经机器翻译"]),
+    (re.compile(r"neural\s+machine\s+translation", re.I), ["神经机器翻译", "机器翻译"]),
+    (re.compile(r"speech\s+recognition", re.I), ["语音识别", "自动语音识别"]),
+    (re.compile(r"speech\s+enhancement", re.I), ["语音增强", "单通道语音增强"]),
+    (re.compile(r"speech\s+separation", re.I), ["语音分离"]),
+    (re.compile(r"speaker\s+recognition", re.I), ["说话人识别"]),
+    (re.compile(r"voice\s+conversion", re.I), ["语音转换"]),
+    (re.compile(r"large\s+language\s+model", re.I), ["大语言模型", "大模型"]),
+    (re.compile(r"pre[\s-]?trained\s+language\s+model", re.I), ["预训练语言模型", "大语言模型"]),
+    (re.compile(r"retrieval[\s-]?augmented", re.I), ["检索增强生成", "RAG"]),
+    (re.compile(r"prompt\s+learning", re.I), ["提示学习", "提示工程"]),
+    (re.compile(r"chain\s+of\s+thought", re.I), ["思维链", "链式推理"]),
+    (re.compile(r"few[\s-]?shot\s+learning", re.I), ["少样本学习", "小样本学习"]),
+    (re.compile(r"zero[\s-]?shot", re.I), ["零样本学习", "零样本"]),
+    (re.compile(r"multi[\s-]?modal", re.I), ["多模态", "多模态信息处理"]),
+    (re.compile(r"knowledge\s+graph", re.I), ["知识图谱"]),
+    (re.compile(r"graph\s+database", re.I), ["图数据库"]),
+    (re.compile(r"rumor\s+detection", re.I), ["谣言检测"]),
+    (re.compile(r"fake\s+news", re.I), ["谣言检测", "虚假信息检测"]),
+    # ML / DL
+    (re.compile(r"machine\s+learning", re.I), ["机器学习"]),
+    (re.compile(r"deep\s+learning", re.I), ["深度学习"]),
+    (re.compile(r"deep\s+reinforcement\s+learning", re.I), ["深度强化学习", "强化学习"]),
+    (re.compile(r"reinforcement\s+learning", re.I), ["强化学习"]),
+    (re.compile(r"supervised\s+learning", re.I), ["监督学习", "机器学习"]),
+    (re.compile(r"unsupervised\s+learning", re.I), ["无监督学习", "机器学习"]),
+    (re.compile(r"semi[\s-]?supervised", re.I), ["半监督学习", "机器学习"]),
+    (re.compile(r"self[\s-]?supervised", re.I), ["自监督学习", "表示学习"]),
+    (re.compile(r"transfer\s+learning", re.I), ["迁移学习"]),
+    (re.compile(r"domain\s+adaptation", re.I), ["领域自适应", "迁移学习"]),
+    (re.compile(r"contrastive\s+learning", re.I), ["对比学习", "表示学习"]),
+    (re.compile(r"representation\s+learning", re.I), ["表示学习", "特征学习"]),
+    (re.compile(r"federated\s+learning", re.I), ["联邦学习", "隐私计算"]),
+    (re.compile(r"graph\s+neural\s+network", re.I), ["图神经网络"]),
+    (re.compile(r"convolutional\s+neural\s+network", re.I), ["卷积神经网络", "深度学习"]),
+    (re.compile(r"recurrent\s+neural\s+network", re.I), ["循环神经网络", "深度学习"]),
+    (re.compile(r"neural\s+network", re.I), ["神经网络"]),
+    (re.compile(r"attention\s+mechanism", re.I), ["注意力机制", "Transformer"]),
+    (re.compile(r"generative\s+adversarial", re.I), ["生成对抗网络", "GAN"]),
+    (re.compile(r"variational\s+autoencoder", re.I), ["变分自编码器", "生成模型"]),
+    (re.compile(r"auto[\s-]?encoder", re.I), ["自编码器", "表示学习"]),
+    (re.compile(r"support\s+vector\s+machine", re.I), ["支持向量机", "机器学习"]),
+    (re.compile(r"random\s+forest", re.I), ["随机森林", "机器学习"]),
+    (re.compile(r"decision\s+tree", re.I), ["决策树", "机器学习"]),
+    (re.compile(r"ensemble\s+learning", re.I), ["集成学习", "机器学习"]),
+    (re.compile(r"feature\s+engineering", re.I), ["特征工程", "数据挖掘"]),
+    (re.compile(r"hyperparameter", re.I), ["超参数", "模型调优"]),
+    (re.compile(r"model\s+compression", re.I), ["模型压缩", "模型加速"]),
+    (re.compile(r"model\s+inference", re.I), ["模型推理", "大模型推理"]),
+    (re.compile(r"explainable\s+ai", re.I), ["可解释人工智能", "可解释性"]),
+    # CV / 图像
+    (re.compile(r"computer\s+vision", re.I), ["计算机视觉"]),
+    (re.compile(r"image\s+processing", re.I), ["图像处理", "医学影像处理"]),
+    (re.compile(r"image\s+segmentation", re.I), ["图像分割", "医学影像处理"]),
+    (re.compile(r"object\s+detection", re.I), ["目标检测", "计算机视觉"]),
+    (re.compile(r"face\s+recognition", re.I), ["人脸识别", "人脸活体检测"]),
+    (re.compile(r"optical\s+character\s+recognition", re.I), ["光学字符识别", "文字识别"]),
+    (re.compile(r"medical\s+image", re.I), ["医学影像", "医学影像处理"]),
+    (re.compile(r"remote\s+sensing", re.I), ["遥感", "高光谱遥感"]),
+    (re.compile(r"hyperspectral", re.I), ["高光谱", "高光谱遥感"]),
+    (re.compile(r"point\s+cloud", re.I), ["点云", "三维点云"]),
+    (re.compile(r"3d\s+vision", re.I), ["三维视觉", "3D机器视觉"]),
+    # 数据 / 推荐 / 挖掘
+    (re.compile(r"data\s+mining", re.I), ["数据挖掘"]),
+    (re.compile(r"big\s+data", re.I), ["大数据", "大数据分析"]),
+    (re.compile(r"data\s+analysis", re.I), ["数据分析", "数据处理"]),
+    (re.compile(r"recommendation\s+system", re.I), ["推荐系统"]),
+    (re.compile(r"collaborative\s+filtering", re.I), ["协同过滤", "推荐系统"]),
+    (re.compile(r"sequence\s+recommendation", re.I), ["序列推荐", "推荐系统"]),
+    (re.compile(r"time\s+series", re.I), ["时间序列", "时序分析"]),
+    (re.compile(r"spatio[\s-]?temporal", re.I), ["时空数据", "时空数据分析"]),
+    (re.compile(r"trajectory\s+data", re.I), ["轨迹数据", "轨迹数据挖掘"]),
+    (re.compile(r"stream\s+data", re.I), ["流数据", "流数据处理"]),
+    (re.compile(r"data\s+cleaning", re.I), ["数据清洗"]),
+    (re.compile(r"distributed\s+database", re.I), ["分布式数据库", "分布式数据管理"]),
+    # 系统 / 网络 / 安全
+    (re.compile(r"software\s+engineering", re.I), ["软件工程", "可信软件"]),
+    (re.compile(r"operating\s+system", re.I), ["操作系统", "系统软件"]),
+    (re.compile(r"distributed\s+system", re.I), ["分布式系统", "分布式计算"]),
+    (re.compile(r"cloud\s+computing", re.I), ["云计算"]),
+    (re.compile(r"edge\s+computing", re.I), ["边缘计算", "移动边缘计算"]),
+    (re.compile(r"internet\s+of\s+things", re.I), ["物联网"]),
+    (re.compile(r"industrial\s+internet", re.I), ["工业互联网"]),
+    (re.compile(r"wireless\s+communication", re.I), ["无线通信"]),
+    (re.compile(r"wireless\s+network", re.I), ["无线网络", "无线通信"]),
+    (re.compile(r"mobile\s+edge", re.I), ["移动边缘计算", "边缘计算"]),
+    (re.compile(r"software\s+defined\s+network", re.I), ["软件定义网络"]),
+    (re.compile(r"network\s+security", re.I), ["网络安全", "网络与信息安全"]),
+    (re.compile(r"information\s+security", re.I), ["信息安全", "网络安全"]),
+    (re.compile(r"cyber\s+security", re.I), ["网络安全", "信息安全"]),
+    (re.compile(r"block\s*chain", re.I), ["区块链"]),
+    (re.compile(r"human[\s-]?computer\s+interaction", re.I), ["人机交互", "智能人机交互"]),
+    (re.compile(r"virtual\s+reality", re.I), ["虚拟现实"]),
+    (re.compile(r"augmented\s+reality", re.I), ["增强现实"]),
+    (re.compile(r"high\s+performance\s+computing", re.I), ["高性能计算", "并行计算"]),
+    (re.compile(r"parallel\s+computing", re.I), ["并行计算", "高性能计算"]),
+    # 通信 / 电子 / 光学
+    (re.compile(r"signal\s+processing", re.I), ["信号处理", "智能信号处理"]),
+    (re.compile(r"digital\s+signal\s+processing", re.I), ["数字信号处理", "信号处理"]),
+    (re.compile(r"optical\s+communication", re.I), ["光通信", "光纤通信"]),
+    (re.compile(r"fiber\s+optics", re.I), ["光纤通信", "光纤"]),
+    (re.compile(r"wireless\s+channel", re.I), ["无线信道", "信道估计"]),
+    (re.compile(r"channel\s+estimation", re.I), ["信道估计", "无线通信"]),
+    (re.compile(r"modulation\s+classification", re.I), ["调制分类", "通信信号处理"]),
+    (re.compile(r"antenna\s+design", re.I), ["天线设计", "天线"]),
+    (re.compile(r"integrated\s+circuit", re.I), ["集成电路", "集成电路设计"]),
+    (re.compile(r"microelectronics", re.I), ["微电子", "微电子器件"]),
+    (re.compile(r"semiconductor", re.I), ["半导体", "半导体器件"]),
+    (re.compile(r"photovoltaic", re.I), ["光伏", "太阳能电池"]),
+    (re.compile(r"solar\s+cell", re.I), ["太阳电池", "太阳能电池"]),
+    (re.compile(r"quantum\s+computing", re.I), ["量子计算", "量子信息"]),
+    (re.compile(r"quantum\s+information", re.I), ["量子信息", "量子通信"]),
+    # 机器人 / 控制
+    (re.compile(r"intelligent\s+robot", re.I), ["智能机器人", "机器人"]),
+    (re.compile(r"robot\s+control", re.I), ["机器人控制", "智能控制"]),
+    (re.compile(r"autonomous\s+control", re.I), ["自主控制", "智能控制"]),
+    (re.compile(r"intelligent\s+control", re.I), ["智能控制", "智能控制与应用"]),
+    # 生物 / 医学
+    (re.compile(r"bioinformatics", re.I), ["生物信息学", "生物信息"]),
+    (re.compile(r"computational\s+biology", re.I), ["计算生物学", "生物信息学"]),
+    (re.compile(r"systems\s+biology", re.I), ["系统生物学", "生物信息学"]),
+    (re.compile(r"medical\s+informatics", re.I), ["医学信息", "医学信息学"]),
+    (re.compile(r"protein\s+interaction", re.I), ["蛋白质相互作用", "生物信息"]),
+    # 数学
+    (re.compile(r"partial\s+differential\s+equation", re.I), ["偏微分方程", "数值方法"]),
+    (re.compile(r"numerical\s+method", re.I), ["数值方法", "数值计算"]),
+    (re.compile(r"optimization\s+theory", re.I), ["最优化理论", "优化算法"]),
+    (re.compile(r"convex\s+optimization", re.I), ["凸优化", "最优化"]),
+]
+
+
+def _normalize_query_input(query: str) -> str:
+    text = (query or "").strip()
+    text = re.sub(r"[-_/]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _strip_field_prefix(query: str) -> Tuple[str, str | None]:
+    field_map = [
+        ("姓名:", "name"),
+        ("name:", "name"),
+        ("论文:", "papers"),
+        ("paper:", "papers"),
+        ("研究方向:", "research"),
+        ("research:", "research"),
+    ]
+    for prefix, fname in field_map:
+        if query.lower().startswith(prefix.lower()):
+            return query[len(prefix) :].strip(), fname
+    return query, None
+
+
+def _build_query_plan(query: str) -> QueryPlan:
+    """将英文缩写/短语扩展为中文检索词，与原始查询一并参与匹配。"""
+    original = _normalize_query_input(query)
+    if not original:
+        return QueryPlan("", [], [])
+
+    zh_phrases: List[str] = []
+    lower = original.lower()
+
+    for pattern, aliases in _EN_PHRASE_RULES:
+        if pattern.search(lower):
+            zh_phrases.extend(aliases)
+
+    for word in re.findall(r"[a-zA-Z]+", original):
+        aliases = _ABBR_ALIASES.get(word.lower())
+        if aliases:
+            zh_phrases.extend(aliases)
+
+    phrases: List[str] = []
+    seen_phrase = set()
+    for item in zh_phrases + [original]:
+        key = _normalize_text(item)
+        if key and key not in seen_phrase:
+            seen_phrase.add(key)
+            phrases.append(item)
+
+    tokens: List[str] = []
+    seen_token = set()
+    for phrase in phrases:
+        for term in _relax_terms(phrase):
+            key = _normalize_text(term)
+            if key and key not in seen_token:
+                seen_token.add(key)
+                tokens.append(term)
+
+    return QueryPlan(original=original, phrases=phrases, tokens=tokens)
+
+
+def expand_query(query: str) -> List[str]:
+    """返回包含跨语言扩展在内的全部检索短语。"""
+    cleaned, _ = _strip_field_prefix((query or "").strip())
+    return _build_query_plan(cleaned).phrases
+
+
+def query_matches_text(text: str, query: str) -> bool:
+    """判断文本是否命中查询（含英文缩写/短语的中文扩展）。"""
+    if not (query or "").strip():
+        return True
+    if not text:
+        return False
+    cleaned, _ = _strip_field_prefix((query or "").strip())
+    plan = _build_query_plan(cleaned)
+    hay = text.casefold()
+    for phrase in plan.phrases:
+        if phrase.casefold() in hay:
+            return True
+    for term in plan.tokens:
+        if len(term) >= 2 and term.casefold() in hay:
+            return True
+    return False
+
+
 def _stable_sort_key(result: SearchResult) -> Tuple[float, str, str, str, str]:
     teacher = result.teacher
     return (
@@ -374,16 +782,11 @@ def _strip_section_label(text: str) -> str:
 
 
 def _query_terms(query: str) -> List[str]:
-    cleaned = (query or "").strip()
-    for prefix in ["姓名:", "name:", "论文:", "paper:", "研究方向:", "research:"]:
-        if cleaned.lower().startswith(prefix.lower()):
-            cleaned = cleaned[len(prefix) :].strip()
-            break
-    terms = [t for t in re.split(r"\s+", cleaned) if t]
-    terms.extend(_relax_terms(cleaned))
+    cleaned, _ = _strip_field_prefix((query or "").strip())
+    plan = _build_query_plan(cleaned)
     out: List[str] = []
     seen = set()
-    for term in terms:
+    for term in plan.phrases + plan.tokens:
         if term and term not in seen:
             out.append(term)
             seen.add(term)
@@ -1041,18 +1444,16 @@ def _fuzzy_search(
 
 
 def _field_search(
-    query: str,
+    plan: QueryPlan,
     field: str,
     docs: List[DocRecord],
     teachers: List[TeacherRecord],
     top_k: int,
 ) -> List[SearchResult]:
     """Search restricted to a single teacher field (papers / research)."""
-    if not query:
+    if not plan.original:
         return []
 
-    terms = _relax_terms(query)
-    needle = _normalize_text(query)
     results: List[SearchResult] = []
     for teacher in teachers:
         field_text = (
@@ -1062,18 +1463,20 @@ def _field_search(
         if not haystack:
             continue
         score = 0.0
-        if needle and needle in haystack:
-            score += 3.0
-        for term in terms:
-            norm = _normalize_text(term)
+        for phrase in plan.phrases:
+            norm = _normalize_text(phrase)
             if norm and norm in haystack:
+                score += 3.0 + 0.2 * len(norm)
+        for term in plan.tokens:
+            norm = _normalize_text(term)
+            if norm and len(norm) >= 2 and norm in haystack:
                 score += 1.0
         if score <= 0:
             continue
         doc = next((d for d in docs if teacher.name and teacher.name in d.path), None)
         if not doc:
             doc = DocRecord(doc_id=teacher.name, path="", text=field_text)
-        snippet = _extract_snippet(field_text, [query] + terms)
+        snippet = _extract_snippet(field_text, plan.phrases + plan.tokens)
         results.append(SearchResult(score=score, doc=doc, teacher=teacher, snippet=snippet))
 
     return _dedupe_and_rank(results, top_k)
@@ -1090,27 +1493,15 @@ def search(
     enable_fuzzy: bool = True,
     fuzzy_threshold: int = 70,
 ) -> List[SearchResult]:
-    query = (query or "").strip()
+    raw_query = (query or "").strip()
+    if not raw_query:
+        return []
+
+    query, field = _strip_field_prefix(raw_query)
     if not query:
         return []
 
-    field = None
-    field_map = [
-        ("姓名:", "name"),
-        ("name:", "name"),
-        ("论文:", "papers"),
-        ("paper:", "papers"),
-        ("研究方向:", "research"),
-        ("research:", "research"),
-    ]
-    for prefix, fname in field_map:
-        if query.lower().startswith(prefix.lower()):
-            field = fname
-            query = query[len(prefix) :].strip()
-            break
-
-    if not query:
-        return []
+    plan = _build_query_plan(query)
 
     teacher_lookup = _build_teacher_lookup(teachers)
     normalized_query = query.replace(" ", "")
@@ -1125,18 +1516,20 @@ def search(
         return _dedupe_and_rank(results, top_k)
 
     if field in ("papers", "research"):
-        scoped = _field_search(query, field, docs, teachers, top_k)
+        scoped = _field_search(plan, field, docs, teachers, top_k)
         if scoped:
             return scoped
 
     if allow_relax:
-        exact_results = _phrase_search(query, docs, teachers, top_k)
+        exact_results: List[SearchResult] = []
+        for phrase in plan.phrases:
+            exact_results.extend(_phrase_search(phrase, docs, teachers, top_k))
+        exact_results = _dedupe_and_rank(exact_results, top_k)
         if exact_results:
             return exact_results
 
-        relaxed_terms = _relax_terms(query)
         relaxed_results = _token_search(
-            relaxed_terms,
+            plan.tokens,
             docs,
             teachers,
             inverted,
@@ -1147,9 +1540,8 @@ def search(
         if relaxed_results:
             return relaxed_results
 
-    query_tokens = _tokenize(query)
     base_results = _token_search(
-        query_tokens,
+        plan.tokens,
         docs,
         teachers,
         inverted,
@@ -1161,7 +1553,14 @@ def search(
         return base_results
 
     if enable_fuzzy and allow_relax:
-        return _fuzzy_search(query, docs, teachers, top_k, threshold=fuzzy_threshold)
+        fuzzy_results: List[SearchResult] = []
+        for phrase in plan.phrases:
+            fuzzy_results.extend(
+                _fuzzy_search(phrase, docs, teachers, top_k, threshold=fuzzy_threshold)
+            )
+        fuzzy_results = _dedupe_and_rank(fuzzy_results, top_k)
+        if fuzzy_results:
+            return fuzzy_results
 
     return []
 
@@ -1198,7 +1597,7 @@ def run_cli() -> None:
     inverted, doc_norms = build_index(docs)
 
     print("苏州大学导师检索系统 (基础版)")
-    print("输入示例: 自然语言处理方向 | 周国栋 | 论文: 信息抽取")
+    print("输入示例: 自然语言处理 | NLP | ML | events extraction | 周国栋")
     print("输入 quit 退出\n")
 
     while True:
