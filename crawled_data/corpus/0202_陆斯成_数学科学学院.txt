@@ -5,8 +5,11 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/lsc
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Counting mapping class group orbits under shearing coordinates, Geometriae Dedicata,2022.02, Sicheng Lu, Weixu Su,216:2
-2、Convergences of combinatorial Ricci flows to degenerated circle packings in hyperbolic background geometry, Journal of Functional Analysis, 2025-08, Guangming Hu, Sicheng Lu, Dong Tan, Youliang Zhong, Puchun Zhou, 289:3
+姓名:陆斯成
+学院:数学科学学院
+职称:讲师
+研究方向:几何拓扑、复分析、Teichmüller理论、双曲几何、球面几何、低维流形与拓扑
+关键词:几何拓扑、复分析、Teichmüller理论、双曲几何、球面几何、低维流形与拓扑、模空间、常曲率度量
+个人简介:2017年于复旦大学获学士学位；2022年于复旦大学获博士学位，导师苏伟旭教授和邱维元教授。研究方向为几何拓扑与复分析的交叉领域，主要是Teichmüller理论、双曲和球面几何、低维流形与拓扑，关心黎曼曲面上几何结构的形变及其模空间，特别是常曲率度量，对相关应用也有兴趣。
+论文:Counting mapping class group orbits under shearing coordinates
+Convergences of combinatorial Ricci flows to degenerated circle packings in hyperbolic background geometry

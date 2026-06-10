@@ -5,12 +5,15 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/tjz
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Which Link Matters? Maintaining Connectivity of Uncertain Networks Under Adversarial Attack, IEEE Transactions on Mobile Computing (CCF A类期刊), 2023, 23(3): 2039-2053
-2、Connectivity maintenance in uncertain networks under adversarial attack, IEEE INFOCOM (CCF A类会议), 2022: 1399-1408
-3、The Effect of Symmetry on the De-anonymizability of Social Networks, IEEE Transactions on Information Theory (CCF A类期刊), 2023, 69(11): 7357-7372
-4、FlowerCast: Efficient Time-Sensitive Multicast in Wireless Sensor Networks with Link Uncertainty, ACM Transactions on Sensor Networks (CCF B类期刊), 2023, 20(1): 1-32
-5、Connectivity Maintenance in Adversarial Networks with Link Uncertainty and Heterogeneity, IEEE International Conference on Meta Computing, 2024
-6、Connectivity Maintenance Against Link Uncertainty and Heterogeneity in Adversarial Networks, High-Confidence Computing, 2024
+姓名:汤健智
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+研究方向:不确定网络连通性、通信网络、社交网络、数据挖掘、网络测量与安全
+关键词:不确定网络连通性、通信网络、社交网络、数据挖掘、网络测量与安全
+个人简介:汤健智，男，博士，讲师，硕士生导师，CCF会员，苏州大学优秀青年学者。于浙江大学获工学学士学位，于上海交通大学获工学博士学位（师从王新兵教授）。2024年10月入职苏州大学计算机科学与技术学院。主要研究方向：不确定网络连通性、通信网络、社交网络、数据挖掘、网络测量与安全。在IEEE TMC、IEEE TIT、ACM TOSN、IEEE INFOCOM等国际知名期刊及会议上发表多篇学术论文。
+论文:Which Link Matters? Maintaining Connectivity of Uncertain Networks Under Adversarial Attack
+Connectivity maintenance in uncertain networks under adversarial attack
+The Effect of Symmetry on the De-anonymizability of Social Networks
+FlowerCast: Efficient Time-Sensitive Multicast in Wireless Sensor Networks with Link Uncertainty
+Connectivity Maintenance in Adversarial Networks with Link Uncertainty and Heterogeneity
+Connectivity Maintenance Against Link Uncertainty and Heterogeneity in Adversarial Networks

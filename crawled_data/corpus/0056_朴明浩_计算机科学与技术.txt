@@ -5,38 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/pmh
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-研究领域:- 方向一：缺陷模式识别
-- 方向二：多模态学习
-- 方向三：表征学习
-对学生的期望
-1. 本科专业对口，成绩优良；
-2. 具备编程基础（Python/Matlab/JAVA/C++等）；
-3. 诚实、踏实，有团队协作意识；
-4. 英语通过六级者优先。
-提供的条件
-- 奖学金辅助；
-- 支持发表高水平论文（近年中科院2区以上命中率约80%）；
-- 推荐实习和读博机会。
-申请方式
-请将简历、成绩单、英语证书等合并为PDF，发送至：
-mhpiao@suda.edu.cn
-标题格式：“硕士申请-姓名-学校-专业”
-欢迎提前联系！
-招生信息1：
-学位：
-工学博士
-毕业院校：
-忠北大学
-电子邮箱：
-mhpiao@suda.edu.cn
-办公地址：
-苏州大学天赐庄校区理工楼544
-联系电话：
-1039
-访问
-相关教师
-Copyright 苏州大学 2019, All Rights Reserved 苏州市十梓街1号
-推荐使用IE8.0以上，1366*768以上分辨率访问本网站
-论文:论文：
+姓名:朴明浩
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:数据挖掘、多模态学习、模式识别、扩散模型、不确定性、缺陷模式识别、表征学习
+关键词:数据挖掘、多模态学习、扩散模型、不确定性、模式识别、缺陷模式识别、表征学习
+个人简介:朴明浩，男，博士，苏州大学计算机科学与技术学院副教授、硕士生导师，苏州大学优秀青年学者。在韩国忠北大学获得硕士和博士学位。曾任韩国忠北大学讲师、东国大学研究助理教授、忠北大学客座助理教授，2020年加入苏州大学。研究方向为数据挖掘、多模态学习、模式识别，担任多个国际期刊审稿人，发表论文多篇。
+论文:High-order Spatial-Frequency Interaction and Detail Compensation Network for infrared and visible image fusion
+Spatial-frequency complementary fusion with multi-level feature ensemble for infrared and visible image fusion
+Position-Aware Self-Supervised Learning for Wafer Map Defect Pattern Recognition
+Multi-scale guidance diffusion network for wafer map defect recognition
+Improved Wafer Map Defect Pattern Classification Using Automatic Data Augmentation Based Lightweight Encoder Network in Contrastive Learning
+Image Hash Layer Triggered CNN Framework for Wafer Map Failure Pattern Retrieval and Classification
+Antecedent Hash Modality Learning and Representation for Enhanced Wafer Map Defect Pattern Recognition
+Semantic Segmentation Based Wafer Map Mixed-Type Defect Pattern Recognition
+CNN And Ensemble Learning Based Wafer Map Failure Pattern Recognition Based on Local Property Based Features
+Analysis of Image Hashing in Wafer Map Failure Pattern Recognition

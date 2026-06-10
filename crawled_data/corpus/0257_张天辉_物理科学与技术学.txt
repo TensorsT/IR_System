@@ -5,37 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/zhangtianhui
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:非平衡时-空结构的涌现与控制
-。
-课题组进展
-刘增涛获
-2021
-年国家奖学金。
-课题组成员
-毕业生
-陆施情
-(2015
-级
-)
-周倩倩
-(2014
-级
-)
-曹镜声
-(2013
-级
-)
-刘通
-(2012
-级
-)
-相关链接
-ResearcherID
-:C-5066-2009
-ORCID
-:
-https://orcid.org/0000-0001-8671-2006
-论文:论文：
-1、 Activity waves and freestanding vortices in populations of subcritical Quincke rollers,   Proc. Nat. Acad. Sci. USA   ,   Z.T. Liu,   Y. Shi,   Y. Zhao,   H. Chaté,    X.-q. Shi,    T.H. Zhang,   118 (2021).
+姓名:张天辉
+学院:物理科学与技术学院
+职称:教授
+研究方向:非平衡时-空结构的涌现与控制、自驱动胶体体系自组织、活性体系自组织调控、胶体自组装、细菌集体行为控制、晶体成核与生长
+关键词:非平衡自组织、自驱动胶体、活性物质、胶体自组装、细菌集体运动、晶体成核、软物质
+个人简介:张天辉，苏州大学物理科学与技术学院教授。2007年新加坡国立大学生物物理博士，曾在中国科学院空间科学与应用研究中心任助理研究员、荷兰乌特勒支大学从事博士后研究。2012年起任职苏州大学。长期从事软物质与生物物理研究，主要聚焦非平衡自组织现象，包括自驱动胶体体系的自组织、活性物质调控、胶体自组装及晶体生长过程的实验研究。
+论文:Tunable Memory and Activity of Quincke Particles in Micellar Fluid
+Tunable collective dynamics of ellipsoidal Quincke particles
+Emergence of Self-dual Patterns in Active Colloids with Periodical Feedback to Local Density
+Modulated Collective Motions and Condensation of Bacteria
+Activity waves and freestanding vortices in populations of subcritical Quincke rollers
+Symmetry-Dependent Kinetics of Dislocation Reaction
+自组织结构的控制 从平衡过程到非平衡过程
+Synchronized fractionation and phase separation in binary colloids
+Control on β conformation of poly(9,9-di-n-octylfluorene) via solvent annealing
+Can the pathway of stepwise nucleation be predicted and controlled?

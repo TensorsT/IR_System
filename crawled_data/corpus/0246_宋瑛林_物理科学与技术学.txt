@@ -5,7 +5,10 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/ylsong
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、 Jia JD, Wu XZ, Fang Y, Yang JY, Guo X, Xu QY, Han YB, Song YL. Ultrafast Broad-Band Optical Limiting in Simple Hydrazone Derivatives with a Π-Conjugated System: Effect of Two-Photon-Induced Singlet-State Absorption[J]. ,The Journal  of Physical Chemistry C ,SCI,2018,Jidong Jia,Yinglin Song,122(28): 16234-16241
+姓名:宋瑛林
+学院:物理科学与技术学院
+职称:教授
+研究方向:超快非线性光子技术与光计算、先进光学感知技术、光子器件与光子芯片、激光防护、光学非线性功能分子设计
+关键词:非线性光子学、光计算、光学感知、光子芯片、激光防护、非线性光学测量、超快光子学
+个人简介:宋瑛林，教授，博士生导师，1984-1994年在哈尔滨工业大学获学士、硕士、博士学位，后留校任教并晋升教授、博导。获黑龙江省杰出青年基金，入选教育部新世纪优秀人才、姑苏创新创业人才、江苏省双创计划。主要从事超快非线性光子技术与光计算、先进光学感知、光子器件与芯片、激光防护及光学非线性功能分子设计研究，发明了4F相位成像、泵浦探测TPO等多项技术。主持多项国家自然科学基金、重大科技专项课题，发表SCI论文60余篇，授权发明专利多项。
+论文:Ultrafast Broad-Band Optical Limiting in Simple Hydrazone Derivatives with a Π-Conjugated System: Effect of Two-Photon-Induced Singlet-State Absorption

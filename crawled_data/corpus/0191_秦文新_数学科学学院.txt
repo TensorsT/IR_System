@@ -5,6 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/qinwx
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
+姓名:秦文新
+学院:数学科学学院
+职称:教授
+研究方向:微分方程、动力系统、Aubry-Mather理论、旋转集、Frenkel-Kontorova模型、行波
+关键词:微分方程、动力系统、Aubry-Mather理论、旋转集、Frenkel-Kontorova模型、行波
+个人简介:1995年获北京大学理学博士学位。1995年7月至今在苏州大学数学科学学院工作。2002年起任苏州大学教授。2004年起被聘为苏州大学博士生导师。研究方向为微分方程与动力系统。主要研究与数学物理有关的方程的动力系统性质。
+论文:Discontinuity of depinning forces at rationals
+Uniqueness of Denjoy minimal sets for twist maps with zero entropy
+Decomposing dynamics via components of rotation sets
+Zero entropy and stable rotation sets for monotone recurrence relations
+Depinning transition of travelling waves for particle chains
+rho-bounded orbits and Arnold tongues for quasiperiodically forced circle maps
+Pseudo solutions, rotation sets, and shadowing rotations for monotone recurrence relations
+Continuity of depinning force
+Invariant circles and depinning transition
+Denjoy minimal sets and Birkhoff periodic orbits for non-exact monotone twist maps

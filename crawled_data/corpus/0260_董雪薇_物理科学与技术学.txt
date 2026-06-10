@@ -5,8 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/dxw
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:计算物理生物
-论文:论文：
-1、请见“研究领域”标签页
+姓名:董雪薇
+学院:物理科学与技术学院
+职称:讲师
+研究方向:蛋白质液-液相分离、淀粉样聚集微观机制、环境因素调控相分离、界面诱导短肽自组装、固有无序蛋白构象分布、分子动力学模拟
+关键词:分子动力学模拟、蛋白质液-液相分离、淀粉样聚集、固有无序蛋白、自组装、相分离、生物大分子
+个人简介:本科毕业于华东理工大学，博士毕业于复旦大学，随后在复旦大学从事博士后研究。现为苏州大学物理科学与技术学院优秀青年学者讲师。主要利用分子动力学模拟结合全原子/粗粒化蛋白质模型，研究蛋白质液-液相分离、淀粉样聚集、固有无序蛋白构象以及环境因素和界面调控等生物物理问题。
+论文:ALS-associated A315E and A315pT variants exhibit distinct mechanisms in inducing irreversible aggregation of TDP-43 312-317 peptide
+Liquid-liquid phase separation of Tau protein is encoded at the monomeric level
+A comprehensive insight into the mechanisms of dopamine in disrupting Aβ protofibrils and inhibiting Aβ aggregation
+Heparin remodels the microtubule-binding repeat R3 of Tau protein towards fibril-prone conformations
+Green tea extract EGCG plays a dual role in Aβ protofibril disruption and membrane protection: a molecular dynamic study
+Recent computational studies of membrane interaction and disruption of human islet amyloid polypeptide: Monomers, oligomers and protofibrils
+Binding of protofibrillar Aβ trimers to lipid bilayer surface enhances Aβ structural stability and causes membrane thinning
+Insights into the atomistic mechanisms of phosphorylation in disrupting liquid-liquid phase separation and aggregation of FUS low-complexity domain
+Deciphering the mechanisms of HPV E6 mutations in the destabilization of E6/E6AP/p53 complex
+Mechanistic insight into the destabilization of p53TD tetramer by cancer-related R337H mutation: a molecular dynamic study

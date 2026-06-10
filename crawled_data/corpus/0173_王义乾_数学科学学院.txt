@@ -1,56 +1,18 @@
 doc_id: 173
 name: 王义乾
-career: 
+career: 副教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/yiqian
 ---
-姓名:数学科学学院
-页面标题:数学科学学院
-研究领域:基本信息
-王义乾
-职称：
-副教授
-院部/部门：
-数学科学学院
-学历：
-博士
-学位：
-博士
-毕业学校：
-南京航空航天大学
-毕业专业：
-联系方式
-通讯地址：
-江苏省苏州市姑苏区十梓街1号
-邮政编码：
-215006
-电子邮箱：
-yiqian@suda.edu.cn
-联系电话：
-传真号码：
-办公地点：
-精正楼413
-科学研究
-科研团队
-个人简介:工作经历：
-2019
-年～今，副教授，苏州大学·数学科学学院·计算科学研究院
-2016
-年～
-2019
-年，博士后，清华大学
-教育背景：
-2010
-年～
-2016
-年，博士，南京航空航天大学
-2014
-年～
-2015
-年，联合培养博士，美国德州大学阿灵顿分校
-2006
-年～
-2010
-年，学士，南京航空航天大学
-论文:荣誉奖励
+姓名:王义乾
+学院:数学科学学院
+职称:副教授
+研究方向:涡的识别与定义、湍流拟序结构、流动减阻、数值方法、湍流数值模拟、格子玻尔兹曼方法、基于深度神经网络的流动建模与控制
+关键词:旋涡识别、湍流、流动减阻、数值模拟、格子玻尔兹曼方法、Liutex、Omega涡识别方法、湍流拟序结构、深度神经网络、并行计算
+个人简介:长期从事旋涡数学定义和识别，湍流数值模拟，格子玻尔兹曼方法，并行计算等研究。作为主要贡献者，提出Omega涡识别方法和Liutex涡向量，先后发表学术论文50余篇，其中SCI论文30余篇，总被引超过1500次。
+论文:Liutex theoretical system and six core elements of vortex identification
+Explicit formula for the Liutex vector and physical meaning of vorticity based on the Liutex-Shear decomposition
+第三代涡识别方法及其应用综述
+Galilean invariance of Rortex
+New omega vortex identification methods

@@ -5,13 +5,16 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/ytq
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems,IEEE/ACM Transactions on Networking,SCI,2021,Tianqi Yu,Soochow Univ,Xianbin Wang,Jianling Hu
-2、Topology Verification Enabled Intrusion Detection for In-Vehicle CAN-FD Networks,IEEE Communications Letters ,SCI,2020,Tianqi Yu,Xianbin Wang
-3、UAV-Enabled Spatial Data Sampling in Large-Scale IoT Systems Using Denoising Autoencoder Neural Network,IEEE Internet of Things Journal ,SCI,2019,Tianqi Yu,Xianbin Wang,Abdallah Shami
-4、Cloud-Orchestrated Physical Topology Discovery of Large-Scale IoT Systems Using UAVs,IEEE Transactions on Industrial Informatics,SCI,2018,Tianqi Yu,Xianbin Wang,Jiong Jin, Kenneth McIsaac
-5、Recursive Principal Component Analysis-Based Data Outlier Detection and Sensor Data Aggregation in IoT Systems,IEEE Internet of Things Journal,SCI,2017,Tianqi Yu,Xianbin Wang,Abdallah Shami
-6、Multi-Agent Proximal Policy Optimization-based Dynamic Client Selection for Federated AI in 6G-Oriented Internet of Vehicles,IEEE Transactions on Vehicular Technology,SCI,2024,Tianqi Yu,Soochow Univ,Xianbin Wang,Jianling Hu,Jianfeng Yang
-7、MADRL-Based Multi-UAV 3D Trajectory Planning for 6G-Oriented Communication Assistance,IEEE Transactions on Intelligent Transportation Systems,SCI,2025,Tianqi Yu,Soochow Univ,Feifan Cao,Xianbin Wang,Jianling Hu
+姓名:于天琪
+学院:电子信息学院
+职称:副教授
+研究方向:网络建模与优化、网络拓扑分析与控制、网络入侵检测、传感数据分析、物联网、车联网、飞行器自组网应用、联邦学习、多智能体强化学习
+关键词:物联网、网络建模、网络拓扑、入侵检测、传感数据分析、边缘计算、联邦学习、多智能体强化学习、车联网
+个人简介:于天琪，博士，苏州大学电子信息学院副教授。2013年本科毕业于武汉大学，2015年和2019年获加拿大西安大略大学电子与计算机工程硕士和博士学位。2019年入职苏州大学，入选校“优秀青年学者”。主要从事物联网领域研究，包括网络建模与优化、网络拓扑分析、网络入侵检测、传感数据分析、智能边缘计算等。已发表SCI/EI论文30余篇，授权专利多项，获IEEE VTC Spring 2015最佳学生论文奖。
+论文:A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems
+Topology Verification Enabled Intrusion Detection for In-Vehicle CAN-FD Networks
+UAV-Enabled Spatial Data Sampling in Large-Scale IoT Systems Using Denoising Autoencoder Neural Network
+Cloud-Orchestrated Physical Topology Discovery of Large-Scale IoT Systems Using UAVs
+Recursive Principal Component Analysis-Based Data Outlier Detection and Sensor Data Aggregation in IoT Systems
+Multi-Agent Proximal Policy Optimization-based Dynamic Client Selection for Federated AI in 6G-Oriented Internet of Vehicles
+MADRL-Based Multi-UAV 3D Trajectory Planning for 6G-Oriented Communication Assistance

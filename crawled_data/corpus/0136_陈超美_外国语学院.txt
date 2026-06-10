@@ -1,0 +1,18 @@
+doc_id: 136
+name: 陈超美
+career: 讲师
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/ccm
+---
+姓名:陈超美
+学院:外国语学院
+职称:讲师
+研究方向:当代中国剧场、跨文化戏剧、欧美戏剧理论、梨园戏、当代爱尔兰剧场、左翼戏剧、表演与情感、剧场空间与观众研究
+关键词:当代中国剧场、跨文化戏剧、欧美戏剧理论、梨园戏、当代爱尔兰剧场、左翼戏剧、表演与情感、剧场空间、观众研究、戏剧学
+个人简介:陈超美，都柏林圣三一大学戏剧学博士（国家留学基金委全额资助），维也纳大学东亚研究所访问学者（A. J. Leventhal Scholarship），上海外国语大学英美文学硕士。曾获国际戏剧研究联盟2023年度青年学者奖。主要研究方向为当代中国剧场、跨文化戏剧、欧美戏剧理论、梨园戏、当代爱尔兰剧场、左翼戏剧等。论文、剧评及译作见刊于Performance Research、Contemporary Theatre Review、The Drama Review等，出版译著多部，担任多本A&HCI期刊匿名审稿专家。
+论文:Restaging Lao She’s Socialist Cosmopolitanism: Intercultural Dramaturgy in Meng Jinghui’s Teahouse (Chaguan) (2018-19)
+The Abbey Theatre's An Octoroon (2022) and The Irish Times Theatre Awards 2023
+Still Resisting Left Melancholy? Chinese New Leftist Theatre’s Inheritance and Resistance in Che Guevara (2000-2001)
+Restaging Feminist Modernity with the ‘Shackles’ of Traditional Chengshi Aesthetics in Liyuanxi Yubei Ting (The Imperial Stele Pavilion)
+The ‘Grass Stage’ Collective and Zhao Chuan’s Draft Theatre (草台班与赵川的草稿剧场)

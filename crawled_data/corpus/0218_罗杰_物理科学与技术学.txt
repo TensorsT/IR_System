@@ -5,131 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/luojie
 ---
-姓名:个人简介
-页面标题:物理科学与技术学院
-论文:”）：
-2026年：
-73.
-Yuxuan Liu#, Ren-Hao Fan#, Dong-Xiang Qi, Ruwen Peng*, Yun Lai*, Mu Wang*, and
-Jie Luo*
-, Breaking the intrinsic absorption limit for arbitrarily thin conductive films at grazing incidence,
-Physical Review Letters
-136, 046902 (2026)
-（
-Editors' Suggestion
-&
-Featured in Physics
-）
-72.
-Wenjie Ji#, Xiaoxi Zhou#, Weixin Lu, Lei Gao*, Denis Kislov, Alexander S. Shalin*, and
-Jie Luo*
-, Dual-band omnidirectional scattering suppression via anisotropic epsilon-near-zero metamaterials,
-Laser & Photonics Reviews
-DOI: 10.1002/lpor.202502520 (2026)
-71.
-Fengchuan Xu#, Chenglin Wang#, Lei Gao*, Andrey Novitsky*, and
-Jie Luo*
-, Evanescent field-induced breakdown of quasi-static nonlinear effective medium theory at deep-subwavelength scales,
-Optics Express
-34, 8911 (2026)
----------------------------------------------------------------------------------
-2025年【10篇】：
-70.
-Dongyang Yan, Alexander S. Shalin, Yongxing Wang*, Yun Lai, Yadong Xu, Zhi Hong Hang, Fang Cao, Lei Gao*, and
-Jie Luo*
-, Ultrasensitive higher-order exceptional points via non-Hermitian zero-index materials,
-Physical Review Letters
-134, 243802 (2025)
-69.
-Muxuan Yang, Dongyang Yan, Lei Gao*, Wei Liu*, Yun Lai, Yadong Xu, Zhi Hong Hang, and
-Jie Luo*
-, Electromagnetic duality symmetry-protected Dirac-like cones,
-ACS Photonics
-12, 4358 (2025)
-68.
-Yuxuan Liu#, Ran Mei#, Yifan Zhang#, and
-Jie Luo*
-, Generalized parity-time-symmetric metasurfaces,
-ACS Photonics
-12, 6690 (2025)
-67.
-Shixian Hu#, Yuxuan Liu#, Yadong Xu*, and
-Jie Luo*
-, Generalized Brewster effect at exceptional points via cascaded non-Hermitian metasurfaces,
-Physical Review Applied
-24, 034030 (2025)
-66.
-Jinjie Shi#,
-Jie Luo*#
-, Chenkai Liu, Hongchen Chu, Yongxin Jing, Changqing Xu, Xiaozhou Liu*, Jensen Li*, and Yun Lai*, From directional to omnidirectional: Meta-devices for ultra-broadband sound absorption with near-causality-limit performance,
-Materials Horizons
-12, 9262 (2025)
-65.
-Wenjie Ji,
-Jie Luo*
-, Xiaoxi Zhou, Hongchen Chu, Hao Luo, Weixin Lu, and Yun Lai*, Broadband low-crosstalk compact waveguides enabled by anisotropic metamaterial substrate,
-Optics Express
-33, 28357 (2025)
-64.
-Yongxin Jing, Qiliang Teng,
-Jie Luo*
-, Chuny
-u Huang*, Zhouzhou Sun*, and Yun Lai*, Ultrabroadband transparent metamaterial absorbers designed by anomalous Brewster effect and gradient impedance matching optimized with deep neural network,
-Physical Review Applied
-23, L051002 (2025)（
-Letter
-）
-63.
-Hao Luo#,
-Jie Luo*#
-, HongChen Chu, WenJie Ji, and Yun Lai*, Conducting metallic metameshes with perfect electromagnetic transparency for arbitrary polarization and angle of incidence,
-Physical Review Applied
-23, 024025 (2025)
-【
-设计
-了一种既导电，又透微波的金属网，“
-反法拉第笼效应
-”
-】
-62.
-Xicheng Fang#, Songsong Li#, Baoyin Sun#, Dongyang Yan, Junyi Yang,
-Jie Luo*
-, Dongliang Gao, and Yadong Xu*, Perfect confinement of acoustic vortex by phase-gradient metacage,
-Chinese Physics Letters
-42, 034301 (2025)
-61.
-Yaoqieyu Song, Wenyan Pan, Shengjie Li, Sheng Zhang, Jia-He Chen, Yiyin Chen,
-Jie Luo*
-, and Zhi Hong Hang*, Realization of tunable non-Hermitian zero-index photonic crystals,
-Optical Materials Express
-15, 368 (2025)
----------------------------------------------------------------------------------
-2024年【8篇】：
-60.
-Hao Luo#,
-Jie Luo*#
-, Zhihui Zhang#, Chao Wu, Quan Li, Wei Liu, Ruwen Peng, Mu Wang, Hongqiang Li*, and Yun Lai*, Dielectric metamaterials with effective self-duality and full-polarization omnidirectional Brewster effect,
-Light: Science & Applications
-13, 262 (2024)
-59.
-Cuiping Liu#, Dongyang Yan#, Baoyin Sun, Yadong Xu, Fang Cao, Lei Gao*, and
-Jie Luo*
-, Low-gain generalized PT symmetry for electromagnetic impurity-immunity via non-Hermitian doped zero-index materials,
-Photonics Research
-12, 2424 (2024)
-【
-提出
-一种
-非平衡损耗—
-增益的
-广义PT对称系统
-，大幅降低了对材料增益正切的需求
-】
-58.
-Ran Mei, Yadong Xu, Lei Gao, He-Xiu Xu*, Yun Lai*, and
-Jie Luo*
-, Skin effect of electromagnetic flux in anisotropic zero-index metamaterials,
-Advanced Optical Materials
-12, 2401569 (2024)
-【发现一种
-新
+姓名:罗杰
+学院:物理科学与技术学院
+职称:研究员
+研究方向:光与人工微结构相互作用物理机制、零折射率材料、非厄米光学、Brewster效应诱导的无反射新机制、波导理论、有效介质理论、能带理论、电磁散射
+关键词:零折射率材料、非厄米光学、Brewster效应、电磁超构表面、光子晶体、有效介质理论、能带理论、电磁散射
+个人简介:罗杰，理学博士，苏州大学研究员，博士生导师。入选江苏省科协青年科技人才托举工程。从事光与人工微结构相互作用研究，涵盖零折射率材料、非厄米光学等。发表SCI论文70余篇，含PRL/X 6篇，引用3000余次，H指数31。主持国家和省级项目12项，获江苏省科技奖等。
+论文:Breaking the intrinsic absorption limit for arbitrarily thin conductive films at grazing incidence
+Ultrasensitive higher-order exceptional points via non-Hermitian zero-index materials
+Electromagnetic duality symmetry-protected Dirac-like cones
+Generalized parity-time-symmetric metasurfaces
+Generalized Brewster effect at exceptional points via cascaded non-Hermitian metasurfaces
+Dielectric metamaterials with effective self-duality and full-polarization omnidirectional Brewster effect
+Low-gain generalized PT symmetry for electromagnetic impurity-immunity via non-Hermitian doped zero-index materials
+Cladding-free hyperbolic waveguide arrays
+Quenching of second-harmonic generation by epsilon-near-zero media
+Brewster metasurfaces for ultra-broadband reflectionless absorption at grazing incidence

@@ -5,6 +5,16 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/shixf
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
+姓名:石晓菲
+学院:外国语学院
+职称:教授
+研究方向:儿童文学研究、英美文学研究、跨界儿童文学改编与传播、当代西方绘本理论批评、非虚构文学研究、英语文学教学
+关键词:儿童文学、英美文学、绘本理论、跨界叙事、非虚构文学、文学教学、认知诗学
+个人简介:石晓菲，苏州大学外国语学院教授、博士生导师。剑桥大学教育学博士（儿童文学方向）。主要研究领域为儿童文学和英美文学。主持国家社科基金中华学术外译项目、江苏省教育厅社科基金重大项目等多项课题。在国内外核心期刊发表论文多篇，参与国际学术编著获UKLA年度最佳学术编著奖提名。翻译出版学术专著《问题的文学：非虚构文学与批判的儿童》。担任多家AHCI、SSCI期刊编委及审稿人、多个儿童文学研究学会理事。多次获教学奖，包括苏州大学最受学生喜爱的老师、教学之星大赛全国总决赛亚军等。
+论文:A Revolutionary Wonderland: Layered Didacticism in Chen Bochui's Miss Alice (1931-1932)
+Towards a Post-age Picturebook Pedagogy
+Differences, Idiosyncrasies and Shared Humanity: Reconceptualising Crossover Literature
+Wasted Innocence: Children and Childhood in Cao Xueqin's Dream of the Red Chamber
+Exploring Picturebooks through the Model of Double-scope Stories
+Implications of Jimmy Liao's Picturebooks and Their Translations for Theories of Crossover Narrative
+一流大学研究生学术素养的养成——以剑桥大学教育系博士研究生培养为例

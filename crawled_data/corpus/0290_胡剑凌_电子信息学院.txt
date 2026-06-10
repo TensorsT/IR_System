@@ -5,16 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/jlhu
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Aggregation of DTN Bundles for Space Internetworking System,IEEE Systems Journal,SCI,2013.12,Jianling Hu,Soochow Univ.,4/7/658-668
-2、Memory dynamics for DTN protocol in deep-space communications,IEEE Aerospace and Electronic Systems Magazine,SCI,2014.02,Jianling Hu,Soochow Univ.,29/2/22-30
-3、The effect of DTN custody transfer in deep-space communications,IEEE Wireless Communications,SCI,169-176,Qian Yu,Soochow Univ.,20/5/169-176,5
-4、Performance of DTN Protocols in Space Communications,ACM/Springer Wireless Networks (WINET),SCI,2013.11,Xue Sun,Soochow Univ.,19/8/2029-2047,6
-5、Analytical characterization of Licklider transmission protocol (LTP) in cislunar communications,IEEE Transactions on Aerospace and Electronic Systems,SCI,2014.07,Zhihua Yang,Jianling Hu,Soochow Univ.,50/3/2019-2031,7
-6、Memory Dynamics and Transmission Performance of Bundle Protocol (BP) in Deep-Space Communications,IEEE Transactions on Wireless Communications,SCI,2015.05,Chunhai Feng,Soochow Univ.,Jianling Hu,Soochow Univ.,14/5/2802-2813,5
-7、MmWave-NOMA-Based Low-latency and High-Reliable Communications for Enhancement of V2X Services,IEEE Access,SCI,2020.12,Bicheng Wang,Soochow Univ.,Jianling Hu,Soochow Univ.,8/1/57049-57062,4
-8、Fast Prediction Mode Selection and CU Partition for HEVC Intra Coding,IET Image Processing,SCI,2020.09,Bin Fu,Soochow Univ.,Jianling Hu,Soochow Univ.,14(9),3
-9、Underdetermined Wideband DOA Estimation utilizing Noncircular Complex Gaussian Distribution,IEEE Sensors Letters,EI,2020,Nan Hu,Soochow Univ.,Jianling Hu,Soochow Univ.,4
-10、A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems,IEEE/ACM Transactions on Networking,SCI,2021.10,Tianqi Yu,Soochow Univ.,Jianling Hu,Soochow Hu,29(5),3
+姓名:胡剑凌
+学院:电子信息学院
+职称:教授
+研究方向:音视频信号处理与传输、智能信息处理、通信信号处理、嵌入式系统设计
+关键词:音视频信号处理、智能信息处理、通信信号处理、嵌入式系统、深空通信、DTN协议、无线通信、信号压缩
+个人简介:胡剑凌，男，教授，博导。2000年毕业于上海交通大学通信与信息系统，获工学博士学位，后留校任教，曾任上海交通大学电子工程系副教授，现任苏州大学电子信息学院教授。IEEE会员、全国专业标准化技术委员会委员、江苏省电子学会理事、苏州市电子学会副理事长、苏州市通信学会副理事长。研究方向为音视频信号处理与传输、智能信息处理、通信信号处理、嵌入式系统设计。主持多项国家项目和企业合作项目，发表论文多篇，获国家发明专利十余项及省部级科学技术奖多项。
+论文:Aggregation of DTN Bundles for Space Internetworking System
+Memory dynamics for DTN protocol in deep-space communications
+The effect of DTN custody transfer in deep-space communications
+Performance of DTN Protocols in Space Communications
+Analytical characterization of Licklider transmission protocol (LTP) in cislunar communications
+Memory Dynamics and Transmission Performance of Bundle Protocol (BP) in Deep-Space Communications
+MmWave-NOMA-Based Low-latency and High-Reliable Communications for Enhancement of V2X Services
+Fast Prediction Mode Selection and CU Partition for HEVC Intra Coding
+Underdetermined Wideband DOA Estimation utilizing Noncircular Complex Gaussian Distribution
+A Fast Hierarchical Physical Topology Update Scheme for Edge-Cloud Collaborative IoT Systems

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>Biography</title>
+
+    <link rel="stylesheet" href="./css/biography.css">
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/reset.css">
+    <script type="text/javascript" src="./language-switch.js">
+
+
+        var system = {};
+    
+        var p = navigator.platform;
+    
+        console.log(p);
+    
+    
+        system.win = p.indexOf("Win") == 0;
+    
+        system.mac = p.indexOf("Mac") == 0;
+    
+        if (system.win || system.mac) {//如果是电脑
+    
+            console.log('pc');
+            localStorage.setItem('dropIf', false)
+    
+            //document.getElementById("dropContent").style.display='none'
+    
+        } else { //如果是手机,
+    
+            console.log('移动端');
+            localStorage.setItem('dropIf', false)
+            document.getElementById("dropContent").style.display = 'none'
+    
+        }
+    
+    
+        function drop() {
+            console.log(document.getElementById("dropContent").style)
+            let ifdrop = localStorage.getItem('dropIf')
+            console.log(ifdrop)
+            if (ifdrop == 'false') {
+                document.getElementById("dropContent").style.display = 'block'
+                localStorage['dropIf'] = true
+            } else {
+                document.getElementById("dropContent").style.display = 'none'
+                localStorage['dropIf'] = false
+            }
+    
+    
+        }
+    </script>
+</head>
+
+<body background="img/beijing.png" style="background-repeat: no-repeat; background-size: 100% 100%; background-attachment: fixed;">
+    <header class="site_head" id="pcHeader">
+        <div class="topbar">
+            <div class="center" style="display: flex; justify-content: space-between; align-items: center;">
+                <div class="nav-r" style="font-family: 'Times New Roman', Times, serif;">
+                    <a href="index.html">
+                        <span class="lang-en" style="display:none;">Fei Gu Homepage</span>
+                        <span class="lang-zh">谷飞的主页</span>
+                    </a>
+                </div>
+                <nav class="shortcut-links">
+                    <ul style="font-family: 'Times New Roman', Times, serif; display: flex;">
+                        <li>
+                            <a href="index.html" class="lang-en">Homepage</a>
+                            <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+                        </li>
+                        <li class="active">
+                            <a href="biography.html" class="lang-en">Biography</a>
+                            <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+                        </li>
+                        <li>
+                            <a href="publications.html" class="lang-en">Publications</a>
+                            <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+                        </li>
+                        <li>
+                            <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+                            <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="lang-en">Research</a>
+                            <a class="lang-zh" style="display:none;">科学研究</a>
+                            <div class="dropdown-content">
+                                <a href="research_area.html" class="lang-en">Research Area</a>
+                                <a href="research_group.html" class="lang-en">Research Group</a>
+                                <a href="research_life.html" class="lang-en">Research Life</a>
+                                <a href="projects.html" class="lang-en">Research Project</a>
+                                <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+                                <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+                                <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+                                <a href="projects.html" class="lang-zh" style="display: none;">研究项目</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="teaching.html" class="lang-en">Teaching</a>
+                            <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+                        </li>
+                        <li>
+                            <a href="services.html" class="lang-en"> Social Services</a>
+                            <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+                        </li>
+                        <li>
+                            <a href="recruiting.html" class="lang-en">Recruiting</a>
+                            <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" class="lang-switch">Language</a>
+                            <div class="dropdown-content">
+                                <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                                <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <header class="moHeader" id="moHeader">
+        <div style="color: white; margin-left: 3vh; font-weight: bolder;">
+            <span class="lang-en">HOME</span>
+            <span class="lang-zh" style="display:none;">主页</span>
+        </div>
+        <div class="HeaderButton" id="dropbtn" onclick="drop()">
+            <div class="sanTiaoHengXian"></div>
+            <div class="sanTiaoHengXian2"></div>
+            <div class="sanTiaoHengXian"></div>
+        </div>
+    </header>
+    <div style="width: 100%;height: 46vh;background-color: black;z-index: 4;display:none " id="dropContent" class="pages">
+        <ul style="font-family: 'Times New Roman', Times, serif;" class="page">
+            <li class="active">
+                <a href="index.html" class="lang-en">Homepage</a>
+                <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+            </li>
+            <li>
+                <a href="biography.html" class="lang-en">Biography</a>
+                <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+            </li>
+            <li>
+                <a href="publications.html" class="lang-en">Publications</a>
+                <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+            </li>
+            <li>
+                <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+                <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+            </li>
+            <li >
+                <a href="research_area.html" class="lang-en">Research Area</a>
+                <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+            </li>
+            <li>
+                <a href="research_group.html" class="lang-en">Research Group</a>
+                <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+            </li>   
+            <li>
+                <a href="research_life.html" class="lang-en">Research Life</a>
+                <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+            </li>
+            <li>
+                <a href="projects.html" class="lang-en">Research Project</a>
+                <a href="projects.html" class="lang-zh" style="display:none;">研究项目</a>
+            </li>
+            <li>
+                <a href="teaching.html" class="lang-en">Teaching</a>
+                <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+            </li>
+            <li>
+                <a href="services.html" class="lang-en"> Social Services</a>
+                <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+            </li>
+            <li>
+                <a href="recruiting.html" class="lang-en">Recruiting</a>
+                <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="lang-switch">Language</a>
+                <div class="dropdown-content">
+                    <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                    <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <div class="top">
+            <span class="lang-en" style="display:none;">Biography</span>
+            <span class="lang-zh">个人简介</span>
+        </div>
+        
+        <div class="info">
+            <div class="e" style="font-family: 'Times New Roman', Times, serif;">
+                <span class="lang-en" style="display:none;">
+                    I was born and raised in Yancheng City, Jiangsu Province. Now I am an associate professor (Excellent Young Scholar) in school of computer science and technology, Soochow University. I received the Doctor degree of computer architecture from Beihang University in 2019, the MS degree of computer science and technology from Nanjing University of Aeronautics and Astronautics in 2014 and the BS of software engineering from Yangzhou Univtersity in 2011. During December 2017 to December 2018, I was a joint visiting Ph.D student in McGill University, Montreal, Quebec, Canada.</a>
+                </span>
+            </div>
+            <div class="c">
+                <span class="lang-zh">
+                    谷飞，苏州大学副教授，优秀青年学者，CCF高级会员，CCF数字医学分会执行委员，IEEE/ACM会员，姑苏创新创业领军人才，江苏顷刻智能科技有限公司总经理，苏州大学计算机科学与技术学院软件工程系党支部宣传委员，2023年曾作为第十六批科技镇长团团员挂职太湖新城（东太湖）旅游度假区数字产业发展办公室副主任。主要从事移动计算、智慧医疗等方面研究，已在计算机网络相关领域的国际顶级期刊和会议上发表论文40余篇，其中包括CCF A或B类、SCI一区或二区论文10余篇，申请国家技术发明专利10余项，已授权6项。主持国家自然科学基金青年项目、中国博士后基金项目、江苏省博士后基金项目、江苏省高校自然科学基金面上项目等多项省部级以上课题，参与了苏州大学联智同达智慧物联信创软件协同创新中心的平台建设、多项企业横向课题落地。目前担任CCF普适计算专委会委员、江苏省计算机学会网络与分布式专委会委员、江苏省计算机学会云计算专委会委员、CCF YOCSEF 苏州学术委员、苏州卫生信息学会理事。同时，曾主持多场具有高影响力的CCF YOCSEF苏州技术论坛，其中“数据驱动的认知智能能走多远？”论坛邀请了全国认知智能领域顶尖专家作为讲者和特邀嘉宾，吸引了全国人工智能领域知名企业家及学科专业负责人和骨干教师，针对产学研背景下数据驱动的认知智能等问题展开线上线下技术交流和思辨，在哔哩哔哩、腾讯WIZ、寇享学术和ZOOM等平台同步直播，总参会超3000人次。“苏州广电”、“看苏州”、“全球智博会”、“今日相城”、“FM91.1”和“金鸡湖创业长廊”等媒体对本次论坛以及相关观点内容进行了报道、广播和转载，反响热烈、不仅受到相关行业人士的密切关注，也对普通民众进行了认知智能概念的科普传播，并在CCCF上发表论文1篇，赢得了业界的一致好评。此外，他曾多次指导学生在CCF举办的程序设计大赛、算法设计比赛等赛事中获得了优异成绩。</a>
+                </span>
+            </div>
+        </div>
+            
+        
+
+        <div class="bottom" style="font-family: 'Times New Roman', Times, serif;">
+            <div>
+                <span class="lang-en" style="display:none;">Welcome to Visit Fei Gu's Homepage!</span>
+                <span class="lang-zh">欢迎访问谷飞的主页</span>
+            </div>
+            <div>
+                <span class="lang-en" style="display:none;">School of Computer Science and Technology, Soochow University!</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="./language-switch.js">
+        var system = {};
+
+        var p = navigator.platform;
+
+        console.log(p);
+
+        system.win = p.indexOf("Win") == 0;
+        system.mac = p.indexOf("Mac") == 0;
+
+        if (system.win || system.mac) {
+            console.log('pc');
+            localStorage.setItem('dropIf', false);
+        } else {
+            console.log('移动端');
+            localStorage.setItem('dropIf', false);
+            document.getElementById("dropContent").style.display = 'none';
+        }
+
+        function drop() {
+            console.log(document.getElementById("dropContent").style);
+            let ifdrop = localStorage.getItem('dropIf');
+            console.log(ifdrop);
+            if (ifdrop == 'false') {
+                document.getElementById("dropContent").style.display = 'block';
+                localStorage['dropIf'] = true;
+            } else {
+                document.getElementById("dropContent").style.display = 'none';
+                localStorage['dropIf'] = false;
+            }
+        }
+    </script>
+
+</body>
+
+</html>

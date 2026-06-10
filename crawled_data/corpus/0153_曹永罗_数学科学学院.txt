@@ -5,9 +5,12 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/ylcao
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Dimension Estimates for Non-conformal Repellers and Continuity of Sub-additive Topological Pressure,Geom. Funct. Anal., ,2019,Cao Yongluo,Pesin,Zhao Yun,29: 1325--1368.
-2、Upper bounds on measure-theoretic tail entropy for dominated splittings,Ergod.Th. & Dynam.Sys.,2020,Cao Yongluo,Liao Gang,You Zhiyuan,40,2305-2316
-3、 Livšic theorems for Banach cocycles: existence and regularity. (English summary) ，, J.Funct.Anal. ,2021,Zou Rui,Cao Yongluo, 280 (2021), no. 5,  No. 108889, 37 pp.
+姓名:曹永罗
+学院:数学科学学院
+职称:教授
+研究方向:微分动力系统动力学、遍历理论、动力系统维数理论、微分动力系统遍历理论
+关键词:微分动力系统、遍历理论、维数理论、动力系统、非双曲系统、拓扑压力
+个人简介:曹永罗，苏州大学数学科学学院教授、院长。1994年于北京大学获基础数学博士学位，此后任教于苏州大学，历任讲师、副教授、教授。主要从事微分动力系统的动力学与遍历理论及动力系统维数理论等的研究，担任《Dynamical Systems: An International Journal》编委。
+论文:Dimension Estimates for Non-conformal Repellers and Continuity of Sub-additive Topological Pressure
+Upper bounds on measure-theoretic tail entropy for dominated splittings
+Livšic theorems for Banach cocycles: existence and regularity

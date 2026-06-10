@@ -5,25 +5,14 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/phzshi
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:社会职务
-个人简介:教育和工作经历
-2012
-–
-至今
-副教授，苏州大学物理科学与技术学院，软凝聚态物理与交叉研究中心，苏州，江苏
-2013. 04-07
-访问学者，慕尼黑工业大学物理系，慕尼黑，德国
-2008
-–
-2012
-博士，香港科技大学物理系，香港
-2002
-–
-2005
-硕士，南京大学物理系，南京，江苏
-1998
-–
-2002
-学士，安徽大学物理系，合肥，安徽
+姓名:石子亮
+学院:物理科学与技术学院
+职称:副教授
+研究方向:超高真空扫描隧道显微镜、超分子配位自组装、金属-有机低维纳米结构、表面共价有机纳米结构、on-surface synthesis、二维材料、表面分子马达
+关键词:扫描隧道显微镜、超分子配位自组装、金属-有机纳米结构、表面共价有机纳米结构、on-surface synthesis、二维材料、分子马达
+个人简介:石子亮，苏州大学物理科学与技术学院副教授。博士毕业于香港科技大学物理系。以超高真空扫描隧道显微镜（UHV-STM）为主要研究手段，从事表面低维有机纳米结构的设计、表征与形成机制研究。研究方向包括：固体表面超分子配位自组装、金属-有机低维纳米结构、表面共价有机纳米结构（on-surface synthesis）、二维材料、表面分子马达等。
+论文:Size Control of On-Surface Self-Assembled Nanochains Using Soft Building Blocks
+On-Surface Synthesis of Giant Conjugated Macrocycles
+Fine-tuning of two-dimensional metal–organic nanostructures via alkali–pyridyl coordination
+On-Surface Cascade Reaction Based on Successive Debromination via Metal–Organic Coordination Template
+Selective on-surface covalent coupling based on metal-organic coordination template

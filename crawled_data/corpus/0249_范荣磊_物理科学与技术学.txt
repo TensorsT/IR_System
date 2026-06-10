@@ -5,8 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/rlfan
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-个人简介:范荣磊，副研究员，苏州大学优秀青年学者，2019年毕业于苏州大学
-物理科学与技术学院，获得理学博士学位。
-2017-2018年，国家公派留学在美国密西根大学安娜堡分校联合培养。
+姓名:范荣磊
+学院:物理科学与技术学院
+职称:
+研究方向:能量转换相关材料的制备、物理特性研究、Si材料光电物性、光电化学分解水、二氧化碳还原器件设计、纳米结构催化剂合成、工业电解水制氢应用
+关键词:能量转换、光电化学、水分解、二氧化碳还原、硅材料、纳米催化剂、电解水制氢
+个人简介:范荣磊，副研究员，苏州大学优秀青年学者，2019年获苏州大学理学博士。2017-2018年国家公派留学美国密西根大学安娜堡分校。研究方向为能量转换相关材料的制备及其物理特性，包括基于Si材料光电物性、光电化学分解水和二氧化碳还原的器件设计以及纳米结构催化剂的合成与工业电解水制氢应用。已在Energy Environ. Sci.等期刊发表SCI论文40余篇，授权发明专利3项。
+论文:Facet engineering in Au nanoparticles buried in p-Si photocathodes for enhanced photoelectrochemical CO2 reduction
+Enhanced solar hydrogen production by manipulating the spatial distribution of Pt catalyst onto Si micro-pyramid arrays
+The bifunctional 3D-on-2D FeCo/Ni(OH)2 hierarchical nanocatalyst for industrial-level electrocatalytic water splitting
+7% Efficiency Si Photoanodes for Solar Water Splitting Catalyzed by Vertically Grown and Oxygen-Vacancy-Rich NiFe Hydroxides
+Oxygen-vacancy-rich nickel hydroxide nanosheet: a multifunctional layer between Ir and Si toward enhanced solar hydrogen production in alkaline media
+Reduced graphene oxide grafted on p-Si photocathode as a multifunctional interlayer for enhanced solar hydrogen production
+Steering the Pathway of Plasmon-Enhanced Photoelectrochemical CO2 Reduction by Bridging Si and Au Nanoparticles through a TiO2 Interlayer
+NiMoFe/Cu nanowire core–shell catalysts for high-performance overall water splitting in neutral electrolytes
+Gradient-Structuring Manipulation in Ni3S2 Layer Boosts Solar Hydrogen Production of Si Photocathode in Alkaline Media
+Activating the MoS2 Basal Plane toward Enhanced Solar Hydrogen Generation via in Situ Photoelectrochemical Control

@@ -5,13 +5,14 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/fsj
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
-1、The Acquisition of English Collocations by Chinese L1 Learners of L2 English ,博士毕业论文,2023.9.7,Sijing FU,City University of Hong Kong ,Yuet Hung Cecilia CHAN,Sijing FU,City University of Hong Kong
-2、L1 Chinese L2 English learners' acquisition of English collocations: online and offline perspectives ,World Congress of Applied Linguistics AILA 会议发表,2021.8.25,Sijing FU,City University of Hong Kong
-3、Communication strategies for Chinese documentaries from high-context to low-context culture A comparative study of Wild China of BBC and CCTV version,Journal of Literature and Art Studies ,2021.1.1.,Sijing FU,City University of Hong Kong
-4、基于语料库的中国学生习得英语虚化动词搭配语的研究,语言教育,2022/2/15,付思婧,香港城市大学,陈月红
-5、Chinese EFL university students use of vocabulary learning strategies,International Journal of language and Linguistics ,2021/11/10,Sijing FU,City University of Hong Kong
-6、The roles of intensive and extensive reading activities in Chinese EFL University students reading comprehension skills ,Education and Linguistics Research ,2021/12/16,Sijing FU,City University of Hong Kong
-7、Chinese English major university students self reported use of vocabulary learning strategies ,English Language Teaching,2021/11/23,Sijing FU,City University of Hong Kong
+姓名:付思婧
+学院:外国语学院
+职称:
+研究方向:二语习得、SLA、词汇习得、英语搭配词、双语词汇理解、双语词汇产出
+关键词:二语习得、词汇习得、搭配词、英语搭配、双语词汇、词汇理解、词汇产出、心理语言学
+个人简介:付思婧，博士毕业于香港城市大学语言学及应用语言学专业，现为苏州大学外国语学院博士后。研究方向为二语习得（SLA），关注英语搭配词和汉英双语词汇的理解与产出机制。
+论文:Chinese L2 English learners' acquisition of English collocations: online and offline perspectives
+Communication strategies for Chinese documentaries from high-context to low-context culture A comparative study of Wild China of BBC and CCTV version
+Chinese EFL university students use of vocabulary learning strategies
+The roles of intensive and extensive reading activities in Chinese EFL University students reading comprehension skills
+Chinese English major university students self reported use of vocabulary learning strategies

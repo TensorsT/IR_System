@@ -1,0 +1,20 @@
+doc_id: 199
+name: 董自康
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/dzk
+---
+姓名:董自康
+学院:数学科学学院
+职称:副教授
+研究方向:解析数论
+关键词:解析数论、黎曼zeta函数、Dirichlet L-函数、大值分布、模形式
+个人简介:董自康，理学博士，苏州大学数学科学学院副教授。主要从事解析数论研究。2011-2015年山东大学学士，2015-2018年山东大学硕士，2018-2022年巴黎十二大博士，2022-2025年同济大学博士后，2025年9月起任苏州大学副教授。
+论文:Distribution of Dirichlet L-functions
+On the distribution of large values of ζ(1 it)
+A note on large values of ζ^(l)(1 it)
+On the distribution of large values of ζ(σ it)
+On derivatives of zeta and L-functions
+Large zeta sums
+Almost meromorphic modular forms and their associated L-functions

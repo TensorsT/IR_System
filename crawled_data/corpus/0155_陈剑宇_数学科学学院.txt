@@ -5,20 +5,18 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/jychen
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-个人简介:社会职务
-论文:论文：
-1、Dimension of non-conformal repellers: a survey, Nonlinearity, Jianyu Chen and Yakov Pesin, 23 (2010), no. 4, R93-R114
-2、On essential coexistence of zero and nonzero Lyapunov exponents, Discrete Contin. Dyn. Syst. , Jianyu Chen, 32 (2012), no. 12, 4149-4170.
-3、A volume preserving flow with essential coexistence of zero and nonzero Lyapunov exponents , Ergodic Theory Dynam. Systems, Jianyu Chen, Huyi Hu and Yakov Pesin, 33 (2013), no. 6, 1748-1785
-4、The essential coexistence phenomenon in dynamics, Dynamical Systems, an International Journal, Jianyu Chen, Huyi Hu and Yakov Pesin, v. 28, 2013
-5、Non-stationary Almost Sure Invariance Principle for Hyperbolic Systems with Singularities, J. Stat. Phys.,Jianyu Chen, Yun Yang and Hong-Kun Zhang, 172 (2018), no. 6, 1499-1524
-6、Invariance Principles for Ergodic Systems with Slowly α-mixing Inducing Base,Springer Proceedings in Mathematics & Statistics, Jianyu Chen and Kien Nguyen, vol 268., 115-126
-7、The Spectral Gap for Transfer Operators of Torus Extensions over Expanding Maps, Nonlinearity ,Jianyu Chen and Huyi Hu, 32 (2019), no. 1, 356–393
-8、Statistical properties of one-dimensional expanding maps with singularities of low regularity, Discrete Contin. Dyn. Syst.,Jianyu Chen and Hong-Kun Zhang, 39 (2019), no. 9, 4955-4977
-9、SRB measures for pointwise hyperbolic systems on open regions, Science China Mathematics ,Jianyu Chen, Huyi Hu and Yunhua Zhou,63(2020), no. 9, 1671–1720
-10、The essential coexistence phenomenon in Hamiltonian dynamics,Ergodic Theory Dynam. Systems, Jianyu Chen, Huyi Hu, Yakov Pesin and Ke Zhang,42 (2022), no. 2, 592–613.
-11、Length spectrum rigidity for piecewise analytic Bunimovich billiards,Comm. Math. Phys.,Jianyu Chen, Vadim Kaloshin, Hong-Kun Zhang,404 (2023), no. 1, 1–50.
-12、Inducing schemes with ﬁnite weighted complexity,J. Stat. Phys.,Jianyu Chen, Fang Wang, Hong-Kun Zhang,190 (2023), no. 12, Paper No. 195, 26 pp.
-13、On coupling lemma and stochastic properties with unbounded observables for 1-d expanding maps.,J. Dynam. Differential Equations,Jianyu Chen, Yiwei Zhang, Hong-Kun Zhang,36 (2024), no. 2, 1499–1536.
+姓名:陈剑宇
+学院:数学科学学院
+职称:教授
+研究方向:动力系统和遍历论、混沌机制、共存性现象、热力学机制、统计性质、刚性问题、Lyapunov指数计算
+关键词:动力系统、遍历论、混沌、共存性、热力学机制、统计性质、刚性、Lyapunov指数
+论文:Dimension of non-conformal repellers: a survey
+On essential coexistence of zero and nonzero Lyapunov exponents
+A volume preserving flow with essential coexistence of zero and nonzero Lyapunov exponents
+The essential coexistence phenomenon in dynamics
+Non-stationary Almost Sure Invariance Principle for Hyperbolic Systems with Singularities
+Invariance Principles for Ergodic Systems with Slowly α-mixing Inducing Base
+The Spectral Gap for Transfer Operators of Torus Extensions over Expanding Maps
+Statistical properties of one-dimensional expanding maps with singularities of low regularity
+SRB measures for pointwise hyperbolic systems on open regions
+The essential coexistence phenomenon in Hamiltonian dynamics

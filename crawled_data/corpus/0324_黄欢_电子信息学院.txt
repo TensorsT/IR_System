@@ -5,20 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/huanghuan
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attacks,IEEE Trans. Wireless Commun.,SCI 1区Top期刊,2023.06,Huan Huang, Soochow University,1
-2、Multi-IRS-aided millimeter-wave multi-user MISO systems for power minimization using generalized Benders decomposition,IEEE Trans. Wireless Commun.,SCI 1区Top期刊,2023.03,Huan Huang,1
-3、Two-timescale-based beam training for RIS-aided millimeter-wave multi-user MISO systems,IEEE Trans. Veh. Technol.,SCI 2 区,2023.04,Huan Huang,1
-4、Illegal intelligent reflecting surface based active channel aging: When jammer can attack without power and CSI,IEEE Trans. Veh. Technol.,SCI 2 区,2023.03,Huan Huang,1
-5、Optical true time delay pool-based beamforming and limited feedback for reconfigurable intelligent surface-empowered cloud radio access networks,Sci. China Inf. Sci.,SCI 2 区,2021.09,Huan Huang,1
-6、Optical true time delay pool based hybrid beamformer enabling centralized beamforming control in millimeter-wave C-RAN systems,Sci. China Inf. Sci.,SCI 2 区,2021.09,Huan Huang,1
-7、Optical true time delay pools based centralized beamforming control for wireless base stations phased-array antennas,J. Lightw. Technol.,SCI 2 区,2018.09,Huan Huang,1
-8、Tunable ultra-flat optical-comb-enabled, reconfigurable, and efficient coherent channelized receiver,Opt. Lett.,SCI 2区,2020.02,Huan Huang,1
-9、Double-efficiency photonic channelization enabling optical carrier power suppression,Opt. Lett.,SCI 2 区,2018.09,Huan Huang,1
-10、Acousto-optic frequency shifter-based microwave photonic channelized receiver using single optical frequency comb,Opt. Lett.,SCI 2 区,2022.06,Huan Huang（共一）,2
-11、Photonics-assisted multi-band microwave receiver based on spectrum analysis and coherent channelization,Frontiers in Physics,SCI 3 区,2020.10,Huan Huang,1
-12、Anti-jamming precoding against disco intelligent reflecting surfaces based fully-passive jamming attacks,IEEE Trans. Wireless Commun.,SCI 1区Top期刊,2024.02,Huan Huang,Soochow University,Yi Cai,Soochow University,1
-13、DISCO Might Not Be Funky:  Random Intelligent Reflective Surface  Configurations That Attack,IEEE Wireless Communications,SCI 1区 Top期刊,2024.10,Huan Huang,Soochow University,Yi Cai,Soochow University
-14、Disco Intelligent Omni-Surfaces: 360◦ Fully-Passive Jamming Attacks,IEEE Transactions on Wireless Communications,SCI 1区Top期刊,2025.07,Huan Huang,Soochow University
+姓名:黄欢
+学院:电子信息学院
+职称:讲师
+研究方向:无线通信物理层安全、光纤通感一体化
+关键词:智能超表面、物理层安全、全无源干扰、无线通信、光纤通感一体化、毫米波、波束赋形、信道老化
+个人简介:2023年6月获电子科技大学信息与通信工程专业博士学位，期间在美国休斯敦大学联合培养。获中国光学工程学会创新论文奖提名奖、通信学会优秀硕士学位论文、四川省大学生年度人物等荣誉。以第一/通信作者在IEEE Wireless Commun.、IEEE Trans. Wireless Commun.、Sci. China Inf. Sci.等期刊发表论文十余篇，并在IEEE ICC、GLOBECOM等会议发表多篇论文。担任Physical Communication副主编，IEEE WCNC2024专题研讨会共主席，多个期刊审稿人。主要研究方向：无线通信物理层安全、光纤通感一体化。
+论文:Disco intelligent reflecting surfaces: Active channel aging for fully-passive jamming attacks
+Multi-IRS-aided millimeter-wave multi-user MISO systems for power minimization using generalized Benders decomposition
+Two-timescale-based beam training for RIS-aided millimeter-wave multi-user MISO systems
+Illegal intelligent reflecting surface based active channel aging: When jammer can attack without power and CSI
+Optical true time delay pool-based beamforming and limited feedback for reconfigurable intelligent surface-empowered cloud radio access networks
+Optical true time delay pool based hybrid beamformer enabling centralized beamforming control in millimeter-wave C-RAN systems
+Optical true time delay pools based centralized beamforming control for wireless base stations phased-array antennas
+Tunable ultra-flat optical-comb-enabled, reconfigurable, and efficient coherent channelized receiver
+Double-efficiency photonic channelization enabling optical carrier power suppression
+Acousto-optic frequency shifter-based microwave photonic channelized receiver using single optical frequency comb

@@ -5,6 +5,12 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/yqw
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
+姓名:余茜文
+学院:外国语学院
+职称:
+研究方向:话语分析、专门用途英语、健康传播
+关键词:话语分析、专门用途英语、健康传播
+个人简介:博士毕业于香港城市大学英文系，主要研究兴趣包括话语分析、专门用途英语、健康传播。
+论文:Sharing peer advice: A case study of Chinese patients’ narratives in an online support group for mental health
+Promoting Patient Engagement in Medical Informed Consent - A Qualitative Study of Chinese Doctors’ Communication Strategies
+Towards a communication-focused ESP course for nursing students in building partnership with patients: A needs analysis

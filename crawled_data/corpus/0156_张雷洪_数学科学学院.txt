@@ -5,28 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/zlh
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、A generalized quasi-Newton equation and computational experience,Journal of Computational Mathematics,SCI,2006,Lei-Hong Zhang,Ping-Qi Pan,Lei-Hong Zhang, pp.665-674.,1
-2、A continuous Newton-type method for unconstrained optimization,Pacific Journal of Optimization,SCIE,2008,Lei-Hong Zhang,C. T. Kelley,Li-Zhi Liao,C. T. Kelley
-3、A generalized projective dynamic for solving extreme and interior eigenvalue problems,Discrete and Continuous Dynamical System - Series B, ,SCI,2008,Lei-Hong Zhang,Li-Zhi Liao,Li-Zhi Liao,10(2008), pp.997-1019.,1
-4、Fast Algorithms for the generalized Foley-Sammon discriminant analysis,SIAM Journal on Matrix Analysis and Applications,SCI,2010,Lei-Hong Zhang,Li-Zhi Liao,Michael K. Ng,Lei-Hong Zhang,31 (2010), pp.1584-1605.
-5、Riemannian Newton method for the multivariate eigenvalue problem,SIAM Journal on Matrix Analysis and Applications,SCI,2010,Lei-Hong Zhang,Lei-Hong Zhang,31(2010), pp.2972-2996.,1
-6、Uncorrelated trace ratio LDA for undersampled problems,Pattern Recognition Letters,SCI,2011,Lei-Hong Zhang,Lei-Hong Zhang,32(2011), pp.476-484.,1
-7、Towards the global solution of the maximal correlation problem,Journal of Global Optimization,SCI,2011,Lei-Hong Zhang,Li-Zhi Liao,Li-Ming Sun,49(2011), pp.91-107.,1
-8、On sparse linear discriminant analysis for high-dimensional data classification,Numerical Linear Algebra with Applications,SCI,2011,Michael K. Ng,Li-Zhi Liao,Lei-Hong Zhang,18(2011), pp.223-235.,3
-9、Computing absolute maximum correlation,IMA Journal of Numerical Analysis,SCI,2012,Lei-Hong Zhang,Moody T. Chu,32(2012), pp.163-184.,1
-10、Riemannian trust-region method for the maximal correlation problem,Numerical Functional Analysis and Optimization,SCI,2012,Lei-Hong Zhang,33:3(2012), pp. 338-362.,1
-11、An alternating variable method for the maximal correlation problem,Journal of Global Optimization,SCI,2012,Lei-Hong Zhang,Li-Zhi Liao,54(2012), pp.199-218.,1
-12、Superlinear convergence of a general algorithm for the generalized Foley-Sammon discriminant analysis,Journal of Optimization Theory and Applications,SCI,2013,Lei-Hong Zhang,Li-Zhi Liao,Michael K. Ng,157(2013), pp. 853-865.,1
-13、On optimizing the sum of the Rayleigh quotient and the generalized Rayleigh quotient on the unit sphere,Computational Optimization and Applications,SCI,2013,Lei-Hong Zhang,Lei-Hong Zhang,54(2013), pp.111-139.,1
-14、 Perturbation analysis for the trace quotient problem,Linear and Multilinear Algebra,SCI,2013,Lei-Hong Zhang,Wei Hong Yang,Lei-Hong Zhang,61:12(2013), pp.1629-1640.,1
-15、An efficient algorithm for second- order !cone linear complementarity problems,Mathematics of Computation,SCI,2013,Lei-Hong Zhang,Wei Hong Yang,Wei-Hong Yang,83(2013), pp.1701-1726.,1
-16、On an efficient implementation of the face algorithm for linear programming,Journal of Computational Mathematics,SCI,2013,Lei-Hong Zhang,Wei Hong Yang,Li-Zhi Liao,Lei-Hong Zhang,31:4(2013), pp.335-354.,1
-17、Optimality conditions of the nonlinear programming on Riemannian manifolds,Pacific Journal of Optimization,SCIE,2014,Wei Hong Yang,Lei-Hong Zhang,Ruyi Song,10(2014), pp.415-434.,2/3
-18、On the local and superlinear convergence of a parameterized DFP method,Numerical Functional Analysis and Optimization,SCI,2014,Lei-Hong Zhang,Ping-Qi Pan,Shi-Pei Zhang,Lei-Hong Zhang,35:1(2014), pp.111-132.,1
-19、A note on the trace ratio optimization problem,Optimization Letters,SCI,2014,Lei-Hong Zhang,Wei Hong Yang,Li-Zhi Liao,Lei-Hong Zhang,8(2014), pp.1637–1645.,1
-20、On the self-consistent-field iteration for maximizing the sum of the Rayleigh quotients,Journal of Computational and Applied Mathematics,,SCI,2014,Lei-Hong Zhang,Lei-Hong Zhang,257(2014), pp.14-28.,1
-21、Maximization of the sum of the trace ratio on the Stiefel manifold, I: Theory,SCIENCE CHINA Mathematics,SCI,2014,Lei-Hong Zhang,Ren-Cang Li,57(2014), pp. 2495– 2508.,1
-22、Rayleigh-Ritz approximation for the linear response eigenvalue problem,SIAM Journal on Matrix Analysis and Applications,SCI,2014,Lei-Hong
+姓名:张雷洪
+学院:数学科学学院
+职称:教授
+研究方向:最优化理论与计算、数值代数、数值线性代数、数据科学、模式识别、数据挖掘
+关键词:最优化、数值代数、特征值问题、线性判别分析、Rayleigh商、流形优化、数据挖掘、模式识别
+个人简介:张雷洪，男，博士，苏州大学数学科学学院特聘教授。本科与硕士毕业于东南大学，博士毕业于香港浸会大学。曾任上海财经大学讲师、副教授、教授。主要研究方向为最优化理论与计算、数值代数与数据科学。在 Math. Program.、Math. Comp.、Numer. Math.、SIAM 系列、IEEE TPAMI、Bioinformatics 等期刊发表 SCI 论文 50 余篇。获上海市自然科学三等奖、中国数学会计算数学分会应用数值代数奖等。
+论文:A generalized quasi-Newton equation and computational experience
+A continuous Newton-type method for unconstrained optimization
+A generalized projective dynamic for solving extreme and interior eigenvalue problems
+Fast Algorithms for the generalized Foley-Sammon discriminant analysis
+Riemannian Newton method for the multivariate eigenvalue problem
+Uncorrelated trace ratio LDA for undersampled problems
+Towards the global solution of the maximal correlation problem
+On sparse linear discriminant analysis for high-dimensional data classification
+Computing absolute maximum correlation
+Riemannian trust-region method for the maximal correlation problem

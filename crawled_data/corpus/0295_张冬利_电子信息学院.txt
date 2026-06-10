@@ -5,24 +5,16 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/dongli_zhang
 ---
-姓名:电子信息学院
-页面标题:电子信息学院
-研究领域:1、新型半导体器件的设计与制造
-2、半导体器件的可靠性表征与建模
-个人简介:2002
-年毕业于吉林大学电子工程系获学士学位，
-2008
-年毕业于香港科技大学电机及电子工程系获哲学博士学位，
-2008-2012
-年于香港科技大学电机及电子工程系从事博士后研究工作，
-2012
-年底加入苏州大学电子信息学院，从事半导体器件方向的教学和科研工作。目前主持国家自然科学基金项目面上项目2项，已完成国家自然科学基金项目、江苏省自然科学基金项目以及苏州市重点产业技术创新前瞻性应用研究项目各一项，发表论文
-40
-余篇。
-论文:1、Investigations on the Gate-Induced Drain Leakage Current of Polycrystalline-Silicon Thin-Film Transistor and Its Suppression With Drain Bias Sweep, IEEE Transactions on Electron Devices, SCI, 2016.04,Dongli Zhang,Mingxiang Wang,Huaisheng Wang, vol. 63, no. 4, pp. 1572-7157.
-2、Enhanced Negative Bias Stress Degradation in Multigate Polycrystalline Silicon Thin-Film Transistors, IEEE Transactions on Electron Devices, SCI, 2017.10,Dongli Zhang,Mingxiang Wang,Huaisheng Wang,Yilin Yang, vol. 64, no. 10, pp. 4363-43637.
-3、Suppressed Degradation of Elevated-Metal Metal-Oxide Thin-Film Transistors under Bipolar Gate Pulse Stress, IEEE Electron Device Letters, SCI, 2018.05,Yilin Yang,Dongli Zhang(#),Mingxiang Wang,Huaisheng Wang, vol. 39, no. 5, pp. 707-710.
-4、Investigations on the Negative Shift of the Threshold Voltage of Polycrystalline Silicon Thin-Film Transistors Under Positive Gate Bias Stress, IEEE Transactions on Electron Devices, SCI, 2021.02,Nairi Liang,Dongli Zhang(#),Mingxiang Wang,Huaisheng Wang, vol. 68, no. 2, pp. 550-555.
-5、Enhanced Thermal Stability of Elevated-Metal Metal-Oxide Thin-Film Transistors via Low-Temperature Nitrogen Post-Annealing, IEEE Transactions on Electron Devices, SCI, 2021.03,Yiran Wei,Yining Yu,Nanan Lv,Dongli Zhang, vol. 68, no. 4, pp. 1649-1653.
-6、Hot-Carrier Effects in a-InGaZnO Thin-Film Transistors under Pulse Drain Bias Stress, IEEE Transactions on Electron Devices, SCI,2021.06,Tianyuan Song, Dongli Zhang(#),Mingxiang Wang, vol. 68, no. 6, pp. 2742-2747
-7、Degradation Mechanisms for a-InGaZnO Thin-Film Transistors Functioning under Simultaneous DC Gate and Drain Biases,Chinese Physics B,SCI,2022.08,Tianyuan Song,Dongli Zhang,Mingxiang Wang,Dongli Zhang,vol.31, no.8, Art. no. 088101
+姓名:张冬利
+学院:电子信息学院
+职称:教授
+研究方向:新型半导体器件的设计与制造、半导体器件的可靠性表征与建模
+关键词:半导体器件、薄膜晶体管、可靠性、退化机制、热载流子效应、非晶铟镓锌氧化物、多晶硅薄膜晶体管、新型半导体器件
+个人简介:张冬利，吉林大学电子工程系学士，香港科技大学电机及电子工程系博士，2008-2012年在香港科技大学从事博士后研究，年底加入苏州大学电子信息学院。主要从事半导体器件方向教学与科研工作，主持国家自然科学基金面上项目2项，已完成国家自然科学基金、江苏省自然科学基金及苏州市重点产业技术创新前瞻性应用研究项目各一项。
+论文:Investigations on the Gate-Induced Drain Leakage Current of Polycrystalline-Silicon Thin-Film Transistor and Its Suppression With Drain Bias Sweep
+Enhanced Negative Bias Stress Degradation in Multigate Polycrystalline Silicon Thin-Film Transistors
+Suppressed Degradation of Elevated-Metal Metal-Oxide Thin-Film Transistors under Bipolar Gate Pulse Stress
+Investigations on the Negative Shift of the Threshold Voltage of Polycrystalline Silicon Thin-Film Transistors Under Positive Gate Bias Stress
+Enhanced Thermal Stability of Elevated-Metal Metal-Oxide Thin-Film Transistors via Low-Temperature Nitrogen Post-Annealing
+Hot-Carrier Effects in a-InGaZnO Thin-Film Transistors under Pulse Drain Bias Stress
+Degradation Mechanisms for a-InGaZnO Thin-Film Transistors Functioning under Simultaneous DC Gate and Drain Biases

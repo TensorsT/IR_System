@@ -5,24 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/hui.li
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、H. Li,   The fundamental groups of Hamiltonian S^1-manifolds,  Proceedings of the American Mathematical Society,  2003,  vol. 131, no. 11, 3579-3582.
-2、H. Li,   Semi-free Hamiltonian circle actions on 6-dimensional symplectic manifolds,  Transactions of the American Mathematical Society,  2003,  vol. 355, no. 11, 4543-4568.
-3、H. Li,   On the construction of certain 6-dimensional symplectic manifolds with Hamiltonian circle actions,  Transactions of the American Mathematical Society,  2005,  vol. 357, no. 3, 983-998.
-4、H. Li, The fundamental group of  symplectic manifolds with compact Hamiltonian Lie group actions,  Journal of Symplectic Geometry,  2007,  vol. 4, no. 3, 345-372.
-5、H. Li, Singular unitarity in "quantization commutes with reduction",  Journal of Geometry and Physics,  2008,  vol. 58, 720-742.
-6、H. Li and S. Tolman,  Hamiltonian circle actions with minimal fixed sets,  International Journal of Mathematics,  2012,  vol. 23, 1250071.
-7、H. Li, The fundamental group of G-manifolds,  Communications in Contemporary Mathematics,  2013,  vol. 15, no. 3, 1250056.
-8、H. Li, Corrigendum for Singular unitarity in "quantization commutes with reduction",  Journal of Geometry and Physics,  2014,  vol. 76, 265-270.
-9、H. Li, Certain circle actions on Kaehler manifolds,  International Mathematics Research Notices,  2014,  vol. 2014, no. 18, 5187-5202.
-10、H. Li, M. Olbermann and D. Stanley, One-connectivity and finiteness of Hamiltonian S^1-manifolds with minimal fixed sets,  Journal of London Mathematical Society,  2015,  vol. 92, no. 2, 284-310.
-11、H. Li, Hamiltonian circle actions with fixed point set almost minimal,  Math. Z.,  2019,  vol. 293, no. 3, 1315-1336.
-12、H. Li, The fundamental groups of contact toric manifolds,  Journal of Symplectic Geometry,  2020,  vol. 18, no. 3, 815-818.
-13、H. Li,  Hamiltonian circle actions with almost minimal isolated fixed points,  Journal of Geometry and Physics,  2021,  vol. 163, 104141.
-14、H. Li, Spherical contact toric manifolds,  Proceedings of the American Mathematical Society, 2023,  vol. 151, no. 1, 349-353.
-15、H. Li, Hamiltonian circle actions with minimal isolated fixed points,  Math. Z., 2023,  vol. 304, no. 2, Article 33.
-16、H. Li,  The fundamental groups of presymplectic Hamiltonian G-manifolds,  Israel Journal of Mathematics,   2025,   265, 969 -1000.
-17、H. Li, Revisit Hamiltonian S^1-manifolds of dimension 6 with 4 fixed points, Journal of Geometry and Physics,  vol. 213, 2025, 105489.
-18、H. Li, K-contact manifolds with minimal closed Reeb orbits, International Mathematics Research Notices, 2025, no. 11, 1-17, https://doi.org/10.1093/imrn/rnaf129.
+姓名:李慧
+学院:数学科学学院
+职称:教授
+研究方向:微分几何、微分流形、拓扑学、代数拓扑、辛几何
+关键词:辛几何、哈密顿圆作用、基本群、辛流形、切触流形、凯莱流形、李群作用、微分几何
+个人简介:李慧，女，苏州大学数学科学学院教授、博士生导师。2010年博士毕业于美国伊利诺伊大学厄巴纳-香槟分校。曾先后在葡萄牙高等技术学院、卢森堡大学、法国勃艮第大学、德国马克斯·普朗克数学研究所、加拿大里贾纳大学从事博士后和研究访问。2011年11月至今在苏州大学任教。主要从事微分几何与辛几何研究。
+论文:The fundamental groups of Hamiltonian S^1-manifolds
+Semi-free Hamiltonian circle actions on 6-dimensional symplectic manifolds
+On the construction of certain 6-dimensional symplectic manifolds with Hamiltonian circle actions
+The fundamental group of symplectic manifolds with compact Hamiltonian Lie group actions
+Singular unitarity in "quantization commutes with reduction"
+Hamiltonian circle actions with minimal fixed sets
+The fundamental group of G-manifolds
+Corrigendum for Singular unitarity in "quantization commutes with reduction"
+Certain circle actions on Kaehler manifolds
+One-connectivity and finiteness of Hamiltonian S^1-manifolds with minimal fixed sets

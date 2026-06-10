@@ -5,31 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/jhmo
 ---
-姓名:电子信息学院
-页面标题:电子信息学院
-研究领域:成像技术研究
-成像系统和仪器开发
-图像处理与分析
-个人简介:本人本硕毕业于浙江大学，博士毕业于新加坡国立大学，后至荷兰阿姆斯特丹自由大学
-从事博士后研究，目前研究工作专注于
-成像技术和仪器研究开发、图像处理分析，及上述技术在生物医学和工业无损检测方面的应用。
-论文:1、AngleVLM-IoT: A Transfer-Learned Vision–Language Model for Automatic Anterior Chamber Angle Recognition in Connected Eye-Care Ecosystems,IEEE Transactions on Consumer Electronics,2026,C Zhou, L Ge, X Tian, J Liang, H Zhang, P Gao, J Mo, X Yin
-2、Improve deep learning-based reconstruction of optical coherence tomography angiography by siamese U-Net,Biomedical Physics & Engineering Express,2025,K Zhang, Z Yan, X Cao, X Yu, K Li, J Mo,11/6/065034
-3、Quantitative Assessment of Basement Membrane Loss in Melasma Using Attenuation Coefficient Estimation Based on Optical Coherence Tomography,Journal of Biophotonics,2025,J Liang, X Cao, K Li, T Zhu, J Mo,0/0/e202500491
-4、Diagnosis and Post‐Treatment Follow‐Up Evaluation of Melasma Using Optical Coherence Tomography and Deep Learning,Journal of Biophotonics,2025,X Cao, Y Lu, T Zhu, Z Yan, K Li, J Mo,18/6/e70006
-5、Determination of confocal parameters of OCT imaging for eliminating confocal effect on attenuation coefficient estimation,Optics Express,2025,Z Yan, X Cao, G Shi, J Mo,33/7/16275
-6、Dual blind-spot network for self-supervised denoising in OCT images,Biomedical Signal Processing and Control,2024,C Ge, X Yu, M Yuan, B Su, J Chen, PP Shum, J Mo, L Liu,97/0/106682
-7、Axial super-resolution optical coherence tomography via complex-valued network,Physics in Medicine & Biology,2023,L Wang, S Chen, L Liu, X Yin, G Shi, J Mo,68/23/235016
-8、Loss-balanced parallel decoding network for retinal fluid segmentation in OCT,Computers in Biology and Medicine ,2023,X Yu, M Li, C Ge, M Yuan, L Liu, J Mo, PP Shum, J Chen,165/0/107319
-9、Self-supervised Blind2Unblind deep learning scheme for OCT speckle reductions,Biomedical Optics Express,2023,X Yu, C Ge, M Li, M Yuan, L Liu, J Mo, PP Shum, J Chen,14/6/2773
-10、Multi-channel spectral-domain optical coherence tomography using single spectrometer,Chinese Optics Letters,2023,Y Wang, S Chen, K Lin, X Chen, Z Xu, S Lou, X Ge, G Ni, X Yu, J Mo, Q Mu, L Liu,21/5/051102
-11、Multiscale denoising generative adversarial network for speckle reduction in optical coherence tomography images,Journal of Medical Imaging,2023,X Yu, C Ge, M Li, MZ Aziz, J Mo, Z Fan,10/2/024006
-12、Optical coherence tomography for in vivo longitudinal monitoring of artificial dermal scaffold,Lasers in Surgery and Medicine,2023,Z Chen, Q Cheng, L Wang, Y Mo, K Li, J Mo,55/3/316
-13、CGNet‐assisted Automatic Vessel Segmentation for Optical Coherence Tomography Angiography,Journal of Biophotonics,2022,X Yu, C Ge, MZ Aziz, M Li, PP Shum, L Liu, J Mo,15/10/e202200067
-14、Compressive‐sensing swept‐source optical coherence tomography angiography with reduced noise,Journal of Biophotonics,2022,L Wang, Z Chen, Z Zhu, X Yu, J Mo,15/8/e202200087
-15、Centerline extraction by neighborhood-statistics thinning for quantitative analysis of corneal nerve fibers,Physics in Medicine & Biology,2022,Z Chen, X Yin, L Lin, G Shi, J Mo,67/14/145005
-16、Development of a handheld compression optical coherence elastography probe with a disposable stress sensor,Optics Letters,2021,X Wang, Q Wu, J Chen, J Mo,46/15/3669
-17、Inspection of intraocular lens with dual-side view optical coherence tomography,IEEE Photonics Journal,2021,Q Wu, X Wang, L Liu, J Mo,13/3/4
-18、Cellular-resolution in vivo tomography in turbid tissue through digital aberration correction,PhotoniX,2020,E Bo, X Ge, Y Luo, X Wu, S Chen, H Liang, S Chen, X Yu, P Shum, J Mo, N Chen, L Liu,1/1/9
-19、Dual-side view optical coherence tomography for thickness measurement on opaque materials,Optics Letters,2020,Q Wu, X Wang, L Liu, J Mo,45/4/832
-20、Nondestructive measurement of conformal coating thickness on printed circuit board with ultra-high resolution optical coherence tomography,IEEE Access,2019,X Shao, X Chen, X Yu, Y Hu, L Liu, F Shi, W Shao, J Mo,7/0/18138
+姓名:莫建华
+学院:电子信息学院
+职称:副教授
+研究方向:成像技术、仪器开发、图像处理分析、生物医学应用、工业无损检测
+关键词:光学相干断层扫描、OCT、图像处理、深度学习、生物医学成像、无损检测、成像系统、仪器开发
+个人简介:本硕毕业于浙江大学，博士毕业于新加坡国立大学，后至荷兰阿姆斯特丹自由大学从事博士后研究。目前专注于成像技术和仪器研究开发、图像处理分析，及上述技术在生物医学和工业无损检测方面的应用。
+论文:AngleVLM-IoT: A Transfer-Learned Vision–Language Model for Automatic Anterior Chamber Angle Recognition in Connected Eye-Care Ecosystems
+Improve deep learning-based reconstruction of optical coherence tomography angiography by siamese U-Net
+Quantitative Assessment of Basement Membrane Loss in Melasma Using Attenuation Coefficient Estimation Based on Optical Coherence Tomography
+Diagnosis and Post‐Treatment Follow‐Up Evaluation of Melasma Using Optical Coherence Tomography and Deep Learning
+Determination of confocal parameters of OCT imaging for eliminating confocal effect on attenuation coefficient estimation
+Dual blind-spot network for self-supervised denoising in OCT images
+Axial super-resolution optical coherence tomography via complex-valued network
+Loss-balanced parallel decoding network for retinal fluid segmentation in OCT
+Self-supervised Blind2Unblind deep learning scheme for OCT speckle reductions
+Multi-channel spectral-domain optical coherence tomography using single spectrometer

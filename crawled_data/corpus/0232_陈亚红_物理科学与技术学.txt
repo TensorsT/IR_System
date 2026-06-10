@@ -5,78 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yahongchen
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:物理光学；统计光学；部分相干光学；
-光场调控；光学成像；自由空间光通讯；光学加密；
-光的传输与控制；光与复杂介质相互作用；
-微纳光学；表面等离激元光学；
-光学相干与偏振；光学角动量；光学偏振；光学涡旋；光场紧聚焦；光学散射；
-社会职务
-个人简介:2025
-年
-12
-月更新
-陈亚红，苏州大学物理科学与技术学院副教授，苏州大学校优秀青年学者，
-2018
-年获苏州大学光学博士学位，
-2020
-年获东芬兰大学物理学博士学位。主要从事物理光学基础研究，目前研究方向为光场调控及应用、部分相干光学等。主持国家自然科学基金青年科学基金项目、面上项目、国际
-(
-地区
-)
-合作与交流项目等，参与国家自然科学基金重大研究计划重点项目等。在
-Phys. Rev. Lett.
-等学术期刊上发表论文
-110
-余篇，被引
-3700
-余次。受邀在
-Advances in Physics: X, Progress in Optics,
-《科学通报》
-,
-《光学学报》等期刊上发表综述论文
-8
-篇，获授权国家发明专利
-10
-余项，美国发明专利
-6
-项。指导博士研究生和硕士研究生
-15
-人。受邀在国际信息光学与光子学学术会议、全国光与物质相互作用及其应用大会、光学青年科学家论坛、世界光子大会等国内外学术会议上做邀请报告
-10
-次。
-2023/2024
-年连续两年入选
-斯坦福大学
-“
-全球前
-2%
-顶尖科学家榜单
-”
-，获物理学报
-2023
-年度优秀审稿人。第十八
-/
-十九届江苏省高校大学生物理与实验科技作品创新竞赛一等奖优秀指导教师、
-2022
-年江苏省本科生优秀毕业论文三等奖指导教师、苏州大学
-2024
-届本科生优秀毕业论文（设计）指导教师、苏州大学
-2025
-届本科生优秀毕业设计团队指导教师、苏州大学
-2025
-届硕士优秀毕业研究生指导教师、苏州大学第二十二届
-“
-苏大天宫杯
-”“
-挑战杯
-”
-大学生课外学术科技作品竞赛一等奖指导教师。主持完成苏州大学研究生课程思政示范课程建设项目
-1
-项。
-个人主页：
-http://web.suda.edu.cn/yahongchen/
-学术主页：
-https://scholar.google.com/citations?user=zjYM7uQAAAAJ&hl=zh-CN&oi=ao
-论文:1、https://orcid.org/0000-0003-3258-8032
+姓名:陈亚红
+学院:物理科学与技术学院
+职称:副教授
+研究方向:光场调控、部分相干光学、光学成像、自由空间光通讯、光学加密、表面等离激元光学、物理光学
+关键词:物理光学、部分相干光学、光场调控、光学成像、表面等离激元、光学加密、自由空间光通讯、光与物质相互作用
+个人简介:陈亚红，苏州大学物理科学与技术学院副教授，苏州大学校优秀青年学者，获苏州大学光学博士学位和东芬兰大学物理学博士学位。主要从事光场调控及应用、部分相干光学等物理光学基础研究。主持国家自然科学基金青年、面上、国际合作等项目，在Physical Review Letters等期刊发表论文多篇，获授权国家发明专利余项、美国发明专利多项。连续入选斯坦福大学全球前2%顶尖科学家榜单，获省级优秀指导教师等教学奖项。
+论文:Robust measurement of the concurrence of vector light beams
+Phase-space nonseparability, partial coherence, and optical beam shifts
+Nanoscattering measurement of 3D polarization and spin in a random evanescent wave
+Pancharatnam’s connection and geometric phase of partially polarized light
+Spin–orbit interactions of twisted random light
+Observation of higher-order deterministic optical vortices from random vortex beams
+Directional difference of the spin angular-momentum density and spin vectors in tightly focused bichromatic optical Lissajous beams
+Robust high-order polarization arrays via vectorial spatial-coherence engineering
+Three-dimensional polarization state and spin structure of a tightly focused radially polarized Gaussian Schell-model beam
+Encoding Higher-Order Polarization States into Robust Partially Coherent Optical Beams

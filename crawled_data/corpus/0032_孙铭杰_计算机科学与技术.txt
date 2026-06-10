@@ -5,30 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/smj
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Discriminative Triad Matching and Reconstruction for Weakly Referring Expression Grounding,IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),CCF A类期刊，中科院一区,2021,（第一作者）
-2、Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning,IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021 (CVPR),CCF A类会议,2021,（第一作者）
-3、Fast template matching and update for video object tracking and segmentation,IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020 (CVPR),CCF A类会议,2020,（第一作者）
-4、Starting Point Selection and Multiple-standard Matching for Video Object Segmentation with Language Annotation,IEEE Transactions on Multimedia (TMM),CCF B类期刊，中科院一区,2022,（第一作者）
-5、Cycle-free Weakly Referring Expression Grounding with Self-paced Learning,IEEE Transactions on Multimedia (TMM),CCF B类期刊，中科院一区,2022,（第一作者）
-6、Adaptive ROI generation for video object segmentation using reinforcement learning,Pattern Recognition (PR),CCF B类期刊，中科院一区,2020,（第一作者）
-7、Feature representation matters: End-to-end learning for reference-based image super-resolution,European Conference on Computer Vision (ECCV),CCF B类会议,2020
-8、Reliability does matter: An end-to-end weakly supervised semantic segmentation approach,AAAI Conference on Artificial Intelligence 2020 (AAAI),CCF A类会议,2020
-9、Transformer-Based Language-Person Search With Multiple Region Slicing,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),CCF B类期刊，中科院一区,2022
-10、Progressive sample mining and representation learning for one-shot person re-identification,Pattern Recognition (PR),CCF B类期刊，中科院一区,2021
-11、Plausible Proxy Mining with Credibility for Unsupervised Person Re-identification,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),CCF B类期刊，中科院一区,2022
-12、Fully and Weakly Supervised Referring Expression Segmentation with End-to-End Learning,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),CCF B类期刊，中科院一区,2023
-13、Unified Multi-Modality Video Object Segmentation Using Reinforcement Learning,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),CCF B类期刊，中科院一区,2023,（第一作者）
-14、Prototype Guided Pseudo Labeling and Perturbation-based Active Learning for domain adaptive semantic segmentation,Pattern Recognition (PR),CCF B类期刊，中科院一区,2023,（共同第一作者）
-15、Dance with You: The Diversity Controllable Dancer Generation via Diffusion Models,ACM International Conference on Multimedia (ACM MM),CCF A类会议,2023,（共同第一作者）
-16、Context-based local-global fusion network for 3D point cloud classification and segmentation,Expert Systems with Applications,中科院一区,2024,（共同第一作者）
-17、ConSense: Continually Sensing Human Activity with WiFi via Growing and Picking,AAAI Conference on Artificial Intelligence (AAAI),CCF A类会议,2025
-18、Class agnostic and specific consistency learning for weakly-supervised point cloud semantic segmentation,Pattern Recognition,CCF B类期刊，中科院一区,2025,（共同第一作者）
-19、Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation,IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),CCF A类会议,2025,（共同通讯作者）
-20、Free Lunch of Image-mask Alignment for Anomaly Image Generation and Segmentation,International Joint Conference on Artificial Intelligence  (IJCAI) ,CCF A类会议,2025,（通讯作者）
-21、DriftRemover: Hybrid Energy Optimizations for Anomaly Images Synthesis and Segmentation,International Joint Conference on Artificial Intelligence  (IJCAI),CCF A类会议,2025,（通讯作者）
-22、NetEventCause: Event-driven Root Cause Analysis for Large Network System without Topology,IEEE Transactions on Neural Networks and Learning Systems (TNNLS),CCF B类期刊，中科院一区,2025
-23、SFBM: Shared Feature Bias Mitigating for Long-tailed Image Recognition,IEEE Transactions on Neural Networks and Learning Systems (TNNLS),CCF B类期刊，中科院一区,2025,（共同第一作者）
-24、Feature Purification Matters: Suppressing Outlier Propagation for Training-Free Open-Vocabulary Semantic Segmentation,International Conference on Computer Vision (ICCV),C
+姓名:孙铭杰
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:计算机视觉、多模态计算、AIGC、图像生成、少像素目标检测、多模态大模型、多模态信息处理
+关键词:计算机视觉、多模态计算、AIGC、图像生成、少像素目标检测、多模态大模型、视频目标分割、异常检测、强化学习
+个人简介:孙铭杰，苏州大学计算机科学与技术学院副教授，奥克兰大学公派访问学者，江苏省科技副总。本硕博分别毕业于南京航空航天大学、西安电子科技大学、利物浦大学。研究领域包括计算机视觉、多模态计算、AIGC技术等，主持国家级省市级项目十余项，在TPAMI、TIP、CVPR等发表论文近三十篇，授权专利四项，获省级科技奖等。
+论文:Discriminative Triad Matching and Reconstruction for Weakly Referring Expression Grounding
+Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning
+Fast template matching and update for video object tracking and segmentation
+Starting Point Selection and Multiple-standard Matching for Video Object Segmentation with Language Annotation
+Cycle-free Weakly Referring Expression Grounding with Self-paced Learning
+Adaptive ROI generation for video object segmentation using reinforcement learning
+Feature representation matters: End-to-end learning for reference-based image super-resolution
+Reliability does matter: An end-to-end weakly supervised semantic segmentation approach
+Transformer-Based Language-Person Search With Multiple Region Slicing
+Progressive sample mining and representation learning for one-shot person re-identification

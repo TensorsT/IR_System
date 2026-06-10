@@ -5,6 +5,16 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/zs
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
+姓名:赵爽
+学院:计算机科学与技术学院（软件学院）
+职称:助教
+研究方向:包括：新能源材料与器件、微纳结构材料的制备与应用、功能纳米材料等领域
+论文:Molecular Extrusion Drives Polymer Dynamic Soft Encapsulation to Inhibit Lead Leakage for Efficient Inverted Perovskite Solar Cells and Modules
+Ligand Engineering Enhances Fluorescence Properties of Eu-Based Complexes for Efficiency Enhancement and UV Stability in Silicon Heterojunction Solar Cells
+A solid strategy to realize efficient antibacterial activity on the shade surface of bulk silicon under natural or indoor lighting
+Improving the UV-light stability of silicon heterojunction solar cells through plasmon-enhanced luminescence downshifting of YVO4:Eu3+,Bi3+ nanophosphors decorated with Ag nanoparticles
+Improvement of light trapping in bifacial PERC silicon solar cells by optimizing rear surface morphology
+Ultrafast Random-Pyramid Texturing for Efficient Monocrystalline Silicon Solar Cells
+A solid strategy to realize heteroface selective emitter and rear passivated silicon solar cells
+Metal-catalyzed chemical etching using DIO3 as a hole injection agent for efficient submicron-textured multicrystalline silicon solar cells
+Complementary etching behavior of alkali, metal-catalyzed chemical, and post etching of multi-crystalline silicon wafers

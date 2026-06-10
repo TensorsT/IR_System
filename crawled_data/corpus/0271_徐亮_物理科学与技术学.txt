@@ -5,11 +5,14 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/xl
 ---
-姓名:教师个人主页
-页面标题:苏州医学院
-论文:论文：
-1、Direct evidence of gradient drift instability being the origin of a rotating spoke in a crossed field plasma,Plasma Sources Science and Technology, 2021,Liang Xu*, Denis Eremin and Ralf Peter Brinkmann,30:075013
-2、Self acceleration and energy channelling of ion sound instability in a bounded plasma,Physics of Plasmas,2020,Liang Xu*,Andrei Smolyakov,Salomon Janhunen and Igor Kaganovich,27(8):080702
-3、Three regimes of high-voltage breakdown in helium,Plasma sources Science and Technology,2018,Liang Xu*,Alexander V Khrabrov, Igor Kaganovich and Timothy Sommerer,27(10):104004
-4、Ion energy distribution in extremely high electric field discharges,Journal of Physics D: Applied Physics,2018,Liang Xu*,Huihui Wang,51(33):335206
-5、Investigation of the Paschen curve for helium in the 100--1000 kV range,Physics of Plasmas,2017,Liang Xu*,Alexander V Khrabrov, Igor Kaganovich and Timothy Sommerer,24(9):093511
+姓名:徐亮
+学院:物理科学与技术学院
+职称:副教授
+研究方向:低温磁化等离子体、离子体不稳定性、非线性过程、相干结构、气体放电机理、数值模拟、理论计算
+关键词:低温等离子体、等离子体不稳定性、气体放电、数值模拟、粒子模拟、电弧放电、鞘层、输运性质
+个人简介:苏州大学物理科学与技术学院副教授。2011年7月本科毕业于安徽师范大学物理系，2017年3月获得中国科学技术大学理学博士学位，博士期间（2015.9-2016.9）访问美国普林斯顿大学，2017年3月-2023年1月期间，先后在加拿大萨斯克切温大学和德国波鸿鲁尔大学从事博士后研究工作，2023年1月加盟苏州大学物理科学与技术学院。主要从事低温等离子体物理研究，重点关注等离子体非线性过程、气体放电机理以及粒子的输运和调控，应用前景包括集成电路芯片制造，先进材料处理离子源和深空探测电推进等。
+论文:Direct evidence of gradient drift instability being the origin of a rotating spoke in a crossed field plasma
+Self acceleration and energy channelling of ion sound instability in a bounded plasma
+Three regimes of high-voltage breakdown in helium
+Ion energy distribution in extremely high electric field discharges
+Investigation of the Paschen curve for helium in the 100--1000 kV range

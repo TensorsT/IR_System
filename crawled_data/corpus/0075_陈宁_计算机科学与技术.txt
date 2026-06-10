@@ -1,0 +1,23 @@
+doc_id: 75
+name: 陈宁
+career: 讲师
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/cn/index.html
+---
+姓名:陈宁
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+研究方向:边缘智能、计算卸载、资源调度、分布式模型训练、分布式推理、云边端协同、视频分析、视频增强
+关键词:边缘智能、计算卸载、资源调度、分布式训练、视频分析、视频增强、云边协同、边缘计算
+个人简介:陈宁，男，1995年生，苏州大学计算机科学与技术学院讲师、硕士生导师，苏州大学优秀青年学者。2024年于南京大学获计算机科学与技术博士学位，导师陆桑璐教授、张胜副教授，后加入苏州大学黄鹤教授团队。研究方向为边缘智能，主要通过计算卸载、资源调度、分布式模型训练/推理、云边端协同等机制，实现视频分析/增强等AI应用的高效部署。已在IEEE INFOCOM、ICDE、TON、TPDS等发表20余篇论文，担任INFOCOM、TMC等审稿人。
+论文:Spliceosome: On-Camera Video Thinning and Tuning for Timely and Accurate Analytics
+TileSR: Accelerate On-Device Super-Resolution with Parallel Offloading in Tile Granularity
+ResMap: Exploiting Sparse Residual Feature Map for Accelerating Cross-Edge Video Analytics
+Cuttlefish: Neural Configuration Adaptation for Video Analysis in Live Augmented Reality
+ViChaser: Chase Your Viewpoint for Live Video Streaming with Block-Oriented Super Resolution
+MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics
+Decode-What-Matters: Frame-Level Parallel Generative Decoding to Accelerate Large-Scale Video Analytics
+VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras
+AdaPyramid: Adaptive Pyramid for Accelerating High-Resolution Object Detection on Edge Devices
+Scheduling In-Band Network Telemetry with Convergence-Preserving Federated Learning

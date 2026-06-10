@@ -5,7 +5,10 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/zfpeng
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、 Multiplicity formula and stable trace formula,The American journal of mathematics,2019,zhifeng Peng,114 (1037-1085)
+姓名:彭志峰
+学院:数学科学学院
+职称:教授
+研究方向:自守表示、Langlands纲领、数论、迹公式、迹公式应用、例外群G2自守表示分类
+关键词:自守表示、Langlands纲领、数论、迹公式、例外群G2、自守表示分类
+个人简介:彭志峰，数学科学学院教授。2009至2014年多伦多大学与南京大学联合培养博士，导师James Arthur、秦厚荣，学习Arthur-Selberg迹公式。2014至2017年在中国科学院晨兴数学中心做博士后，合作导师田野，学习数论。2017至2019年新加坡国立大学research fellow，合作导师Wee Teck Gan，学习例外群的表示。主要研究自守表示与Langlands纲领，当前聚焦迹公式及其应用，致力于例外群G2的自守表示分类。
+论文:Multiplicity formula and stable trace formula

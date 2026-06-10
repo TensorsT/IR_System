@@ -5,24 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/yicai
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Z. Feng, Z. Tian, Z. Chen, Q. He, D. Zou, H. Huang, L. Sun, M. Luo, G. N. Liu, G. Shen, and Y. Cai, " Dual-Domain Noise-Aware MLSE in Bandwidth Limited Coherent Optical Receivers," Journal of Lightwave Technology, Early Access, Apr. 2026.
-2、W. Li, Z. Xue, Z. Lin, D. Zou, H. Huang, S. Cao, Y. Cai, "Frequency-Multiplexed Barker-Coded Φ-OTDR for High-Speed Distributed Acoustic Sensing," IEEE Photonics Journal, Invited Paper, Early Access, Apr. 2026.
-3、Z. Feng, Z. Tian, Z. Chen, Q. He, W. Guo, W. Lyu, S. Li, D. Zou, H. Huang, L. Sun, Y. Luan, L. Mei, M. Luo, J. Zhao, G. N. Liu, G. Shen, and Y. Cai, "Extended C L Band 103.5-Tb/s WDM Transmission over 1260-km with Hybrid Raman/EDFAs," IEEE Photonics Journal, Invited Paper, Early Access, Apr. 2026.
-4、Y. Wang, J. Huang, Z. Tian, H. Huang, D. Zou, M. Luo, J. Zhao, G. N. Liu, G. Shen, and Y. Cai, "Interval-Reduced Godard Phase Detector for Amplitude-Alternating Signal in Bandwidth-Limited Coherent Optical Systems,"  Journal of Lightwave Technology, Early Access, Mar. 2026.
-5、Z. Tian, Z. Feng, Q. He, Y. Gong, Z. Chen, D. Zou, H. Huang, L. Sun, M. Luo, G. N. Liu, G. Shen, and Y. Cai, "Deterministic-ISI Mitigation and Adaptive Equalization for Bandwidth-Limited Coherent Optical Communications," OFC 2026, Los Angeles, CA, USA, Mar. 2026, Paper W3B.4.
-6、Z. Tian, Z. Feng, Q. He, Y. Gong, W. Guo, Z. Chen, D. Zou, H. Huang, L. Sun, J. Zhao, M. Luo, G. N. Liu, G. Shen, and Y. Cai, "Low-Complexity Adaptive Digital Backpropagation via Clock-Tone Strength in Coherent Optical Systems," OFC 2026, Los Angeles, CA, USA, Mar. 2026, Paper W3B.6.
-7、H. Huang, H. Zhang, J. Yuan, L. Sun, Y. Wang, W. Mei, B. Di, Y. Cai, and Z. Han, "Disco Intelligent Omni-Surfaces: 360° Fully-Passive Jamming Attacks," IEEE Transactions on Wireless Communications, vol. 25, pp. 61-74, 2026.
-8、柴旭东，田中星，李宛欣，林哲源，邹冬冬，蔡轶. 基于光场重建算法的低成本差分自相干检测系统[J]. 光学学报, 2026, 46(04): 71-77.
-9、D. Zou, W. Wang, J. Yao, F. Li, G. Shen, and Y. Cai, "Probabilistic Shaping for Peak Power Constrained IM-DD Optical Fiber Communication Systems: Perspective of Envelope Control," Journal of Lightwave Technology, Early Access, Feb. 2026.
-10、H. Huang, H. Zhang, Y. Cai, D. Niyato, A. Lee Swindlehurst and Z. Han, "Simultaneously Exposing and Jamming Covert Communications via Disco Reconfigurable Intelligent Surfaces," IEEE Journal on Selected Areas in Communications, vol. 44, pp. 1708−1721, 2026.
-11、汪达，张臻涛，邹冬冬，李宛欣，林哲源，田中星，蔡轶. 车联网中光纤与无线融合感知辅助的波束跟踪[J]. 光学学报, 2025, 46(15): 01.
-12、Z. Tian, H. Huang, H. Xu, Y. Gong, Q. He, J. Huang, Z. Feng, Y. Wang, X. Wang, D. Zou, X. Wang, L. Sun, M. Luo, J. Zhao, G. N. Liu, G. Shen, and Y. Cai, "Enhanced Clock Tone Detection Using a Normalized Interpolated-Power Gardner Phase Detector for Bandwidth-Limited Optical Fiber Transmissions," Journal of Lightwave Technology, vol. 43, no. 23, pp. 10435−10446, Dec. 2025.
-13、Z. Tian, Z. Feng, Z. Chen, Q. He, W. Guo, D. Zou, H. Huang, L. Sun, Y. Luan, L. Mei, M. Luo, J. Zhao, G. N. Liu, G. Shen, and Y. Cai, "102.47 Tb/s WDM Transmission in the Extended C L Band over 1260.65 km of G.654.E Fiber with Hybrid Raman/EDFAs," ACP 2025, Jiangsu, China, 2025, Post-deadline Paper, pp. 1−3.
-14、夏鲁鹏，田中星，黄欢，邹冬冬，刘宁，沈纲祥，蔡轶. 基于CAP调制的高频谱效率可见光通信系统中子带间干扰迭代补偿算法[J]. 光学学报, 2025, 46(08): 04.
-15、W. Li, D. Zou, Z. Lin, Z. Zhang, H. Huang and Y. Cai, "Performance Enhanced Φ-OTDR Enabled by Frequency-Multiplexed Barker Pulse Coding," ACP 2025, Jiangsu, China, 2025, Best Poster Award, pp. 1−3.
-16、Z. Lin, X. Lin, W. Li, Z. Tian, X. Chai, D. Zou, W. Xie, Y. Dong, and Y. Cai, " Rapid few-shot tabular machine learning for Φ-OTDR event classification," Optics Express, vol. 33, no. 17, pp. 36646–36662, Aug. 2025.
-17、J. Yao, D. Zou, W.Wang, Z. Tian, Z. Feng, H. Huang, F. Li, G. Liu, G. Shen, and Y.Cai, "Partial response DFE guided ultra-low complexity FTN signaling for high spectral efficiency intra-DCI,” Optics Express, vol. 33, no. 17, pp. 36199, Aug. 2025.
-18、D. Zou, W. Wang, Q. Sui, F. Li, and Y. Cai, "Evaluation of Ca
+姓名:蔡轶
+学院:电子信息学院
+职称:教授
+研究方向:高速光通信技术、数字信号处理在光通信中的应用、人工智能与机器学习在光通信中的应用、相干光通信算法及芯片实现、光电集成电路技术、模拟、数字混合信号处理技术、光纤传输系统建模、仿真、实验
+关键词:超高速光传输、数字信号处理、相干光通信、前向纠错码、DSP芯片、光纤传感、通感一体化、机器学习
+个人简介:蔡轶，美国马里兰大学电子工程系博士，苏州大学电子信息学院特聘教授，美国光学学会会士（OSA Fellow），国家级特聘专家。具有20多年光通信领域前瞻技术研究和先进系统开发经验，主要研究超高速光传输技术，在前向纠错码、数字信号处理、相干检测、芯片实现等方面进行了开拓性研究。主持研发三代超长距海缆系统的前向纠错码与信号处理技术，完成100G、400G、800G相干系统DSP芯片算法研究，创造多项光纤传输世界纪录，发表论文150余篇，4次入选OFC/ECOC期限后论文，拥有30余项发明专利。
+论文:Dual-Domain Noise-Aware MLSE in Bandwidth Limited Coherent Optical Receivers
+Frequency-Multiplexed Barker-Coded Φ-OTDR for High-Speed Distributed Acoustic Sensing
+Extended C L Band 103.5-Tb/s WDM Transmission over 1260-km with Hybrid Raman/EDFAs
+Interval-Reduced Godard Phase Detector for Amplitude-Alternating Signal in Bandwidth-Limited Coherent Optical Systems
+Deterministic-ISI Mitigation and Adaptive Equalization for Bandwidth-Limited Coherent Optical Communications
+Low-Complexity Adaptive Digital Backpropagation via Clock-Tone Strength in Coherent Optical Systems
+Disco Intelligent Omni-Surfaces: 360° Fully-Passive Jamming Attacks
+基于光场重建算法的低成本差分自相干检测系统
+Probabilistic Shaping for Peak Power Constrained IM-DD Optical Fiber Communication Systems: Perspective of Envelope Control
+Simultaneously Exposing and Jamming Covert Communications via Disco Reconfigurable Intelligent Surfaces

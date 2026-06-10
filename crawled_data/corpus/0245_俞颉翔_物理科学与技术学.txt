@@ -5,54 +5,16 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yjx2
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:利用第一性原理计算及相关数值模拟及模型分析，致力于凝聚态物理中的多维度磁性中自旋电子学和量子自旋态的理论研究。主要集中在能够用于量子计算、量子调控的分子磁性材料以及可用于存储元件的拓扑磁性材料。研究领域还涉足：反铁磁体、离子输运、二维材料、多铁、拓扑材料以及碳纳米管等。
-主要成果
-预言了一类具有强垂直磁各向异性的二维磁性薄膜并发现了高温无序磁结构中的拓扑非平庸性，阐明了反铁磁半导体MnTe零磁场面内各向异性的霍尔效应以及多种分子磁体中多铁性的产生机制。相关成果发表SCI期刊论文12篇，其中第一作者（含共同）包括Physical Review Letters 2篇，Science Advances 1篇等顶级期刊论文，并有一项专利。
-代表作
-J.-X. Yu
-, D.-T. Chen, J. Gu, J. Chen, J. Jiang, L. Zhang, Y. Yu, X.-G. Zhang, V. S. Zapf, and H.-P. Cheng, "Three Jahn-Teller States of Matter in Spin-Crossover System Mn(taa)".
-Phys. Rev. Lett.
-124
-, 227201 (2020)
-J.-X. Yu
-, G. Christou, and H.-P. Cheng, "Analysis of exchange interactions in dimers of Mn
-3
-single-molecule magnets, and their sensitivity to external pressure".
-J. Phys. Chem. C
-124
-, 14768 (2020)
-M. Yazback,
-J.-X. Yu
-, S. Liu, L. Zhang, N. S. Sullivan, and H.-P. Cheng, "First-Principles study of an
-S
-= 1 quasi-1D quantum molecular magnetic material".
-Phys. Rev. B
-103
-, 054434 (2021)
-G. Yin,
-J.-X. Yu (equal contribution)
-, Y. Liu, R. K. Lake, J. Zang and K. L. Wang, "Planar Hall Effect in Antiferromagnetic MnTe Thin Films".
-Phys. Rev. Lett.
-122
-, 106602 (2019)
-J.-X. Yu
-, M. Daly and J. Zang, "Thermally driven topology in frustrated systems".
-Phys. Rev. B
-99
-, 104431 (2019)
-J.-X. Yu
-and J. Zang, "Giant perpendicular magnetic anisotropy in Fe/III-V nitride thin films".
-Science Advances
-4
-,eaar7814 (2018)
-W. Hou,
-J.-X. Yu
-, M. Daly and J. Zang, "Thermally driven topology in chiral magnets".
-Phys. Rev. B
-96
-, 140403(R) (2017)
-论文:论文：
-1、Three Jahn-Teller States of Matter in Spin-Crossover System Mn(taa),Physical Review Letters,2020,Jie-Xiang Yu,Dian-Teng Chen,Jie Gu,Hai-Ping Cheng,124, 227201
-2、Giant perpendicular magnetic anisotropy in Fe/III-V nitride thin films,Science Advances,2018,Jie-Xiang Yu,Jiadong Zang,4, eaar7814
+姓名:俞颉翔
+学院:物理科学与技术学院
+职称:教授
+研究方向:凝聚态物理、分子磁性材料、拓扑磁性材料、低维反铁磁体、离子输运、二维材料、多铁、碳纳米管
+关键词:第一性原理计算、凝聚态物理、分子磁性材料、拓扑磁性材料、反铁磁体、离子输运、二维材料、多铁、碳纳米管
+个人简介:俞颉翔，男，教授，复旦大学理学博士。曾在美国新罕布什尔大学和佛罗里达大学从事博士后研究，2021年起任苏州大学物理科学与技术学院教授。利用第一性原理计算及相关模拟，致力于凝聚态物理中多维度磁性的理论研究，聚焦于分子磁性材料、拓扑磁性材料等，已在Physical Review Letters、Science Advances等期刊发表论文12篇。
+论文:Three Jahn-Teller States of Matter in Spin-Crossover System Mn(taa)
+Analysis of exchange interactions in dimers of Mn single-molecule magnets, and their sensitivity to external pressure
+First-Principles study of an S = 1 quasi-1D quantum molecular magnetic material
+Planar Hall Effect in Antiferromagnetic MnTe Thin Films
+Thermally driven topology in frustrated systems
+Giant perpendicular magnetic anisotropy in Fe/III-V nitride thin films
+Thermally driven topology in chiral magnets

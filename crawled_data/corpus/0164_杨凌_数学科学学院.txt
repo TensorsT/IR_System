@@ -5,11 +5,14 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/lyang
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、High-throughput discovery of genetic determinants of circadian misalignment.,PLoS Genetics,2020.01,Zhang T.,Yang L., Xu Y.
-2、An intensity ratio of interlocking loops determines circadian period length,Nucleic Acids Research,2014.08,Yan J.,Yang L., Xu Y.
-3、The circadian mutation PER2(S662G) is linked to cell cycle progression and tumorigenesis,Cell Death and Differentiation,2012,Gu X.,Yang L., Xu Y.
-4、Mitochondrial Oscillations and Waves in Cardiac Myocytes: Insights from Computational Models,Biophysical Journal,2010,Yang L.,Qu Z.
-5、Controlling hyperchaos,Physical Review Letters,2000,Yang L.,Mao J.
+姓名:杨凌
+学院:数学科学学院
+职称:教授
+研究方向:生物数学、计算系统生物学、非线性动力系统、细胞周期、蛋白质-蛋白质作用网络、心肌细胞新陈代谢网络、生理节律、基因敲除小鼠表型数据分析
+关键词:生物数学、计算系统生物学、非线性动力系统、细胞周期、蛋白质作用网络、心肌细胞新陈代谢、生理节律、基因敲除小鼠表型分析
+个人简介:现任苏州大学数学科学学院、系统生物学研究中心教授、博导。长期从事生物系统的数学模型方面工作，主要包括细胞周期、蛋白质-蛋白质作用网络、心肌细胞新陈代谢网络、生理节律、基因敲除小鼠表型数据分析等。主要成果发表在Physical Review Letters、Biophysical Journal、Cell Death and Differentiation、Nucleic Acids Research、PLoS Genetics、Journal of Biological Chemistry等主流杂志上。担任国家重点研发计划重点专项课题负责人，主持五个国家自然科学基金面上项目。
+论文:High-throughput discovery of genetic determinants of circadian misalignment
+An intensity ratio of interlocking loops determines circadian period length
+The circadian mutation PER2(S662G) is linked to cell cycle progression and tumorigenesis
+Mitochondrial Oscillations and Waves in Cardiac Myocytes: Insights from Computational Models
+Controlling hyperchaos

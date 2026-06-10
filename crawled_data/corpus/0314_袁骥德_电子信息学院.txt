@@ -5,17 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/jide_yuan
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Frequency-mixing intelligent reflecting surfaces for nonlinear wireless propagation,IEEE Wireless Communications Letters,SCI,2021,J Yuan, E De Carvalho, RJ Williams, P Popovski,10(8)
-2、Towards large intelligent surface (LIS)-based communications,IEEE Transactions on Communications,SCI,2020,J Yuan, HQ Ngo, M Matthaiou,68 (10)
-3、Machine learning-based channel prediction in massive MIMO with channel aging,IEEE Transactions on Wireless Communications,SCI,2020,J Yuan, HQ Ngo, M Matthaiou,19 (5)
-4、Toward massive connectivity for IoT in mixed-ADC distributed massive MIMO,IEEE Internet of Things Journal,SCI,2019,J Yuan, Q He, M Matthaiou, TQS Quek, S Jin,7 (3)
-5、User-centric networking for dense C-RANs: High-SNR capacity analysis and antenna selection,IEEE Transactions on Communications,SCI,2018,J Yuan, S Jin, W Xu, W Tan, M Matthaiou, KK Wong,65 (11)
-6、The distributed MIMO scenario: Can ideal ADCs be replaced by low-resolution ADCs,IEEE Wireless Communications Letters,SCI,2017,J Yuan, S Jin, CK Wen, KK Wong,6 (4)
-7、Tightness of Jensen’s bounds and applications to MIMO communications,IEEE Transactions on Communications,SCI,2017,J Yuan, M Matthaiou, S Jin, F Gao,65 (2)
-8、Large intelligent surface (LIS)-based communications: New features and system layouts,IEEE ICC: Proceedings,2020,Y Jide, HQ Ngo, M Matthaiou
-9、A weighted MMSE approach to amorphous cell for mixed-ADC distributed massive MIMO,Asilomar Conference on Signals, Systems, and Computers,2018,J Yuan, Q He, M Matthaiou, Y Wang, TQS Quek, S Jin
-10、Indoor RIS-assisted wireless system with location-based reflective Patterns,IEEE Transactions on Communications,SCI,2024-05,Jide Yuan; Ondrej Franek; He Fang; Petar Popovski,Early Access
-11、On the performance of frequency-mixing intelligent reflecting surfaces-aided system: Achievable rates and reflective patterns,IEEE Transactions on Wireless Communications,SCI,2024,Jide Yuan; Huan Huang; Shi Jin,Early Access
+姓名:袁骥德
+学院:电子信息学院
+职称:副教授
+研究方向:大规模MIMO、智能超表面、超大天线阵列系统、通信感知一体化
+关键词:大规模MIMO、智能超表面、超大天线阵列、通信感知一体化、无线通信、信道预测、机器学习、物联网
+个人简介:袁骥德，男，副教授，苏州大学优秀青年学者。2018年于东南大学信息与通信工程学院获博士学位，同年前往英国贝尔法斯特女王大学ECIT研究院任高级研究员，并于2020年1月起于丹麦奥尔堡大学电子系统学院从事博士后研究工作。2022年6月以优秀青年学者（讲师）进入苏州大学电子信息学院工作。近5年，共发表 IEEE 等高水平SCI/EI论文十余篇，并担任多个国际著名期刊和国际顶级会议的审稿人。
+论文:Frequency-mixing intelligent reflecting surfaces for nonlinear wireless propagation
+Towards large intelligent surface (LIS)-based communications
+Machine learning-based channel prediction in massive MIMO with channel aging
+Toward massive connectivity for IoT in mixed-ADC distributed massive MIMO
+User-centric networking for dense C-RANs: High-SNR capacity analysis and antenna selection
+The distributed MIMO scenario: Can ideal ADCs be replaced by low-resolution ADCs
+Tightness of Jensen’s bounds and applications to MIMO communications
+Large intelligent surface (LIS)-based communications: New features and system layouts
+A weighted MMSE approach to amorphous cell for mixed-ADC distributed massive MIMO
+Indoor RIS-assisted wireless system with location-based reflective Patterns

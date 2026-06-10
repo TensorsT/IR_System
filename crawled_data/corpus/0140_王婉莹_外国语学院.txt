@@ -5,6 +5,17 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/wwy
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
+姓名:王婉莹
+学院:外国语学院
+职称:讲师
+研究方向:18-19世纪英国文学、思想史、中西文化互鉴、医学人文
+关键词:英国文学、18-19世纪、思想史、中西文化互鉴、医学人文、乔治·爱略特、性别研究、小说研究
+个人简介:王婉莹，浙江大学英语语言文学博士，英国牛津大学英文系访问学者（受国家留学基金委联合培养博士项目资助）。主要研究方向为18-19世纪英国文学和思想史、中西文化互鉴、医学人文等。在国内外期刊发表论文十余篇，主要见刊于Style, ANQ: A Quarterly Journal of Short Articles, Notes and Reviews, The Explicator,《国外文学》《外国文学动态研究》《英语研究》等；参与国社科基金项目5项，曾受邀赴英国、塞浦路斯、阿尔巴尼亚等国家参加国际会议。
+论文:The Choice of Hercules in Middlemarch
+Architecture, Gender and the Polemic of Taste: 1730s-1750s
+趣味之争还是性别之争？——18世纪英国“趣味”论中的性别维度
+论乔治·爱略特小说对“工作福音”和“艺术福音”文化观念的再现
+The Reception of George Eliot in China
+走向生物共同体——〈阿弗小传〉的意义
+Conversation and Community Building in Jane Austen’s Novels
+Fen Gao’s British Formalist Aesthetics and Its Literary Writing Practice

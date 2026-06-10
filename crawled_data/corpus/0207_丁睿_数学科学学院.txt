@@ -5,12 +5,15 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/dingrui
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、The element-free Galerkin method for the variational-hemivariational inequality of the dynamic Signorini-Tresca contact problems with friction in elastic materials,Communications in Nonlinear Science and Numerical Simulation,SCI一区TOP,2023，1,Quan Shen,Soochow Univ, Sch Rail Transportat,Rui Ding,Yuan Yao,Rui Ding,Soochow Univ, Sch Math Sci,116,2/3
-2、The element-free Galerkin method for the dynamic Signorini contact problems with friction in elastic materials,Applied Mathematics and Computation,SCI一区TOP,2022,Rui Ding,Soochow Univ, Sch Math Sci,Quan Shen,Yuan Yao,Quan Shen,Soochow Univ, Sch Rail Transportat,415,1/3
-3、Error estimates for a contact problem with the Tresca friction or the simplified Coulomb friction in elastic materials by the element-free Galerkin method,Applied Mathematical Modelling,SCI一区TOP,2020,Quan Shen,Soochow Univ, Sch Rail Transportat,Rui Ding,Yu Wang,Rui Ding,Soochow Univ, Sch Math Sci,77：690-708,2/3
-4、Convergence analysis and error estimates of the element-free Galerkin method for the second kind of elliptic variational inequalities,Computers and Mathematics with Applications,SCI二区,2019,Rui Ding,Soochow Univ, Sch Math Sci,Yu Wang,Quan Shen,Quan Shen,Soochow Univ, Sch Rail Transportat, 78,2584–2592,1/3
-5、Convergence analysis and error estimates of the element-free Galerkin method for a class of parabolic evolutionary variational inequalities,Computers and Mathematics with Applications,SCI二区,2018,Rui Ding,Soochow Univ, Sch Math Sci,Quan Shen,Zhengcheng Zhu,Quan Shen,Soochow Univ, Sch Rail Transportat,75,22-32,1/3
-6、Numerical solution of the quasistatic contact problem with the Tresca  friction in elastic-viscoplastic materials by the element-free  Galerkin method,Engineering Analysis with Boundary Elements,SCI二区,2021,Quan Shen,Soochow Univ, Sch Rail Transportat,Rui Ding,Yuebin Huo,Rui Ding,Soochow Univ, Sch Math Sci,132,202–220,2/3
+姓名:丁睿
+学院:数学科学学院
+职称:教授
+研究方向:计算力学、无网格方法、接触问题数值模拟
+关键词:无网格伽辽金法、接触问题、变分不等式、误差估计、摩擦、数值模拟、弹性材料
+个人简介:丁睿，苏州大学数学科学学院教授，理学博士。1997年至1999年在西南交通大学力学博士后流动站从事博士后研究，2002年1月至9月在香港理工大学土木工程学院任研究员。研究方向包括计算力学、无网格方法、接触问题数值模拟等。
+论文:The element-free Galerkin method for the variational-hemivariational inequality of the dynamic Signorini-Tresca contact problems with friction in elastic materials
+The element-free Galerkin method for the dynamic Signorini contact problems with friction in elastic materials
+Error estimates for a contact problem with the Tresca friction or the simplified Coulomb friction in elastic materials by the element-free Galerkin method
+Convergence analysis and error estimates of the element-free Galerkin method for the second kind of elliptic variational inequalities
+Convergence analysis and error estimates of the element-free Galerkin method for a class of parabolic evolutionary variational inequalities
+Numerical solution of the quasistatic contact problem with the Tresca friction in elastic-viscoplastic materials by the element-free Galerkin method

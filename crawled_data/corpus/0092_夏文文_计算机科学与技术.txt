@@ -5,13 +5,16 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/xww2
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Enhancing Sequential Recommendation via LLM-based Semantic Embedding Learning,WWW,CCF-A,2024,Jun Hu, Wenwen Xia, et al.
-2、Explaining Temporal Graph Models through an Explorer-Navigator Framework,ICLR,Top-tier AI Conference,2023,Wenwen Xia, Mincai Lai, Caihua Shan, et al.
-3、On the substructure countability of graph neural networks,IEEE Transactions on Knowledge and Data Engineering,CCF-A,2022,Wenwen Xia, Yuchen Li, and Shenghong Li
-4、Graph neural point process for temporal interaction prediction,IEEE Transactions on Knowledge and Data Engineering,CCF-A,2022,Wenwen Xia, Yuchen Li, and Shenghong Li
-5、Forecasting interaction order on temporal graphs,KDD,CCF-A,2021,Wenwen Xia, et al.
-6、Deepis: Susceptibility estimation on social networks,WSDM,CCF-B,2021,Wenwen Xia, Yuchen Li, Jun Wu, and Shenghong Li
-7、Efficient navigation for constrained shortest path with adaptive expansion control,ICDM,CCF-B,2022,Wenwen Xia, et al.
+姓名:夏文文
+学院:计算机科学与技术学院（软件学院）
+职称:
+研究方向:图机器学习、图算法、机器学习、深度学习、图学习算法与理论、大语言模型
+关键词:图机器学习、图神经网络、深度学习、大语言模型、时序图、推荐系统、点过程
+个人简介:夏文文，苏州大学计算机科学与技术学院讲师，硕士生导师，苏州大学优秀青年学者。博士毕业于上海交通大学电子信息与电气工程学院（致远荣誉计划），本科毕业于武汉大学。曾受国家留学基金委资助赴新加坡管理大学联合培养，在微软亚洲研究院（上海）研究实习，并在蚂蚁集团担任高级算法工程师（蚂蚁星计划）。主要研究方向为图机器学习、图算法、深度学习及大语言模型与图数据的对齐融合应用。以第一作者在ICLR、WWW、TKDE、KDD等顶级会议期刊发表多篇论文，并多次担任TKDE、NIPS、ICLR、KDD、CIKM等审稿人。在学术界和企业界均有丰富研究经验，可为研究生提供全方位指导。
+论文:Enhancing Sequential Recommendation via LLM-based Semantic Embedding Learning
+Explaining Temporal Graph Models through an Explorer-Navigator Framework
+On the substructure countability of graph neural networks
+Graph neural point process for temporal interaction prediction
+Forecasting interaction order on temporal graphs
+Deepis: Susceptibility estimation on social networks
+Efficient navigation for constrained shortest path with adaptive expansion control

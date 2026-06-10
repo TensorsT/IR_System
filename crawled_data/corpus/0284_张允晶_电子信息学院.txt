@@ -5,28 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/yjzhang1223
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、近年发表的主要论著：
-2、J. L. Yong, P. Li, X. L. He, M. S. Tong, L. T. Guo, and Y. J. Zhang*, “Multi-Frequency Microwave Liquid Identification Sensor Based on Interdigital Split Ring Resonators,” IEEE Trans. Instrum. Meas., vol. 74, 2025, Art. no. 8001710.
-3、H. Yang, Y. He, M. S. Tong, L. T. Guo, P. Li and Y. J. Zhang*, “A Reflection–Transmission Multifunctional Polarization Conversion Metasurface,” IEEE Tran. Antennas Propag., vol. 72, no. 6, pp. 5099-5109, June 2024.
-4、Y. J. Zhang*, J. L. Yong, Y. Tian, and Y. He, 'High Sensitivity Detection Method for Liquid Concentrations Based on Coupled Microwave Resonators,' IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-11, 2023, Art no. 8003011.
-5、 H. Yang, S. C. Wang, P. Li, Y. He, and Y. J. Zhang*, 'Broadband Multifunctional Reconfigurable Polarization Conversion Metasurface,' Accepted, IEEE Transactions on Antennas and Propagation.
-6、   J.Y. LU, Y.J. ZHANG*, L.F. LI, X.L. HE, P. LI*, 'Advance in Structures for Lossless Ion Manipulations,' CHINESE      JOURNAL OF ANALYTICAL CHEMISTRY(分析化学) 50 (12), 1783-1795.
-7、Y. J. Zhang*, Y. Tian, M. S. Tong, Y. He, 'Enhanced-Sensitivity Noncontact Measurement of Liquid Concentration Based on Passive GPT-symmetry,' IEEE Sensors Journal, vol. 22, no. 1, pp. 11184-11193, Jun.1 2022.
-8、Y. J. Mao, Y. J. Zhang*, Z. R. Chen and M. S. Tong, 'A Noncontact Microwave Sensor Based on Cylindrical Resonator for Detecting Concentration of Liquid Solutions,' IEEE Sensors Journal, vol. 21, no. 2, pp. 1208-1214, Jan. 2021.
-9、Y. J. Zhang, P. Li, V. Galdi, M. S. Tong, A. Alù，“Manipulating the scattering pattern with non-Hermitian particle arrays”, Optics Express 28 (13), 19492-19507, 2020.
-10、Y. J. Zhang, H. Y. Kwon, M. Ali Miri, Efthymios Kallos, Helena Cano-Garcia, M. S. Tong, and A. Alu, “Noninvasive Glucose Sensor Based on Parity-Time Symmetry,” Phys. Rev. Applied, 11, 044049, April 2019.
-11、Y. J. Zhang, R. X. Gao, Y. He, and M. S. Tong, “Effective Design of Microstrip-Line Chipless RFID Tags Based on Filter Theory,” IEEE Tran. Antennas Propag., vol. 67, no. 3, pp. 1428-1436, March 2019.
-12、Y. J. Zhang, D. Wang, L. Zhang and M. S. Tong, “A Modified Planar Inverted-F Antenna with Triple-Band for Wi-Fi and LTE Applications,” Progress in Electromagnetics Research M, vol. 73, pp. 173-181, 2018.
-13、Y. J. Zhang, D. Wang and M. S. Tong, “An Adjustable Quarter-Wavelength Meandered Dipole Antenna with Slotted Ground for Metallically and Airily Mounted RFID Tag,” IEEE Tran. Antennas Propag., vol. 65, no. 6, pp. 2890-2898, June 2017.
-14、L Li, T Zhang, D Wang, Y Zhang, X He, X Wang, P Li, 'Portable Digital Linear Ion Trap Mass Spectrometer Based on Separate-Region Corona Discharge Ionization Source for On-Site Rapid Detection of Illegal Drugs,' Molecules,  vol. 27, no. 11, 2022.
-15、X He, J Zhou, W Xuan, Z Zhan, Y Zhang, P Li, L Kong, 'Single-Crystalline LiTaO₃ Film-Based High-Frequency Surface Acoustic Wave Resonators and Electronics Applications,', IEEE Microwave and Wireless Components Letters, vol. 32, no. 4, April 2022.
-16、Conference papers:
-17、Y. J. Zhang, D. Wang, and M. S. Tong, “A Slot UHF RFID Tag Antenna with a Shorted Stub for Application to Metallic Objects,” Proc. Prog. in Electro. Res. Symp., Shanghai, China, Aug. 2016, pp. 861-865.
-18、Y. J. Zhang, D. Wang, S. C. Wang, and M. S. Tong, “Design of A Compact Ultrawideband Microstrip Monopole Antenna,” Proc. IEEE AP-S Int. Symp. USNC/URSI Nat. Radio Meeting, Fajardo, 2016.
-19、Y. J. Zhang and M. S. Tong, “A Novel Design Method for Metallically and Airily Mountable RFID Tag Antennas,” Proc. IEEE AP-S Int. Symp. USNC/URSI Nat. Radio Meeting, San Diego, CA, 2017.
-20、Y. J. Zhang, D. Wang, and M. S. Tong, “Metamaterial UHF RFID Tag With Enhanced Gain,” Proc. Prog. in Electro. Res. Symp., Singapore, 2017.
-21、Y. J. Zhang, D. Wang, X. J. Huang, and M. S. Tong, “Design of RFID Tag Antenna Based on the Cole-Cole Model of Human Abdomen,” Proc. Prog. in Electro. Res. Symp., Toyama, Japan, Aug. 2018.
-22、Y. J. 
+姓名:张允晶
+学院:电子信息学院
+职称:副教授
+研究方向:利用射频、微波穿透性实现对待测物的无损、无创测量与传感、电磁调控新方法：基于超表面及增益元件对电磁波相位、极化、幅值进行高自由度调控、小型化、可穿戴、抗金属UHF RFID标签与阅读器天线设计、电小天线设计理论与技术
+关键词:微波传感、电磁调控、RFID标签天线、无损测量、超构表面、电小天线、电磁参数测量、电磁仿真
+个人简介:张允晶，苏州大学电子信息学院副教授，硕士生导师，入选江苏省科技副总选派对象，苏州市青年科技人才托举工程资助对象。近年来专注于微波传感测量及调控领域的研究工作，在微波传感方法与传感器设计、超构表面电磁调控等方面开展了深入研究，已发表高水平学术论文多篇，以第一作者或通讯作者在IEEE TRANS系列等权威期刊发表论文多篇，多篇入选IEEE TAP期刊“Top Accessed”榜单。近五年内授权发明专利多项，主持国家自然科学基金青年项目、省自然科学基金青年项目及博士后面上项目。
+论文:Multi-Frequency Microwave Liquid Identification Sensor Based on Interdigital Split Ring Resonators
+A Reflection–Transmission Multifunctional Polarization Conversion Metasurface
+High Sensitivity Detection Method for Liquid Concentrations Based on Coupled Microwave Resonators
+Enhanced-Sensitivity Noncontact Measurement of Liquid Concentration Based on Passive GPT-symmetry
+A Noncontact Microwave Sensor Based on Cylindrical Resonator for Detecting Concentration of Liquid Solutions
+Manipulating the scattering pattern with non-Hermitian particle arrays
+Noninvasive Glucose Sensor Based on Parity-Time Symmetry
+Effective Design of Microstrip-Line Chipless RFID Tags Based on Filter Theory
+A Modified Planar Inverted-F Antenna with Triple-Band for Wi-Fi and LTE Applications
+An Adjustable Quarter-Wavelength Meandered Dipole Antenna with Slotted Ground for Metallically and Airily Mounted RFID Tag

@@ -5,6 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/yxd
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
+姓名:由骁迪
+学院:电子信息学院
+职称:副教授
+研究方向:高效、可靠、智能无线光通信与定位系统、下一代移动可见光通信及其智能信息处理、物联网与无线传感网、自由空间光通信、光纤通信与光接入网、光纤传感技术及应用
+关键词:无线光通信、可见光通信、光定位、物联网、无线传感器网络、光纤通信、光纤传感
+个人简介:由骁迪，工学博士，苏州大学电子信息学院副教授（副研究员）、硕士生导师，江苏省“双创团队”核心成员。本科、博士均毕业于南京邮电大学通信与信息系统专业，导师陈健教授。研究方向包括无线光信息系统、光纤通信、物联网技术等。曾在香港中文大学、新加坡国立大学苏州研究院访学，后赴香港理工大学从事博士后研究（合作导师：Prof. Changyuan Yu）。2020年入职苏州大学，2022年晋升副教授。
+论文:“产教研赛”紧耦合的电子信息类新工科人才培养模式探索
+Dimmable optical camera communications with WDM using RGB and infrared LEDs
+Asynchronous code division multiplexing-based visible light positioning and communication network using successive interference cancellation decoding
+Integrated mobile visible light communication and positioning systems based on decision feedback channel estimation
+Experimental demonstration of indoor 3D optical wireless positioning and azimuth estimation using steerable line lasers
+Real-time implementation of hybrid visible light/infrared communications supporting full-range dynamic dimming control
+A two-LED based indoor three-dimensional visible light positioning and orienteering scheme for a tilted receiver
+Location-aware spectrum sensing for cognitive visible light communications over multipath channels
+Collaborative spectrum sensing for cognitive visible light communications
+Mobile channel estimation based on decision feedback in vehicle-to-infrastructure visible light communication systems

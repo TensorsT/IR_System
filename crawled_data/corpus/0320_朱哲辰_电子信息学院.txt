@@ -5,49 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/zczhu
 ---
-姓名:个人简介
-页面标题:电子信息学院
-论文:论文成果：
-专著
-Z. Zhu and A. K. Nandi, (2014) Automatic Modulation Classification - Principles, Algorithms, and Applications. Wiley (to be published in January 2015)
-期刊论文
-Z. Zhu, A. K.
-Nandi, (2014) Blind Digital Modulation Classification using Minimum Distance Centroid Estimator and Non-parametric Likelihood Function, Submitted to IEEE Transactions on Wireless Communications, vol. 13, no. 8, pp. 4483-4494, doi: 10.1109/TWC.2014.2320724
-Z. Zhu, M. W. Aslam, A. K.
-Nandi, (2013) Genetic Algorithm Optimized Distribution Sampling Test for M-QAM Modulation Classification, Signal Processing, vol. 94, pp. 264-277, ISSN 0165-1684, doi: 10.1016/j.sigpro.2013.05.024
-M. W. Aslam, Z. Zhu, A. K.
-Nandi, (2013) Feature generation using genetic programming with comparative partner selection for diabetes classification, Expert Systems with Applications, vol. 40, no. 13, pp. 5402-5412, ISSN 0957-4174, doi: 10.1016/j.eswa.2013.04.003
-M. W. Aslam, Z. Zhu and A. K. Nandi, (2012) Automatic Modulation Classification Using Combination of Genetic Programming and KNN. IEEE Transactions on Wireless Communications, vol. 11, no. 8, pp.2742-2750, doi: 10.1109/TWC.2012.060412.110460
-会议论文
-Z. Zhu, A. K.
-Nandi, (2014)
+姓名:朱哲辰
+学院:电子信息学院
+职称:副教授
+研究方向:机器学习、深度学习、卷积神经网络、通信信号处理、数据挖掘、无线通信信道估计与调制分类、光通信调制分类与信息安全、光网络数据挖掘与动态优化
+关键词:调制分类、信道估计、机器学习、深度学习、卷积神经网络、无线通信、光通信、数据挖掘、模式识别
+个人简介:江苏苏州人，2010年获英国利物浦大学一等通信工程学士学位，后获英国布鲁内尔大学电子与计算机工程博士学位及校长博士科研奖。主要研究通信系统中的信道估计与调制分类。发表SCI论文7篇，EI论文十余篇，担任多个国际权威刊物审稿人。现任苏州大学电子信息学院副教授。
+论文:Blind Digital Modulation Classification using Minimum Distance Centroid Estimator and Non-parametric Likelihood Function
+Genetic Algorithm Optimized Distribution Sampling Test for M-QAM Modulation Classification
+Feature generation using genetic programming with comparative partner selection for diabetes classification
+Automatic Modulation Classification Using Combination of Genetic Programming and KNN
 Blind Modulation Classification for MIMO systems using Expectation Maximization
-, IEEE Military Communication Conference
-Z. Zhu, M. W. Aslam, A. K.
-Nandi, (2013) Approximate Centroid Estimation with Constellation Grid Segmentation for Blind M-QAM Classification, IEEE Military Communication Conference
-Z. Zhu, M. W. Aslam, A. K.
-Nandi, (2013) Adapted Geometric Semantic Genetic Programming for Diabetes and Breast Cancer Classification, IEEE International Workshop on Machine Learning for Signal Processing
-M. W. Aslam, Z. Zhu, A. K.
-Nandi, (2013) Improved Comparative Partner Selection with Brood Recombination for Genetic Programming, IEEE International Workshop on Machine Learning for Signal Processing
-Z. Zhu, M. W. Aslam, A. K.
-Nandi, (2013) Robustness Enhancement of Distribution Based Binary Discriminative Features for Modulation Classification, IEEE International Workshop on Machine Learning for Signal Processing
-M. W. Aslam, Z. Zhu and A. K. Nandi, (2011) Robust QAM Classification Using Genetic Programming and Fisher Criterion. European Signal Processing Conference, pp. 995-999, ISSN 2076-1465
-Z. Zhu, M. W. Aslam and A. K. Nandi, (2011) Support Vector Machine Assisted Genetic Programming for MQAM Classification. IEEE International Symposium on Signals, Circuits & Systems, pp. 1-6, doi: 10.1109/ISSCS.2011.5978654
-M. W. Aslam, Z. Zhu and A. K. Nandi, (2010) Automatic Digital Modulation Classification Using Genetic Programming with K-Nearest Neighbor. IEEE Military Communications Conference, pp. 1371-1376, doi: 10.1109/MILCOM.2010.5680232
-Z. Zhu, M. W. Aslam and A. K. Nandi, (2010) Augmented Genetic Programming for automatic digital modulation classification. IEEE International Workshop on Machine Learning for Signal Processing, pp. 391-396, doi: 10.1109/MLSP.2010.5588920
-荣誉及奖励
-荣誉及奖励：
-Teaching
-开授课程：
-1、数字信号处理,2018.06.27-,44,60
-2、微处理器与微计算机系统,,2017级集成电路设计与集成系统,电子信息学院,,2019.06.28-,27,63
-3、无线通信,,2016级通信工程,电子信息学院,,66,36
-课程教学：
-招生信息
-招生信息：
-招生信息1：
-Copyright © 2011-2014
-苏州大学
-版权所有
-苏州大学信息化建设与管理中心
-技术支持
+Approximate Centroid Estimation with Constellation Grid Segmentation for Blind M-QAM Classification
+Adapted Geometric Semantic Genetic Programming for Diabetes and Breast Cancer Classification
+Improved Comparative Partner Selection with Brood Recombination for Genetic Programming
+Robustness Enhancement of Distribution Based Binary Discriminative Features for Modulation Classification
+Robust QAM Classification Using Genetic Programming and Fisher Criterion

@@ -5,12 +5,15 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/hzxu
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Molecular organization of mammalian meiotic chromosome axis revealed by expansion STORM microscopy,Proc. Natl. Acad. Sci. U.S.A.,2019,Xu H#,Tong Z#,Ye Q#,... ,Cang H,116(37): 18423-18428
-2、Direct Observation of Folding Energy Landscape of RNA Hairpin at Mechanical Loading Rates,J. Phys. Chem. B,2017,Xu H,Plaut B,Zhu X,...,Mandal M,121(10): 2220-2229
-3、Single-molecule analysis reveals multi-state folding of a guanine riboswitch,Nat. Chem. Biol.,2017,Chandra V#,Hannan Z#,Xu H#,Mandal M,13(2): 194-201
-4、Measurement of expansion factor and distortion for expansion microscopy using isolated renal glomeruli as landmarks,J. Biophotonics,2021,Chen Zhu,Aidong Wang,Lili Chen,...,Huizhong Xu,e202100001
-5、Single-Molecule Force Spectroscopy of Deoxyribonucleic Acid and Deoxyribonucleic Acid Polymerase Activity Impacted by Alkylating Agents,J. Phys. Chem. Lett.,2023,Tianyu Cai,Jiaqing Zhang,Jingjing Deng,...,,Huizhong Xu,14(20):4842-4849
-6、Expanding the toolset of fluorescent covalent staining of biological samples by labeling carboxylate and phosphate groups,J. Biophotonics,2023,Kexin Hu,Qimeng Sun,Ruifen Chen,...,,Huizhong Xu,e202300027
+姓名:徐惠中
+学院:物理科学与技术学院
+职称:副教授
+研究方向:生物物理、动态单分子力谱、核酸折叠动力学、核酸与蛋白相互作用、超分辨显微镜成像、STORM、SIM、STED
+关键词:单分子生物物理、动态单分子力谱、核酸折叠、核糖开关、超分辨显微成像、STORM、SIM、STED、扩展显微镜
+个人简介:苏州大学物理科学与技术学院、高等研究院副教授。2009年本科毕业于南京大学物理学系，2015年获美国卡耐基梅隆大学物理学博士学位。2015-2016年在卡耐基梅隆大学从事博士后研究，2016-2019年在美国Salk研究所从事博士后研究。2019年6月加入苏州大学，主要研究方向为单分子生物物理，包括动态单分子力谱（核酸折叠动力学、核酸与蛋白相互作用）和超分辨显微镜成像。
+论文:Molecular organization of mammalian meiotic chromosome axis revealed by expansion STORM microscopy
+Direct Observation of Folding Energy Landscape of RNA Hairpin at Mechanical Loading Rates
+Single-molecule analysis reveals multi-state folding of a guanine riboswitch
+Measurement of expansion factor and distortion for expansion microscopy using isolated renal glomeruli as landmarks
+Single-Molecule Force Spectroscopy of Deoxyribonucleic Acid and Deoxyribonucleic Acid Polymerase Activity Impacted by Alkylating Agents
+Expanding the toolset of fluorescent covalent staining of biological samples by labeling carboxylate and phosphate groups

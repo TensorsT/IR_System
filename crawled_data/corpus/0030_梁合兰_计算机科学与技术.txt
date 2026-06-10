@@ -1,0 +1,21 @@
+doc_id: 30
+name: 梁合兰
+career: 副教授
+department: 计算机科学与技术学院（软件学院）
+college_id: 15
+url: http://web.suda.edu.cn/hlliang
+---
+姓名:梁合兰
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:云计算、服务计算、企业流程建模与优化、人工智能优化算法
+关键词:云计算、服务计算、企业流程建模、优化、人工智能、服务选择、协同进化、动态调度
+个人简介:女，博士，副教授，硕士生导师。毕业于北京科技大学物流工程专业，获博士学位。现任职于苏州大学计算机科学与技术学院，参与机器学习课题组教学科研工作。主要研究方向为云计算、服务计算、企业流程建模与优化、人工智能优化算法。以第一作者在Future Generation Computer Systems、Decision Support Systems、WISE等期刊和会议发表多篇论文。获苏州大学青年教师课堂教学竞赛一等奖，指导本科生获优秀毕业设计。主持国家自然科学基金项目，参与多项国家重点研发等纵横向项目。
+论文:A comprehensive multi-objective approach of service selection for service processes with twofold restrictions
+A comprehensive multi-objective approach of service selection for service processes with twofold restrictions
+Business value-aware task scheduling for hybrid IaaS cloud
+Dynamic service selection with QoS constraints and inter-service correlations using cooperative coevolution
+Two-Stage dynamic optimization of service processes with temporal constraints
+基于协同进化的松弛时序约束多服务流程优化
+Dynamic service scheduling in cloud computing using a novel hybrid algorithm
+时序约束下科学工作流的动态调度

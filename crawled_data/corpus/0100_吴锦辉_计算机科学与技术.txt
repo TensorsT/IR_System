@@ -5,12 +5,15 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/wjh2
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院（软件学院）
-论文:论文：
-1、Complex-valued Neurons Can Learn More but Slower than Real-valued Neurons via Gradient Descent,Advances in Neural Information Processing Systems 36 (CCF-A会议),Jin-Hui Wu, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou,23714-23747
-2、Theoretical Exploration of Flexible Transmitter Model,IEEE Transactions on Neural Networks and Learning Systems (中科院SCI一区),Jin-Hui Wu, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou,35(3): 3674-3688
-3、On the Intrinsic Structures of Spiking Neural Networks,Journal of Machine Learning Research (CCF-A期刊),Shao-Qun Zhang, Jia-Yi Chen, Jin-Hui Wu, Gao Zhang, Huan Xiong, Bin Gu, Zhi-Hua Zhou,25(194): 1-74
-4、The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest,Proceedings of the 27th European Conference on Artificial Intelligence (CCF-B会议),Shen-Huan Lyu, Jin-Hui Wu, Qin-Cheng Zheng, Baoliu Ye,2042-2049,共一
-5、四元数神经网络的通用近似与逼近优势,计算机研究与发展 (中文CCF-A期刊),吴锦辉, 姜远,62(5): 1205-1215
-6、Reparameterized Complex-valued Neurons Can Efficiently Learn More than Real-valued Neurons via Gradient Descent,Journal of Machine Learning Research (CCF-A期刊),Jin-Hui Wu, Shao-Qun Zhang, Yuan Jiang, Zhi-Hua Zhou,27(38): 1-51
+姓名:吴锦辉
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+研究方向:机器学习、神经网络理论、复值神经网络理论、优化理论、李群机器学习
+关键词:机器学习、神经网络理论、复值神经网络理论、优化理论、李群机器学习
+个人简介:吴锦辉，男，苏州大学优秀青年学者，硕士生导师。于南京大学匡亚明学院获理学学士学位，于南京大学人工智能学院获工学博士学位，同年入职苏州大学。研究方向为机器学习，包括神经网络理论、复值神经网络理论、优化理论等。在JMLR、NeurIPS、TNNLS等发表多篇论文，获第十届中国数据挖掘会议最佳学生论文奖，担任多个顶级会议审稿人。
+论文:Complex-valued Neurons Can Learn More but Slower than Real-valued Neurons via Gradient Descent
+Theoretical Exploration of Flexible Transmitter Model
+On the Intrinsic Structures of Spiking Neural Networks
+The Role of Depth, Width, and Tree Size in Expressiveness of Deep Forest
+四元数神经网络的通用近似与逼近优势
+Reparameterized Complex-valued Neurons Can Efficiently Learn More than Real-valued Neurons via Gradient Descent

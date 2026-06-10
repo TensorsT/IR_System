@@ -5,45 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/zhuguangjun
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、The facet ideals of  chessboard complexes,Rocky Mountain J. Math.,SCI,2023,53 (4):1155–1175.
-2、Freiman Borel-type ideals,J. Algebra Appl.,SCI,2024,23 (1): Paper No. 2450004, 22 pp
-3、Regularity of powers of (parity) binomial edge ideals, J. Algebraic Combin.,SCI,2023,57 (1):  75–100
-4、Some homological properties of Borel type ideals,Comm. Algebra,SCI,2023,51 (4): 1517–1531.
-5、The facet ideals of  line graph,J. Algebraic Combin. ,SCI,2022,56 (3): 955–967.
-6、Algebraic properties  of  powers of edge ideals of vertex-weighted  oriented  cycles,Algebra Colloq.,SCI,2023,30 ( 4):649–666
-7、The saturation number of c-bounded stable  monomial ideals and their powers,Kyoto J. Math.,SCI,2022,62(3): 471–484.
-8、Freiman t-pread principal Borel ideals,Math. Notes,SCI,2022,12: 191–198.
-9、Homological shift ideals,Collect. Math.,SCI,2021, 72:157–174.
-10、Algebraic properties of edge ideals of some vertex-weighted oriented m-partite graphs,Bull Braz Math Soc.,SCI,2021,52:1005–1023.
-11、Freiman cover ideals of unmixed bipartite graphs,Math. Notes,SCI,2021,110: 440–448.
-12、Algebraic properties of edge ideals of some vertex-weighted oriented cyclic graphs,Algebra Colloq.,SCI,2021,28: 253–268.
-13、Projective dimension and regularity of powers of edge ideals of vertex-weighted rooted forests,Bull. Malays. Math. Sci. Soc.,SCI,2021,44: 2215 –2233.
-14、Regularity and projective dimension of powers of edge ideal of the disjoint union of some weighted oriented gapfree bipartite graphs,J. Algebra Appl.,SCI,2020,2050233
-15、Sortable Freiman ideals,Math. Notes,SCI,2020,107: 946–952.
-16、The relevance of Freiman’s theorem for combinatorial commutative algebra,Math. Z.,SCI,2019,291: 999–1014.
-17、On the fiber cone of monomial ideals,Arch. Math.,SCI,2019,113: 469–481.
-18、Freiman ideals,Commun. Algebra,SCI,2019,47: 407–423.
-19、Projective dimension and regularity of edge ideals of some weighted oriented graphs,Rocky Mountain J. Math.,SCI,2019,49:1392-1406.
-20、Projective dimension and regularity of path ideals of cycles,J. Algebra Appl.,SCI,2018,17: 1850188.
-21、Projective dimension and regularity of the path ideal of the line graph,J. Algebra Appl.,SCI,2018,17 : 1850068.
-22、Depth and Stanley depth of the path ideal associated to an n-cyclic graph,Turk J. Math.,SCI,2017,41:1174- 1183.
-23、A lower bound for stanley depth of squarefree monomial ideals,Turk J. Math.,SCI,2016,40: 816- 823.
-24、Shellability of simplicial complexes and simplicial complexes with the free vertex property,Turk J. Math.,SCI,2016,40:181 - 190.
-25、Arithmetical rank of the edge ideals of some n-cyclic graphs with a common edge,Turk J. Math.,SCI,2015,39: 112 - 123.
-26、Castelnuovo-Mumford regularity of fiber cones of filtered modules,Miskolc Math. Notes,SCI,2015,16: 843-851.
-27、The Joint Reduction Number and Upper Bounds of Hilbert Series of Fiber Cones,Algebra Colloq.,SCI,2013,20: 653-662.
-28、Primary ideals with good fiber cone,Commun. Algebra,SCI,2011,39 : 2276-2289.
-29、A Lower bound on the second fiber coefficient of the fiber cones,Commun. Algebra,SCI,2010,38: 1919-1929.
-30、Fiber Coefficients and Depth of Fiber Cones,Commun. Algebra,SCI,2009,37: 3686-3696.
-31、Depth of fiber cones of ideals with almost minimal mixed multiplicity,J. Algebra,SCI,2008,320: 3534-3542.
-32、On Fiber Coefficients of Fiber Cones,Commun. Algebra,SCI,2008,36: 4120-4131.
-33、On Hilbert Coefficients of Filtrations,Chinese Annals of Mathematics, Series B,SCI,2007,28: 543-554.
-34、Co-Cohen-Macaulayness of certain graded Artinian modules,Commun. Algebra,SCI,1999,27: 89–104.
-35、 The ∘ operation and * operation of Cohen-Macaulay bipartite graphs,Czechoslovak Math. J.,SCI,2024,74 (3): 735–757.
-36、 Powers of generalized binomial edge ideals of path graphs,Internat. J. Algebra Comput.,SCI,2024,3.34 (5):779–806.
-37、The∘operation and * operation of fan graphs,Math. Notes,SCI,2025,117(1): 229-247.
-38、Generalized binomial edge ideals of bipartite graphs,J. Algebra,SCI,2025,662:167–213.
-39、Edge ideals of some edge-weighted graphs,Rocky MT J. 
+姓名:朱广俊
+学院:数学科学学院
+职称:教授
+研究方向:交换代数、组合交换代数、重复度理论、交换的分次环理论、单项式和二项式理论、加权图的代数性质
+关键词:交换代数、组合交换代数、分次环、单项式理想、边理想、正则性、投射维数、Cohen-Macaulay、加权图、二项式边理想
+个人简介:朱广俊，女，博士，苏州大学数学科学学院教授，研究生导师。主要从事交换代数与组合交换代数研究，涉及重复度理论、交换分次环理论、单项式和二项式理论、各种加权图的代数性质等。主持多项国家及省自然科学基金项目，曾赴台湾大学、德国埃森大学、越南科学技术研究院等访学。在 Mathematische Zeitschrift、Journal of Algebra 等期刊发表论文60余篇。
+论文:The facet ideals of chessboard complexes
+Freiman Borel-type ideals
+Regularity of powers of (parity) binomial edge ideals
+Some homological properties of Borel type ideals
+The facet ideals of line graph
+Algebraic properties of powers of edge ideals of vertex-weighted oriented cycles
+The saturation number of c-bounded stable monomial ideals and their powers
+Freiman t-pread principal Borel ideals
+Homological shift ideals
+Algebraic properties of edge ideals of some vertex-weighted oriented m-partite graphs

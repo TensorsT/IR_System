@@ -5,6 +5,6 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/zcj
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:朱成杰
+学院:物理科学与技术学院
+职称:

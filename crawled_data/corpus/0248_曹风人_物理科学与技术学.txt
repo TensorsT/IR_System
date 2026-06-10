@@ -5,6 +5,18 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/frcao
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:曹风人
+学院:物理科学与技术学院
+职称:副教授
+研究方向:低维功能材料、可控合成、光电器件应用、光电探测器、钙钛矿太阳能电池
+关键词:低维功能材料、可控合成、光电器件、光电探测器、钙钛矿太阳能电池、自供能光电探测器、柔性、铁电体、纳米线阵列、异质结
+个人简介:曹风人，苏州大学物理科学与技术学院副研究员、苏州大学优秀青年学者。主要从事低维功能材料的可控合成及光电器件应用研究，涉及光电探测器、钙钛矿太阳能电池等领域。已在国际知名期刊发表SCI论文70余篇，其中第一/通讯作者20余篇，发表于Adv. Mater.、Adv. Funct. Mater.、Mater. Today等期刊，总引用逾3300次，H指数36。
+论文:Gradient energy band driven high-performance self-powered perovskite/CdS photodetector
+Semitransparent, flexible and self-powered photodetectors based on ferroelectricity assisted perovskite nanowire arrays
+Ultra-high performance flexible and self-powered photodetectors with ferroelectric P(VDF-TrFE)/perovskite bulk heterojunction
+Self‐Powered UV–Vis–NIR Photodetector Based on Conjugated‐Polymer/CsPbBr3 Nanowire Array
+Polarized ferroelectric field-enhanced self-powered perovskite photodetector
+Novel perovskite/TiO/Si trilayer heterojunctions for high-performance self-powered ultraviolet-visible-near infrared (UV-Vis-NIR) photodetectors
+Ternary non-noble metal zinc-nickel-cobalt carbonate hydroxide cocatalysts toward highly efficient photoelectrochemical water splitting
+High-performance UV-Vis photodetectors based on electrospun ZnO nanofiber-solution processed perovskite hybrid structures
+Enhanced photoelectrochemical performance from rationally designed anatase/rutile TiO2 heterostructures

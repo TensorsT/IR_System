@@ -5,17 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/ca
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Sharp Holder continuity of the Lyapunov exponent of finitely differentiable quasi-periodic cocycles,Mathematische Zeitschrift,2019,291,931-958,with Chavaudret, You, Zhou
-2、Polynomial decay of the gap length for C^k quasi-periodic Schrödinger operators and spectral application,Journal of Functional Analysis,2021,281(3),with Wang
-3、Reducibility of finitely differentiable quasi-periodic cocycles and its spectral applications,Journal of Dynamics and Differential Equations,2022,34,2079-2104,with Ge
-4、Mixed Random-quasiperiodic Cocycles,Bulletin of the Brazilian Mathematical Society, New Series,2022,53(4),1469-1497,with Duarte, Klein
-5、The absolutely continuous spectrum of finitely differentiable quasi-periodic Schrödinger operators,Annales Henri Poincare,2022,23(12),4195-4226
-6、Furstenberg Theory of Mixed Random-Quasiperiodic Cocycles,Communications in Mathematical Physics,2023,402，447-487,with Duarte, Klein
-7、Randomness versus Quasiperiodicity,International Workshop- New Trends in Lyapunov Exponents,Conference paper,2023.10
-8、A Dynamical Thouless Formula,Advances in Mathematics,2024.2,438, 109446,with Bezerra, Duarte, Freijo, Klein
-9、Quantitative reducibility of C^k quasiperiodic cocycles,Ergodic Theory and Dynamical Systems,2024,with Lv, Wang
-10、Statistical properties for mixing Markov chains with applications to dynamical systems,Advances in Mathematics,2025,479, 110454,with Duarte, Klein
-11、Abstract continuity theorem for the Lyapunov exponents of linear cocycles,Discrete and Continuous Dynamical Systems,Accepted,with Deng
+姓名:蔡傲
+学院:数学科学学院
+职称:副教授
+研究方向:动力系统、数学物理、李雅普诺夫指数、薛定谔算子谱理论、KAM理论、遍历理论、大偏差定理
+关键词:动力系统、数学物理、李雅普诺夫指数、薛定谔算子、拟周期、随机、KAM理论、遍历理论、大偏差定理、谱理论
+个人简介:江苏苏州人，1991年生，理学博士。2023年起任苏州大学数学科学学院副教授，此前在南京大学完成本硕博连读，后于南开大学陈省身数学研究所、葡萄牙里斯本大学、巴西里约热内卢天主教大学从事博士后研究。研究方向为动力系统与数学物理，主要关注拟周期与随机线性斜积系统的李雅普诺夫指数和薛定谔算子谱理论，运用的主要技术为KAM理论、遍历理论与大偏差定理。
+论文:Sharp Holder continuity of the Lyapunov exponent of finitely differentiable quasi-periodic cocycles
+Polynomial decay of the gap length for C^k quasi-periodic Schrödinger operators and spectral application
+Reducibility of finitely differentiable quasi-periodic cocycles and its spectral applications
+Mixed Random-quasiperiodic Cocycles
+The absolutely continuous spectrum of finitely differentiable quasi-periodic Schrödinger operators
+Furstenberg Theory of Mixed Random-Quasiperiodic Cocycles
+A Dynamical Thouless Formula
+Quantitative reducibility of C^k quasiperiodic cocycles
+Statistical properties for mixing Markov chains with applications to dynamical systems
+Abstract continuity theorem for the Lyapunov exponents of linear cocycles

@@ -5,13 +5,16 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/leiyang
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Spin Matrix Theory in near 1/8-BPS corners of N = 4 super-Yang-Mills,Journal of High Energy Physics,SCI,Feb 24, 2022,Yang Lei,Kavli Institute of Theoretical Science,02/191
-2、SL(3, Z) Modularity and New Cardy limits of the N = 4 superconformal index,Journal of High Energy Physics,SCI,Nov 8, 2021,Yang Lei,Kavli Institute of Theoretical Science,11/047
-3、Symmetry structure of the interactions in near-BPS corners of N=4 super-Yang-Mills,Journal Of High Energy Physics,SCI,Apr 6, 202,Yang Lei,Kavli Institute of Theoretical Science,04/029
-4、Residues, modularity, and the Cardy limit of the 4d N = 4 superconformal index,Journal of High Energy Physics,SCI,Apr 21, 2021,Yang Lei,Kavli Institute of Theoretical Science,04/216
-5、Probing the EVH limit of supersymmetric AdS black holes,Journal of High Energy Physics,SCI,Feb 25, 2020,Yang Lei,Niels Bohr Institute,02/154
-6、Modularity in d > 2 free conformal field theory,Journal of High Energy Physics,DCI,2024.11,Yang Lei,Soochow University,Yang Lei,JHEP 11 (2024) 023
-7、Conformal mapping of non-Lorentzian geometries in SU(1, 2) Conformal Field Theory,Journal of High Energy Physics,SCI,2025.03,Yang Lei,Soochow University,JHEP 03 (2025) 100
+姓名:雷扬
+学院:物理科学与技术学院
+职称:副教授
+研究方向:量子引力、弦论、黑洞物理、全息原理、AdS、CFT对偶、超对称共形场论、自旋矩阵理论、组合数学
+关键词:量子引力、弦论、黑洞物理、全息原理、AdS/CFT对偶、超对称共形场论、自旋矩阵理论、组合数学、数学物理
+个人简介:雷扬，苏州大学物理科学与技术学院副教授，英国杜伦大学数学物理博士。先后在中国科学院理论物理研究所、南非金山大学、丹麦哥本哈根大学尼尔斯玻尔研究所、中国科学院大学从事博士后研究。主要从事量子引力与弦论研究，利用全息原理、超对称共形场论和自旋矩阵理论探索黑洞物理，并对组合数学在矩阵模型及量子态计数中的应用感兴趣。
+论文:Spin Matrix Theory in near 1/8-BPS corners of N = 4 super-Yang-Mills
+SL(3, Z) Modularity and New Cardy limits of the N = 4 superconformal index
+Symmetry structure of the interactions in near-BPS corners of N=4 super-Yang-Mills
+Residues, modularity, and the Cardy limit of the 4d N = 4 superconformal index
+Probing the EVH limit of supersymmetric AdS black holes
+Modularity in d > 2 free conformal field theory
+Conformal mapping of non-Lorentzian geometries in SU(1, 2) Conformal Field Theory

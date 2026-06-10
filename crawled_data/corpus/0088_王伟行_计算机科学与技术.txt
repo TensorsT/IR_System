@@ -5,12 +5,15 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/wwx
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Domain generalization for face anti-spoofing via negative data augmentation,IEEE Transactions on Information Forensics and Security,CCF-A,2023,vol. 18,pp. 2333-2344
-2、Conv-mlp: A convolution and mlp mixed model for multimodal face anti-spoofing,IEEE Transactions on Information Forensics and Security,CCF-A,2022,vol. 17,pp. 2284–2297
-3、A complementary fusion strategy for RGB-D face recognition,International Conference on MultiMedia Modeling,CCF-C,2022,pp. 339–351
-4、A high-computational efficiency human detection and flow estimation method based on TOF measurements,Sensors,SCI,2019,vol. 19, p. 729
-5、Phase unwrapping for time-of-flight sensor based on image segmentation,IEEE Sensors Journal,SCI,2021,vol. 21, no. 19, pp. 21600–21611
-6、Self-supervised End-to-end ToF Imaging Based on RGB-D Cross-modal Dependency,IJCAI 2025,CCF-A,2025,（已录用）
+姓名:王伟行
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+研究方向:计算机视觉、深度学习、视觉大模型、多模态大模型、3D机器视觉、人脸活体检测
+关键词:计算机视觉、深度学习、多模态大模型、人脸活体检测、3D机器视觉、域泛化、卷积神经网络
+个人简介:王伟行，男，苏州大学优秀青年学者，讲师，硕士生导师。博士毕业于上海交通大学电子工程系，曾于中国信息通信研究院担任人工智能技术产业研究员，后加入苏州大学计算机科学与技术学院。研究方向包括计算机视觉、深度学习、视觉与多模态大模型等，长期从事3D机器视觉、人脸活体检测等应用研究。发表学术论文多篇，申请发明专利5项，参与多部专著撰写，并参与科技创新2030-‘脑科学与类脑智能’、‘新一代人工智能’等国家重大专项子课题。
+论文:Domain generalization for face anti-spoofing via negative data augmentation
+Conv-mlp: A convolution and mlp mixed model for multimodal face anti-spoofing
+A complementary fusion strategy for RGB-D face recognition
+A high-computational efficiency human detection and flow estimation method based on TOF measurements
+Phase unwrapping for time-of-flight sensor based on image segmentation
+Self-supervised End-to-end ToF Imaging Based on RGB-D Cross-modal Dependency

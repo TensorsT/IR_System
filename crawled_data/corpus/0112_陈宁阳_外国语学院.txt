@@ -5,139 +5,19 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/nychen
 ---
-姓名:外国语学院
-页面标题:外国语学院
-研究领域:语言真实性、学术写作、多语发展与教育
-基本信息
-陈宁阳
-职称：
-讲师
-院部/部门：
-外国语学院
-学历：
-博士
-学位：
-研究生
-毕业学校：
-复旦大学
-毕业专业：
-联系方式
-通讯地址：
-江苏省苏州市十梓街1号苏州大学外国语学院崇远楼283信箱
-邮政编码：
-215006
-电子邮箱：
-nychen@suda.edu.cn
-联系电话：
-传真号码：
-办公地点：
-苏州大学外国语学院崇远楼3-10x
-科学研究
-科研团队
+姓名:陈宁阳
+学院:外国语学院
+职称:讲师
+研究方向:语言真实性、学术写作、多语发展与教育
+关键词:语言真实性、学术写作、多语发展、语言教育、二语写作、符号学
 个人简介:博士，毕业于复旦大学。主要研究领域为语言真实性、学术写作、多语发展与教育。
-论文:Book
-Chen, N. (2026).
-Authenticity and Ethics in Academic Writing and Publishing in the 21st Century
-. Ethics International Press.
-Encyclopedia Chapter
-Chen, N. (2026). Authenticity and language learning. In
-International Encyclopedia of Language and Linguistics, 3rd Edition.
-Elsevier.
-Refereed Journal Articles
-(selected)
-Chen, N. & Zhou, C. (2024). Making sense of a new language: Authenticity and semiotics in additional language learning.
-Language and Semiotic Studies
-,
-10
-(3), 317-342.
-Chen, N. (2023). Language, research, and publication: A retrospective autoethnographic account of a peripheral outcast author.
-Journal of English for Research Publication Purposes,
-4
-(2), 140-163.
-Chen, N. (2023). Publishing nationally or internationally in the humanities and social sciences: What do journal websites say about the divide?
-Journal of Scholarly Publishing, 5
-4
-(2), 313-337
-.
-Chen, N. (2023). Chinese-English academic writing practice from a biliteracy-informed genre perspective [in Chinese].
-Chinese Journal of Second Language Writing,
-7
-, 62-72
-.
-Zhou, C., & Chen, N. (2023). Filling in the blank: Towards a semiotic account of poetry translation.
-Language and Semiotic Studies, 9
-(4), 461-483.
-Chen, N. & Gu, C. (2022). From ‘main course’ to ‘side dish?’ Debates about removing English as a core subject for Chinese students receiving compulsory education.
-Changing English,
-30
-(1), 54-65.
-Chen, N. (2022). The story of a loner learner: Reconsidering authenticity and authentic engagement in second language learning.
-Language Teaching,
-56
-(1), 22-28. [Christopher Brumfit Essay Prize 2021 runner-up]
-Chen, N. (2022). Discursive construction in multilingual crisis risk communication: An analysis of ‘A letter to foreign nationals’ messages in China’s COVID-19 fight.
-Discourse Studies,
-24
-(4), 404-422.
-Chen, N. (2022). ‘Why should a “foreigner” be better than me?’ Preferential practices in junior academic faculty recruitment among mainland Chinese universities.
-Tertiary Education and Management,
-28
-, 17-41
-.
-Chen, N. (2021). Translation as subversion and subjugation: Sándor Petőf’s ‘Liberty and Love’ in China.
-Neohelicon,
-48
-, 577-597.
-Chen, N. (2021). Research and teaching of Chinese for academic purposes [in Chinese].
-Social Sciences Journal,
-9 September, 005.
-Chen, N. (2021). A study of linguistic differences in second- and native-language writing across genres [in Chinese].
-Chinese Journal of Second Language Writing,
-2
-, 14-25
-.
-Chen, N. (2020). Epistemic attrition in intercultural academic communication [in Chinese].
-Intercultural Studies Forum,
-1
-, 57-72
-.
-Chen, N. (2020). Semiotic resourcefulness in crisis risk communication: The case of COVID-19 posters.
-Language and Semiotic Studies,
-6
-(3), 1-27.
-Chen, N. (2020). Where are we going and where have we been? A response to ‘Back to basics’.
-English Today,
-36
-(4), 30-32.
-Chen, N. (2020). The English major crisis in China: Why did the once-popular major fall out of favour among Chinese students?
-English Today,
-36
-(4), 15-23.
-Chen, N. (2019). More than a splendid blend of cultures: Exploring the semiotic depth of faux Asian fonts.
-Language and Semiotic Studies, 5
-(4): 71-90.
-Chen, N. (2018). Is the English major a ‘guilty conscience’ major? [in Chinese]
-Contemporary Foreign Language Studies
-,
-6, 32-45.
-Chen, N. (2017). Bridging the unbridgeable: A semiotic solution to seeking
-tertium comparationis
-in linguistic analysis.
-Chinese Semiotic Studies,
-13
-(3), 255-267.
-Chen, N. (2017). Contemporary notes on the changing language landscape.
-Fudan Journal of the Humanities and Social Sciences,
-10
-(3), 409-418.
-Chen, N. (2016). Negotiating with language and culture: Research practice using English as an academic
-lingua franca
-.
-Fudan Journal of Humanities and Social Sciences,
-9
-(4), 695-702.
-Chen, N. (2015). Challenging machines to the language game: Wittgensteinian philosophy and future dimensions of Artificial Intelligence.
-Fudan Journal of the Humanities and Social Sciences,
-8
-(3), 487-500.
-Chen,
+论文:Making sense of a new language: Authenticity and semiotics in additional language learning
+Language, research, and publication: A retrospective autoethnographic account of a peripheral outcast author
+Publishing nationally or internationally in the humanities and social sciences: What do journal websites say about the divide?
+Chinese-English academic writing practice from a biliteracy-informed genre perspective [in Chinese]
+Filling in the blank: Towards a semiotic account of poetry translation
+From ‘main course’ to ‘side dish?’ Debates about removing English as a core subject for Chinese students receiving compulsory education
+The story of a loner learner: Reconsidering authenticity and authentic engagement in second language learning
+Discursive construction in multilingual crisis risk communication: An analysis of ‘A letter to foreign nationals’ messages in China’s COVID-19 fight
+‘Why should a “foreigner” be better than me?’ Preferential practices in junior academic faculty recruitment among mainland Chinese universities
+Translation as subversion and subjugation: Sándor Petőf’s ‘Liberty and Love’ in China

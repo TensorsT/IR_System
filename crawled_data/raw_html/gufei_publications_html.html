@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <meta name="format-detection" content="telephone=no">
+    <title>Publications</title>
+</head>
+<link rel="stylesheet" href="./css/publications.css">
+<link rel="stylesheet" href="./css/base.css">
+<link rel="stylesheet" href="./css/reset.css">
+<script type="text/javascript" src="./language-switch.js">
+
+
+    var system = {};
+
+    var p = navigator.platform;
+
+    console.log(p);
+
+
+    system.win = p.indexOf("Win") == 0;
+
+    system.mac = p.indexOf("Mac") == 0;
+
+    if (system.win || system.mac) {//如果是电脑
+
+        console.log('pc');
+        localStorage.setItem('dropIf', false)
+
+        //document.getElementById("dropContent").style.display='none'
+
+    } else { //如果是手机,
+
+        console.log('移动端');
+        localStorage.setItem('dropIf', false)
+        document.getElementById("dropContent").style.display = 'none'
+
+    }
+
+
+    function drop() {
+        console.log(document.getElementById("dropContent").style)
+        let ifdrop = localStorage.getItem('dropIf')
+        console.log(ifdrop)
+        if (ifdrop == 'false') {
+            document.getElementById("dropContent").style.display = 'block'
+            localStorage['dropIf'] = true
+        } else {
+            document.getElementById("dropContent").style.display = 'none'
+            localStorage['dropIf'] = false
+        }
+
+
+    }
+</script>
+<body background="img/beijing.png" style="background-repeat: no-repeat; background-size: 100% 100%; background-attachment: fixed;">
+    <header class="site_head" id="pcHeader">
+        <div class="topbar">
+            <div class="center" style="display: flex; justify-content: space-between; align-items: center;">
+                <div class="nav-r" style="font-family: 'Times New Roman', Times, serif;">
+                    <a href="index.html">
+                        <span class="lang-en" style="display:none;">Fei Gu Homepage</span>
+                        <span class="lang-zh">谷飞的主页</span>
+                    </a>
+                </div>
+                <nav class="shortcut-links">
+                    <ul style="font-family: 'Times New Roman', Times, serif; display: flex;">
+                        <li>
+                            <a href="index.html" class="lang-en">Homepage</a>
+                            <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+                        </li>
+                        <li>
+                            <a href="biography.html" class="lang-en">Biography</a>
+                            <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+                        </li>
+                        <li class="active">
+                            <a href="publications.html" class="lang-en">Publications</a>
+                            <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+                        </li>
+                        <li>
+                            <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+                            <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="lang-en">Research</a>
+                            <a class="lang-zh" style="display:none;">科学研究</a>
+                            <div class="dropdown-content">
+                                <a href="research_area.html" class="lang-en">Research Area</a>
+                                <a href="research_group.html" class="lang-en">Research Group</a>
+                                <a href="research_life.html" class="lang-en">Research Life</a>
+                                <a href="projects.html" class="lang-en">Research Project</a>
+                                <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+                                <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+                                <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+                                <a href="projects.html" class="lang-zh" style="display: none;">研究项目</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="teaching.html" class="lang-en">Teaching</a>
+                            <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+                        </li>
+                        <li>
+                            <a href="services.html" class="lang-en"> Social Services</a>
+                            <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+                        </li>
+                        <li>
+                            <a href="recruiting.html" class="lang-en">Recruiting</a>
+                            <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="javascript:void(0)" class="lang-switch">Language</a>
+                            <div class="dropdown-content">
+                                <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                                <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <header class="moHeader" id="moHeader">
+        <div style="color: white; margin-left: 3vh; font-weight: bolder;">
+            <span class="lang-en">HOME</span>
+            <span class="lang-zh" style="display:none;">主页</span>
+        </div>
+        <div class="HeaderButton" id="dropbtn" onclick="drop()">
+            <div class="sanTiaoHengXian"></div>
+            <div class="sanTiaoHengXian2"></div>
+            <div class="sanTiaoHengXian"></div>
+        </div>
+    </header>
+    <div style="width: 100%;height: 46vh;background-color: black;z-index: 4;display:none " id="dropContent" class="pages">
+        <ul style="font-family: 'Times New Roman', Times, serif;" class="page">
+            <li class="active">
+                <a href="index.html" class="lang-en">Homepage</a>
+                <a href="index.html" class="lang-zh" style="display:none;">主页</a>
+            </li>
+            <li>
+                <a href="biography.html" class="lang-en">Biography</a>
+                <a href="biography.html" class="lang-zh" style="display:none;">个人简介</a>
+            </li>
+            <li>
+                <a href="publications.html" class="lang-en">Publications</a>
+                <a href="publications.html" class="lang-zh" style="display:none;">论文与专利</a>
+            </li>
+            <li>
+                <a href="honor_and_awards.html" class="lang-en">Honors and Awards</a>
+                <a href="honor_and_awards.html" class="lang-zh" style="display:none;">荣誉与奖项</a>
+            </li>
+            <li >
+                <a href="research_area.html" class="lang-en">Research Area</a>
+                <a href="research_area.html" class="lang-zh" style="display:none;">研究领域</a>
+            </li>
+            <li>
+                <a href="research_group.html" class="lang-en">Research Group</a>
+                <a href="research_group.html" class="lang-zh" style="display:none;">科研团队</a>
+            </li>   
+            <li>
+                <a href="research_life.html" class="lang-en">Research Life</a>
+                <a href="research_life.html" class="lang-zh" style="display:none;">科研生活</a>
+            </li>
+            <li>
+                <a href="projects.html" class="lang-en">Research Project</a>
+                <a href="projects.html" class="lang-zh" style="display:none;">研究项目</a>
+            </li>
+            <li>
+                <a href="teaching.html" class="lang-en">Teaching</a>
+                <a href="teaching.html" class="lang-zh" style="display:none;">教学</a>
+            </li>
+            <li>
+                <a href="services.html" class="lang-en"> Social Services</a>
+                <a href="services.html" class="lang-zh" style="display:none;">社会服务</a>
+            </li>
+            <li>
+                <a href="recruiting.html" class="lang-en">Recruiting</a>
+                <a href="recruiting.html" class="lang-zh" style="display:none;">招聘</a>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="lang-switch">Language</a>
+                <div class="dropdown-content">
+                    <a href="javascript:void(0)" onclick="switchLanguage('en')">English</a>
+                    <a href="javascript:void(0)" onclick="switchLanguage('zh')">中文</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <div class="top">
+            <span class="lang-en" style="display:none;">Publications [<a href="https://scholar.google.com/citations?user=Qle8v_AAAAAJ&hl=en">Google Scholar</a>]</span>
+            <span class="lang-zh">出版物 [<a href="https://scholar.google.com/citations?user=Qle8v_AAAAAJ&hl=zh-CN">谷歌学术</a>]</span>
+        </div>
+        <div class="papers">
+            <div class="title" style="font-family: 'Times New Roman', Times, serif;">
+                <span class="lang-en" style="display:none;">Papers</span>
+                <span class="lang-zh">论文</span>
+            </div>
+            <div class="journal">
+                <div class="cla" style="font-family: 'Times New Roman', Times, serif;">
+                    <span class="lang-en" style="display:none;">Journal papers</span>
+                    <span class="lang-zh">期刊论文</span>
+                </div>
+                <div class="info" style="font-family: 'Times New Roman', Times, serif;">
+                    <ul>
+                        <li>(J22) Biren Guo, <em>Fei Gu</em>, Ziheng Zhang , Zeyang Zhang , Shikun Sun. PVCsNet : A Specialized Artificial Intelligence-Based Model to Classify Premature Ventricular Contractions from ECG Images. IEEE Journal of Biomedical and Health Informatics,2024.(<TEXT>Q1, IF=6.7</TEXT>)</li>
+                        <li>(J22) Zhe Yang*, Zitong Ma, Wenbo Zhao, Lingzhi Li, <em>Fei Gu</em>. HRNN: Hypergraph Recurrent Neural Network for Network Intrusion Detection. Journal of Grid Computing. Journal of Grid Computing, 2024. (<TEXT>Q1, IF = 5.5</TEXT>)</li>
+                        <li>(J22) Zhe Yang*, Lingzhi Li, <em>Fei Gu</em>, Xinghong Ling, Maryam Hajiee. TADR-EAODV: A trust-aware dynamic routing algorithm based on extended AODV protocol for secure communications in wireless sensor networks. Internet of Things. Internet of Things, 2022. (<TEXT>Q1, IF = 5.711</TEXT>)</li>
+                        <li>(J21) Zeyang Zhang, Ziheng Zhang, Cao Zou, Zheyuan Yang, Zhongcai Pei, Jing Wu, Shikun Sun*, <em>Fei Gu*</em>. ECGNet: an Efficient Network for Detecting Premature Ventricular Complexes Based on ECG Images. IEEE Transactions on Biomedical Engineering, 2022, 70(2): 446-458. (<TEXT>Q1, IF = 4.756</TEXT>)</li>
+                        <li>(J20) Zhe Yang, Yi-Peng Chen, <em>Fei Gu</em>, Jin Wang, Lei Zhao. A Two-Way Update Resource Allocation Strategy in Mobile Edge Computing. Wireless Communications and Mobile Computing, 2022, 1117597: 1-14. (<TEXT>Q2, IF = 2.146</TEXT>)</li>
+                        <li>(J19) Zeyang Zhang, Zhongcai Pei, Zhiyong Tang*, <em>Fei Gu*</em>. TuSeSy: An Intelligent Turntable Servo System for Tracking Aircraft and Parachutes Automatically. Applied Sciences, 2022, 12(10): 5133-5150. (<TEXT>Q2, IF = 2.679</TEXT>)</li>
+                        <li>(J18) Zeyang Zhang, Zhongcai Pei, Zhiyong Tang*, <em>Fei Gu*</em>. ODEM-GAN: An Object Deformation Enhancement Model Based on Generative Adversarial Networks. Applied Sciences, 2022, 12(9): 4609-4631. (<TEXT>Q2, IF = 2.679</TEXT>)</li>
+                        <li>(J17) Zeyang Zhang, Zhongcai Pei, Zhiyong Tang, <em>Fei Gu*</em>. RoiSeg: an Effective Moving Object Segmentation Approach Based on Region-of-Interest with Unsupervised Learning. Applied Sciences, 2022, 12(5): 2674-2692. (<TEXT>Q2, IF = 2.679</TEXT>)</li>
+                        <li>(J16) Yuanchao Dai, Jing Wu, Yuanzhao Fan, Jin Wang, Jianwei Niu, <em>Fei Gu*</em>, Shigen Shen*. MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals. ACM Transactions on Sensor Network, 2022, 19(1): 1-23.  (<TEXT>CCF B, IF = 2.253,ESI Highly Cited Paper</TEXT>)</li>
+                        <li>(J15) Yuanzhao Fan, <em>Fei Gu*</em>, Jin Wang*, Jianping Wang, Kejie Lu, Jianwei Niu. SafeDriving: An Effective Abnormal Driving Behavior Detection System based on EMG Signals. IEEE Internet of Things Journal, 2021, 9(14): 12338-12350. (<TEXT>Q1, IF = 9.471</TEXT>) </li>
+                        <li>(J14) <em>Fei Gu</em>, Jianwei Niu*, Landu Jiang, Xue Liu, Gerhard P. Hancke. SafePath: Exploiting Ubiquitous Smartphones to Avoid Vehicle-Pedestrian Collision. IEEE Internet of Things Journal, forthcoming, 2021, 9(9): 6763-6777. (<TEXT>Q1, IF = 9.471</TEXT>) </li>
+                        <li>(J13) <em>Fei Gu</em>, Jianwei Niu*, Landu Jiang, Xue Liu, Mohammed Atiquzzaman. Survey of the Low Power Wide Area Network Technologies. Journal of Network and Computer Application, 2020, 149: 102459. (<TEXT>CCF C, Q1, IF = 5.273</TEXT>)</li>
+                        <li>(J12) Xin Jin, <em>Fei Gu</em>, Jianwei Niu*, Shui Yu, Zhenchao Ouyang. HRCal: An Effective Calibration System for Heart Rate Detection During Exercising. Journal of Network and Computer Applications, 2019, 136: 1-10. (<TEXT>CCF C, Q1, IF = 5.273</TEXT>)</li>
+                        <li>(J11) <em>Fei Gu</em>, Jianwei Niu*, Xin Jin, Shui Yu. FDFA: A Fog Computing Assisted Distributed Analytics and Detecting System for Family Activities. Peer-to-Peer Networking and Applications, 2020, 13(1): 38-52. (<TEXT>CCF C, Q3, IF = 1.514</TEXT>)</li>
+                        <li>(J10) <em>Fei Gu</em>, Jianwei Niu*, Zhiping Qi, Mohammed Atiquzzaman. Partitioning and Offloading in Smart Mobile Devices for Mobile Cloud Computing: State of the Art and Future Directions. Journal of Network and Computer Applications, 2018, 119: 83-96. (<TEXT>CCF C, Q1, IF=5.273</TEXT>)</li>
+                        <li>(J9) <em>Fei Gu</em>, Jianwei Niu*, Lingjie Duan. WAIPO: A Fusion-Based Collaborative Indoor Localization System on Smartphones. IEEE/ACM Transaction on Networking, 2017, 25(4): 2267-2280. (<TEXT>CCF A, Q1, IF = 2.186</TEXT>)</li>
+                        <li>(J8) <em>Fei Gu</em>, Jianwei Niu*, Sajal K. Das, Zhenxue He, Xin Jin. Detecting Breathing Frequency and Maintaining a Proper Running Rhythm. Pervasive and Mobile Computing, 2017, 42: 498-512. (<TEXT>CCF C, Q1, IF = 2.974</TEXT>)</li>
+                        <li>(J7) Subin Su, Liming Xiao*, Li Ruan, <em>Fei Gu</em>, Shupan Li, Zhaokai Wang, Rongbin Xu. An Efficient Density-Based Local Outlier Detection Approach for Scattered Data. IEEE Access, 2018, 7: 1006-1020. (<TEXT>Q1, IF = 3.557</TEXT>)</li>
+                        <li>(J6) Zhenxue He, Limin Xiao*, Li Ruan, <em>Fei Gu</em>, Zhisheng Huo, Guangjun Qin, Mingfa Zhu, Longbing Zhang, Rui Liu, Xiang Wang. A Power and Area Optimization Approach of Mixed Polarity Reed-Muller Expression for Incompletely Specified Boolean Functions. Journal of Computer Science and Technology, 2017, 32(2): 297-311. (<TEXT>CCF B, Q3, IF = 0.956</TEXT>)</li>
+                        <li>(J5) <em>Fei Gu</em>, Jianwei Niu*, Sajal K. Das, Zhenxue He. RunnerPal: A Runner Monitoring and Advisory System Based on Smart Devices. IEEE Transactions on Services Computing, 2016, 11(2): 262-276. (<TEXT>CCF B, Q1, IF = 4.418</TEXT>)</li>
+                        <li>(J4) Zhenxue He, Limin Xiao*, <em>Fei Gu</em>, Tongsheng Xia, Shubin Su, Zhisheng Huo, Rong Zhang, Longbing Zhang, Li Ruan, Xiang Wang. An Efficient and Fast Polarity Optimization Approach for Mixed Polarity Reed-Muller Logic Circuits. Frontiers of Computer Science, 2017, 11(4): 728-742. (<TEXT>CCF C, Q3, IF = 1.039</TEXT>)</li>
+                        <li>(J3) Zhenxue He, Limin Xiao*, <em>Fei Gu</em>, Li Ruan, Zhisheng Huo, Mingzhe Li, Minfa Zhu, Longbing Zhang, Rui Liu, Xiang Wang. EDOA: An Efficient Delay Optimization Approach for Mixed Polarity Reed-Muller Logic Circuits Under Unit Delay Model. Frontiers of Computer Science, 2019, 13(5): 1102-1115. (<TEXT>CCF C, Q3, IF = 1.039</TEXT>)</li>
+                        <li>(J2) <em>Fei Gu</em>, Jianwei Niu*, Zhenxue He. A Research on Mobile Cloud Computing and Future Trends. Industrial Networks & Intelligent Systems, 2016, 3(1):1-9.</li>
+                        <li>(J1) <em>Fei Gu*</em>, Tao Xu, Zonglei Lv. Mining Association Rules from Airport Noise Value Among Multiple Monitoring Points. Sensors & Transducers, 2014, 167(3): 43-49.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="conference">
+                <div class="cla" style="font-family: 'Times New Roman', Times, serif;">
+                    <span class="lang-en" style="display:none;">Conference papers</span>
+                    <span class="lang-zh">会议论文</span>
+                </div>
+                <div class="info" style="font-family: 'Times New Roman', Times, serif;">
+                    <ul>
+                        <li>(C20) Ziheng Zhang, <em>Fei Gu</em>, Zeyang Zhang, Xinyu Wang, Shikun Sun and Jingya Zhou. SeLaNet: A Noninvasive Distilled Neural Network to Predict the Dense SEC/LAAT Based on Multi-layer Perceptron. IEEE International Conference on Advanced Cloud and Big Data (CBD), 2024. </li>
+                        <li>(C19) Guojing Li, Jin Wang*, XiaoTian Zou, Lingzhi Li, <em>Fei Gu</em>. BYEE: Batch Fully Private Scheme for Coded Distributed Matrix Multiplication. International Conference on High Performance Computing and Communications (HPCC), 2022: 645-652. </li>
+                        <li>(C18) Xiaotian Zou, Jin Wang*, Can Liu, Lingzhi Li, <em>Fei Gu</em>, Guojing Li. Secure and Private Coding for Edge Computing against Cooperative Attack with Low Communication Cost and Computational Load. International Conference on Collaborative Computing: Networking, Applications and Worksharing (Collaboratecom), 2022: 213-232. (<TEXT>CCF C</TEXT>)</li>
+                        <li>(C17) Yingyao Yang, Jin Wang*, <em>Fei Gu</em>. Linear Coded Federated Learning Under Multiple Straggler Over Heterogeneous Clients. International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2022: 1221-1226. (<TEXT>CCF C</TEXT>)</li>
+                        <li>(C16) Zhen Wu, Jingya Zhou*, Ling Liu, Chaozhuo Li, <em>Fei Gu</em>. Deep Popularity Prediction in Multi-Source Cascadewith HERI-GCN. International Conference on Data Engineering (ICDE), 2022: 1714-1726. (<TEXT>CCF A</TEXT>)</li>
+                        <li>(C15) Jiqing Chang, Jin Wang*, <em>Fei Gu</em>, Kejie Lu, Lingzhi Li, Jianping Wang. PCHEC: A Private Coded Computation Scheme For Heterogeneous Edge Computing. IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021: 339-346. (<TEXT>CCF C</TEXT>) </li>
+                        <li>(C14) Cong Cheng, Lingzhi Li*, Jin Wang, <em>Fei Gu</em>. The Design and Implementation of Secure Distributed Image Classification Reasoning System for Heterogeneous Edge Computing. IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2021: 250-257. (<TEXT>CCF C</TEXT>) </li>
+                        <li>(C13) Huanhuan Xu, Jingya Zhou*, <em>Fei Gu</em>. Computation Offloading for Multi-User Sequential Tasks in Heterogeneous Mobile Edge Computing. International Conference on Collaborative Computing: Networking, Applications and Worksharing (Collaboratecom), 2021: 713-727. (<TEXT>CCF C</TEXT>)</li>
+                        <li>(C12) Mengjia Zhai, <em>Fei Gu*</em>, Jin Wang, Lingzhi Li, Kejie Lu, Jianping Wang. PCRec: A Private Coding Computation Scheme Based on Edge Computing for Recommendation System. IEEE International Conference on Parallel & Distributed Processing with Applications (ISPA), 2020: 183-191. (<TEXT>CCF C</TEXT>) </li>
+                        <li>(C11) Tingting Dong, Jin Wang*, <em>Fei Gu</em>, Jingya Zhou, Kejie Lu, Jianping Wang. MCSEC: Secure Coded Matrix Multiplication Scheme for Edge Computing with Minimum Communication Cost. IEEE International Conference on Parallel & Distributed Processing with Applications (ISPA), 2020: 192-199. (<TEXT>CCF C</TEXT>) </li>
+                        <li>(C10) Cong Cheng, Huan Dai*, Lingzhi Li, Jin Wang, <em>Fei Gu</em>. The Design and Implementation of Secure Distributed Image Classification Model Training System for Heterogenous Edge Computing. International Conference on Collaborative Computing: Networking, Applications and Worksharing (Collaboratecom), 2020: 179-198. (<TEXT>CCF C</TEXT>) </li>
+                        <li>(C9) Mingjia Fu, Jin Wang*, Jianping Wang, Kejie Lu, Admela Jukan, <em>Fei Gu</em>. Decode-and-Compare: An Efficient Verification Scheme for Coded Edge Computing. IEEE/ACM International Symposium on Quality of Service (IWQoS), 2020: 1-6. (<TEXT>CCF B</TEXT>)</li>
+                        <li>(C8) Subin Su, Liming Xiao*, Zhoujie Zhang, <em>Fei Gu</em>, Li Ruan, Shupan Li, Zhenxue He, Zhisheng Huo, Baicheng Yan, Haitao Wang. N2DLOF: A New Local Density-Based Outlier Detection Approach for Scattered Data. IEEE International Conference on High Performance Computing and Communications (HPCC), 2017: 458-465. (<TEXT>CCF C, Acceptance Ratio = 36%</TEXT>)</li>
+                        <li>(C7) <em>Fei Gu</em>, Jianwei Niu*, Zhenxue He, Xin Jin, Joel J. P. C. Rodrigues. SmartBuddy: An Integrated Mobile Sensing and Detecting System for Family Activities. IEEE Global Communications Conference (Globalcom), 2017: 1-7. (<TEXT>CCF C, Acceptance Ratio = 39%</TEXT>)</li>
+                        <li>(C6) Xin Jin, Jianwei Niu*, <em>Fei Gu</em>. CCMS: A Calorie Consumption Monitoring System for Exercising with Least-squares Calibration. IEEE Global Communications Conference (Globalcom), 2017: 1-7. (<TEXT>CCF C, Acceptance Ratio = 39%</TEXT>)</li>
+                        <li>(C5) Zhenxue He, Guangjun Qin, Liming Xiao*, <em>Fei Gu</em>, Li Ruan, Mingfa Zhu, Longbing Zhang, Xiang Wang. An Efficient Polarity Optimization Approach for Fixed Polarity Reed-Muller Logic Circuits Based on Novel Binary Differential Evolution Algorithm. 14th IFIP International Conference on Network and Parallel Computing (NPC), 2017: 118-121.(<TEXT>CCF C</TEXT>)</li>
+                        <li>(C4) <em>Fei Gu</em>, Jianwei Niu*, Sajal K. Das, Zhenxue He. An Efficient Method of Detecting Breathing Frequency While Running. IEEE International Conference on Smart Computing (SMARTCOMP), 2016: 1-8. (<TEXT>EI, Acceptance Ratio = 31.2%</TEXT>)</li>
+                        <li>(C3) Zhenxue He, Liming Xiao*, Longbing Zhang, <em>Fei Gu</em>, Zhisheng Huo, Mingfa Zhu, Li Ruan, Rui Liu, Xiang Wang. EMA-FPRMs: An Efficient Minimization Algorithm for Fixed Polarity Reed-Muller Expressions. International Conference on Field-Programmable Technology (FPT), 2016: 253-256. (<TEXT>CCF C, Acceptance Ratio = 34.3%</TEXT>)</li>
+                        <li>(C2) Jianwei Niu, <em>Fei Gu*</em>, Ruogu Zhou, Guoliang Xing, Wei Xiang. VINCE: Exploiting Visible Light Sensing for Smartphone-based NFC Systems. IEEE Conference on Computer Communications (INFOCOM), 2015: 2722-2730. (<TEXT>CCF A, Acceptance Ratio = 19%</TEXT>)</li>
+                        <li>(C1) <em>Fei Gu</em>, Jianwei Niu*, Zhenxue He, Meikang Qiu, Cuijiao Fu. CLMRS: Designing Cross-LAN Media Resources Sharing based on DLNA. IEEE 2nd International Conference on Cyber Security and Cloud Computing (CSCloud), 2015: 133-140. (<TEXT>EI, Acceptance Ratio = 35%</TEXT>)</li>
+                        
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>   
+        
+        <div class="patents">
+            <div class="title" style="font-family: 'Times New Roman', Times, serif;">
+                <span class="lang-en" style="display:none;">Patents</span>
+                <span class="lang-zh">专利</span>
+            </div>
+            <div class="info" style="font-family: 'Times New Roman', Times, serif;">
+                <ul>
+                    <li>
+                        <span class="lang-zh">
+                            (P9) 徐焕焕; 周经亚; 王进; 李领治; <em>谷飞</em>; 异构边缘环境下多用户序列任务计算卸载方法及系统; 2022-01-14, 中国, ZL 202111136713.7.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P9) XU Huanhuan; ZHOU Jingya; WANG Jin; LI Lingzhi; <em>GU Fei</em>; Multi-user sequential task computation offloading method and system in heterogeneous edge environments; 2022-01-14, China, ZL 202111136713.7.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P8) 王进; 周伟; 李领治; <em>谷飞</em>; 周经亚; 一种边缘计算环境中的隐私保护方法, 2023-08-01, 中国, ZL 201911229679.0.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P8) WANG Jin; ZHOU Wei; LI Lingzhi; <em>GU Fei</em>; ZHOU Jingya; A privacy protection method in edge computing environments, 2023-08-01, China, ZL 201911229679.0.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P7) 吴臻; 周经亚; 王杰; 孙锡刚; <em>谷飞</em>; 王进; 一种社交网络信息传播规模预测方法及装置, 2023-07-28, 中国, ZL 202210445503.4.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P7) WU Zhen; ZHOU Jingya; WANG Jie; SUN Xigang; <em>GU Fei</em>; WANG Jin; A method and device for predicting the scale of information dissemination in social networks, 2023-07-28, China, ZL 202210445503.4.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P6) 王进; <em>谷飞</em>; 范远照; 李领治; 基于肌电信号的异常驾驶行为检测方法及系统, 2022-2-25, 中国, ZL 202111518134.9.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P6) WANG Jin; <em>GU Fei</em>; FAN Yuanzhao; LI Lingzhi; Abnormal driving behavior detection method and system based on electromyography signals, 2022-2-25, China, ZL 202111518134.9.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P5) 李领治; 成聪; 王进; <em>谷飞</em>; 杨哲; 分布式图像识别的模型推理方法及系统, 2021-7-23, 中国, ZL 202110414068.4.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P5) LI Lingzhi; CHENG Cong; WANG Jin; <em>GU Fei</em>; YANG Zhe; Model inference method and system for distributed image recognition, 2021-7-23, China, ZL 202110414068.4.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P4) 王进; 付明嘉; <em>谷飞</em>; 李领治; 周经亚 ; 一种在边缘计算环境中针对污染攻击的计算验证的方法, 2021-9-28, 中国, ZL 201911229659.3.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P4) WANG Jin; FU Mingjia; <em>GU Fei</em>; LI Lingzhi; ZHOU Jingya; A computation verification method for pollution attacks in edge computing environments, 2021-9-28, China, ZL 201911229659.3.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P3) 王进; 戚逸然; 李领治; 施连敏; <em>谷飞</em> ; 一种基于边缘计算的智慧垃圾监控清运方法及装置, 2021-5-25, 中国, ZL 201911229660.6.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P3) WANG Jin; QI Yiran; LI Lingzhi; SHI Lianmin; <em>GU Fei</em>; A method and device for smart garbage monitoring and removal based on edge computing, 2021-5-25, China, ZL 201911229660.6.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P2) 牛建伟; 高艺伟; 赵晓轲; <em>谷飞</em>; 一种基于深度学习和转折关系的文本情感分类方法, 2020-09-01, 中国, ZL 202010243977.1.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P2) NIU Jianwei; GAO Yiwei; ZHAO Xiaoke; <em>GU Fei</em>; A text sentiment classification method based on deep learning and turning relationships, 2020-09-01, China, ZL 202010243977.1.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="lang-zh">
+                            (P1) 何振学; 王翔; 肖利民; 张荣; <em>谷飞</em>; 李书攀; 徐洋; 一种基于NSGA-II用于不完全确定Reed-Muller 电路功耗与面积优化方法, 2017-12-5, 中国, ZL 201510411878.9.
+                        </span>
+                        <span class="lang-en" style="display:none;">
+                            (P1) HE Zhenxue; WANG Xiang; XIAO Limin; ZHANG Rong; <em>GU Fei</em>; LI Shupan; XU Yang; An optimization method for power and area of incompletely determined Reed-Muller circuits based on NSGA-II, 2017-12-5, China, ZL 201510411878.9.
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+            
+        
+
+        <div class="bottom" style="font-family: 'Times New Roman', Times, serif;">
+            <div>
+                <span class="lang-en" style="display:none;">Welcome to Visit Fei Gu's Homepage!</span>
+                <span class="lang-zh">欢迎访问谷飞的主页</span>
+            </div>
+            <div>
+                <span class="lang-en" style="display:none;">School of Computer Science and Technology, Soochow University!</span>
+                <span class="lang-zh">苏州大学计算机科学与技术学院</span>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

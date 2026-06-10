@@ -5,16 +5,18 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/jhfang
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Distributed Stream Rebalance for Stateful Operator under Workload Variance,Transactions on Parallel and Distributed Systems（TPDS）,CCF A类期刊，SCI,2018,Junhua Fang
-2、A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System,Transactions on Knowledge and Data Engineering(TKDE),CCF A类期刊，SCI,2020,Junhua Fang
-3、Distributed and Parallel Processing for Real-time and Dynamic Spatio-temporal Graph,World Wide Web,CCF B类期刊，SCI,2020,Junhua Fang
-4、Scalable and Adaptive Joins for Trajectory Data in Distributed Stream System,Journal of Computer Science and Technology,CCF B类期刊，SCI,2019,Junhua Fang
-5、Integrating Workload Balancing and Fault Tolerance in Distributed Stream Processing System,World Wide Web,CCF B类期刊，SCI,2019,Junhua Fang
-6、Parallel Stream Processing Against Workload Skewness and Variance,HPDC,CCF B类会议, EI, Full Oral Paper,2017,Junhua Fang
-7、 Distributed stream join under workload variance,World Wide Web,CCF B类期刊，SCI,2017,Junhua Fang
-8、Cost-Effective Stream Join Algorithm on Cloud System,CIKM,CCF B类会议，EI, Full Oral Paper,2016,Junhua Fang
-9、Flexible and Adaptive Stream Join Algorithm,APWeb,CCF C类会议，EI, Full Oral Paper. 最佳学生论文奖,2016,Junhua Fang
-10、分布式数据流上的高性能分发策略,软件学报,EI,2017,Junhua Fang
+姓名:房俊华
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:实时大数据处理、轨迹数据处理
+关键词:实时大数据处理、轨迹数据处理、分布式流处理、负载均衡、容错、流连接、时空数据处理
+论文:Distributed Stream Rebalance for Stateful Operator under Workload Variance
+A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System
+Distributed and Parallel Processing for Real-time and Dynamic Spatio-temporal Graph
+Scalable and Adaptive Joins for Trajectory Data in Distributed Stream System
+Integrating Workload Balancing and Fault Tolerance in Distributed Stream Processing System
+Parallel Stream Processing Against Workload Skewness and Variance
+Distributed stream join under workload variance
+Cost-Effective Stream Join Algorithm on Cloud System
+Flexible and Adaptive Stream Join Algorithm
+分布式数据流上的高性能分发策略

@@ -5,24 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/jialinlou
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Reconstructed discontinuous Galerkin methods for compressible flows based on a new hyperbolic Navier-Stokes system.,Journal of Computational Physics,2021,Lingquan Li,Jialin Lou,Hiroaki Nishikawa,Hong Luo,427 (2021): 110058
-2、Entropy stable spectral collocation schemes for the 3-D Navier-Stokes equations on dynamic unstructured grids,Journal of Computational Physics,2019,Nail K. Yamaleev,David C. Del Rey Fernandez,Jialin Lou,Mark H. Carpenter,399 (2019): 108897
-3、Reconstructed Discontinuous Galerkin Methods for Hyperbolic Diffusion Equations on Unstructured Grids,COMMUNICATIONS IN COMPUTATIONAL PHYSICS,2019,Jialin Lou,Xiaodong Liu,Hong Luo,Hiroaki Nishikawa,25(5), 1302–1327
-4、Reconstructed discontinuous Galerkin methods for linear advection-diffusion equations based on first-order hyperbolic system,Journal of Computational Physics,2018,Jialin Lou,Lingquan Li,Hong Luo,Hiroaki Nishikawa,369 (2018): 103-124
-5、OpenACC acceleration of an unstructured CFD solver based on a reconstructed discontinuous Galerkin method for compressible flows,International Journal for Numerical Methods in Fluids,2015,Yidong Xia,Jialin Lou,Hong Luo,Jack Edwards,Frank Mueller,78, no. 3 (2015): 123-139
-6、High-Order Hyperbolic Navier-Stokes Reconstructed Discontinuous Galerkin Method,AIAA Scitech 2019 Forum,2019,Lingquan Li,Jialin Lou,Hong Luo,Hiroaki Nishikawa,p. 1150. 2019
-7、High-Order Hyperbolic Navier-Stokes Reconstructed Discontinuous Galerkin Method for Unsteady Flows,In AIAA Aviation 2019 Forum,2019,Lingquan Li,Jialin Lou,Hong Luo,Hiroaki Nishikawa,p. 3060. 2019
-8、A New Hyperbolic Navier-Stokes Formulation and Efficient Reconstructed Discontinuous Galerkin Discretizations,In 48th AIAA AIAA Fluid Dynamics Conference, AIAA Paper,2018,Lingquan Li,Jialin Lou,Hong Luo,Hiroaki Nishikawa,Atlanta, GA. 2018
-9、A New Formulation of Hyperbolic Navier-Stokes Solver based on Finite Volume Method on Arbitrary Grids,In 2018 Fluid Dynamics Conference,2018,Lingquan Li,Jialin Lou,Hong Luo,Hiroaki Nishikawa,p. 4160. 2018
-10、Explicit Hyperbolic Reconstructed Discontinuous Galerkin Methods for Time-Dependent Problems,In 2018 Fluid Dynamics Conference,2018,Jialin Lou,Lingquan Li,Hong Luo,Hiroaki Nishikawa,p. 4270. 2018
-11、First-Order Hyperbolic System Based Reconstructed Discontinuous Galerkin Methods for Nonlinear Diffusion Equations on Unstructured Grids,In 56th AIAA Aerospace Sciences Meeting,2018,Jialin Lou,Lingquan Li,Hong Luo,Hiroaki Nishikawa,2018
-12、A discontinuous Galerkin method based on variational reconstruction for compressible flows on arbitrary grids.,In 56th AIAA Aerospace Sciences Meeting,2018,Lingquan Li,Xiaodong Liu,Jialin Lou,Hong Luo,Hiroaki Nishikawa,2018
-13、Reconstructed Discontinuous Galerkin Methods Based on First-Order Hyperbolic System for Advection-Diffusion Equations,In 23rd AIAA Computational Fluid Dynamics Conference,2017,Jialin Lou,Lingquan Li,Xiaodong Liu,Hong Luo,Hiroaki Nishikawa,p .3445. 2017
-14、A Compact High Order Finite Volume Method Based on Variational Reconstruction for Compressible Flows on Arbitrary Grids,In 23rd AIAA Computational Fluid Dynamics Conference,2017,Xiaodong Liu,Jialin Lou,Lingquan Li,Hong Luo,Hiroaki Nishikawa ,Yuxin Ren,p .3097. 2017
-15、Reconstructed discontinuous Galerkin methods for hyperbolic diffusion equations on unstructured grids,In 55th AIAA Aerospace Sciences Meeting, AIAA Paper,2017,Jialin Lou,Xiaodong Liu,Hong Luo,Hiroaki Nishikawa,vol. 310. 2017
-16、OpenACC directive based GPU acceleration of an implicit reconstructed discontinuous Galerkin method for compressible flows on 3D unstructured grids, In 54th AIAA Aerospace Sciences Meeting,2016,Jialin Lou,Yidong Xia,Lixiang Luo,Hong Luo,Jack R. Edwards,Frank Mueller,p. 1815. 2016
-17、OpenACC-based GPU Acceleration of a p-multigrid Discontinuous Galerkin Method for Compressible Flows on 3D Unstructured Grids,In 53rd AIAA Aerospace Sciences Meeting,2015,Jialin Lou,Yidong Xia ,Lixiang Luo,Hong Luo,Jack Edwards,Frank Mueller,vol. 822, p. 2015
-18、On the multi-
+姓名:楼嘉霖
+学院:数学科学学院
+职称:副教授
+研究方向:计算数学、计算流体动力学、间断伽辽金方法、高精度算法
+关键词:计算流体动力学、间断伽辽金方法、高精度格式、Navier-Stokes方程、非结构网格、可压缩流、GPU加速、数值模拟
+个人简介:楼嘉霖，苏州大学数学科学学院副教授。2017年获北卡罗莱纳州立大学航天工程哲学博士（辅修数学）。研究方向为计算数学与计算流体动力学，致力于间断伽辽金方法和高精度算法研究。曾在欧道明大学从事博士后研究并任兼职助理教授，参与多项美国科研项目。
+论文:Reconstructed discontinuous Galerkin methods for compressible flows based on a new hyperbolic Navier-Stokes system
+Entropy stable spectral collocation schemes for the 3-D Navier-Stokes equations on dynamic unstructured grids
+Reconstructed Discontinuous Galerkin Methods for Hyperbolic Diffusion Equations on Unstructured Grids
+Reconstructed discontinuous Galerkin methods for linear advection-diffusion equations based on first-order hyperbolic system
+OpenACC acceleration of an unstructured CFD solver based on a reconstructed discontinuous Galerkin method for compressible flows
+High-Order Hyperbolic Navier-Stokes Reconstructed Discontinuous Galerkin Method
+High-Order Hyperbolic Navier-Stokes Reconstructed Discontinuous Galerkin Method for Unsteady Flows
+A New Hyperbolic Navier-Stokes Formulation and Efficient Reconstructed Discontinuous Galerkin Discretizations
+A New Formulation of Hyperbolic Navier-Stokes Solver based on Finite Volume Method on Arbitrary Grids
+Explicit Hyperbolic Reconstructed Discontinuous Galerkin Methods for Time-Dependent Problems

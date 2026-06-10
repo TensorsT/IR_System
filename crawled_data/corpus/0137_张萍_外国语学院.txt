@@ -1,0 +1,23 @@
+doc_id: 137
+name: 张萍
+career: 教授
+department: 外国语学院
+college_id: 74
+url: http://web.suda.edu.cn/blacrosezhang
+---
+姓名:张萍
+学院:外国语学院
+职称:教授
+研究方向:二语词汇习得与加工、心理词库增龄化、二语习得、课堂二语习得
+关键词:二语词汇习得、心理词库、词汇加工、搭配加工、词汇联想、二语习得、心理语言学
+个人简介:苏州大学特聘教授，博士生导师，专业学位研究生教育指导委员会委员。研究方向为二语词汇习得与加工、心理词库增龄化。主持国家社科基金项目等多项，担任中外语言文化比较学会第二语言加工专业委员会常务理事、中国认知神经语言学研究会常务理事等职。在Applied Linguistics、外语教学与研究等国内外期刊发表论文多篇，出版专著，获省市级科研成果奖多项。
+论文:多义短语动词句子加工中的语义因素和意象图式
+建构与调和：泰勒视域中语言与伦理关系新解
+词素位置和语义透明对二语复合词加工的时间进程影响
+Translanguaging/trans-semiotizing in teacher-learner interactions on social media: Making learner agency visible and achievable
+congruency, word frequency, collocational frequency, L2 proficiency, and their combined effects on Chinese-English bilinguals’ L2 collocational processing
+Interaction of trait emotional intelligence, foreign language anxiety, and foreign language enjoyment in the foreign language speaking classroom
+Trait emotional intelligence and second language performance: a case study of Chinese EFL learners
+词频、语义和语言水平对英语搭配加工的影响
+汉-英-日三语词汇加工中的语言距离和二语效应
+输入频次与输入间隔对英语短语动词习得的影响

@@ -5,17 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/ha
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Monolithic Integration of Embedded III-V Lasers on SOI,Light: Science & Applications,SCI,2023
-2、Ultra-Low Loss SiN Edge Coupler for III-V/SiN Hybrid Integration,Laser & Photonics Reviews,SCI,2023
-3、Low Loss, Large Bandwidth Fiber-Chip Edge Couplers Based on Silicon-on-Insulator Platform,Journal of Lightwave Technology,SCI,2020
-4、Ultra-Compact Coupling Structures for Heterogeneously Integrated Silicon Lasers,Journal of Lightwave Technology,SCI,2020
-5、Recent advances of heterogeneously integrated III–V laser on Si,Journal of Semiconductors,2019
-6、Ultra-compact fiber-to-chip metamaterial edge coupler,ACS Photonics,SCI,2021
-7、Broadband and Low-Loss Metamaterial Silicon Nitride Edge Coupler,Optical Fiber Communications Conference and Exhibition (OFC),会议,2024
-8、O-Band Self-Injection Locked Soliton Comb,ECOC会议,2025
-9、Reconfigurable optical filter based on double injection rings with variable coupling angles,POEM会议,2025
-10、Tunable coffee-ring effect on a superhydrophobic surface,Optics Letters,SCI,2017
-11、Nanosecond laser ablated copper superhydrophobic surface with tunable ultrahigh adhesion and its renewability with low temperature annealing,Applied Surface Science,SCI,2018
+姓名:何安
+学院:电子信息学院
+职称:讲师
+研究方向:硅基光电子、硅基光电子集成器件、硅基激光器
+关键词:硅基光电子、硅基激光器、III-V激光器、异质集成、边缘耦合器、超构材料、光子集成、光通信
+个人简介:何安，苏州大学电子信息学院讲师。2023年获上海交通大学电子科学与技术博士学位，随后在上海交通大学从事博士后研究。研究领域为硅基光电子，以第一/共同第一作者在Light: Science & Applications、Laser & Photonics Reviews、OFC等顶级光学期刊和会议发表多篇高水平论文，主持国家自然科学基金青年项目，获上海市超级博士后激励计划，并作为骨干参与多项国家级科研项目。
+论文:Monolithic Integration of Embedded III-V Lasers on SOI
+Ultra-Low Loss SiN Edge Coupler for III-V/SiN Hybrid Integration
+Low Loss, Large Bandwidth Fiber-Chip Edge Couplers Based on Silicon-on-Insulator Platform
+Ultra-Compact Coupling Structures for Heterogeneously Integrated Silicon Lasers
+Recent advances of heterogeneously integrated III–V laser on Si
+Ultra-compact fiber-to-chip metamaterial edge coupler
+Broadband and Low-Loss Metamaterial Silicon Nitride Edge Coupler
+O-Band Self-Injection Locked Soliton Comb
+Reconfigurable optical filter based on double injection rings with variable coupling angles
+Tunable coffee-ring effect on a superhydrophobic surface

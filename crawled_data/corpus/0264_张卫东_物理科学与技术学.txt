@@ -5,146 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/zhangweidong
 ---
-姓名:个人简介
-页面标题:物理科学与技术学院
-研究领域:博士期间主要从事可控自由基聚合和点击化学的研究，获得
-2010
-年度江苏省优秀博士论文。博士后期间主要探索疫苗对细胞毒性
-CD8
-+
-T
-淋巴细胞免疫抗肿瘤的影响。目前主要从事功能软材料的精准制备以及
-CD8
-+
-T
-细胞免疫抗肿瘤研究。并取得了一系列有创新意义的科研成果。已在国际知名的期刊
-ACS Macro Lett.
-、
-Cancer Lett 、
-Macromolecules
-、
-Chem. Commun
-以及
-Macromol. Rapid Commun.
-等杂志上发表相关研究论文
-60
-余篇
-（
-H-index
-为
-24
-）
-，撰写英文章节
-2
-章。
-论文:论文成果：
-(43) Fei Wang,a Fubang Huang,a Shuang Hana and
-Weidong Zhang.
-Alkyl-substituted trithiocarbonates enable performing open-to-air RAFT polymerization regardless of the presence or absence of an R-group.
-Polym. Chem.
-, 2025
-, 16, 3661.
-(42) Shuang Han , Fei Wang, Fubang Huang,
-Weidong Zhang,
-Quaternary ammonium salt approach for light and thermo dual stimulus-triggered RAFT polymerization.
-Reactive and Functional Polymers
-2025
-, 208,106172.
-(41) Shuang Han, Yang Guo, Fubang Huang, Fei Wang,
-Weidong Zhang,
-Fully oxygen-tolerant reversible complexation mediated polymerization without external additives.
-European Polymer Journal
-2025
-, 236,114124.
-(40)
-Weidong Zhang,*
-Zhuan Chen, and Zhengbiao Zhang*,
-Photo-Deactivation Strategy for Switchable ATRP with the Assistance of Molecular Switches.
-Macromol. Rapid Commun.
-2024
-, 2400162.
-(39) Fei Wang, Yang Guo, Fubang Huang, Shuang Han, and
-Weidong Zhang*,
+姓名:张卫东
+学院:物理科学与技术学院
+职称:副教授
+研究方向:高分子精密合成方法学、精密合成新型疫苗、CD8+ T细胞免疫抗肿瘤、功能软材料精准制备、可控自由基聚合、点击化学
+关键词:可控自由基聚合、RAFT聚合、点击化学、高分子精密合成、CD8+ T细胞、免疫抗肿瘤、功能软材料、光响应聚合、纳米疫苗
+个人简介:张卫东，苏州大学物理科学与技术学院副教授。博士毕业于苏州大学高分子化学与物理专业，从事可控自由基聚合与点击化学研究，获江苏省优秀博士论文。博士后在美国Wayne State University研究细胞免疫抗肿瘤。目前主要开展功能软材料精准制备及CD8+ T细胞免疫抗肿瘤研究，在ACS Macro Lett.、Cancer Lett、Macromolecules、Chem. Commun、Macromol. Rapid Commun.等期刊发表多篇论文。
+论文:Alkyl-substituted trithiocarbonates enable performing open-to-air RAFT polymerization regardless of the presence or absence of an R-group
+Quaternary ammonium salt approach for light and thermo dual stimulus-triggered RAFT polymerization
+Fully oxygen-tolerant reversible complexation mediated polymerization without external additives
+Photo-Deactivation Strategy for Switchable ATRP with the Assistance of Molecular Switches
 A Minimalist Method for Fully Oxygen-Tolerant RAFT Polymerization through Sulfur-Centered Trithiocarbonate Radical Initiation
-.
-Macromol. Rapid Commun.
-2024
-, 2400206.
-(38) Fubang Huang, Fei Wang, Shuang Han, and
-Weidong Zhang*
-,
-Xanthate Disulfide-Mediated RAFT Polymerization toward Oxygen Tolerance.
-Macromol. Rapid Commun.
-2024
-, 2400697.
-(37) Xiaojing Xu, Cheng Yi, Tianyun Feng, Youzhen Ge, Mengjie Liu , Cenhao Wu,
-Hao Yu, Xiang Chen, Subash C.B. Gopinath,
-Weidong Zhang*
-, Lixiang Zhao*, Jun Zou*, Regulating tumor microenvironments by a lymph node-targeting adjuvant via tumor-specific CTL-derived IFNγ.
-Clinical Immunology,
-2023
-, 253, 109685.
-(36) Dongyun Li, Yue Sun,
-Weidong Zhang,*
-and Zhengbiao Zhang*, Tailoring Hydrogen-Bonding Strategy for Sequence-Dependent and Thermo/pH Dual-Responsive Clusteroluminescence.
-Chem. Eur. J.
-2023
-, 29, e202300526.
-(35) Zhuan Chen, Yue Sun, Xin Wang,
-Weidong Zhang,*
-and Zhengbiao Zhang*, Tailoring Polymerization Controllability and Dispersity Through a Photoswitchable Catalyst Strategy.
-Macromol. Rapid Commun.
-2023
-, 2300198.
-34)
-Yue Sun, Yuyan Weng, Gaojian Chen, and
-Weidong Zhang*
-, Switchable RAFT Polymerization Employing Photoresponsive HABI as a Mediator.
-Macromol. Rapid Commun.
-2022
-, 2200664.
-(33) Yan Huang, Yue Sun, Yuyan Weng*, and
-Weidong Zhang*
-, A Simple and Green Oxygen-Tolerant RAFT Polymerization without Additional Catalyst and Initiator.
-ChemistrySelect
-2022
-, 7, e202201583.
-(32) Xiaojing Xu, Minfeng Gan, Youzhen Ge, Cheng Yi, Tianyun Feng, Mengjie Liu, Cenhao Wu, Xiang Chen,
-Weidong Zhang*
-, Lixiang Zhao*, and Jun Zou*, Multifaceted glycoadjuvant@AuNPs inhibits tumor metastasis through promoting T cell activation and remodeling tumor microenvironment.
-Journal of Nanobiotechnology,
-2021
-, 19, 376.
-(31) Shuyi Shen, Yan Huang, Yue Sun,
-Weidong Zhang*,
-Catechol-driven Self-Assembly to Fabricate Highly Ordered and SERS-active Glycoadjuvant Patterns.
-J. Mater. Chem. B
-, 2021
-, 9, 5039.
-(30) Kai Feng, Lun Peng, Liyin Yu, Yuqing Zheng, Rui Chen,
-Weidong Zhang*
-, and Gaojian Chen*, Universal Antifogging and Antimicrobial Thin Coating Based on Dopamine-Containing Glycopolymers.
-ACS Appl. Mater. Interfaces
-2020
-,12, 27632-27639
-(29) Jun Hu, Yan Gu, Mengjie Liu,
-Weidong Zhang*
-, Hong Chen and Gaojian Chen*, Bacteria mimics bearing carbohydrates, oligodeoxynucleotides and designed shapes.
-Chem. Commun.
-,2020
-, 56, 10887-10889
-(28)
-Weidong Zhang*
-, Shuyi Shen, Zhengbiao Zhang, Yan Huang, Yuyan Weng,* and Gaojian Chen*, “Using One Photoredox Catalyst to Simultaneously Mediate Two Different Polymerizations for Photo-Triggered Multi-Component Orthogonal Polymerizations”
-Macromol. Rapid Commun.
-2020
-, 2000373.
-(27) Mengjie Liu, Ming Wen, Shuyi Shen, Zhengbiao Zhang, Gaojian Chen*, and
-Weidong Zhang*
-, One-Pot, Multicomponent Strategy for Designing Lymphoseek-Inspired Hetero-Glycoadjuvant@AuNPs.
-Macromol. Rapid Commun.
-2019
-, 1900215.
-(26) Xiaojing Xu, Ziqi Jin, Yonghao Liu, Huanle Gong, Qing Sun,
-Weidong Zhang*
-, Lixiang Zhao*, Carbohydrate-based adjuvants activate tumor-specific Th1 and CD8+ T
+Xanthate Disulfide-Mediated RAFT Polymerization toward Oxygen Tolerance
+Regulating tumor microenvironments by a lymph node-targeting adjuvant via tumor-specific CTL-derived IFNγ
+Tailoring Hydrogen-Bonding Strategy for Sequence-Dependent and Thermo/pH Dual-Responsive Clusteroluminescence
+Tailoring Polymerization Controllability and Dispersity Through a Photoswitchable Catalyst Strategy
+Switchable RAFT Polymerization Employing Photoresponsive HABI as a Mediator

@@ -5,18 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/gexun
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、On the correspondence between granular polytomous spaces and polytomous surmising functions,Journal of Mathematical Psychology,SSCI,2023,Xun Ge,Soochow University
-2、On Galois connections between polytomous knowledge structures and polytomous attributions,Journal of Mathematical Psychology,SSCI,2022,Xun Ge,Soochow University
-3、On the correspondence between knowledge structures and attribution functions,Journal of Mathematical Psychology,SSCI,2021,Xun Ge,Soochow University
-4、Notes on attribution functions,British Journal of Mathematical and Statistical Psychology,SSCI,2021,Xun Ge,Soochow University
-5、A note on the separability of items in knowledge structures delineated by skill multimaps,Journal of Mathematical Psychology,SSCI,2020,Xun Ge,Soochow University
-6、Some properties of the Hausdorff tvs-cone pseudo-metric spaces,Topology and its Applications,SCI,2017,Xun Ge,Soochow University
-7、The rough membership functions on four types of covering-based rough sets and their applications,Information Sciences,SCI,2017,Xun Ge,Soochow University
-8、Completions of partial metric spaces,Topology and its Applications,SCI,2015,Xun Ge,Soochow University
-9、Connectivity of covering approximation spaces and its applications on epidemiological issue,Applied Soft Computing,SCI,2014,Xun Ge,Soochow University
-10、Topological characterizations of covering for special covering-based upper approximation operators,Information Sciences,SCI,2012,Xun Ge,Soochow University
-11、Axiomatization and conditions for neighborhoods in a covering to form a partition,Information Sciences,SCI,2011,Xun Ge, Jiangsu University of Science and Technology
-12、An application of covering approximation spaces on network security,Computers & Mathematics with Applications,SCI,2010,Xun Ge,Soochow University
+姓名:葛洵
+学院:数学科学学院
+职称:副教授
+研究方向:数学心理学、认知诊断理论、数学教育心理学、计算教育学、粒计算、点集拓扑学
+关键词:数学心理学、认知诊断理论、知识空间、粒计算、点集拓扑、覆盖粗糙集、属性函数
+个人简介:葛洵，男，1982年出生，教育学硕士，基础数学博士，教育学博士后。现为苏州大学数学科学学院副教授，硕士研究生导师，《Mathematical Reviews》评论员。主持国家自然科学基金2项、省部级自然科学基金3项、市厅级自然科学基金1项、省教育科学“十四五”规划重点课题1项，参与国家自然科学基金4项，获得省部级自然科学进步奖（二等奖）1项、省部级哲学社会科学优秀成果奖（二等奖）1项、市厅级科技进步奖2项，以第一作者或通讯作者发表学术研究以及教学研究论文七十余篇。
+论文:On the correspondence between granular polytomous spaces and polytomous surmising functions
+On Galois connections between polytomous knowledge structures and polytomous attributions
+On the correspondence between knowledge structures and attribution functions
+Notes on attribution functions
+A note on the separability of items in knowledge structures delineated by skill multimaps
+Some properties of the Hausdorff tvs-cone pseudo-metric spaces
+The rough membership functions on four types of covering-based rough sets and their applications
+Completions of partial metric spaces
+Connectivity of covering approximation spaces and its applications on epidemiological issue
+Topological characterizations of covering for special covering-based upper approximation operators

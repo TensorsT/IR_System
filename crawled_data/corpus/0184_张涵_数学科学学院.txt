@@ -1,0 +1,20 @@
+doc_id: 184
+name: 张涵
+career: 副教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/zh2_46441
+---
+姓名:张涵
+学院:数学科学学院
+职称:副教授
+研究方向:齐性动力系统、数论、有效等分布定理、分形上的辛钦定理、齐性空间
+关键词:齐性动力系统、数论、齐性空间、有效等分布、辛钦定理、分形、不变测度
+个人简介:张涵，苏州大学数学科学学院副教授，俄亥俄州立大学博士，清华大学博士后。研究兴趣为齐性动力系统及其在数论中的应用，包括齐性空间的有效等分布定理、分形上的辛钦定理等。
+论文:Locally unipotent invariant measures and limit distribution of a sequence of polynomial trajectories on homogeneous spaces
+Genericity on submanifolds and application to Universal hitting time statistics
+On connectedness in the parametric geometry of numbers
+Nondivergence on homogeneous spaces and rigid totally geodesic submanifolds
+Khintchine dichotomy for self-similar measures
+Pointwise equidistribution for almost smooth functions with an error rate and weighted Levy-Khintchine theorem
+Nondivergence of reductive group action on homogeneous spaces

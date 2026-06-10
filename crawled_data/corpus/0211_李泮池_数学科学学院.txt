@@ -5,15 +5,18 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/lpc
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Two improved Gauss-Seidel projection methods for Landau-Lifshitz-Gilbert equation,Journal of Computational Physics,2020,Panchi Li,Changjian Xie,Rui Du, Jingrun Chen, and Xiao-Ping Wang
-2、Numerical methods for antiferromagnets,IEEE Transactions on Magnetics,2020,Panchi Li,Jingrun Chen,Rui Du, and Xiao-Ping Wang
-3、Quasi-Monte Carlo sampling for solving partial differential equations by deep neural networks,Numerical Mathematics: Theory, Methods and Applications,2021,Jingrun Chen, Rui Du,Panchi Li,Liyao Lyu
-4、A Gauss-Seidel projection method with the minimal number of updates for stray field in micromagnetic simulations,Discrete and Continuous Dynamical Systems - B,2022,Panchi Li,Zetao Ma,Rui Du, and Jingrun Chen
-5、A second-order semi-implicit method for the inertial Landau-Lifshitz-Gilbert equation,Numerical Mathematics: Theory, Methods and Applications,2023,Panchi Li,Lei Yang, Jin Lan,Rui Du, and Jingrun Chen
-6、Micromagnetics simulations and phase transitions of ferromagnetics with Dzyaloshinskii-Moriya interaction,Communications in Nonlinear Science and Numerical Simulation,2023,Panchi Li,Shuting Gu, Jin Lan, Jingrun Chen, Weiqing Ren, and Rui Du
-7、Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation,Journal of Scientific Computing,2024,Jingrun Chen,Panchi Li,Cheng Wang
-8、Efficient finite element methods for the semiclassical nonlinear Schr\"odinger equation with random potentials,ESAIM: Mathematical Modelling and Numerical Analysis,2025,Panchi Li,Zhiwen Zhang
-9、Enhanced second-order Gauss-Seidel projection methods for the Landau-Lifshitz equation,Communications in Computational Physics,2026,Panchi Li,Xiao-Ping Wang
+姓名:李泮池
+学院:数学科学学院
+职称:
+研究方向:偏微分方程数值解、不确定性量化、深度学习求解偏微分方程
+关键词:偏微分方程数值解、不确定性量化、深度学习、Landau-Lifshitz-Gilbert方程、微磁学模拟、反铁磁材料、准蒙特卡洛采样、有限元方法
+个人简介:李泮池，苏州大学数学科学学院讲师，理学博士。2017-2020年在苏州大学攻读硕士，2020-2023年攻读计算数学博士，2023-2026年在香港大学数学系从事博士后研究，2026年4月加入苏州大学。研究方向为偏微分方程数值解、不确定性量化、深度学习求解偏微分方程。
+论文:Two improved Gauss-Seidel projection methods for Landau-Lifshitz-Gilbert equation
+Numerical methods for antiferromagnets
+Quasi-Monte Carlo sampling for solving partial differential equations by deep neural networks
+A Gauss-Seidel projection method with the minimal number of updates for stray field in micromagnetic simulations
+A second-order semi-implicit method for the inertial Landau-Lifshitz-Gilbert equation
+Micromagnetics simulations and phase transitions of ferromagnetics with Dzyaloshinskii-Moriya interaction
+Convergence analysis of an implicit finite difference method for the inertial Landau-Lifshitz-Gilbert equation
+Efficient finite element methods for the semiclassical nonlinear Schrödinger equation with random potentials
+Enhanced second-order Gauss-Seidel projection methods for the Landau-Lifshitz equation

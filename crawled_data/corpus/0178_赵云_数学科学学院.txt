@@ -1,33 +1,23 @@
 doc_id: 178
 name: 赵云
-career: 
+career: 教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/zhaoyun
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Nonadditive measure-theoretic pressure and applications to dimensions of an ergodic measure,ERGODIC THEORY AND DYNAMICAL SYSTEMS,SCIE,2013,赵云
-2、DIMENSION ESTIMATES FOR ARBITRARY SUBSETS OF LIMIT SETS OF A MARKOV|CONSTRUCTION AND RELATED MULTIFRACTAL ANALYSIS,DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS,SCIE,2014,赵云
-3、DIMENSION ESTIMATES IN NON-CONFORMAL SETTING,DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS,SCIE,2014,赵云
-4、Measure theoretic pressure and dimension formula for non-ergodic measures,Discrete Contin. Dyn. Syst.,SCIE,2020
-5、Dimensions of C1-average conformal hyperbolic sets,Discrete Contin. Dyn. Syst.,SCIE,2020
-6、Dimension estimates for non-conformal repellers and continuity of sub-additive topological pressure,Geom. Funct. Anal.,SCIE,2019
-7、q-entropy for general topological dynamical systems.,Discrete Contin. Dyn. Syst.,SCIE,2019
-8、Constrained ergodic optimization for asymptotically additive potentials,J. Math. Anal. Appl. ,SCIE,2019
-9、Weak Gibbs measures: speed of convergence to entropy, topological and geometrical aspects,Ergodic Theory Dynam. Systems,SCIE,2017
-10、Variational principle and zero temperature limits of asymptotically (sub)-additive projection pressure,Front. Math. China,SCIE,2018
-11、Measure-theoretic pressure for amenable group actions,Colloq. Math.,SCIE,2017
-12、Maximal integral over observable measures,Acta Math. Sin.,SCIE,2016
-13、Weak specification properties and large deviations for non-additive potentials,Ergodic Theory Dynam. Systems ,SCIE,2015
-14、Scaled entropy for dynamical systems,J. Stat. Phys.,SCIE,2015
-15、Typical properties of ergodic optimization for asymptotically additive potentials, Stoch. Dyn. ,2023
-16、Continuity of sub-additive topological pressure with matrix cocycles,Nonlinearity ,2022
-17、Topological pressure and large deviations for multivariate potentials., J. Math. Anal. Appl.,2022
-18、Hölder continuity of Oseledets subspaces for linear cocycles on Banach spaces,Physica Scripta,2023
-19、A note on measure-theoretic equicontinuity and rigidity, Acta Math. Sci. Ser. B (Engl. Ed.) ,2022
-20、The Brin-Katok formula for dynamical systems admitting mistakes,Dyn. Syst. ,2021
-21、Time rescaling of Lyapunov exponents.,Advances in dynamics, patterns, cognition,2017
-22、q-entropy for symbolic dynamical systems,J. Phys. A ,2015
-23、Variational principle for topological pressures on subsets,J. Math. Anal. Appl.,2015
+姓名:赵云
+学院:数学科学学院
+职称:教授
+研究方向:动力系统与遍历理论
+关键词:动力系统、遍历理论、维数理论、热力学形式、测度论压力、拓扑压力、多重分形、非共形排斥子、双曲集、遍历优化
+个人简介:赵云，男，博士，苏州大学数学科学学院教授、博士生导师。2007年苏州大学博士毕业后留校，2011年晋升副教授、硕士生导师，2015年晋升教授，同年入选苏州大学东吴学者人才计划。2013-2014年赴美国宾夕法尼亚州立大学访问。主要研究方向为动力系统与遍历理论，主持多项国家自然科学基金项目，在GAFA、ETDS、JSP、DCDS等期刊发表论文四十余篇。
+论文:Nonadditive measure-theoretic pressure and applications to dimensions of an ergodic measure
+DIMENSION ESTIMATES FOR ARBITRARY SUBSETS OF LIMIT SETS OF A MARKOV|CONSTRUCTION AND RELATED MULTIFRACTAL ANALYSIS
+DIMENSION ESTIMATES IN NON-CONFORMAL SETTING
+Measure theoretic pressure and dimension formula for non-ergodic measures
+Dimensions of C1-average conformal hyperbolic sets
+Dimension estimates for non-conformal repellers and continuity of sub-additive topological pressure
+q-entropy for general topological dynamical systems
+Constrained ergodic optimization for asymptotically additive potentials
+Weak Gibbs measures: speed of convergence to entropy, topological and geometrical aspects
+Variational principle and zero temperature limits of asymptotically (sub)-additive projection pressure

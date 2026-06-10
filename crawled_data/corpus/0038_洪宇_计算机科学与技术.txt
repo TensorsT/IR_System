@@ -5,7 +5,10 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/hongy
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、A novel method for parallel resources acquisition from bilingual web pages,Journal of Computational Information Systems,EI,2013,洪宇
+姓名:洪宇
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:自然语言处理、人工智能、信息抽取、篇章关系理解、多模态机器翻译、智能问答
+关键词:自然语言处理、人工智能、信息抽取、篇章关系理解、多模态机器翻译、智能问答、事件检测、Slot Filling
+个人简介:毕业于哈尔滨工业大学，2009年获计算机应用博士学位。2009年加入苏州大学计算机科学与技术学院工作，2014-2016年在美国纽约伦斯勒理工学院担任博士后研究助理。研究兴趣集中在自然语言处理和人工智能，具体涉及信息抽取、篇章关系理解、多模态机器翻译及智能问答。主持和参与多项国家自然科学基金项目，已发表论文近百篇，包括ACL、EMNLP、COLING、SIGIR、CIKM等国际顶级会议论文及国内一级学报论文。已获授权发明专利5项。曾参与TAC-KBP评测，在事件检测和Slot Filling任务中取得优异排名。与微软亚研、百度、阿里巴巴等企业有密切合作。
+论文:A novel method for parallel resources acquisition from bilingual web pages

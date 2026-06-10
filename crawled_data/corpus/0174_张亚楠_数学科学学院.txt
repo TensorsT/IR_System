@@ -1,15 +1,18 @@
 doc_id: 174
 name: 张亚楠
-career: 
+career: 副教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/ynzhang
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Finite difference methods for the time fractional diffusion equation on|non-uniform meshes,JOURNAL OF COMPUTATIONAL PHYSICS,SCIE,2014,张亚楠
-2、Numerical study of the effects of surface topography and chemistry on|the wetting transition using the string method,JOURNAL OF CHEMICAL PHYSICS,SCIE,2014,张亚楠
-3、Error Analysis of a Compact ADI Scheme for the 2D Fractional|Subdiffusion Equation,JOURNAL OF SCIENTIFIC COMPUTING,SCIE,2014,张亚楠
-4、Convergence analysis of a linearized Crank-Nicolson scheme for the two-dimensional complex Ginzburg- Landau equation,Numer. Methods Partial Differential Eq.,SCI,2013,张亚楠
-5、Compact alternating direction implicit schemes for the two-dimensional fractional diffusion-wave equation,SIAM J. Numer. Anal.,SCI,2012,张亚楠
+姓名:张亚楠
+学院:数学科学学院
+职称:副教授
+研究方向:偏微分方程数值方法、非局部模型数值方法、稀有事件的数值方法和应用
+关键词:偏微分方程、数值方法、非局部模型、稀有事件、分数阶偏微分方程、有限差分法、过渡态计算
+个人简介:张亚楠，1984年生，河南正阳人。2012年获东南大学数学系博士学位，2013年至2014年在新加坡国立大学从事博士后研究，现任苏州大学数学科学学院副教授。主要研究方向为偏微分方程数值方法、非局部模型数值方法和稀有事件的数值方法与应用。
+论文:Finite difference methods for the time fractional diffusion equation on non-uniform meshes
+Numerical study of the effects of surface topography and chemistry on the wetting transition using the string method
+Error Analysis of a Compact ADI Scheme for the 2D Fractional Subdiffusion Equation
+Convergence analysis of a linearized Crank-Nicolson scheme for the two-dimensional complex Ginzburg- Landau equation
+Compact alternating direction implicit schemes for the two-dimensional fractional diffusion-wave equation

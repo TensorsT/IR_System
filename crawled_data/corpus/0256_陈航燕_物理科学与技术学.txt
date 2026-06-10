@@ -5,18 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/chenhangyan
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Strain-induced bandgap engineering in C3N nanotubes,Chemical Physics Letters, YulingYin,Hangyan Chen*, Qinghong Yuan*,768: 138390, 2021.
-2、Self‐Assembled Water Molecules as a Functional Valve for a High‐Pressure Nanocontainer,Angew andte Chemie International Edition,Hangyan Chen,Deyan Sun,Xingao Gong ,Zhifeng Liu*,52: 1973~1976 ,2013.
-3、Zwitterion Functionalized Carbon Nanotube/Polyamide Nanocomposite Membranes for Water Desalination,ACS Nano,Waifong Chan,Hangyan Chen(co-author),Anil Surapathi,Michael G. Taylor,Xiaohong Shao, Eva Marand, J. Karl Johnson*,7: 5308~5319, 2013.
-4、Separation of Hydrogen Using a Size-Changeable Nanochannel,The Journal of Physical Chemistry C,Hangyan Chen ,Xingao Gong,Zhifeng Liu,Deyan Sun*,115: 4721~4725, 2011.
-5、Design of a one-way nanovalve based on carbon nanotube junction and C60,Microfluidics and Nanofluidics,Hangyan Chen ,Zhifeng Liu,Xingao Gong,Deyan Sun*,10: 927~933, 2010.
-6、核心素养视域下的航天情境类试题解析及其命制特点分析——以BPhO IPC 试题为例,物理教学,樊济川，曹浴，薛丽娜,陈航燕*,45,2023.
-7、核心素养视角下高中物理实验试题命制启示—以2022年英国物理奥林匹克竞赛实验项目为例,中学物理,曹浴,陈航燕*,41,2023.
-8、IGCSE物理实验操作及笔试试题命制方式差异的分析与启示,物理之友,单磊,陈航燕*,已录用.
-9、中英中考物理试题呈现方式的对比分析 ——以"光学"为例,中学物理,李迎芳,陈航燕*,袁海泉*,40，2022
-10、英国奥林匹克物理竞赛实验操作试题特色分析,物理通报,肖婵娟,陈航燕*,袁海泉*,12,2022.
-11、中英中学物理实验考题支架构建特点的分析与启示,物理通报,蒋昱宸,陈航燕*,9,2021.
-12、基于日常生活经验的中考物理试题特征分析,王胜团,陈航燕*,袁海泉*,10,2021.
+姓名:陈航燕
+学院:物理科学与技术学院
+职称:副教授
+研究方向:中外物理教育比较研究、中学物理课程标准与教材研究、低维材料分子输运性质、碳纳米管储氢、聚合物薄膜分子动力学模拟、计算凝聚态物理
+关键词:中外物理教育比较、中学物理课程标准、教材研究、计算凝聚态物理、低维材料、分子输运、碳纳米管、分子动力学模拟、海水淡化
+个人简介:陈航燕，苏州大学物理科学与技术学院副教授。主要从事中外物理教育比较研究及中学物理课程标准与教材研究，并开展计算凝聚态物理研究，聚焦低维材料分子输运性质的理论计算，如碳纳米管储氢与聚合物薄膜海水淡化分子模拟。2018年至今发表14篇物理教育论文，指导10名学科教学硕士。主持国家自然科学基金青年项目，在Angew. Chem. Int. Ed.、ACS Nano等期刊发表论文。
+论文:Strain-induced bandgap engineering in C3N nanotubes
+Self‐Assembled Water Molecules as a Functional Valve for a High‐Pressure Nanocontainer
+Zwitterion Functionalized Carbon Nanotube/Polyamide Nanocomposite Membranes for Water Desalination
+Separation of Hydrogen Using a Size-Changeable Nanochannel
+Design of a one-way nanovalve based on carbon nanotube junction and C60
+核心素养视域下的航天情境类试题解析及其命制特点分析——以BPhO IPC 试题为例
+核心素养视角下高中物理实验试题命制启示—以2022年英国物理奥林匹克竞赛实验项目为例
+IGCSE物理实验操作及笔试试题命制方式差异的分析与启示
+中英中考物理试题呈现方式的对比分析 ——以“光学”为例
+英国奥林匹克物理竞赛实验操作试题特色分析

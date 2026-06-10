@@ -5,12 +5,15 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/jilijun
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、 Direct constructions of column-orthogonal strong orthogonal arrays,J. Combin. Theory Ser. A ,SCIE,2025,Bao Jingjun,Ji Lijun,Xu Juanjuan,209 (2025), Paper No. 105965, 24 pp.
-2、Two new constructions of cyclic subspace codes via Sidon spaces,Des. Codes Cryptogr.,SCIE,2024,Yu Shuhui,JI Lijun,92 (2024), no. 11, 3799-3811.
-3、Almost affinely disjoint subspaces and covering Grassmannian codes,Finite Fields Appl.,SCIE,2023,Yu Shuhui,JI Lijun,92 (2023), Paper No. 102292, 15pp
-4、Double multilevel constructions for constant dimension codes,IEEE Trans. Inform. Theory,SCIE,2023,Liu Shuangqing,Ji Lijun,69 (2023), no. 1, 157-168
-5、Large sets of t-designs over finite fields exist for all t,Des. Codes Cryptogr.,SCIE,2022,Bao Jingjun,Ji Lijun,90 (2022), no. 7, 1599-1609
-6、Symmetric abelian group-invariant Steiner quadruple systems,J. Combin. Theory Ser. A,SCIE,2021,Ji Lijun,Lu Xiaonan, 181 (2021), 105435, 21 pp.
+姓名:季利均
+学院:数学科学学院
+职称:教授
+研究方向:组合设计、编码密码、t-平衡设计、可分组t-设计、三元系大集、正交阵列、光正交码
+关键词:组合设计、编码、密码、t-设计、可分组t-设计、三元系大集、正交阵列、光正交码
+个人简介:2003年博士毕业于苏州大学，师从朱烈教授，毕业后留校任教，2010年晋升教授，2012年起任博士生导师。主要研究组合设计及其在编码密码中的应用，在t-平衡设计、可分组t-设计、三元系大集、正交阵列、光正交码等方面取得重要进展。主持国家自然科学基金优秀青年项目、面上项目等，作为主要成员参与两项重点项目。获ICA 2015年Hall奖。
+论文:Direct constructions of column-orthogonal strong orthogonal arrays
+Two new constructions of cyclic subspace codes via Sidon spaces
+Almost affinely disjoint subspaces and covering Grassmannian codes
+Double multilevel constructions for constant dimension codes
+Large sets of t-designs over finite fields exist for all t
+Symmetric abelian group-invariant Steiner quadruple systems

@@ -5,19 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/tfwu
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院（软件学院）
-论文:论文：
-1、LABind: identifying protein binding ligand-aware sites via learning interactions between ligand and protein,Nature Communications (Nature 子刊),Zhijun Zhang#, Lijun Quan#,*, Junkai Wang, Liangchen Peng, Qiufeng Chen, Bei Zhang, Lexin Cao, Yelu Jiang, Geng Li, Liangpeng Nie, Tingfang Wu*, Qiang Lyu*, 2025, 16: 7712
-2、CAPLA: improved prediction of protein–ligand binding affinity by a deep learning approach based on a cross-attention mechanism,Bioinformatics (CCF B类期刊),Jin Zhi#, Tingfang Wu#,*, Taoning Chen, Deng Pan, Xuejiao Wang, Jingxin Xie, Lijun Quan, Qiang Lyu*,2023, 39(2): btad049
-3、DS-MVP: Identifying diseasespecific pathogenicity of missense variants by pre-training representation,Briefings in Bioinformatics (中科院二区TOP期刊, CCF B类期刊),Qiufeng Chen#, Lijun Quan#,*, Lexin Cao, Bei Zhang, Zhijun Zhang, Liangchen Peng, Junkai Wang, Yelu Jiang, Liangpeng Nie, Geng Li, Tingfang Wu*, Qiang Lyu*,2025, 26(2): bbaf119
-4、MetaMBP: Few-shot multi-label prediction of bioactive peptides based on deep metric meta-learning,Journal of Chemical Information and Modeling(中科院二区TOP期刊),Zhenglong Zhou#, Tingfang Wu#,*, Yelu Jiang, Geng Li, Liangpeng Nie, Jia Xu, Yi Zhang, Yiwei Chen, Lijun Quan, Qiang Lyu*,2025, 65(17): 9342-9360
-5、AACDR: Integrating Graph Isomorphism Networks and Asymmetric Adversarial Domain Adaptation for Cancer Drug Response Prediction,Journal of Chemical Information and Modeling (中科院二区TOP期刊),Yi Zhang#, Tingfang Wu#,*, Liangpeng Nie, Yelu Jiang, Geng Li, Jia Xu, Zhenglong Zhou, Yiwei Chen, Lijun Quan*, Qiang Lyu*,2025, 65(15): 8360-8374
-6、MMSol: Predicting Protein Solubility with an Antinoise Multimodal Deep Model,Journal of Chemical Information and Modeling(中科院二区TOP期刊),Jia Xu#, Tingfang Wu#,*, Yelu Jiang, Liangpeng Nie, Geng Li, Yi Zhang, Zhenglong Zhou, Yiwei Chen, Lijun Quan, Qiang Lyu*,2025, 65(13): 7238-7251
-7、RPEMHC: improved prediction of MHC-peptide binding affinity by a deep learning approach based on residue-residue pair encoding,Bioinformatics (CCF B类期刊),Xuejiao Wang#, Tingfang Wu#,*, Yelu Jiang, Taoning Chen, Deng Pan, Zhi Jin, Jingxin Xie, Lijun Quan, Qiang Lyu*,2024, 40(1): btad785
-8、Homogeneous spiking neural P systems with synaptic failure,Information and Computation (CCF A类期刊),Luping Zhang, Tingfang Wu*,2025, 304: 105281
-9、Spiking neural P systems with mute rules,Information and Computation (CCF A类期刊),Tingfang Wu, Luis Valencia-Cabrera, Mario J. Pérez-Jiménez, Linqiang Pan,2024, 299: 105179
-10、Spiking neural P systems with communication on request and mute rules,IEEE Transactions on Parallel and Distributed Systems (CCF A类期刊),Tingfang Wu, Linqiang Pan,2023, 34(2): 734-745
-11、Numerical spiking neural P systems,IEEE Transactions on Neural Networks and Learning Systems (中科院一区TOP期刊，CCF B类期刊),Tingfang Wu, Linqiang Pan, Qiang Yu, Kay Chen Tan,2021, 32(6): 2443-2457
-12、Asynchronous spiking neural P systems with local synchronization of rules,Information Sciences (中科院一区TOP期刊, CCF B类期刊),Tingfang Wu, Luping Zhang, Qiang Lyu, Yu Jin,2022, 588: 1- 12
-13、On the tuning of the computation capability of spiking neural membrane systems with communication on request,International Journal of Neural Systems (中科院一区TOP期刊),Tingfang Wu, Ferrante Neri, Linqiang Pan,2022, 32(8): 2250037
+姓名:吴庭芳
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:AI4Science、生物医药大模型、智能计算、药物研发
+关键词:AI4Science、生物医药大模型、智能计算、膜计算、脉冲神经膜系统、药物研发、深度学习、生物信息学
+个人简介:吴庭芳，博士，副教授，硕士生导师，博士毕业于华中科技大学。入选江苏省“双创博士”人才计划和苏州大学“优秀青年学者”。主持国家级和省部级项目。研究方向包括AI4Science、生物医药大模型、智能计算等，近年来在Nature Communications、IEEE TNNLS、IEEE TPDS、IEEE/ACM TCBB、Information and Computation、Information Sciences、IJNS、BIB、Bioinformatics等期刊和会议发表论文多篇。获国际膜计算学会最佳论文奖，入选IEEE计算智能学会Research Frontier。
+论文:LABind: identifying protein binding ligand-aware sites via learning interactions between ligand and protein
+CAPLA: improved prediction of protein–ligand binding affinity by a deep learning approach based on a cross-attention mechanism
+DS-MVP: Identifying diseasespecific pathogenicity of missense variants by pre-training representation
+MetaMBP: Few-shot multi-label prediction of bioactive peptides based on deep metric meta-learning
+AACDR: Integrating Graph Isomorphism Networks and Asymmetric Adversarial Domain Adaptation for Cancer Drug Response Prediction
+MMSol: Predicting Protein Solubility with an Antinoise Multimodal Deep Model
+RPEMHC: improved prediction of MHC-peptide binding affinity by a deep learning approach based on residue-residue pair encoding
+Homogeneous spiking neural P systems with synaptic failure
+Spiking neural P systems with mute rules
+Spiking neural P systems with communication on request and mute rules

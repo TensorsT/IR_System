@@ -5,15 +5,17 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/chenxueqin
 ---
-姓名:
-页面标题:电子信息学院
-论文:论文：
-1、结合注意力机制的改进U-Net网络在端到端语音增强中的应用,声学学报,2022,武瑞沁,陈雪勤*,47(2):266-275
-2、结合幅度谱和功率谱字典的语音增强方法,声学学报,2021,聂玲子,陈雪勤*,46(1),81-91
-3、低信噪比环境下语音检测的邻域极值差分信号功率谱分维算法,应用科学学报,2013,陈雪勤,俞一彪,赵鹤鸣,31(8):579-584
-4、有效高斯分量通用背景模型下耳语音声道系统转换研究,声学学报,2013,陈雪勤,赵鹤鸣,38(2):195-200
-5、基于听觉模型的汉语耳语音声调检测,电子学报,2009,陈雪勤,赵鹤鸣,37（4）：864-867
-6、蚁群聚类神经网络的耳语音声调识别,应用科学学报,2008,陈雪勤,赵鹤鸣,俞一彪,26（5）:511-516
-7、使用全局自注意 Teager 能量倒谱系数检测重放欺骗语音,声学学报,陈铭,陈雪勤*,苏州大学,2024,49(5):1123-1130
-8、A Laser-Induced Audible Metal Defect Detection Method Based on Spectral Discriminative Weights,ELECTRONICS,2025,Bin Zhu,Tao Liu,Wuyue Hou*,Xueqin Chen*,Soochow University,2025，14，4175
-9、BER-ES: An Enhanced Audio-Visual Emotion Recognition Network Utilizing Emotional Similarity Information,IEEE TASL (Transactions on Audio, Speech and Language processing),2025.11,石昌文,徐坚,陈雪勤*,2025(33) : 4787-4796
+姓名:陈雪勤
+学院:电子信息学院
+职称:副教授
+研究方向:单通道语音增强、语音分离、伪造语音识别、语音转换、智能生理心理状态检测、复杂场景下说话人识别
+关键词:语音增强、语音分离、语音转换、伪造语音识别、说话人识别、智能信号处理、耳语音感知、情感识别
+个人简介:陈雪勤，工学博士，苏州大学电子信息学院副教授。主要研究方向为语音信号处理、智能信号处理。主持国家自然科学基金、江苏省自然科学基金及省级开放课题。参与多项国家级、省级课题，发表学术论文20余篇，获国家发明专利授权多项，成果转化。主持和参与教育部协同育人项目、苏州大学教改项目，指导本科生国家级、省级大创项目及莙政基金项目。主讲课程包括电路分析、语音信号处理、人工智能导论、电子系统实验。
+论文:结合注意力机制的改进U-Net网络在端到端语音增强中的应用
+结合幅度谱和功率谱字典的语音增强方法
+低信噪比环境下语音检测的邻域极值差分信号功率谱分维算法
+基于听觉模型的汉语耳语音声调检测
+蚁群聚类神经网络的耳语音声调识别
+使用全局自注意 Teager 能量倒谱系数检测重放欺骗语音
+A Laser-Induced Audible Metal Defect Detection Method Based on Spectral Discriminative Weights
+BER-ES: An Enhanced Audio-Visual Emotion Recognition Network Utilizing Emotional Similarity Information

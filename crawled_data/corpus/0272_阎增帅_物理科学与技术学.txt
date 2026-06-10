@@ -5,8 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yzs
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:计算生物物理和统计物理交叉领域研究
-论文:论文：
-1、请见“研究领域”标签页
+姓名:阎增帅
+学院:物理科学与技术学院
+职称:讲师
+研究方向:计算生物物理、统计物理、纳米-生物界面相互作用、生物大分子自组装、相分离、结合自由能计算、动力学机制
+关键词:计算生物物理、统计物理、纳米-生物界面、生物大分子自组装、相分离、分子动力学模拟、结合自由能、界面调控
+个人简介:阎增帅，苏州大学物理科学与技术学院讲师、助理研究员，理学博士（南京大学，导师马余强院士），硕士（中国石油大学（华东）），学士（河北农业大学）。2025年加入丁泓铭教授团队。主要从事计算生物物理和统计物理交叉研究，聚焦纳米-生物界面相互作用、生物大分子自组装与相分离的理论模拟，重点研究结合自由能计算、分子机制、界面调控及复杂环境下生物大分子的相行为与动力学。
+论文:Unveiling the multicomponent phase separation through molecular dynamics simulation and graph theory
+Effect of the graphene nanosheet on functions of the spike protein in open and closed states: comparison between SARS-CoV-2 wild type and the Omicron variant
+Molecular insights into striking antibody evasion of SARS-CoV-2 Omicron variant
+Extracellular interactions between graphene nanosheets and E-cadherin
+Curvature-mediated cooperative wrapping of multiple nanoparticles at the same and opposite membrane sides
+Membrane nanotube pearling restricted by confined polymers
+Impact of Glycosylation of Apolipoprotein D on Its Interaction with Gold Nanoparticles: Insights from Molecular Dynamics Simulations
+Topology-and size-dependent binding of DNA nanostructures to the DNase I
+Effect of terahertz waves on the structure of the Aβ42 monomer, dimer, and protofibril: Insights from molecular dynamics simulations
+DNA-conjugated layered double hydroxides penetrating into a plasma membrane: Layer size, thickness and DNA grafting density matter

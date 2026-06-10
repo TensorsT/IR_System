@@ -5,6 +5,18 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/zoushuai
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:邹帅
+学院:物理科学与技术学院
+职称:副教授
+研究方向:新能源材料与器件、微纳结构材料的制备与应用、功能纳米材料、高效晶硅太阳电池
+关键词:新能源材料、太阳电池、微纳结构、功能纳米材料、钙钛矿太阳电池、硅异质结、纳米黑硅、金属催化化学腐蚀
+个人简介:邹帅，苏州大学物理科学与技术学院副研究员、硕士生导师。凝聚态物理博士，获CSC公派芬兰留学资格。曾于光伏企业从事高效晶硅太阳电池产业化技术研发，团队全球首次实现湿法纳米黑硅技术产业化，获“中国好技术”等奖项。入职苏州大学后主要研究新能源材料与器件、微纳结构材料制备与应用、功能纳米材料。在Adv. Mater.、J. Energy Chem.等期刊发表SCI论文50余篇，申请/授权专利多项。获可再生能源科学技术进步一等奖、江苏省科学技术奖三等奖等荣誉，主持国家自然科学基金青年项目等。
+论文:Molecular Extrusion Drives Polymer Dynamic Soft Encapsulation to Inhibit Lead Leakage for Efficient Inverted Perovskite Solar Cells and Modules
+Ligand Engineering Enhances Fluorescence Properties of Eu-Based Complexes for Efficiency Enhancement and UV Stability in Silicon Heterojunction Solar Cells
+A solid strategy to realize efficient antibacterial activity on the shade surface of bulk silicon under natural or indoor lighting
+Improving the UV-light stability of silicon heterojunction solar cells through plasmon-enhanced luminescence downshifting of YVO4:Eu3+,Bi3+ nanophosphors decorated with Ag nanoparticles
+Improvement of light trapping in bifacial PERC silicon solar cells by optimizing rear surface morphology
+Ultrafast Random-Pyramid Texturing for Efficient Monocrystalline Silicon Solar Cells
+A solid strategy to realize heteroface selective emitter and rear passivated silicon solar cells
+Metal-catalyzed chemical etching using DIO3 as a hole injection agent for efficient submicron-textured multicrystalline silicon solar cells
+Complementary etching behavior of alkali, metal-catalyzed chemical, and post etching of multi-crystalline silicon wafers

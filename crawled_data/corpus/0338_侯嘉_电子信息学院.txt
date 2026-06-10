@@ -5,7 +5,10 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/houjia
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、DTN Licklider Transmission Protocol over Asymmetric Space Channels,IEEE AEROSPACE AND ELECTRONIC SYSTEMS MAGAZINE,SCIE,EI,2013,侯嘉
+姓名:侯嘉
+学院:电子信息学院
+职称:教授
+研究方向:下一代通信网络与通信系统、通信信号处理、编码与调制
+关键词:下一代通信网络、通信信号处理、编码、调制、DTN、Licklider传输协议、空间信道
+个人简介:侯嘉，苏州大学电子信息学院教授，博士毕业于CBNU情报通信工学专业。主要研究方向包括下一代通信网络与通信系统、通信信号处理、编码与调制等。
+论文:DTN Licklider Transmission Protocol over Asymmetric Space Channels

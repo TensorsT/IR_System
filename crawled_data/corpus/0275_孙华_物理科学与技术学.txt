@@ -5,6 +5,8 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/hsun
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:孙华
+学院:物理科学与技术学院
+职称:
+个人简介:MIT电磁学8.02课程演示实验cut系列
+地址：https://space.bilibili.com/26778049/channel/seriesdetail?sid=2670148&ctype=0

@@ -5,30 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/ghfu
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Jikun Wan, Chen Gong, Guohong Fu. Locate and explain: Joint multimodal emotion cause extraction and summarization in conversation. ACL 2026.
-2、Chuanliu Fan, Zicheng Ma, Huanran Meng, Aijia Zhang, Wenjie Du, Jun Zhang, Ziqiang Cao, Guohong Fu. Interleaved tool-call reasoning for protein function understanding. ACL 2026.
-3、Chuanliu Fan, Zicheng Ma, Wenjie Du, Nan Yu, Jun Zhang, Yi Qin Gao, Ziqiang Cao, Guohong Fu. Bidirectional GPT. Information Processing & Management. 2026, 63(2): 104451.
-4、Zhibin Wan, Mingjie Sun, Zhiqiang Gao, Yang Yang, Min Cao, Hongliang He, Guohong Fu. Rethinking hard training sample generation for medical image segmentation. Pattern Recognition. 2026.
-5、Chen Gong, Nan Yu, Guohong Fu. Bridging modalities: A unified framework for textual and multimodal dialogue discourse parsing.  Frontiers of Computer Science. 2026.
-6、Zhaoyu Li, Chen Gong, Guohong Fu. Enhancing multi-modal aspect-based sentiment classification via emotional semantic-aware cross-modal relation inference. Information Processing & Management. 2026.
-7、Chuanliu Fan, Zicheng Ma, Nan Yu, Wenjie Du, Jun Zhang, Ziqiang Cao, Yi Qin Gao, Guohong Fu. LlaMol: A unified molecule designer via preference ranking and numerical enhancement. BIBM 2025.
-8、Xingyu Li, Chen Gong, Guohong Fu. Multimodal coreference resolution for Chinese social media dialogues: Dataset and benchmark approach. ACL 2025.
-9、Hanbin Huang, Hongliang He. Liying Xu, Xudong Zhu, Siwei Feng, Guohong Fu. CA-SAM2: SAM2-based context-aware network with auto-prompting for Nucleus instance segmentation. MICCAI 2025.
-10、Qi Lv, Lei Geng,Ziqiang Cao, Min Cao, Sujian Li, Wenjie Li, Guohong Fu. Adaptive sparse softmax: An effective and efficient softmax variant. IEEE Transactions on Audio, Speech and Language Processing. 2025.
-11、Junjie Wu, Yumeng Fu, Nan Yu, Chen Gong, Guohong Fu. 2S-DGM4: A two-stage framework for detecting and grounding multi-modal media manipulation. ICME 2025.
-12、Yu Zhang, Songlin Yang, Rui-Jie Zhu, Yue Zhang, Leyang Cui, Yiqiao Wang, Bolun Wang, Freda Shi, Bailin Wang, Wei Bi, Peng Zhou, Guohong Fu. Gated slot attention for efficient linear-time sequence modeling. NeurIPS 2024.
-13、Chen Gong, Dexin Kong, Suxian Zhao, Guohong Fu. MODDP: A multi-modal open-domain Chinese dataset for dialogue discourse parsing. ACL 2024(Findings).
-14、Junjie Wu, Mingjie Sun, Chen Gong, Nan Yu, Guohong Fu. PromptCD: Coupled and decoupled prompt learning for vision-language models. ECAI 2024.
-15、Yu Zhang, Yue Zhang, Leyang Cui, Guohong Fu. Fast and accurate text editing with edit-aware connectionist temporal classification. EMNLP 2023.
-16、Junjie Wu, Chen Gong, Ziqiang Cao, Guohong Fu. MCG-MNER: A multi-granularity cross-modality generative framework for multimodal NER with instruction. ACM MM 2023.
-17、Qi Lv, Ziqiang Cao, Chunhui Ai, Lei Geng, Xu Yan, Guohong Fu. General and domain adaptive Chinese spelling check with error consistent pretraining. ACM Transactions on Asian and Low-Resource Language Information Processing. 2023.
-18、Nan Yu, Meishan Zhang, Guohong Fu, Min Zhang. RST discourse parsing with second-stage EDU-level pretraining. ACL 2022.
-19、Yang Sun, Liangqing Wu, Shuangyong Song, Xiaoguang Yu, Xiaodong He, Guohong Fu. Tracking satisfaction states for customer satisfaction prediction in E-commerce service chatbots. COLING 2022.
-20、Nan Yu, Guohong Fu, Min Zhang. Speaker-aware discourse parsing on multi-party dialogues. COLING 2022.
-21、Yu Zhang, Qingrong Xia, Shilin Zhou, Yong Jiang, Guohong Fu, Min Zhang. Semantic role labeling as latent tree parsing. COLING 2022.
-22、Meishan Zhang, Zhenghua Li, Guohong Fu, Min Zhang. Dependency-based syntax-aware word representations. Artificial Intelligence, 2021.
-23、Yang Sun, Nan Yu, Guohong Fu. A discourse-aware graph neural network for emotion recognition in multi-party conversations. EMNLP 2021(Findings).
-24、Ranran Zhen, Rui Wang, Guohong Fu, Chengguo Lv, Meishan Zhang. Chinese opinion role labeling with corpus translation: A pivot study. EMNLP 20
+姓名:付国宏
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:自然语言处理、多模态认知计算、AI4Science
+关键词:自然语言处理、多模态认知计算、AI4Science、意见挖掘、情感分析、对话系统、语义分析、文本生成
+个人简介:付国宏，博士，教授，博士生导师，苏州大学人工智能研究院副院长。江苏省双创人才，中国中文信息学会理事，中国计算机学会高级会员，香港大学荣誉教授。在哈尔滨工业大学获工学学士、硕士和博士学位。曾任新加坡InfoTalk公司研究员，香港大学博士后研究员、荣誉助理教授，香港城市大学研究员，黑龙江大学计算机科学技术学院教授、副院长。主持多项国家级科研项目，发表多篇论文，成果获企业应用。研究方向包括自然语言处理、多模态认知计算、AI4Science。
+论文:Locate and explain: Joint multimodal emotion cause extraction and summarization in conversation
+Interleaved tool-call reasoning for protein function understanding
+Bidirectional GPT
+Rethinking hard training sample generation for medical image segmentation
+Bridging modalities: A unified framework for textual and multimodal dialogue discourse parsing
+Enhancing multi-modal aspect-based sentiment classification via emotional semantic-aware cross-modal relation inference
+LlaMol: A unified molecule designer via preference ranking and numerical enhancement
+Multimodal coreference resolution for Chinese social media dialogues: Dataset and benchmark approach
+CA-SAM2: SAM2-based context-aware network with auto-prompting for Nucleus instance segmentation
+Adaptive sparse softmax: An effective and efficient softmax variant

@@ -5,18 +5,18 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yuxin
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Evolution of electron energy distribution function in capacitively coupled plasma driven by very high frequency,Acta Phys. Sin.,SCIE ,2016,王俊,苏州大学,辛煜,苏州大学,65/055203
-2、Surface oxidation of multicrystalline silicon using atmospheric pressure plasma jet driven by radio frequency of 2.0MHz,Surface & Coating Technology,SCI,2016,唐成双,苏州大学,辛煜,苏州大学,304/537
-3、Electronegativity of capacitively coupled Ar O2 plasma excited at very high frequency,Acta Phys. Sin.,SCIE,2017,杨郁,苏州大学,辛煜,苏州大学,66/185202
-4、Reducing potential induced degradation of silicon solar cells by using a liquid oxidation technique,Solar Energy Materials and Solar Cells,SCI,2018,杨郁,苏州大学,辛煜,苏州大学,183/101
-5、Axial diagnosis of electron and negative ion behaviors in capacitively coupled O2-containing Ar plasma driven by 27.12MHz,Physics of Plasmas,SCI,2019,赵一帆,苏州大学,辛煜,苏州大学,26/033502
-6、Enhancing the electrochemical activity of an IrOx-Ta2O5/Ti anode via radiofrequency-driven rapid plasma annealing,Surface and Coatings Technology,SCI,2020,马晓萍,苏州大学,周瑜,操礼阳,辛煜,苏州大学
-7、脉冲射频容性耦合Ar等离子体的发射探针诊断,物理学报,SCIE,2020.4,周瑜,苏州大学,辛煜,苏州大学
-8、射频容性耦合Ar/O2等离子体的轴向诊断研究,物理学报,SCI,2021,操礼阳,苏州大学,马晓萍,邓丽丽,辛煜,苏州大学
-9、Heterostructure of core-shell IrCo@IrCoOx as efficient and stable catalysts for oxygen evolution reaction, Nanotechnology,SCI,2022,马晓萍,苏州大学,辛煜,苏州大学, 33（2022）125702
-10、Accelerated oxygen evolution kinetics on Ir-doped SrTiO3 perovskite by NH3 plasma treatment,Chinese Physics B,邓丽丽,辛煜,31,118201（2022）
-11、Enhancing surface adhesion of polytetrafluoroethylene induced by two-step in-situ treatment with radiofrequency capacitively coupled Ar/Ar CH4 NH3 plasma,Plasma Science and Technology,卢曼婷,辛煜,25,105503（2023）
-12、In situ synthesis of self-supported Ir/IrO2 heterostructures via Ar-H2 plasma  as efficient bifunctional catalyst for overall water splitting in acidic media,Applied Surface Science,马晓萍,辛煜,642,158558(2024)
+姓名:辛煜
+学院:物理科学与技术学院
+职称:教授
+研究方向:低温等离子体实验诊断、探针与光谱诊断、激光诱导光剥离诊断、低温等离子体与材料表面相互作用、金属氧化物的生长及其电催化特性、离子体源研制
+关键词:低温等离子体、等离子体诊断、探针诊断、光谱诊断、激光诱导光剥离、材料表面相互作用、电催化、金属氧化物
+个人简介:辛煜，教授，博士。1996年毕业于苏州大学物理系，2002年获凝聚态物理博士学位，2003年在南京大学物理系从事博士后研究。长期从事低温等离子体源技术及等离子体与材料表面相互作用研究，在等离子体发射光谱、探针诊断、激光诊断等方面经验丰富。已发表论文80余篇，获多项发明专利。目前研究重点是低温等离子体诊断及其与电催化材料、电池材料表面相互作用。
+论文:Evolution of electron energy distribution function in capacitively coupled plasma driven by very high frequency
+Surface oxidation of multicrystalline silicon using atmospheric pressure plasma jet driven by radio frequency of 2.0MHz
+Electronegativity of capacitively coupled Ar O2 plasma excited at very high frequency
+Reducing potential induced degradation of silicon solar cells by using a liquid oxidation technique
+Axial diagnosis of electron and negative ion behaviors in capacitively coupled O2-containing Ar plasma driven by 27.12MHz
+Enhancing the electrochemical activity of an IrOx-Ta2O5/Ti anode via radiofrequency-driven rapid plasma annealing
+脉冲射频容性耦合Ar等离子体的发射探针诊断
+射频容性耦合Ar/O2等离子体的轴向诊断研究
+Accelerated oxygen evolution kinetics on Ir-doped SrTiO3 perovskite by NH3 plasma treatment

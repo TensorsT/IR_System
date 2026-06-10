@@ -5,6 +5,13 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/dy1
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:段煜
+学院:物理科学与技术学院
+职称:副教授
+研究方向:活性物质、理论模拟、集体行为、极性集群系统、非互易活性物质系统、运动诱导相分离、活性湍流、拓扑缺陷动力学
+关键词:活性物质、理论模拟、集体行为、极性集群、非互易系统、运动诱导相分离、活性湍流、拓扑缺陷、统计物理、软物质
+个人简介:段煜，本科和博士毕业于南京大学物理学院，后于苏州大学物理科学与技术学院任科研助理，之后在德国哥廷根马克斯普朗克动力学和自组织所从事博士后研究，现为苏州大学物理科学与技术学院青年特聘教授（副教授）。主要研究兴趣为活性物质的理论模拟，涉及经典的极性集群系统和非互易活性物质系统。
+论文:Breakdown of Ergodicity and Self-Averaging in Polar Flocks with Quenched Disorder
+Dynamical Pattern Formation without Self-Attraction in Quorum-Sensing Active Matter: The Interplay between Nonreciprocity and Motility
+Phase Coexistence in Nonreciprocal Quorum-Sensing Active Matter
+Reentrant phase behavior in binary topological flocks with nonreciprocal alignment

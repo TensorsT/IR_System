@@ -5,24 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/wfzhu
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、CPFNet: Context pyramid fusion network for medical image segmentation,IEEE Transactions on Medical Imaging,SCI,2020.10,Feng shuanglang,Zhao Heming(共一）,Shi Fei,Zhu Weifang(共通), Chen Xinjian(共通),39(10): 3008-3018
-2、Multimodal affine registration for ICGA and MCSL fundus images of high myopia,Biomedical Optics Express,SCI,2020.11,Luo Gaohui,Chen Xinjian(共一),Shi Fei,Zhu Weifang(共通), Fan Ying(共通),11(8): 4443-4457
-3、Improved cGAN based linear lesion segmentation in high myopia ICGA images,Biomedical Optics Express,,SCI,2019.10,Jiang Hongjiu,Chen Xinjian(共一),Shi Fei,Zhu Weifang(共通), Fan Ying(共通),10(5): 2355-2366
-4、Semi-supervised capsule cGAN for speckle noise reduction in retinal OCT images,IEEE Transactions on Medical Imaging,SCI,2021.04,Wang Meng,Zhu Weifang（共一）,Yu Kai,Chen Xinjian,40(4):1168-1183
-5、Automatic staging for retinopathy of prematurity with deep feature fusion and ordinal classification strategy,IEEE Transactions on Medical Imaging,SCI,2021.07,Peng Yuanyuan,Zhu Weifang(共一),Chen Zhongyue,Chen Xinjian(通讯),40(7): 1750 - 1762
-6、A framework for classification and segmentation of branch retinal artery occlusion in SD-OCT,IEEE Transactions on Image Processing,SCI,2017.07,Guo Jingyun,Zhu Weifang(共一),Shi Fei,Chen Xinjian,26(7): 3518-3527
-7、Automated framework for intraretinal cystoid macular edema segmentation in three-dimensional optical coherence tomography images with macular hole,Journal of Biomedical Optics,SCI,2017.07,Zhu Weifang,Zhang Li(共一),Shi Fei,Chen Xinjian,22(7), 076014
-8、Automatic three-dimensional detection of photoreceptor ellipsoid zone disruption caused by trauma in the OCT,Scientific Reports,SCI,2016.05,Zhu Weifang,Chen Haoyu,Zhao Heming,Chen Xinjian,6:25433
-9、Macular hole and cystoid macular edema joint segmentation by two-stage network and entropy minimization,23rd International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI2020),EI,2020,Ye Lei,Zhu Weifang(共一),Bao Dengsen,Chen Xinjian,LNCS 12265, pp. 735–744
-10、GDCSeg-Net: general optic disc and cup segmentation network for multi-device fundus images,Biomedical Optics Express,SCI,2021.10,Zhu Qianlong ,Chen Xinjian ,Meng Qingquan ,Zhu Weifang (通讯),12(10): 6529-6544
-11、Global and Local Feature Reconstruction for Medical Image Segmentation,IEEE Transactions on Medical Imaging,SCI,2022.09,Song Jiahuan ,Chen Xianjian ,Zhu Qianlong , Zhu Weifang（通讯）,41(9):2273-2284
-12、面向高度近视条纹损伤的深监督特征聚合网络,中国图象图形学报,2022.03,谭晓,刁逸超,陈新建,朱伟芳(通讯),27(3):961-972
-13、Multi-class retinal fluid joint segmentation based on cascaded convolutional neural networks,Physics in Medcine and Biology,SCI,2022.06,Wei Tang,Yanqing Ye,Xinjian Chen,Weifang Zhu(通讯),67: 125018
-14、OCT2Former: A retinal OCT-angiography vessel segmentation transformer,Computer Methods and Programs in Biomedicine,SCI,2023.05,Xiao Tan,Xinjian Chen,Weifang Zhu(通讯),233: 107454
-15、Multi-scale and local feature guidance network for corneal nerve fiber segmentation,Physics in Medcine and Biology,SCI,2023.05,Wei Tang,Xinjian Chen,Weifang Zhu(通讯),68: 095026
-16、Strip and boundary detection multi-task learning network for segmentation of meibomian glands,Medical Physics,SCI,2025.05,Weifang Zhu（共一）,Dengfeng Liu（共一）,Xinyu Zhuang（共一）,Xinjian Chen,52, 1615–1628
-17、WRCANet: wavelet residual cross-attention network for meibomian gland segmentation,Biomedical Optics Express,SCI,2026.04,Zhaohui Yang（共一）,Weifang Zhu（共一）,Sanhua Xu（共一）,Xinjian Chen,17(4): 1591-1610
-18、Classification of myopic maculopathy based on knowledge distillation and self-supervised learning,Biomedical Signal Processing and Control,SCI,2026.02,Zelin Yu,Ying Fan,Weixin Ding,Weifang Zhu（通讯）,119, 109938
+姓名:朱伟芳
+学院:电子信息学院
+职称:教授
+研究方向:医学影像处理与分析、模式识别、深度学习、机器学习、计算机视觉
+关键词:医学影像处理、模式识别、深度学习、医学图像分割、视网膜OCT、多模态影像融合
+个人简介:朱伟芳，分别于2000年和2003年获得西安交通大学工学学士和硕士学位，2013年获苏州大学信号与信息处理专业工学博士学位。现为苏州大学电子信息学院教授、博导、院长助理，医学影像处理与分析实验室成员。主要从事医学影像处理与分析领域的研究，主持国家自然科学基金面上项目1项、江苏省自然科学基金面上项目1项，主持完成国家自然科学基金青年项目1项，参与多项国家级项目；发表SCI论文30余篇、EI会议论文30余篇；授权发明专利21项；获江苏省科学技术奖二等奖等。
+论文:CPFNet: Context pyramid fusion network for medical image segmentation
+Multimodal affine registration for ICGA and MCSL fundus images of high myopia
+Improved cGAN based linear lesion segmentation in high myopia ICGA images
+Semi-supervised capsule cGAN for speckle noise reduction in retinal OCT images
+Automatic staging for retinopathy of prematurity with deep feature fusion and ordinal classification strategy
+A framework for classification and segmentation of branch retinal artery occlusion in SD-OCT
+Automated framework for intraretinal cystoid macular edema segmentation in three-dimensional optical coherence tomography images with macular hole
+Automatic three-dimensional detection of photoreceptor ellipsoid zone disruption caused by trauma in the OCT
+Macular hole and cystoid macular edema joint segmentation by two-stage network and entropy minimization
+GDCSeg-Net: general optic disc and cup segmentation network for multi-device fundus images

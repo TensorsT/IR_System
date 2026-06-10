@@ -5,24 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/hhuang
 ---
-姓名:
-页面标题:电子信息学院
-论文:论文：
-1、Wenbo Yu, He Huang, Yi Shen, Lin Sun, Chongran Zhao, Gangxiang Shen, IamCSC: Intuitive assimilation modality driven crossmodal subspace clustering for land-cover identification and hyperspectral-LiDAR fusion, IEEE Transactions on Geoscience and Remote Sensing, vol. 63, article no. 5505013, 2025.
-2、Xintong Wei, Wenbo Yu, He Huang, Lin Sun, Chongran Zhao, Gangxiang Shen, MAMInet II: Illumination insensitive modalitywise assimilation guided multistage interaction network for hyperspectral and LiDAR joint classification , IEEE Transactions on Geoscience and Remote Sensing, vol. 62, article no. 5539513, 2024.
-3、Jingwei Jiang and He Huang, Complex-valued soft-log threshold reweighting for sparsity of complex-valued convolutional neural networks , Neural Networks, vol. 180, article no. 106664, 2024.
-4、Wenbo Yu, Lianru Gao, He Huang, Yi Shen and Gangxiang Shen, PID-HLfusion: Pluggable progressive illumination driven hyperspectral and LiDAR data fusion considering crossmodal geometric structures , IEEE Transactions on Instrumentation and Measurement, vol. 73, article no. 2529316, 2024
-5、Wenbo Yu, He Huang, Yi Shen, Gangxiang Shen, Crossmodal sequential interaction network for hyperspectral and LiDAR data joint classification , IEEE Geoscience and Remote Sensing Letters, vol. 21, article no. 5503305, 2024.
-6、Zhidong Wang and He Huang, Second-order structure optimization of fully complex-valued neural networks , IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8, no. 3, pp. 2349-2363, 2024.
-7、Weijing Zhao and He Huang, Adaptive stepsize estimation based accelerated gradient descent algorithm for fully complex-valued neural networks, Expert Systems With Applications, vol. 236, article number 121166, 2024.
-8、Wenbo Yu, He Huang, Miao Zhang, Yi Shen and Gangxiang Shen, Shadow mask driven multimodal intrinsic image decomposition for hyperspectral and LiDAR data fusion, IEEE Transactions on Geoscience and Remote Sensing, vol. 61, article no. 5525915, 2023.
-9、Wenbo Yu, Lianru Gao, He Huang, Yi Shen and Gangxiang Shen, HI2D2FNet: Hyperspectral intrinsic image decomposition guided data fusion network for hyperspectral and LiDAR classification, IEEE Transactions on Geoscience and Remote Sensing, vol. 61, article no. 5521715, 2023.
-10、Yuelin Wang, Zhidong Wang and He Huang, Stochastic adaptive CL-BFGS algorithms for fully complex-valued dendritic neuron model, Knowledge-Based Systems, vol. 277, article number 110788, 2023.
-11、Huanhuan Li, Wenbo Yu and He Huang, Strengthening transferability of adversarial examples by adaptive inertia and amplitude spectrum dropout, Neural Networks, vol. 165, pp. 925-937, 2023.
-12、Yongliang Zhang, He Huang and Gangxiang Shen, Adaptive CL-BFGS algorithms for complex-valued neural networks, IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 9, pp. 6313-6327, 2023.
-13、Wenbo Yu, He Huang and Gangxiang Shen, Deep spectral-spatial feature fusion based multi-scale adaptable attention network for hyperspectral feature extraction , IEEE Transactions on Instrumentation and Measurement, vol. 72, article no. 5500813, 2023.
-14、Ying Huang and He Huang, Stacked attention hourglass network based robust facial landmark detection, Neural Networks, vol. 157, pp. 323-335, 2023.
-15、Wenbo Yu, Miao Zhang, and He Huang, Accelerated adaptive feature balance technique based on TEMD for hyperspectral classification, IEEE Geoscience and Remote Sensing Letters, vol. 19, no. 6012105, 2022.
-16、Wenbo Yu, He Huang and Gangxiang Shen, Multilevel dual-direction modifying variational autoencoders for hyperspectral feature extraction, IEEE Geoscience and Remote Sensing Letters, vol. 19, no. 6010805, 2022.
-17、Jiamin Chu, Mingyi Gao, Xiaoli Liu, Meihua Bi, He Huang and Gangxiang Shen, Channel estimation based on complex-valued neural networks in IM/DD FBMC/OQAM transmission system, IEEE/OSA Journal of Lightwave Technology, vol. 40, no. 4, pp. 1055-1063, 2022.
-18、Lei Wang, Mingyi Gao, Yongliang Zhang, Fen
+姓名:黄鹤
+学院:电子信息学院
+职称:教授
+研究方向:神经网络、深度学习、智能优化、图像处理、模式识别
+关键词:神经网络、深度学习、智能优化、图像处理、模式识别
+个人简介:黄鹤，博士，苏州大学电子信息学院教授。研究方向包括神经网络、深度学习、智能优化、图像处理和模式识别。主持国家自然科学基金项目，曾获教育部自然科学奖二等奖、中国遥感优秀成果二等奖。在IEEE TNNLS、Neural Networks等重要期刊发表论文多篇，出版专著1部，授权发明专利多项。担任Neurocomputing、Circuits, Systems & Signal Processing、Neural Processing Letters编委。指导研究生获中国电子学会优秀硕士论文奖和江苏省优秀硕士学位论文奖。
+论文:IamCSC: Intuitive assimilation modality driven crossmodal subspace clustering for land-cover identification and hyperspectral-LiDAR fusion
+MAMInet II: Illumination insensitive modalitywise assimilation guided multistage interaction network for hyperspectral and LiDAR joint classification
+Complex-valued soft-log threshold reweighting for sparsity of complex-valued convolutional neural networks
+PID-HLfusion: Pluggable progressive illumination driven hyperspectral and LiDAR data fusion considering crossmodal geometric structures
+Crossmodal sequential interaction network for hyperspectral and LiDAR data joint classification
+Second-order structure optimization of fully complex-valued neural networks
+Adaptive stepsize estimation based accelerated gradient descent algorithm for fully complex-valued neural networks
+Shadow mask driven multimodal intrinsic image decomposition for hyperspectral and LiDAR data fusion
+HI2D2FNet: Hyperspectral intrinsic image decomposition guided data fusion network for hyperspectral and LiDAR classification
+Stochastic adaptive CL-BFGS algorithms for fully complex-valued dendritic neuron model

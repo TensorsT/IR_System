@@ -5,95 +5,18 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yangzhaohui
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-研究领域:主要从事高分子科学与化学，物理，材料科学的相关交叉领域研究，主要包括感光及热敏型高分子与纳米材料的自组装及功能化研究；高分子
-/
-碳纳米管复合功能纳米材料合成及应用研究；受限空间中物质的异常物理化学性质研究
-;
-高分子超薄膜表面动力学，纳米级聚合物薄膜形貌热演变，异常相行为研究等。
-基本信息
-杨朝晖
-职称：
-教授
-院部/部门：
-物理科学与技术学院
-学历：
-学位：
-毕业学校：
-毕业专业：
-联系方式
-通讯地址：
-邮政编码：
-电子邮箱：
-yangzhaohui@suda.edu.cn
-联系电话：
-13451606280
-传真号码：
-办公地点：
-物理科学与技术学院
-科学研究
-科研团队
-论文:1.    Liao GM, Pan YY, Wu Q, Li SY,Weng YY, Zhang XH,
-Yang ZH*
-, Guo J,Chen MZ, Tang MH and Ophelia Tsui,
-Anovel method to encapsulate a Au nanorods array in 15 nm radius multiwalledcarbon nanotubes
-,
-Nanoscale
-, 6, 14872-14876, 2014
-2.
-Li SY, Liao GM, Liu ZP, Pan YY,Wu Q, Weng YY, Zhang XH,
-Yang ZH*
-,OKC Tsui Enhanced water flux in vertically aligned carbon nanotube arrays andpolyethersulfone composite membranes,
-J.Mater. Chem. A
-, 2,12171-12176, 2014
-3.
-Liu ZP, Liao GM, Li SY, Pan YY,Wang XY, Weng YY, Zhang XH,
-Yang ZH
-*,Efficient encapsulation of conducting polyaniline chains inside carbonnanotubes: a new strategy to prepare endohedral CNT materials,
-J.Mater. Chem. A
-,
-1,13321-13327, 2013
-4.
-Nannan Dou,Hua Jiang,
-Xiaohua Zhang,*
-ZhaohuiYang,* Evolution of a Wavelike Undulation in Polymer Thin Films withImmobilized Film Spanning Nanoparticles
-Macromol. Chem. Phys.
-2014
-,
-215
-,1639
--
-1646.
-5.
-Jiang H, Dou NN, Fan GQ,
-Yang ZH
-, Zhang XH, Effect oftemperature gradient on liquid-liquid phase separation in a polyolefin blend,
-J. Chem.Phys.
-139,124903, 2013
-6.
-Yang ZH
-, Fujii, Y., Lee FK, Lam CH, Tsui O.K.C., Glass Transition Dynamicsand Surface Layer Mobility in Unentangled Polystyrene Films,
-Science
-, 328, 1676-1679, 2010.
-7.
-YangZH,
-Cao Z, Sun H, Li Y,
-Composite filmsbased on aligned carbon nanotube arrays and a poly (N-isopropyl acrylamide)hydrogel,
-Advanced Materials,
-20 (11), 2201, 2008.
-8.
-Yang ZH
-, Andrew C, Lam CH, Tsui O.K.C.,Glass Transition Dynamics and Surface Mobility of Entangled Polystyrene Filmsat Equilibrium,
-Macromolecules, 44, 8294-8300, 2011.
-9.
-Yang ZH
-, LamCH, Dimasi E, Buoet N, Jordan-Sweet J, Tsui O.K.C.,
-Methodto measure the viscosity of nanometer liquid films
-from
-the surfacefluctuations, Applied Physics Letters, 94 (25), 251906, 2009.
-2014, 6 (24), 14872 -14876
-荣誉奖励
-1、2006年获教育部"高等学校科学技术奖"二等奖,教育部,第11完成人,2006,二等奖
-2、江苏省特聘教授计划,2011
-3、江苏省创新团队,2013,核心成员
+姓名:杨朝晖
+学院:物理科学与技术学院
+职称:教授
+研究方向:感光及热敏型高分子与纳米材料自组装及功能化、高分子、碳纳米管复合功能纳米材料合成及应用、受限空间中物质异常物理化学性质、高分子超薄膜表面动力学、纳米级聚合物薄膜形貌热演变、异常相行为研究
+关键词:高分子、纳米材料、自组装、碳纳米管、受限空间、超薄膜、表面动力学、相行为
+个人简介:杨朝晖，苏州大学物理科学与技术学院教授。主要从事高分子科学与化学、物理、材料科学的交叉领域研究，包括感光及热敏型高分子与纳米材料的自组装及功能化、高分子/碳纳米管复合功能纳米材料合成及应用、受限空间中物质的异常物理化学性质、高分子超薄膜表面动力学、纳米级聚合物薄膜形貌热演变及异常相行为等。
+论文:A novel method to encapsulate a Au nanorods array in 15 nm radius multiwalled carbon nanotubes
+Enhanced water flux in vertically aligned carbon nanotube arrays and polyethersulfone composite membranes
+Efficient encapsulation of conducting polyaniline chains inside carbon nanotubes: a new strategy to prepare endohedral CNT materials
+Evolution of a wavelike undulation in polymer thin films with immobilized film spanning nanoparticles
+Effect of temperature gradient on liquid-liquid phase separation in a polyolefin blend
+Glass transition dynamics and surface layer mobility in unentangled polystyrene films
+Composite films based on aligned carbon nanotube arrays and a poly (N-isopropyl acrylamide) hydrogel
+Glass transition dynamics and surface mobility of entangled polystyrene films at equilibrium
+Method to measure the viscosity of nanometer liquid films from the surface fluctuations

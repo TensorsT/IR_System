@@ -5,86 +5,19 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/sudalike
 ---
-姓名:外国语学院
-页面标题:外国语学院
-研究领域:西方修辞学、认知语言学
-个人简介:李克，山东沂水人，文学博士，苏州大学特聘教授，博士生导师；英文系主任；入选江苏省
-“
-333高层次人才工程
-”
-；中国修辞学会常务理事，中国英汉语比较研究会认知语言学专业委员会理事，中国高等教育学会外语教学研究分会理事；完成国家社科基金项目
-3
-项（其中重点项目
-1
-项），中国博士后特别资助、省社科等课题
-3
-项；出版专著
-2
-部、译著
-3
-部与教材
-1
-部；发表
-SSCI
-、
-CSSCI
-等期刊收录论文多
-篇；获山东省高等学校优秀科研成果奖
-2
-项；多次荣获山东省优秀学士学位论文指导教师、山东省优秀硕士论文指导教师等称号。主要研究领域为西方修辞学、认知语言学。指导外国语言学及应用语言学专业的博士与硕士研究生，主持两项中华学术外译项目并指导翻译硕士，分别为本科生与研究生开设英语议论文写作、英语修辞学、应用语言学、修辞学原理等课程。
-论文:1、Chasm and net: metaphors in elder-related texts in a Chinese economic newspaper,Humanities and Social Sciences Communications,SSCI,2024,李克
-2、A hidden population: A rhetorical genre analysis of the posts in the Baidu depression community.,Social Sciences and Medicine,SSCI,2024,李克
-3、Youthful ambivalence towards a good life: rhetorical anxieties as affective vacillations in Hegang.,Quarterly Journal of Speech.,SSCI,2024,李克
-4、Inviting Understanding: a portrait of invitational rhetoric.,Studia Neophilologica. ,A&HCI,2023,李克
-5、Are Zhuzi Contentious? A Rhetorical Investigation of Speech/Word Radicals in Ancient Chinese Texts.,Digital Scholarship in the Humanities,A&HCI,2023,李克
-6、So you choose to “Lie Flat?” “Sang-ness,” affective economies, and the “Lying Flat” movement. ,Quarterly Journal of Speech,SSCI,2023,李克
-7、Differentiated ‘Others’: Representations of the European Union and the United States from Chinese State Media in COVID-19-related News Reports.,Sage Open,SSCI,2022,李克
-8、Proximization: A critical cognitive analysis of health security discourse,Text & Talk,SSCI,2022,李克
-9、Review of Critical Applied Linguistics: A Critical Reintroduction,Journal of Language and Politics.,SSCI,2022,李克
-10、A corpus-based study of the representation of Islam and Muslims in American media: Critical discourse analysis approach,International Communication Gazette.,SSCI,2022,李克
-11、Power and gender: Metaphors in mergers and acquisitions texts in a Chinese financial paper.,Chinese Journal of Language and Politics,ESCI,2021,李克
-12、Book review of Towards A Better Understanding of Metonymy. ,Metaphor and Symbol,SSCI,2021,李克
-13、Book review of Critical Discourse Analysis of Chinese Advertisement: Case Studies of Household Appliance Advertisements from 1981 to 1996. ,Discourse & Society,SSCI,2021,李克
-14、Review of Persuasions in Specialised Discourses. ,Discourse Studies.,SSCI,2021,李克
-15、中国对外援助话语的共情修辞机制及效果探究，,《扬州大学学报（人文社科版）,2024,李克
-16、 翻译修辞批评视域下的学术外译研究，,《西安外国语大学学报》,CSSCI扩展版,2023,李克
-17、外语学习者国家意识培育的修辞建构，,《山东外语教学》,北大核心,2023,李克
-18、超越与连接：邀请修辞与中国古典修辞思想的哲学反思，,《东北师大学报（社科版）》,CSSCI,2023,李克
-19、修辞生态：西方修辞研究的生态转向，,《当代修辞学》,CSSCI,2023,李克
-20、比较修辞视域下中国古典修辞研究的起点、焦点与落脚点，,《中国海洋大学学报（社科版）》,2023,李克
-21、中国式现代化话语对外传播的共情修辞路径，,《对外传播》,CSSCI扩展版,2023,李克
-22、“全球性对话与当代修辞学”会讯，,《语言文字应用》,CSSCI,2022,李克
-23、新修辞学视域下国外女性主义修辞研究的可视化分析，,《天津外国语大学学报》,2023,李克
-24、推动中国优秀传统文化的对外传播——基于共情修辞理论的探讨，,《中国社会科学报》,2022,李克
-25、叙事共情的修辞机制，,《外国语》,CSSCI,2022,李克
-26、 英语专业学生转喻能力对其阅读理解能力的影响探究，,《中国外语》,CSSCI,2022,李克
-27、基于扎根理论的肯尼斯.伯克修辞能力观，,《当代修辞学》,CSSCI,2022,李克
-28、人类命运共同体理念的国际传播：共情修辞路径，,《山东大学学报（哲学社会科学版）,CSSCI,2022,李克
-29、共情修辞视域下的国家外部认同构建，,《华东师范大学学报（哲学社会科学版）,CSSIC,2022,李克
-30、翻译修辞视域下的译本认同建构，,《外国语文》,北大核心,2022,李克
-31、识解视域下转喻的在场研究，,《外语学刊》,CSSCI扩展版,2021,李克
-32、公众国家认同的修辞建构，,《人民论坛》,CSSCI,2021,李克
-33、英语学习者的写作修辞能力构成要素及其调查研究，,《外语界》,CSSCI,2021,李克
-34、共情修辞的学理渊源与机制构建，,《当代修辞学》,CSSCI,2021,李克
-35、将共情贯穿于党史教育全过程，,《光明网》,2021,李克
-36、共情修辞研究助力民心沟通, ,中国社会科学报,2020,李克
-37、修辞批评视域下治国理政生态话语的隐喻研究,,湖南科技大学学报(社会科学版）,CSSCI,2021,李克
-38、新修辞学视域下国外“修辞人格”研究的动态分析——基于Citespace的可视化分析, ,当代修辞学,CSSCI,2020,李克
-39、英语专业高年级学生转喻能力与写作水平之间的互动关系研究,, 外语教学,CSSCI,2019,李克
-40、数字媒介语境下英语专业学生的修辞能力现状探究, ,外语电化教学,CSSCI,2019,李克
-41、英语专业学生转喻能力对翻译能力的影响探究, ,外语界,,CSSCI,2017,李克
-42、国外教学环境下中国留美大学生修辞能力发展状况探究, ,中国外语,CSSCI,2016,李克
-43、修辞批评视域下的批评转喻分析模式新探,,现代外语,CSSCI,2015,李克
-44、修辞批评再认知:内涵与外延, ,外语教学,CSSCI,2014,李克
-45、布斯的隐喻观与西方修辞学, ,中南大学学报(社会科学版),CSSCI,2014,李克
-46、批评转喻分析与修辞情境研究, ,东北大学学报(社会科学版),CSSCI,2014,李克
-47、转喻能力的构建及应用性研究——以英语阅读教学为例, ,外语电化教学,CSSCI,2013,李克
-48、批评转喻分析与辞屏研究,  ,外语教学,CSSCI,2012,李克
-49、批评转喻分析模式试探, ,当代修辞学,CSSCI,2011,李克
-50、哲学视域下的转喻研究, ,北京理工大学学报(社会科学版),CSSCI,2011,李克
-51、修辞权威视域下的社会指示语研究,, 外国语,CSSCI,2010,李克
-52、英语语篇名词回指的转喻研究, ,外语研究,CSSCI,2008,李克
-53、高校英语语言学教材的建设与思考, ,外语界,CSSCI,2008,李克
-54、英语语篇中代词回指的认知转喻研究，,北京第二外国语学院学报,2006,李克
-55、The Construction of Anti-pandemic Image: A Semiotic Study of the Role Metaphors Play in Pandemic Discourse in China,Language and Semiotic Studies,2024,李克
-56、Beyond “made in China”: visual rhetoric, and cultural functionality in translating the traditional Chinese totem—Loong龙,Semiotica,A&HCI,2024,李克
+姓名:李克
+学院:外国语学院
+职称:教授
+研究方向:西方修辞学、认知语言学
+关键词:西方修辞学、认知语言学、共情修辞、转喻、修辞批评、隐喻、话语分析、外语教学
+个人简介:李克，山东沂水人，文学博士，苏州大学特聘教授，博士生导师；英文系主任；入选江苏省“333高层次人才工程”；中国修辞学会常务理事，中国英汉语比较研究会认知语言学专业委员会理事，中国高等教育学会外语教学研究分会理事；完成国家社科基金项目项（其中重点项目项），中国博士后特别资助、省社科等课题项；出版专著部、译著部与教材部；发表SSCI、CSSCI等期刊收录论文多篇；获山东省高等学校优秀科研成果奖项；多次荣获山东省优秀学士学位论文指导教师、山东省优秀硕士论文指导教师等称号。主要研究领域为西方修辞学、认知语言学。
+论文:Chasm and net: metaphors in elder-related texts in a Chinese economic newspaper
+A hidden population: A rhetorical genre analysis of the posts in the Baidu depression community
+Youthful ambivalence towards a good life: rhetorical anxieties as affective vacillations in Hegang
+Inviting Understanding: a portrait of invitational rhetoric
+Are Zhuzi Contentious? A Rhetorical Investigation of Speech/Word Radicals in Ancient Chinese Texts
+So you choose to “Lie Flat?” “Sang-ness,” affective economies, and the “Lying Flat” movement
+Differentiated ‘Others’: Representations of the European Union and the United States from Chinese State Media in COVID-19-related News Reports
+Proximization: A critical cognitive analysis of health security discourse
+Review of Critical Applied Linguistics: A Critical Reintroduction
+A corpus-based study of the representation of Islam and Muslims in American media: Critical discourse analysis approach

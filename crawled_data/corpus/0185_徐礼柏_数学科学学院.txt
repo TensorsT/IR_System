@@ -1,0 +1,21 @@
+doc_id: 185
+name: 徐礼柏
+career: 讲师
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/xlb
+---
+姓名:徐礼柏
+学院:数学科学学院
+职称:讲师
+研究方向:变分推断、复杂数据统计推断、微生物数据随机过程建模与统计分析、复合似然推断、随机微分方程似然推断、生成式AI、Wasserstein变分推断
+关键词:变分推断、复合似然、随机微分方程、生成式AI、Wasserstein距离、微生物数据、统计推断
+个人简介:徐礼柏，苏州大学数学科学学院讲师、硕士生导师。2013年获江苏师范大学理学学士，2016年获江苏师范大学概率统计硕士，2020年获南开大学博士，2023年完成多伦多大学博士后研究。研究领域包括变分推断、复杂数据的统计推断、微生物数据的随机过程建模与统计分析。已在Statistica Sinica、The American Journal of Clinical Nutrition等期刊发表论文20余篇。
+论文:A note on information bias and efficiency of composite likelihood
+Gradual variance change point detection with a smoothly changing mean trend
+Existence and asymptotic behaviour of positive solutions to a stochastic multispecies Holling type II model
+Dietary leucine requirement of older men and women is higher than current recommendations
+Proportional stochastic generalized Lotka-Volterra model with an application to learning microbial community structures
+Asymptotic behaviour of a non-autonomous multispecies Holling type II model with a complex type of noises
+Protein intake affects erythrocyte glutathione synthesis in young healthy adults in a repeated-measures trial
+Gaussian variational approximation with composite likelihood for crossed random effect models

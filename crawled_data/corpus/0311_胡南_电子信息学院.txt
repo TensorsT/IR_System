@@ -5,22 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/hunan
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Xinyu Yao, Zhenfeng Cheng, Shengsheng Cai, Dongyang Xu, Jianming Ma, Nan Hu*, Robust J-peak detection from ballistocardiogram using diffusion-based model[J], IEEE Transactions on Instrumentation&Measurement, 2026, 75: 4002513.
-2、Tingxin Guan, Zhi Chen, Dongyang Xu, Min Zeng, Chao Zuo, Xiang Wang, Shengsheng Cai, Jiajun Wang, Nan Hu*, LaCHeST: An AI-assisted auscultation tool for pediatric congenital heart diseases screening and validated via large-scale screening tasks[J], Biomedical Signal Processing and Control, 2025, 103: 107474.
-3、Tianqi Yang, Nan Hu#, Shengsheng Cai and Dongyang Xu, End-to-end EEG artifact removal method via nested generative adversarial network[J], Biomedical Physics & Engineering Express, 2025, 11(6): 065054.
-4、Mengting Zhu, Qianwen Wang, Shibo Zhu, Limin Zhu, Dongyang Xu, Nan Hu, Like You, Shengsheng Cai, and Yonghuai Li, The airway hyperresponsiveness prediction value of digitalized lung sound collected during forced expiration in bronchial provocation test[J], Expert Review of Respiratory Medicine, 2025, 19(5): 483-491.
-5、Doudou Bian, Yue Ma, Jiayin Huang, Dongyang Xu, Zhi Wang, Shengsheng Cai, Jiajun Wang, Nan Hu*, Deep-learning-based motor imagery EEG classification by exploiting the functional connectivity of cortical source imaging[J], Signal, Image and Video Processing, 2024, 18(4): 2991-3007.
-6、Haoyang Zheng, Wei Zou, Nan Hu, Jiajun Wang*, Joint segmentation of tumors in 3D PET-CT images with a network fusing multi-view and multi-modal information[J], Physics in Medicine & Biology, 2024, 69: 205009.
-7、Li Zhang, Zhenfeng Cheng, Dongyang Xu, Zhi Wang, Shengsheng Cai, Nan Hu, Jianming Ma, Xueqin Mei*, Developing an AI-assisted digital auscultation tool for automatic assessment of the severity of mitral regurgitation: protocol for a cross-sectional, non-interventional study[J], BMJ Open, 2024, 14: e074288.
-8、Chunjian Yang, Neng Dai, Zhi Wang, Shengsheng Cai, Jiajun Wang, Nan Hu*, Cardiopulmonary auscultation enhancement with a two-stage noise cancellation approach[J], Biomedical Signal Processing and Control, 2023, 79: 104175.
-9、Chunjian Yang, Nan Hu#, Dongyang Xu, Zhi Wang, Shengsheng Cai, Monaural cardiopulmonary sound separation via complex-valued deep autoencoder and cyclostationarity[J], Biomedical Physics & Engineering Express, 2023, 9: 035002.
-10、Tao Tao, Shiqi Lu, Nan Hu, Dongyang Xu, Chenyang Xu, Fajun Li, Qin Wang, Yuan Peng*, Prognosis of comatose patients with reduced EEG montage by combining quantitative EEG features in various domains[J], Frontiers in Neuroscience, 2023, 17: 1302318.
-11、Neng Dai, Zhangwei Chen, Fan Zhou, You Zhou, Nan Hu, Shaofeng Duan, Wei Wang, Longjiang Zhang, Juying Qian, Junbo Ge*, Coronary CT angiography-derived plaque characteristics and physiologic patterns for peri-procedural myocardial infarction and subsequent events [J], European Heart Journal - Cardiovascular Imaging, 2023, jead025.
-12、Huaying Liu, Guanzhong Gong, Wei Zou, Nan Hu, Jiajun Wang*, Topologically preserved registration of 3D CT images with deep networks[J], Physics in Medicine & Biology, 2023, 68: 035010.
-13、Gangcheng Cai, Huaying Liu, Wei Zou, Nan Hu, Jiajun Wang*, Registration of 3D medical images based on unsupervised cooperative cascade of deep networks[J], Biomedical Signal Processing and Control, 2023, 82: 104594.
-14、Limei Shuai, Wei Zou, Nan Hu, Xin Gao, Jiajun Wang*, An advanced W-shaped network with adaptive multi-scale supervision for osteosarcoma segmentation[J], Biomedical Signal Processing and Control, 2023, 80: 104243.
-15、Mingwen Qu, Chunqi Chang, Jiajun Wang, Jianling Hu, Nan Hu*, Nonnegative block-sparse Bayesian learning algorithm for EEG brain source localization[J], Biomedical Signal Processing and Control, 2022, 77: 103838.
-16、Neng Dai, Zhangwei Chen, Fan Zhou, You Zhou, Nan Hu, Shaofeng Duan, Wei Wang, Yongfu Yu, Longjiang Zhang, Juying Qian and Junbo Ge*, Association of Lipoprotein (a) with Coronary CTA Assessed High-Risk Coronary Disease Attributes and Cardiovascul
+姓名:胡南
+学院:电子信息学院
+职称:副教授
+研究方向:生物医学信号处理、人工智能、心肺音信号处理、心肺疾病AI辅助诊断、脑电信号处理、脑机接口、医疗装备研发
+关键词:生物医学信号处理、人工智能、心肺音信号处理、脑电信号、脑机接口、医疗装备、深度学习、心脏疾病诊断
+个人简介:胡南，苏州大学电子信息学院副教授，工学博士。2008年获中国科学技术大学电子信息工程学士学位，2013年获中国科学技术大学信号与信息处理博士学位。2013-2014年于中国电子科技集团公司第十四研究所任工程师，2014年起在苏州大学电子信息学院工作。主要研究方向为生物医学信号处理与人工智能、心肺音信号处理与AI辅助诊断、脑电信号处理与脑机接口等。
+论文:Robust J-peak detection from ballistocardiogram using diffusion-based model
+LaCHeST: An AI-assisted auscultation tool for pediatric congenital heart diseases screening and validated via large-scale screening tasks
+End-to-end EEG artifact removal method via nested generative adversarial network
+The airway hyperresponsiveness prediction value of digitalized lung sound collected during forced expiration in bronchial provocation test
+Deep-learning-based motor imagery EEG classification by exploiting the functional connectivity of cortical source imaging
+Joint segmentation of tumors in 3D PET-CT images with a network fusing multi-view and multi-modal information
+Developing an AI-assisted digital auscultation tool for automatic assessment of the severity of mitral regurgitation: protocol for a cross-sectional, non-interventional study
+Cardiopulmonary auscultation enhancement with a two-stage noise cancellation approach
+Monaural cardiopulmonary sound separation via complex-valued deep autoencoder and cyclostationarity
+Prognosis of comatose patients with reduced EEG montage by combining quantitative EEG features in various domains

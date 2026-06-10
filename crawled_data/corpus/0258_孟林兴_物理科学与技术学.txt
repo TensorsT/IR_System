@@ -5,18 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/mlx
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Atomic layer deposition triggered Fe-In-S cluster and gradient energy band in ZnInS photoanode for improved oxygen evolution reaction,Nature Communications,SCI一区,2021-09,孟林兴,苏州大学物理科学与技术学院,Jinlu He,Xiaolong Zhou,李亮,苏州大学物理科学与技术学院,5247,1
-2、Designing a Transparent CdIn2S4/In2S3 Bulk-Heterojunction Photoanode Integrated with a Perovskite Solar Cell for Unbiased Water Splitting,Advanced Materials,SCI一区,2020-06,孟林兴,苏州大学物理科学与技术学院,王旻,孙浩轩,李亮,苏州大学物理科学与技术学院,32/30/2002893,1
-3、A Plasma-Triggered O−S Bond and P−N Junction Near the Surface of a SnS2 Nanosheet Array to Enable Efficient Solar Water Oxidation,Angewandte Chemie International Edition,SCI一区,2019-9,孟林兴,苏州大学物理科学与技术学院, Xiaolong Zhou,Siyu Wang,李亮,苏州大学物理科学与技术学院,58/46/16668-16675,1
-4、Simultaneous Manipulation of O‐Doping and Metal Vacancy in Atomically Thin Zn10In16S34 Nanosheet Arrays toward Improved Photoelectrochemical Performance,Angewandte Chemie International Edition,SCI一区,2018-11,孟林兴,苏州大学物理科学与技术学院,Dewei Rao,田维,李亮,苏州大学物理科学与技术学院,57/51/16882-16887,1
-5、Doping‐Induced Amorphization, Vacancy, and Gradient Energy Band in SnS2 Nanosheet Arrays for Improved Photoelectrochemical Water Splitting,Angewandte Chemie International Edition,SCI一区,2019-04,孟林兴,苏州大学物理科学与技术学院,Siyu Wang,曹风人,李亮,苏州大学物理科学与技术学院,58/20/6761-6765,1
-6、Synergistic effect of atomic layer deposition-assisted cocatalyst and crystal facet engineering in SnS2 nanosheet for solar water oxidation,Science Bulletin,SCI一区,2022-07,孟林兴,苏州大学物理科学与技术学院,Cheng Cheng,Run Long,李亮,苏州大学物理科学与技术学院,67/15/1562-1571,1
-7、Ni/Fe Codoped In2S3 Nanosheet Arrays Boost Photo‐Electrochemical Performance of Planar Si Photocathodes,Advanced Energy Materials,SCI一区,2019-08,孟林兴,苏州大学物理科学与技术学院,Jinlu He,田维,李亮,苏州大学物理科学与技术学院,9/38/1902135,1
-8、TiO2 ALD decorated CuO/BiVO4 p-n heterojunction for improved photoelectrochemical water splitting,Journal of Materials Science & Technology,SCI一区,2019-03,孟林兴,苏州大学物理科学与技术学院,田维,武芳丽,李亮,苏州大学物理科学与技术学院,35/8/1740-1746,1
-9、Porphyrins-Assisted Cocatalyst Engineering with Co?O?V Bond in BiVO4 Photoanode for Efficient Oxygen Evolution Reaction,Advanced Science,SCI一区,2023-01,孟林兴,苏州大学物理科学与技术学院,吕遵严,许卫卫,李亮,苏州大学物理科学与技术学院,2206729,1
-10、Recent research progress on operational stability of metal oxide/sulfide photoanodes in photoelectrochemical cells,Nano Research Energy,SCI新刊,2022-07,孟林兴,苏州大学物理科学与技术学院,李亮,李亮,苏州大学物理科学与技术学院,1/2/9120020,1
-11、A high-activity bimetallic OER cocatalyst for efficient photoelectrochemical water splitting of BiVO4,Nanoscale,SCI一区,2020-03,胡若琳,苏州大学材料与化学化工学部,孟林兴,Jiaxu Zhang,吴涛,苏州大学材料与化学化工学部,12/16/8875-8882,2
-12、Wrapping BiVO4 with chlorophyll for greatly improved photoelectrochemical performance and stability,Science China Materials,SCI一区,2022-02,吕遵严,苏州大学物理科学与技术学院,孟林兴,曹风人,李亮,苏州大学物理科学与技术学院,65/1215-1521,2
+姓名:孟林兴
+学院:物理科学与技术学院
+职称:副教授
+研究方向:光电化学水分解、光催化产氢、半导体纳米结构设计、无偏压水分解、太阳能-氢能转换器件
+关键词:光电化学水分解、光催化产氢、半导体纳米阵列、ZnIn2S4、助催化剂、无偏压水分解、太阳能-氢能转换、光阳极
+个人简介:孟林兴，苏州大学物理科学与技术学院副教授/副研究员、校优秀青年学者。主要研究方向为光电化学水分解、光催化产氢材料与器件。近年来在Nature Communications、Advanced Materials、Angewandte Chemie International Edition等高水平期刊发表多篇论文，获得江苏省双创博士、江苏省优秀毕业生、苏州大学优秀博士论文等荣誉。长期招收硕士生，欢迎对光电器件、光催化领域感兴趣的同学加入。
+论文:Atomic layer deposition triggered Fe-In-S cluster and gradient energy band in ZnInS photoanode for improved oxygen evolution reaction
+Designing a Transparent CdIn2S4/In2S3 Bulk-Heterojunction Photoanode Integrated with a Perovskite Solar Cell for Unbiased Water Splitting
+A Plasma-Triggered O−S Bond and P−N Junction Near the Surface of a SnS2 Nanosheet Array to Enable Efficient Solar Water Oxidation
+Simultaneous Manipulation of O‐Doping and Metal Vacancy in Atomically Thin Zn10In16S34 Nanosheet Arrays toward Improved Photoelectrochemical Performance
+Doping‐Induced Amorphization, Vacancy, and Gradient Energy Band in SnS2 Nanosheet Arrays for Improved Photoelectrochemical Water Splitting
+Synergistic effect of atomic layer deposition-assisted cocatalyst and crystal facet engineering in SnS2 nanosheet for solar water oxidation
+Ni/Fe Codoped In2S3 Nanosheet Arrays Boost Photo‐Electrochemical Performance of Planar Si Photocathodes
+TiO2 ALD decorated CuO/BiVO4 p-n heterojunction for improved photoelectrochemical water splitting
+Porphyrins-Assisted Cocatalyst Engineering with Co?O?V Bond in BiVO4 Photoanode for Efficient Oxygen Evolution Reaction
+Recent research progress on operational stability of metal oxide/sulfide photoanodes in photoelectrochemical cells

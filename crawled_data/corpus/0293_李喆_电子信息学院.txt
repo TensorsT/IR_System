@@ -5,5 +5,18 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/lizhe/index.html
 ---
-姓名:Zhe Li
-页面标题:Zhe Li
+姓名:李喆
+学院:电子信息学院
+职称:研究员
+研究方向:复数与多元信号处理、复数机器学习、卫星通信、物联网、电磁信号感知计算、目标检测、测距定位、自主导航
+关键词:复数信号处理、非圆信号、自适应滤波、全双工、MIMO、电磁感知、OFDM、RFID、深度学习
+论文:Time-averaged ACLMS algorithm for improper cyclostationary inputs: Performance analysis and application to interference-limited systems
+基于星链下行信号的多普勒定位方法
+Sum-rate maximization for uplink multi-user NOMA with improper Gaussian signaling: A deep reinforcement learning approach
+Improper Gaussian signaling for secrecy transmission in RIS-aided downlink NOMA
+一种非合作通信场景下的 OFDM 数据帧检测算法
+An augmented complex-valued gradient-descent total least-squares algorithm for noncircular signals
+Widely linear matched filter: A lynchpin towards the interpretability of complex-valued CNNs
+Starlink下行信号的多普勒效应影响分析
+An affine combination of two augmented CLMS adaptive filters for processing noncircular Gaussian signals
+A layer-wise distribution analysis of the WLMMSE-SIC MIMO receiver for rectilinear or quasi-rectilinear signals

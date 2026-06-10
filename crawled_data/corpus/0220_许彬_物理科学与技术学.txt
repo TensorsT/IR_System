@@ -5,71 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/binxu19/index.html
 ---
-姓名:MatSim Group
-页面标题:MatSim Group
-研究领域:计算凝聚态物理。主要研究方向包括：
-铁性体系：铁电、反铁电、磁性、磁电耦合、拓扑结构、储能、电卡效应等
-输运性质：玻尔兹曼方程、电声耦合、非谐声子等
-计算方法：密度泛函理论、有效哈密顿、机器学习力场等
-教育经历|Education
-本科
-中国科学技术大学 (1998-2003) |
-B.S.
-University of Science and Technology of China (1998-2003)
-博士
-(美国)奥本大学 (2003-2009) |
-Ph.D.
-Auburn University (USA) (2003-2009)
-工作经历|Employment
-教授
-苏州大学 (2019-至今) |
-Professor
-Soochow University (China) (2019-present)
-研究助理教授
-(美国)阿肯色大学 (2017-2018) |
-Research Assistant Professor
-University of Arkansas (USA) (2017-2018)
-研究助理
-(美国)阿肯色大学 (2014-2017) |
-Research Associate
-University of Arkansas (USA) (2014-2017)
-博士后
-(比利时)列日大学 (2011-2013) |
-Postdoctoral Researcher
-Université de Liège (Belgium) (2011-2013)
-博士后
-(美国)得州大学阿灵顿分校 (2009-2010) |
-Postdoctoral Researcher
-University of Texas at Arlington (USA) (2009-2010)
-基金项目
-国家自然科学基金面上项目（主持，2026-2029）
-国家自然科学基金面上项目（主持，2021-2024）
-国家自然科学基金国际(地区)合作交流NSFC-FNRS(中比)项目（主持，2024-2025）
-江苏省自然科学基金面上项目（主持，2020-2023）
-江苏省双创人才（主持，2020-2023）
-苏州大学特聘教授启动经费（主持）
-国家⾃然科学基⾦联合基⾦项目（2025-2028）
-江苏省自然科学基金重大项目（2022-2024）
-江苏省双创团队（2022-2025）
-科研|Research
-本课题组致力于发展和应用基于第一性原理的计算方法，如密度泛函理论（Density Functional Theory）、有效哈密顿方法（effective Hamiltonian method）、机器学习势等，研究与应用相关的材料基本性质。研究兴趣侧重于从机理上理解已知材料和设计具有特殊性质或可实现特殊功能的新材料，如铁电、多铁、磁性、热电材料等。
-Our research is to use first-principles-based techniques such as density functional theory, effective Hamiltonian, machine-learning interatomic potentials, and phenomenological method to study materials of fundamental and technological interests. I am interested in understanding and designing materials with intriguing properties and functionalities, e.g., ferroelectrics, multiferroics, and thermoelectrics. Another goal is to develop or improve computational methodologies to achieve state-of-the-art accuracy and efficiency.
-成员|People
-课题组负责人:
-许彬（教授） |
-PI:
-Prof. Bin XU
-在读博士生:
-马雪 |
-Ph.D. student:
-Xue MA
-在读硕士生:
-陈诗巍 俞泓泽 顾帅 王义萱 |
-Master student:
-Shiwei CHEN, Hongze YU, Shuai GU, Yixuan WANG
-在读本科生:
-朱熠尘 江卓轩 陈思远 |
-Undergraduate student:
-Yichen ZHU, Zhuoxuan JIANG, Siyuan CHEN
-已毕业学生:
-范宁波(博士,2025), 王鑫(博士,2024); 夏梦慧(硕
+姓名:许彬
+学院:物理科学与技术学院
+职称:教授
+研究方向:铁性体系、输运性质、计算方法
+关键词:计算凝聚态物理、铁电、反铁电、磁性、磁电耦合、输运性质、密度泛函理论、有效哈密顿、机器学习力场、热电材料
+个人简介:从事计算凝聚态物理研究和基础物理教学工作。已在SCI期刊发表论文100余篇，引用7000余次。担任PRL等学术期刊审稿人。
+论文:Polar-Displacement Mechanism for Negative Poisson’s Ratio in Ferroelectric Perovskites
+Antiferroelectricity in BiFeO3 Thin Films
+Magnetic topological textures in BiFeO3 with ferroelectric domain walls
+On-the-fly Machine Learning-Assisted High Accuracy Second-Principles Model for BaTiO3
+Exposed Cocatalyst Interface with Cr–In Bonding for Efficient Solar-Driven Fuel Production
+Temperature-dependent processes of electric-induced antiferroelectric-to-ferroelectric phase transition
+Ideal antiferroelectricity with large digital electrostrain in PbZrO3 epitaxial thin films
+Electrocaloric effects in ferroelectrics and multiferroics from first principles
+Electrocaloric effect in strained bismuth ferrite under bipolar field
+Large enhancement of ferroelectric properties of perovskite oxides via nitrogen incorporation

@@ -1,10 +1,23 @@
 doc_id: 177
 name: 杨大伟
-career: 
+career: 教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/yangdw
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
+姓名:杨大伟
+学院:数学科学学院
+职称:教授
+研究方向:微分遍历论、微分动力系统、有奇点向量场、SRB测度、物理测度、一致双曲系统、弱双曲系统、遍历论
+关键词:微分遍历论、微分动力系统、有奇点向量场、SRB测度、物理测度、双曲系统、弱双曲系统、遍历论
+个人简介:杨大伟教授主要从事微分遍历论与有奇点向量场的研究，关注双曲与弱双曲系统的SRB测度、物理测度等课题，主持多项国家自然科学基金项目，在相关领域发表多篇学术论文。
+论文:SRB measures for mostly expanding partially hyperbolic diffeomorphisms via the variational approach
+Lyapunov optimizing measures and periodic measures for C2 expanding maps
+On the nonlinear Poincaré flow
+On physical measures of multi-singular hyperbolic vector fields
+Volume growth and topological entropy of partially hyperbolic systems
+Robust transitivity of singular hyperbolic attractors
+Empirical measures of partially hyperbolic attractors
+On the notions of singular domination and (multi-)singular hyperbolicity
+On the historical behavior of singular hyperbolic attractors
+A characterization of singular hyperbolicity via the linear Poincaré flow

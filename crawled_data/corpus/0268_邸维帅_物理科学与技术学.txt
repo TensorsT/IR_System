@@ -5,6 +5,12 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/dws
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:邸维帅
+学院:物理科学与技术学院
+职称:副教授
+研究方向:生物物理、化学物理、单分子力谱、AFM、光镊、蛋白质力学、生物膜、高分子力化学
+关键词:生物物理、化学物理、单分子力谱、AFM、光镊、蛋白质力学、生物膜、高分子力化学
+个人简介:邸维帅，安徽金寨人，1993年生。苏州大学物理科学与技术学院副教授。主要从事生物物理与化学物理交叉研究，运用单分子力谱（AFM、光镊）研究蛋白质力学行为，尤其是细菌表面蛋白和生物膜蛋白的力学特性，揭示细菌与宿主相互作用及环境适应机制；结合生物信息学探讨细菌蛋白结构演化规律；研究高分子与金属离子相互作用、疏水性质及高分子力化学。
+论文:Direct Measurement of Length Scale Dependence of the Hydrophobic Free Energy of a Single Collapsed Polymer Nanosphere
+Fluorination Increases Hydrophobicity at the Macroscopic Level but not at the Microscopic Level
+Single-Molecule Force Spectroscopy Reveals Cation-pi Interactions in Aqueous Media Are Highly Affected by Cation Dehydration

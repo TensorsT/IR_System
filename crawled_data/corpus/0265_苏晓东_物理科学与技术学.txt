@@ -5,39 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/xdsu
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-个人简介:苏晓东
-教授、博士生导师/Prof. Xiaodong Su
-1987-1991，
-上海交通大学材料科学与工程系，本科
-1994-
-2000，
-中科院金属研究所获材料科学与工程专业，硕士、博士学位
-1998-2009，
-韩国国立机械与材料研究院，助理研究员
-2000-2004，
-日内瓦大学物理学院凝聚态物理与应用物理研究所，博士后、高级教授助理
-2005-
-至今，苏州大学物理学院，副教授、教授
-论文:F. Cao, K.X. Chen, J.J. Zhang, X.Y.Ye, J.J. Li,S. Zou,X.D. Su*, Next-generation multi-crystallinesilicon solar cells: Diamond-wire sawing, nano-texture and high ef<span font-size:12pt;= style=box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; color: rgb(33, 29, 30); line-height: 22.5px;>ficiency,Solar Energy Materials & Solar Cells141, 132-138(2015).
-J.J. Li, J.J. Zhang, L. Fang*, J.L. Wang, M.R. Shen andX.D. Su*, Enhanced visible lightphotocatalytic properties of TiO2thin films on the texturedmulticrystalline silicon wafers,J.Mater. Chem. A3(9), 4903-4908 (2015, 07 march)
-R.L. Fan, W. Dong, L. Fang, F.G. Zheng,X.D. Su*, S. Zou, J. Huang, X.S. Wang, and M.R. Shen*, Stable andefficient multi-crystalline n+p silicon photocathode for H2production with pyramid-like surface nanostructure and thin Al2O3protective layer,Applied PhysicsLetters106, 013902 (2015)
-K.X. Chen, Y.Y. Liu*, X.S. Wang, L.J. Zhang,X.D. Su*，Novel Texturing Processfor Diamond-Wire-Sawn Single-Crystalline Silicon Solar Cell，Solar Energy Materials & Solar Cells133, (2015) 148–155.
-X.Y. Ye,S. Zou, K.X. Chen, J.J. Li,J. Huang, F. Cao, X.S. Wang, L.J. Zhang, X.F. Wang, M.R. Shen, andX.D. Su*. 18.45%-efficient multi-crystalline siliconsolar cell with nano-scale pseudo-pyramid texture.Adv. Funct. Mater.24,6708–6716 (2014).
-K.X. Chen, Y.Y. Liu, X.S. Wang, L.J. Zhang,X.D. Su*.Novel Texturing Process for Diamond-Wire-SawnSingle-Crystalline Silicon Solar Cell.2014第十届中国太阳级硅及光伏发电研讨会（10th CSPV）(大会优秀论文)
-F. Cao, S. Zou, K.X. Chen, X.Y. Ye, X.S.Wang andX.D. Su*. Next-generation multi-crystalline siliconsolar cells: diamond-wire sawing, nano-texture and highefficiency，2014第十届中国太阳级硅及光伏发电研讨会（10th CSPV）(大会邀请报告)
-韩长安，邹帅，李建江，曹芳，王栩生，章灵军，苏晓东*，高效多晶黑硅电池的产线技术研发，太阳能学报34(12)，2164-2169（2013）。[第13届中国光伏大会优秀论文奖] .
-代智华，鲍育文，张婧娇，苏晓东*，章灵军，ITO/PZT-Ag2O/Pt铁电薄膜的光伏特性，材料研究学报27（5），544-548 (2013).
-J.J. Zhang,X.D. Su*,M.R. Shen, Z.H. Dai, L.J. Zhang, X.Y. He, W.X. Cheng, M.Y. Cao & G.F. Zou*,“Enlarging photovoltaic effect: combination of classic photoelectric andferroelectric photovoltaic effects”,ScientificReports3, DOI: doi:10.1038/srep02109 (2013)
-Q.H. Yi, X. Dai, J. Zhao, Y.H. Sun, Y.H. Lou,X.D. Su*, Q.W. Li, B.Q. Sun, H.H.Zheng, M.R. Shen, Q.H. Wang and G.F. Zou, “
-Enhanced Mechanical Strength andElectrical Conductivity of Carbon-Nanotube/TiC Hybrid Fibers
-”,Nanoscale5,6923-6927 (2013)
-C.A. Han, S. Zou,X.D.Su*, Z.H. Dai, X.F. Zhang, X.S. Wang, L.J. Zhang, “Average 17.5%-efficientBlack Multi-crystalline Silicon Solar Cells of combined micron- and nano-scaleSurface Texture”, 28THEuropean Photovoltaic Solar Energy Conferenceand Exhibition ( EUPVSEC).
-苏晓东*，代智华，邹帅，韩长安，辛煜，王栩生，章灵军，全液相法制备纳米黑硅材料及其太阳电池。第八届中国太阳级硅及光伏发电研讨会论文集，463，(2012)。（获评大会优秀论文奖）
-J.J. Zhang,X.D. Su*, L. Zhang, L. Zheng, X.F. Wangand L.X.You*,“Improvement of the superconductingproperties of NbN thin film on single-crystal silicon substrate by using a TiNbuffer layer”,Supercond. Sci. Technol.26,045010 (2013).
-X.L. Yang,X.D. Su,* M.R. Shen, F.G.Zheng, Y. Xin, L. Zhang, M.C. Hua, Y.J. Chen, and V.G. Harris, Enhancement ofphotocurrent in ferroelectric films via the incorporation of narrow bandgapAg2O nanoparticles,Advanced Materials 24,1202-1208(2012).
-Y.M. Bi,X.D. Su,*,S. Zou, Y. Xin, Z.H. Dai, J. Huang, X.S. Wang, L.J. Zhang, Plasma-etchingfabrication and properties of black silicon by using silver nanometer-sized particlemasks, Thin Solid Films, 521, 176-180 (2012).
-L.Zheng,X.D. Su*, J. Fan,Y.J. Chen, X.L. Yang,L.X. You,V.G. Harris,Tailoring in-planecrystallographic orientation of epitaxial YBCO thin films having perpendicularc-axes texture,Thin Solid Films 520,3651-3656 (2012).
-J. Chen,X.D. Su*,D.L.Zhu,J. Fan,H. Yang, Y. Chen,and V.G.Harris,An approach to (103) oriented YBCOthin filmsepitaxially grown on (100) MgO substrates,Scripta Materialia64, 450-453(2011).
-L. Zhang,X.D. Su*, Y. Chen, Q.F. Li and V.G. Harris, Radio-frequencymagnetron sputter-deposited barium hexaferrite films on Pt-coated Si substratessuitable for microwave applicat
+姓名:苏晓东
+学院:物理科学与技术学院
+职称:教授
+研究方向:新型光伏材料与器件、多功能光电功能薄膜材料与器件、微纳米材料的制备与应用、高效硅太阳电池产业化技术研发
+关键词:光伏材料、光电功能薄膜、微纳米材料、硅太阳电池、铁电光伏、黑硅
+个人简介:苏晓东，教授、博士生导师。1991年上海交通大学材料科学与工程系本科毕业，2000年获中科院金属研究所材料科学与工程博士。曾在韩国国立机械与材料研究院、日内瓦大学从事研究。2005年起任教于苏州大学物理科学与技术学院。主要从事新型光伏材料与器件、光电功能薄膜、微纳米材料及高效硅太阳电池研究。主持和参加国家及省部级项目十余项，发表SCI论文60余篇，申请专利10余项。
+论文:Next-generation multi-crystalline silicon solar cells: Diamond-wire sawing, nano-texture and high efficiency
+Enhanced visible light photocatalytic properties of TiO2 thin films on the textured multicrystalline silicon wafers
+Stable and efficient multi-crystalline n+p silicon photocathode for H2 production with pyramid-like surface nanostructure and thin Al2O3 protective layer
+Novel Texturing Process for Diamond-Wire-Sawn Single-Crystalline Silicon Solar Cell
+45%-efficient multi-crystalline silicon solar cell with nano-scale pseudo-pyramid texture
+Enlarging photovoltaic effect: combination of classic photoelectric and ferroelectric photovoltaic effects
+Enhanced Mechanical Strength and Electrical Conductivity of Carbon-Nanotube/TiC Hybrid Fibers
+Improvement of the superconducting properties of NbN thin film on single-crystal silicon substrate by using a TiN buffer layer
+Enhancement of photocurrent in ferroelectric films via the incorporation of narrow bandgap Ag2O nanoparticles
+Plasma-etching fabrication and properties of black silicon by using silver nanometer-sized particle masks

@@ -5,6 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/gf
 ---
-姓名:
-页面标题:物理科学与技术学院
-论文:论文：
+姓名:高峰
+学院:物理科学与技术学院
+职称:讲师
+研究方向:光人工结构的物态调控与器件设计研究、超构材料、拓扑声子晶体、超表面、非厄密
+关键词:声学拓扑态、轨道杂化、超材料、非厄密、拓扑声子晶体、超表面、人工结构、高阶拓扑绝缘体
+个人简介:高峰，理学博士，苏州大学物理科学与技术学院讲师，优秀青年学者。2024年毕业于华中科技大学物理学专业，2021年获湖南大学电子科学与技术硕士学位。主要从事声/光人工结构中的物态调控与器件设计研究，涉及超构材料、拓扑声子晶体、超表面、非厄密系统等前沿领域。以第一或通讯作者在Nature Communications、Advanced Materials等顶级期刊发表多篇学术论文。
+论文:Orbital topological edge states and phase transitions in one-dimensional acoustic resonator chains
+Acoustic higher-order topological insulators induced by orbital-interactions
+Orbital Hybridization Endowed Topological Insulators
+Topological-charge multiplexed metasurfaces for generating structural acoustic field and remote dynamic control
+Discrete Ultra-Broadband Perfect Anomalous Reflection in Depth Gradient Metasurfaces
+Reconfigurable multifunctional acoustic metagratings enabled by local phase harnessing
+Acoustic selective skin effect in a coupled ring lattice
+Investigation of the step edge states in higher-order topological insulators
+Unidirectional Coupling of Light to Surface Plasmons via Harnessing Local Eigenmodes with Opposite Symmetry
+Visualization of orbital twig edge states in phononic graphene lattices

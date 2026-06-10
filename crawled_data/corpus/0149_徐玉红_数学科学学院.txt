@@ -5,128 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/yhxu
 ---
-姓名:个人简介
-页面标题:数学科学学院
-论文:论文成果：
-Working Paper
-3
-.
-Jia Guangyan, Xia Jianming, Xu Yuhong, Zhang Na,  Arrow-Pratt Theory for Variational Preferences:  A Continuous-Time Model, 1-32, Preprint.
-2
-. Xu Yuhong, Yang Sh
-uzhen,
-Extended Dynamic Programming Principle and Applications to
-Time-Inconsistent Control
-, 1-32, Preprint.
-1
-.Huang Weihuan, Ma Chenghu, Xu Y
-uhong, Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. 1-33, Preprint.
-Publication
-18
-. Zhao X, Xu Y.
-Dynamic clustering analysis of US banks amidst the Fed's rate hikes, Applied Economics, 2026, 58(4),627-644
-.
-17
-. Lu Zhichao, Xu Yuhong, Zhang Yue, Zhao Xinyao, Is it difficult to predict the price movements of high-volatility assets. 1-8. Finance Research Letter, 85(2025) 107980.
-(众所周知，高波动率资产价格难以精准预测。本研究发现高波动率资产的方向并不难预测，甚至更容易预测。因为大的波动发生之前往往有蛛丝马迹。本文以比特币和WTI原油期货为例展示了结果)
-16
-. Xu Yuhong, Zhao Xinyao, How does node centrality in a financial complex network affects asset price prediction?
-North American Journal of Economics and Finance
-, 73 (2024) 102163.
-（在一个复杂网络中，我们常以为比较重要的资产容易被预测，用它们来预测其他资产价格可能效果好。本文意外的发现这个两个观点都是错误的。相反的，中心性低的资产容易被预测，它们的预测能力也较强。文章从信息论的观点解释了以上现象）
-15
-. Lu Zhichao, Pang Peiyuan, Xu Yuhong, Zhang Wenxin, Portfolio Selection with Contrarian Strategy,
-Methodology and Computing in Applied Probability
-, 26 (2024).
-14
-. Xu Yuhong,
-Optimal growth under model uncertainty,
-North American Journal of Economics and Finance
-60 (2022): 101634.
-13
-.
-Dai, Min and Jin, Hanqing and Kou, Steven and Xu, Yuhong, Robo-Advising: A Dynamic Mean-Variance Approach,
-Digital Finance
-,3, 81–97 (2021).
-12
-. Pei Ziting, Wang Xishun, Xu Yuhong, Yue Xingye,
+姓名:徐玉红
+学院:数学科学学院
+职称:教授
+研究方向:金融人工智能、数理金融、强化学习的数学理论、高维偏微分方程求解、深度学习数值计算、投资组合优化、风险度量、随机控制与博弈论
+关键词:金融人工智能、数理金融、强化学习、深度学习、投资组合优化、风险度量、随机控制、博弈论、偏微分方程数值解
+个人简介:正高级研究员，博士生导师，仲英青年学者。曾在法国西布列塔尼大学、新加坡国立大学、香港大学等机构工作访问。长期从事数理金融和人工智能金融研究，在Mathematical Finance、Management Science等顶级期刊发表论文。担任中国运筹学会金融工程与风险管理分会常务理事等学术职务。主持多项国家及省部级基金。指导学生获金融科技竞赛奖项二十余项。当前研究兴趣包括深度学习、强化学习在金融中的应用。
+论文:Dynamic clustering analysis of US banks amidst the Fed's rate hikes
+Is it difficult to predict the price movements of high-volatility assets
+How does node centrality in a financial complex network affects asset price prediction?
+Portfolio Selection with Contrarian Strategy
+Optimal growth under model uncertainty
+Robo-Advising: A Dynamic Mean-Variance Approach
 A Worst-Case Risk Measure by G-VaR
-,
-Acta Mathematicae Applicatae Sinica
-(English Series)
-,
-37,
-421–440 (2021).
-(本文首次给出了彭实戈院士提出的风险度量G-VaR的显式计算表达式。使得不确定环境中的风险度量计算更加容易实现)
-11
-. Dai Min, H Jin, Kou Steven, Yuhong Xu,
 A dynamic mean-variance analysis for log returns
-,
-Management Science
-,
-67(2), 1093–1108, (2021).
-（本文首次提出基于对数收益率的均值方差模型，得到了相对风险厌恶的最优投资策略。建立了均值方差模型和经济学中的
-绝对/相对风险厌恶
-期望效用理论的一一对应关系。发表在管理科学顶刊MS, UTD24期刊之一）
-10
-.Jia Guangyan, Xu Yuhong, A note on g-concave function,
-Acta Mathematica Scientia
-. (2019), 39B(5): 1–8.
-9
-. Lam C, Xu Yuhong, Yin, G,
+A note on g-concave function
 Dynamic portfolio selection without cash
-,
-Quantitative Finance
-,
-19(2),(2019), 313-326.
-8
-.Xu, Yuhong. Robust Valuation, Arbitrage Ambiguity and Profit& Loss Analysis.
-J
-ournal of the Operations Research Society of China
-6.1 (2018): 59-83.
-7
-.  Xu Yuhong,
-Multidimensional dynamic risk measure via conditional g-expectation,
-Mathematical Finance
-,
-26(3),  (2016)
-,  638–673.
-（
-本文给出了多维动态非线性风险度量的数学刻画。以单独作者发表在金融数学国际顶刊MF。在此期刊单作发表论文的国内学者仅有两位）
-6.
-Xu Yuhong, An existence theorem for multidimensional BSDEs with mixed reflection,
-Comptes Rendus Mathematique
-, 354(11) (2016), 1101-1108.
-5
-. C. Jimenez, M. Quincampoix, Y. H. Xu, Differential games with incomplete information on a continuum of initial positions and without Isaacs condition,
-Dynamic Games and Applications
-，
-March 2016, Volume 6,
-Issue 1
-, pp 82–96
-4
-.  Buckdahn, M. Quincampoix, C. Rainer, Yuhong Xu, Differential games with asymmetric information and without Isaacs condition, 1-21,
-International Journal of Game Theory
-，
-November 2016, Volume 45,
-Issue 4
-, pp 795–816
-3
-.  Xu Yuhong, Stochastic maximum principle for optimal control with multiple priors,
-Systems & Control Letters
-,
-64
-, (2014), 114–118.
-2
-. Xu Yuhong,
-Multidimensional backward stochastic differential equations with Left-Lipschitz coefficients,
-J.Math.Sci.Univ. Tok.
-, 20 (1) (2013), 115-126.
-1
-. Xu Yuhong, Probabilistic solutions for a class of path-dependent HJB equations,
-Stochastic Analysis and Applications
-, 31(3) (2013), 440-459.
-荣誉及奖励
-荣誉及奖励：
-1、仲英青年学者
-2、苏州大学本科毕业论文优秀指导老师

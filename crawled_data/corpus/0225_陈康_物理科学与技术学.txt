@@ -5,125 +5,14 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/kangchen
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-研究领域:主要研究方向包括：
-1.
-活性物质（包括生物马达、微纳米机器人和布朗胶体粒子）的自组织与动力学
-2
-.
-软
-物质材料（包括聚合物和胶体）的玻璃化转变与动力学
-3.
-软
-物质材料的自组装结构与动力学
-个人简介:已发表
-SCI
-论文4
-0
-余篇，
-H-index 17
-。其中两篇发表在
-Phys. Rev. Lett.
-上。
-关于玻璃材料弛豫与流变性质的研究工作被各国媒体广泛的报导，包括
-Science Daily
-（美国），
-United Press International
-，
-PhysOrg.com
-（荷兰），
-Innovations Report
-（德国），
-Computing.co.uk
-（英国），
-AZom.com
-（澳大利亚），及
-Illinois
-当地报纸
-New-Gazette
-和
-Inside Illinois
-。相关研究成果也被
-Virtual Journal of Nanoscale Science & Technology
-选中收录。此外，受邀撰写了两篇综述文章发表在
-J. Phys.: Condens. Matter
-和
-Annu. Rev. Condens. Matter Phys.
-的创刊号上
-。目前已主持国家自然科学基金面上项目
-4
-项，国家自然科学基金理论物理专款
-1
-项，参与科技部
-973
-项目
-1
-项，参与国家自然科学基金重大研究计划重点支持项目
-1
-项。荣获苏州市紧缺高层次人才引进资助和苏州市科技创新政策性资助。任全国软物质与生命物质物理学术会议组委会委员，任Advanced in Condensed Matter Physics杂志编委。
-教育经历：
-2000-2005，南京大学物理系，软物质物理专业，获理学博士学位
-1996-2000，南京大学基础学科教学强化部，生物物理专业，获理学学士学位
-Education:
-2000-2005, Ph.D. in Soft Matter Physics, Dept. of Physics, Nanjing University (China)
-1996-2000, B.S. in Biophysics, Dept. for Intensive Instructions, Nanjing University (China)
-研究经历：
-2010-至今，苏州大学物理科学与技术学院/软凝聚态物理及交叉研究中心，教授（博士生导师）
-2008-2010，美国加州大学圣芭芭拉分校（UCSB）材料研究实验室博士后研究助理
-参与UCSB与美国洛斯阿拉莫斯国家实验室（LANL）合作项目
-2005-2008，美国伊利诺伊大学厄伯纳香槟分校（UIUC）材料科学与工程系博士后
-参与美国自然科学基金纳米尺度交叉研究组（NSF-NIRT）项目
-Professional Experience:
-2010-Present, Professor (full), Center for Soft Condensed Matter Physics & Interdisciplinary Research, School of Physical Science & Technology, Soochow University (China)
-2008-2010, Postdoctoral Research Associate, Materials Research Laboratory, University of California, Santa Barbara (U.S.)
-2005-2008, Postdoctoral Research Associate, Dept. of Materials Science & Engineering, University of Illinois, Urbana-Champaign (U.S.)
-课题组成员（Group Members）
-许天亮，金奕扬，金燕，石子璇，练文超，杨昊宸，唐彬，王雨淳，沈嘉欣，高金城
-前课题组成员（Former Group Members）
-肖立勇（
-六盘水师范学院
-），曾云兰（苏州快捷半导体，Process development engineer），张博凯（浙江理工大学），李健（山东菏泽学院），王雯洁（杭州市风帆中学），成玉莹，张飞（联创汽车电子有限公司（上海）），范庆炜（西门子公司），单文杰（三星电子（苏州）半导体有限公司），王超（临沂大学），李慧姝（苏州经贸职业技术学院），魏华（联合培养硕士），祁美娇（联合培养硕士），李佳琦（联合培养硕士），刘晓叶（联合培养硕士），施沈佳（），钱冰霜（），王影（中学教师），高艺雯（中学教师），焦阳（），王晶（），何景熙（），黄瑞静（），王静晗（）
-课题组新闻（Group News!）
-2023年：
-* 恭喜原课题组成员张博凯获批
-国家自然科学基金面上项目！
-*恭喜练文超、许天亮同学获得研究生特等奖学金！
-*恭喜金奕扬、金燕同学获得研究生一等奖学金！
-*恭喜石子璇同学获得研究生二等奖学金！
-*恭喜杨昊宸、王雨淳、沈嘉欣、唐彬和高金城同学获得研究生三等奖学金！
-2022年：
-* 恭喜原课题组成员李慧姝获批
-国家自然科学基金青年项目！
-* 恭喜原课题组成员李慧姝获批2022年度江苏省高等学校基础科学（自然科学）研究面上项目！
-* 恭喜原课题组成员李慧姝荣获2021年“江苏省双创博士”！
-* 恭喜金燕同学获得研究生学业特等奖学金！
-2020年：
-*祝贺课题组文章“Anomalous boundary deformation induced by enclosed active particles” Chin. Phys. B 26(10), 100502 (2017)荣获中国物理学会2020年度“最有影响论文奖” 一等奖
-*祝贺施沈佳的文章“Transport of self-propelled particles across a porous medium: trapping, clogging, and the Matthew effect”发表了：
-Phys. Chem. Chem. Phys.
-22, 14052 (2020) DOI:
-10.1039/d0cp01923b
-*祝贺魏华、潘俊星的文章“Vortex formation of spherical self-propelled particles around a circular obstacle”在Soft Matter上发表：
-Soft Matter
-16, 5545 (2020)   DOI：
-10.1039/d0sm00277a
-* 热烈祝贺施沈佳同学顺利通过硕士学位论文答辩！！！
-2019年：
-* 恭喜课题组本科生夏月星和毛丹健获得国家励志奖学金！
-* 恭喜课题组本科生毛丹健和单倩雪获得大学生创新创业训练计划项目的资助！
-*
-恭喜原课题组成员张博凯获得国家自然科学基金青年基金的资助！！！
-*
-恭喜原课题组成员李健获得国家自然科学基金青年基金的资助！！
-！
-* 热烈祝贺李慧姝同学获得国家博士后基金资助！！！
-* 祝贺王超同学的文章“
+姓名:陈康
+学院:物理科学与技术学院
+职称:教授
+研究方向:活性物质自组织与动力学、软物质材料玻璃化转变与动力学、软物质材料自组装结构与动力学
+关键词:活性物质、软物质、玻璃化转变、自组织、自组装、动力学、胶体、聚合物
+个人简介:陈康，苏州大学物理科学与技术学院教授、博士生导师，南京大学软物质物理博士。主要从事软物质物理、活性物质、非晶态物理等研究。发表SCI论文40余篇，H-index 17，其中两篇发表在Phys. Rev. Lett.上，关于玻璃材料弛豫与流变性质的工作被多国媒体报道。受邀撰写综述于J. Phys.: Condens. Matter和Annu. Rev. Condens. Matter Phys.创刊号。主持国家自然科学基金面上项目等多项。任全国软物质与生命物质物理学术会议组委会委员、Advanced in Condensed Matter Physics编委。
+论文:Anomalous boundary deformation induced by enclosed active particles
+Transport of self-propelled particles across a porous medium: trapping, clogging, and the Matthew effect
+Vortex formation of spherical self-propelled particles around a circular obstacle
 Shape transformation and manipulation of a vesicle by active particles
-”在J. Chem. Phys.上发 表：
-DOI:
-10.1063/1.5078694
-* 祝贺单文杰同学的文章“Assembly structures and dynamics of active colloidal cells”在Soft Matter上发表：
-DOI: 10.1039/C9SM00619B
-* 热烈祝贺王超同学顺利通过博士学位论文答辩，单文杰同学通过硕士学位论文答辩！！！
-* 热烈祝贺王超同学获得临沂大学教职！！！
+Assembly structures and dynamics of active colloidal cells

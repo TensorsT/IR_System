@@ -5,49 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/zhhang
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-研究领域:主要从事：
-光学拓扑绝缘体（photonic topological insulators)
-光子/声子晶体(photonic/phononic crystals)
-光力（light induced force）
-光学/声学超构材料 (metamaterials)
-声学隔音减震
-等方面的理论及实验研究。
-课题组目前有微波网络分析仪(Agilent E5071C 20GHz）一台，单点激光测振仪(Polytec OFV-505）一台，声阻抗管、锁相放大器等全套声波测试系统，可以开展微波、声波和机械波的实验研究。
-个人简介:杭志宏，男，教授，博导，苏州大学物理科学与技术学院副院长，苏州大学高等研究院常务副院长。获得
-2017
-年江苏省优秀青年基金支持，主要从事波动功能材料方面的研究。杭志宏教授从基础理论出发，设计人工微结构，在多个维度实现对电磁波、声波的有效调控。特别是创新性地提出利用光子晶体来实现具有特定电磁参量的超材料：包括首次实现双零折射率光子晶体和和各个角度入射都全部透射的超透明材料(PRL封面 2016)。该系列成果获得
-2017
-年度江苏省科技技术二等奖。最近在利用拓扑物理设计光学器件方面做出一系列原创性的工作，包括基于量子自旋霍尔效应设计的具有拓扑保护单向传输的光子晶体波导（PRL 2018，高被引论文），在多个波段都得到了验证，相关成果获得
-2020
-年度江苏省光学学会光学青年科技奖。与公司合作，成功将声学超材料在降噪隔振方面的设计加以产业化，相关设计应用于世界顶级音箱制造商
-KEF
-的最新产品中。培养博士研究生
-5
-名，硕士研究生
-10
-名，其中一人获得江苏省光学学会光学青年科技奖（学生），并直接在毕业之后以副教授入职
-211
-高校。杭志宏教授在
-Nature Materials, Phys. Rev. Lett.
-，
-Light: Sci. & Appl., Science Bulletin
-等国内外顶级物理学、光学杂志发表论文
-40
-余篇，在多次国际会议担任邀请报告和分会主席。
-论文:1、Gapped topological kink states and topological corner states in honeycomb lattice,Science Bulletin,SCI,2020,杭志宏,苏州大学,65 7
-2、Homogeneous silver nanoparticles decorating 3D carbon nanotube sponges as flexible high-performance electromagnetic shielding composite materials,Carbon,SCI,2020,杭志宏,苏州大学,165 404
-3、Non-Abelian gauge field optics,Nature Communications,SCI,2019,杭志宏,10 3125
-4、Polarization Beam Splitting with Gauge Field Metamaterials,Adv. Optical Mater,SCI,2019,杭志宏,苏州大学,7 12 1801582
-5、A hybrid invisibility cloak based on integration of transparent metasurfaces and zero-index materials,Light: Science & Applications,SCI,2018,杭志宏,苏州大学, 7  50
-6、Coherent Perfect Absorption via Photonic Doping of Zero-Index Media,Laser Photonics Review,SCI,2018,杭志宏,苏州大学,12 8 1800001
-7、Visualization of a Unidirectional Electromagnetic Waveguide Using Topological Photonic Crystals Made of Dielectric Materials,Physical Review Letters,SCI,2018,杭志宏,苏州大学,120 217401
-8、 Ultratransparent Media and Transformation Optics with Shifted Spatial Dispersions,Physical Review Letters,SCI,2016,杭志宏,苏州大学, 117 223901
-9、Unusual percolation threshold of electromagnetic waves in double-zero medium embedded with random inclusions,Laser Photonics Review,SCI,2015,杭志宏, 9 05523
-10、Conical Dispersion and Effective Zero Refractive Index in Photonic Quasicrystals,Physical Review Letters,SCI,2015,杭志宏,114 163901
-11、Arbitrary Control of Electromagnetic Flux in Inhomogeneous Anisotropic Media with Near-Zero Index,Physical Review Letters,SCI,2014,杭志宏,112 073903
-12、Measurement of Enhanced Radiation Force on a Parallel Metallic-Plate System in the Microwave Regime,Physical Review Letters,SCI,2014,杭志宏,苏州大学, 112 045504
-13、Dirac cones induced by accidental degeneracy in photonic crystals and zero-refractive-index materials,Nature Materials,SCI,2011,杭志宏,香港科技大学,10 08582
-14、Observation of backscattering-immune chiral electromagnetic modes without time reversal breaking,Physical Review Letters,SCI,2011,杭志宏,107 023901
-15、Strong Light-induced negative optical pressure arising from kinetic energy of conduction electrons in plasmon-type cavities,Physical Review Letters,SCI,2011,杭志宏, 106 087401
+姓名:杭志宏
+学院:物理科学与技术学院
+职称:教授
+研究方向:光学拓扑绝缘体、光子晶体、声子晶体、光力、光学超构材料、声学超构材料、声学隔音减震、波动功能材料
+关键词:波动功能材料、光子晶体、声子晶体、超构材料、光学拓扑绝缘体、拓扑光子学、零折射率、光力、电磁波调控、声学隔音
+个人简介:杭志宏，男，教授、博导，苏州大学物理科学与技术学院副院长、高等研究院常务副院长。获江苏省优秀青年基金，从事波动功能材料研究，设计人工微结构调控电磁波、声波。首次实现双零折射率光子晶体和超透明材料，获江苏省科学技术二等奖。在拓扑光子学方面，基于量子自旋霍尔效应实现拓扑保护单向传输波导，获江苏省光学学会青年光学科技奖。声学超材料降噪隔振设计被KEF产业化。在Nature Materials、Physical Review Letters等顶级期刊发表多篇论文，多次担任国际会议邀请报告和分会主席。
+论文:Gapped topological kink states and topological corner states in honeycomb lattice
+Homogeneous silver nanoparticles decorating 3D carbon nanotube sponges as flexible high-performance electromagnetic shielding composite materials
+Non-Abelian gauge field optics
+Polarization Beam Splitting with Gauge Field Metamaterials
+A hybrid invisibility cloak based on integration of transparent metasurfaces and zero-index materials
+Coherent Perfect Absorption via Photonic Doping of Zero-Index Media
+Visualization of a Unidirectional Electromagnetic Waveguide Using Topological Photonic Crystals Made of Dielectric Materials
+Ultratransparent Media and Transformation Optics with Shifted Spatial Dispersions
+Unusual percolation threshold of electromagnetic waves in double-zero medium embedded with random inclusions
+Conical Dispersion and Effective Zero Refractive Index in Photonic Quasicrystals

@@ -5,11 +5,12 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/ltao
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
-1、多层次转喻与语用推理,苏州大学学报（哲学社会科学版）,2010 年 7 月 第 4 期,第 4 期
-2、新一代大学英语教材的需求分析与反思,外语学刊,2013 年第 6 期,2013 年第 6 期 总第 175 期
-3、选择与补偿: 高校英语教师职业能动性研究,外语界,2016 年第 1 期,2016 年第 1 期  总第 172 期
-4、Collective agency among Chinese university EFL teachers in the era of research excellence,Humanities and Social Sciences Communications,SSCI二区,2024.9
-5、Longitudinal development of L2 learners' linguistic complexity in reading-to-write argumentative tasks,Journal of English for Academic Purposes,SSCI一区,2025.5
+姓名:陶丽
+学院:外国语学院
+职称:副教授
+研究方向:外语教育、教师发展
+关键词:外语教育、教师发展、转喻、语用推理、教师能动性、集体能动性、二语写作、学术英语、教材需求分析
+个人简介:陶丽，博士、副教授，研究方向为外语教育、教师发展。
+论文:多层次转喻与语用推理
+Collective agency among Chinese university EFL teachers in the era of research excellence
+Longitudinal development of L2 learners' linguistic complexity in reading-to-write argumentative tasks

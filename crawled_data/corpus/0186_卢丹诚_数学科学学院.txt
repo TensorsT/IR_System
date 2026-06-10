@@ -1,0 +1,18 @@
+doc_id: 186
+name: 卢丹诚
+career: 教授
+department: 数学科学学院
+college_id: 78
+url: http://web.suda.edu.cn/ludancheng
+---
+姓名:卢丹诚
+学院:数学科学学院
+职称:教授
+研究方向:同调代数、交换代数
+关键词:同调代数、交换代数、约化数、离散多胞腔、零因子图、二分图、单项式理想、几何正则性
+个人简介:卢丹诚，男，年10月生，江苏张家港人。2003年毕业于南京大学数学系，获理学博士学位，现为苏州大学基础数学专业教授、研究生导师。主要研究方向为同调代数、交换代数。主持国家自然科学基金项目，在国内外重要数学刊物上发表论文30余篇。
+论文:On the asymptotic linearity of reduction number
+Discrete polymatroids satisfying a stronger symmetric exchange property
+The zero-divisor graphs which are uniquely determined by neighborhoods
+On bipartite zero-divisor graphs
+Geometric regularity of powers of two-dimensional squarefree monomial ideals

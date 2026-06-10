@@ -5,7 +5,10 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/yzhang
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Zhongzi Wang, Ying Zhang: Length minima for an inﬁnite family of ﬁlling closed curves on a one-holed torus, Geometriae Dedicata, 218:6 (2024)
+姓名:张影
+学院:数学科学学院
+职称:教授
+研究方向:几何拓扑学、低维流形拓扑与几何学
+关键词:几何拓扑学、低维流形、拓扑、几何、流形
+个人简介:从事几何与拓扑学方面的教学与科研工作，研究方向为几何拓扑学。在Acta Arith., Adv. in Math., Amer. J. Math., J. Diff. Geom., Math. Res. Letters等国际数学杂志发表学术论文。主持国家自然科学基金（面上项目）4项。兼任中国数学会常务理事。
+论文:Length minima for an inﬁnite family of ﬁlling closed curves on a one-holed torus

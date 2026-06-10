@@ -5,9 +5,11 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/hlwang
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院（软件学院）
-论文:论文：
-1、Semantic Role Labeling of Chinese Nominal Predicates with Dependency-Driven Constituent Parse Tree Structure,JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY,SCIE,2013,王红玲
-2、Sentence Compression Based on ILP Decoding Method,NATURAL LANGUAGE PROCESSING AND CHINESE COMPUTING, NLPCC 2013,CPCIS,2013,王红玲
-3、Semantic role labeling of Chinese nominal predicates with dependency-driven constituent parse tree structure,Journal of Computer Science and Technology,EI,2014,王红玲
+姓名:王红玲
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:自然语言处理、信息抽取、信息检索、自动文摘、语义角色标注、情感分析、中文信息处理
+关键词:自然语言处理、信息抽取、信息检索、自动文摘、语义角色标注、情感分析、中文信息处理
+个人简介:王红玲，副教授，硕士生导师。2009年获博士学位，2004.01-2004.06在美国伊利诺伊州立大学做访问学者，2014.09-2015.09在加拿大蒙特利尔大学做访问学者。CCF、CCF YOCSEF苏州学术委员会委员、中国中文信息学会会员。主要研究方向为自然语言处理、信息抽取、信息检索、自动文摘、语义角色标注等。主持国家自然科学基金项目2项，参与国家级项目多项，获教育部科技进步二等奖。
+论文:Semantic Role Labeling of Chinese Nominal Predicates with Dependency-Driven Constituent Parse Tree Structure
+Sentence Compression Based on ILP Decoding Method

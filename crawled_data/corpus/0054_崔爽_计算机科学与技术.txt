@@ -5,6 +5,14 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/scui
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院（软件学院）
-论文:论文：
+姓名:崔爽
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:人工智能、机器学习、数据挖掘、最优化、大模型与次模优化、近似算法的设计与分析
+关键词:人工智能、机器学习、数据挖掘、次模最大化、流式算法、近似算法、组合优化
+个人简介:崔爽，山东人，苏州大学优秀青年学者，副教授。博士毕业于中国科学技术大学（推免硕博连读），同年被苏州大学以优秀青年学者身份引进。主要研究方向为人工智能、机器学习与数据挖掘。在KDD、ICML、WWW、SIGMETRICS、AAAI、NeurIPS、SIGMOD等顶级会议和期刊上发表多篇论文，其中KDD 2024论文获Best Student Paper候选提名。受邀担任ICML、NeurIPS、ICLR、KDD、CIKM等会议程序委员会委员和Journal of Combinatorial Optimization审稿人。主持国家自然科学基金青年项目、江苏省基础研究计划青年基金项目。
+论文:Fairness in Streaming Submodular Maximization Subject to a Knapsack Constraint
+Deletion-Robust Submodular Maximization with Knapsack Constraints
+Constrained Subset Selection from Data Streams for Profit Maximization
+Streaming Algorithms for Constrained Submodular Maximization
+Randomized Algorithms for Submodular Function Maximization with a k-System Constraint

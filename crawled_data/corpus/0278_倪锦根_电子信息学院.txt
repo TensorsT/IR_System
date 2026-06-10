@@ -5,113 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/jni
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-研究领域:1、自适应学习与推理（含信道均衡、回声消除、主动噪声控制、目标跟踪与定位等）
-2、图像处理（含图像分割
-、计算机视觉
-、遥感图像处理等）
-3、
-雷达信号处理（含毫米波雷、雷达3D成像）
-4、人工智能（含神经网络与深度学习、元学习、AI视觉检测）
-5、嵌入式系统设计（含FPGA数字系统设计、DSP数字系统设计）
-社会职务
-个人简介:倪锦根：
-苏州大学电子信息学院副院长、教授、博士生导师，
-江苏省高层次人才培养计划（
-333工程
-）培养对象
-，省级科研平台主任
-。毕业于
-复旦大学
-电子科学与技术专业
-，获理学博士学位，曾任香港大学助理教授。国家
-科技部、
-国家自然科学基金委员会人才项目和
-科技项目评审专家，江苏省、上海市等多个省和直辖市科技奖励、人才项目和科研项目评审专家，苏州市姑苏创新创业领军人才计划以及苏州市各区和县级市人才和产业化项目评审专家
-，
-中国国际大学生创新大赛（原“互联网+”大学生创新创业大赛
-）评审专家，
-IEEE高级会员
-，江苏省军工学会学术工作委员会委员。曾担任IEEE和
-Elsevier等出版多个国际SCI期刊的编委、编辑或客座编辑，现担任国际SCI期刊Signal Processing的编委、副编辑。
-近年来，主持国家自然科学基金3项、江苏省自然科学基金2项、江苏省高校自然科学基金1项、产学研项目10余项。以第一发明人获授权发明专利40余件，以第一作者或通讯作者发表SCI检索论文70余篇。获得中国发明协会发明创业奖创新奖一等奖、
-江苏省科学技术奖三等奖
-、英特尔奖等多个奖项。
-指导的博士和硕士研究生多次获得江苏省优秀学位论文、国家奖学金、研究生学术标兵、优秀毕业研究生、优秀研究生干部等奖励或荣誉。
-指导的本科生多次获得国家级大学生创新实验计划项目资助，并多次获得“
-互联网+
-”和大学生电子设计竞赛国家级和省级奖励。
-智能信号与图像处理课题组现有成员：
-倪锦根
-：教授，博士生导师，团队负责人，复旦大学博士
-李喆
-：研究员，校优秀青年学者，东南大学博士
-康健
-：副教授，校优秀青年学者，德国慕尼黑工业大学博士
-朱占宇
-：副研究员，复旦大学博士
-朱子聪
-：讲师，校优秀青年学者，中国科学院空天技术研究院博士
-邵雷
-：高级实验师，苏州大学博士
-欢迎国内外优秀博士、博士后加入我们科研团队。请通过e-mail联系：jni@suda.edu.cn
-课题组重要简讯：
-■2025年：
-# 论文被
-《IEEE Transactions on Geoscience and Remote Sensing》录用；
-# 论文被
-《IEEE Transactions on Circuits and Systems for Video Technology》录用；
-# 在期刊
-《IEEE Transactions on Signal Processing》上发表论文；
-# 在
-期刊
-《IEEE Transactions on Image Processing》上发表论文；
-#
-倪锦根教授受邀担任中国国际大学生创新大赛（原“
-互联网+
-”）评审专家；
-# 宋钦
-同学的学位论文被评为苏州大学优秀硕士学位论文；
-# 获得2025年苏州大学研究生集体荣誉称号（唯一以“课题组”为集体获此荣誉）；
-■2024年及之前年度：
-# 博士生董斌入选苏州大学2024年科学道德和学风建设博士生宣讲团；
-# 宗铭同学的学位论文被评为苏州大学优秀硕士学位论文；
-# 博士生董斌获得立德树人奖学金；
-# 博士生董斌、硕士生谷洋龙获得国家奖学金，硕士生卜倩倩获特等奖学金；
-# 在《IEEE Transactions on Signal Processing》上发表论文；
-# 在《IEEE Transactions on Systems, Man and Cybernetics: Systems》上发表论文；
-# 在《IEEE Transactions on Geoscience and Remote Sensing》上发表论文；
-# 倪锦根教授受邀担任SCI期刊副编辑（Associate Editor）；
-# 庆祝同学的学位论文被评为江苏省优秀硕士学位论文；
-# 主编教材《现代信号处理》入选科学出版社“十四五”高等教育规划教材；
-# 在《IEEE Transactions on Systems, Man and Cybernetics: Systems》上发表论文；
-# 在《IEEE Transactions on Audio, Speech and Language Processing》上发表论文；
-# 在《IEEE Transactions on Geoscience and Remote Sensing》上发表论文；
-# 在《IEEE Transactions on Signal Processing》上发表论文；
-# 在《
-IEEE Transactions on Circuits and Systems
-》上发表论文；
-# 宗玉莲同学的学位论文被评为江苏省优秀硕士学位论文；
-论文:1、部分代表性论文，*表示唯一通信作者
-2、Bing Dong, Zicong Zhu, et al., Jingen Ni*. A two-stage method with lightweight network and active contour model for remote sensing image segmentation, IEEE Transactions on Circuits and Systems for Video Technology, 2026, 36: 1640-1654.
-3、Yanglong Gu, Qing Song, Jingen Ni*. Bias-compensated constrained adaptive filtering algorithm for noisy inputs, Signal Processing, 2026, 238: 110174.
-4、Qianqian Bu, Bing Dong, Zicong Zhu, Jingen Ni*. Active contour model driven by non-local feature fitting energy with scalable normalization, IEEE Transactions on Image Processing, 2025, 34, 4939-4954.
-5、Zhe Li, Y angyang Gu, Jingen Ni*, et al. Time-averaged ACLMS algorithm for improper cyclostationary inputs: performance analysis and application to interference-limited systems, IEEE Transactions on Signal Processing, 2025, 73, 3795-3811.
-6、Zicong Zhu, Jian Kang, et al, Jingen Ni*. Align and complete samples in remote sensing fine-grained rigid object detection, IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 5655617.
-7、Bin Dong, Qianqian Bu, Zicong Zhu, Jingen Ni*. An active contour model with adaptive weighted mean filtering and anisotropic diffusion filtering, Signal Processing, 2025, 237: 110071.
-8、Bin Dong, Zicong Zhu, Qianqian Bu, Jingen Ni*. Active contour model with improved second-order differential driven term, Signal Processing, 2025, 226: 109667.
-9、Zhe Wu, Jingen Ni*. Diffusion random Fourier adaptive filtering algorithm based on logistic distance metric for distributed estimation, Digital Signal Processing, 2025, 156: 104768.
-10、Yanglong Gu, Jingen Ni*. Augmented affine projection algorithm based on error nonlinearity and its simplified version, IEEE Transactions on Signal Processing, 2024, 72: 2767-2782.
-11、Jingen Ni*, Ying Ji, Yanglong Gu. Diffusion constrained adaptive filtering algorithm based on half-quadratic criterion for system identification, IEEE Transactions on Systems, Man and Cybernetics: Systems, 2024, 54(9): 5768-5779.
-12、Jingen Ni, Yiwei Xing, Zhanyu Zhu, Jie Chen. Proportionate total adaptive filtering algorithms for sparse system identification, IEEE Transactions on Systems, Man and Cybernetics: Systems, 2024, 54(3): 1840-1852.
-13、Zicong Zhu, Jian Kang, Wenhui Diao, Yingchao Feng, Junxi Li, Jingen Ni*. SIRS: Multitask joint learning for remote sensing foreground-entity image-text retrieval, IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5625615.
-14、Bin Dong, Guirong Weng, Qianqian Bu, Zicong Zhu, Jingen Ni*. An active contour model based on shadow image and reflection edge for image segmentation, Expert Systems with Applications, 2024, 238: 122330.
-15、Qin Song, Jingen Ni*. Direct integration bias-compensated maximum correntropy criterion algorithm independent of measurement noise samples, Information Sciences, 2024, 675: 120740.
-16、Qin Song, Yanglong Gu, Jingen Ni*. Least total logistic distance metric algorithm and its variable step-size version, Information Sciences, 2024, 680: 121169.
-17、Haofen Li, Jingen Ni*. Proportionate affine projection tanh algorithm and its step-size optimization, Signal Processing, 2024, 223: 109553.
-18、Jingen Ni*, Ningning Zhang, Haofen Li. Sparsity-promoting affine projection algorithm with periodically-updated gain matrix and its performance analysis, IEEE/ACM Transactions on Audio Speech, and Language Processing, 2023, 31: 1993-2003.
-19、Zhu Qing, Jingen Ni*, Jie Chen, H. C. So. Diffusion least mean kurtosis algorithm and its performance analysis.  Information Sciences, 2023, 638: 118982.
-20、Ying Ji, Jingen Ni*. Constrained least total lncosh algorithm and its sparsity-induced version, Signal Processing, 2023, 210: 109098.
-21、Zhu Qing, Jingen Ni*, Zhe Li, Engin Cemal Mengüç, Jie Chen, Danilo P. Mandic. Performance analysis of the augmented complex-valued least mean kurtosis algorithm, Signal Processing, 2023, 203: 108792.
-22、Jian Kang, Ruben Fernandez-Beltran, Zhirui Wang, Xian Sun, Jingen Ni*, Antonio Plaza. Rotation invariant deep e
+姓名:倪锦根
+学院:电子信息学院
+职称:教授
+研究方向:自适应学习与推理、图像处理、雷达信号处理、人工智能、嵌入式系统设计
+关键词:自适应滤波、信号处理、图像分割、深度学习、遥感图像处理、雷达信号处理、目标检测、嵌入式系统
+个人简介:苏州大学电子信息学院副院长、教授、博士生导师，江苏省333工程培养对象，省级科研平台主任。复旦大学博士，曾任香港大学助理教授。国家科技部、基金委及多省市科技项目评审专家，IEEE高级会员，国际SCI期刊Signal Processing编委。研究方向包括自适应学习与推理、图像处理、雷达信号处理、人工智能、嵌入式系统设计。主持国家自然科学基金3项，授权发明专利40余件，发表SCI论文70余篇，获中国发明协会发明创业奖创新奖一等奖、江苏省科学技术奖三等奖等。指导研究生多次获江苏省优秀学位论文等奖励。
+论文:Active contour model driven by non-local feature fitting energy with scalable normalization
+A two-stage method with lightweight network and active contour model for remote sensing image segmentation
+Time-averaged ACLMS algorithm for improper cyclostationary inputs: performance analysis and application to interference-limited systems
+Align and complete samples in remote sensing fine-grained rigid object detection
+Augmented affine projection algorithm based on error nonlinearity and its simplified version
+Diffusion constrained adaptive filtering algorithm based on half-quadratic criterion for system identification
+Proportionate total adaptive filtering algorithms for sparse system identification
+SIRS: Multitask joint learning for remote sensing foreground-entity image-text retrieval
+Sparsity-promoting affine projection algorithm with periodically-updated gain matrix and its performance analysis
+Bias-compensated sign algorithm for noisy inputs and its step-size optimization

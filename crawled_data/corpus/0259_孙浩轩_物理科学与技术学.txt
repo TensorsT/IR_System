@@ -5,136 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/hxsun
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-个人简介:致力于研究光电转化器件并设计功能化集成系统。立足工学，探索与物理学、材料学、电子科学与以及计算机科学方向的交叉，努力实现钙钛矿及其他新兴半导体基器件的应用，并实现原型机的构建。
-以第一或通讯作者在Nature Electronics、Nature Communications、Advanced Materials、Light: Science & Applications 等顶级期刊发表论文20余篇；授权发明专利10余项；获中国材料研究学会科学技术一等奖、江苏省物理学会科学技术一等奖、中国电子教育学会优秀博士等奖项；获第十届中国科协青年人才托举工程、江苏省双创博士、苏州大学优秀青年学者的支持。
-主持
-国家
-/
-江苏省自然科学基金青年基金，国家自然科学基金面上等项目。
-E-mail: hxsun@suda.edu.cn
-目标导向个人定制化培养方式，欢迎有强进取心的同学联系（特别欢迎具备非物理基础，如材料、化学、电子学、计算机科学等交叉学科背景的同学）【请附上简介及个人
-职业倾向
-（学术？国公？私企？）
-】
-近
-5
-年发表的
-代表性论著：
-[1]
-Linqi Guo,
-Haoxuan Sun
-*
-, Siping Yang, Chi Zhang, Liangliang Min, Abd Rashid bin Mohd Yusoff
-*
-, Liang Li
-*
-. High-Precision In-Sensor Computing Reaching Up to 10 Bits. Advanced Materials, 2026,
-https://doi.org/10.1002/ adma.202519096.
-[2]
-Haoxuan Sun
-, Chen Li, Liang Li
-*
-, Xiang Zhang, Jiajun Luo, Nur Najihah binti Ahmad Rasid, Nur Wardina Syahirah binti Mohamad Fadil, Maria Vasilopoulou, Abd Rashid bin Mohd Yusoff
-*
-. The development of customized perovskite photodetectors. Nature Electronics, 2025, 8:1170.
-[3]
-Yicheng Zhou,
-Haoxuan Sun
-*
-, Linqi Guo, Siping Yang, Liangliang Min, Meng Wang, Fengren Cao, Liang Li
-*
-. Full-Color Pixel with Only a Single Perovskite Photodiode.
-Advanced Materials, 2025, 37(27): 2502889.
-[4]
-Shan Gan,
-Haoxuan Sun
-*
-, Min Wang, Da Dou, Siyang Zhang, Chen Li, Liang Li*. Controlling high-concentration precursor crystallization to minimize photon loss in bifacial perovskite solar cells, 2025, 70(16):2565.
-[5]
-Liangliang Min,
-Haoxuan Sun
-*
-, Linqi Guo, Meng Wang, Fengren Cao, Jun Zhong, Liang Li
-*
-. Frequency-selective perovskite photodetector for anti-interference optical communications. Nature Communications, 2024, 15(1): 2066.
-[6]
-Liangliang Min, Yicheng Zhou,
-Haoxuan Sun
-*
-, Linqi Guo, Meng Wang, Fengren Cao, Wei Tian
-*
-, Liang Li
-*
-. Carrier dynamic identification enables wavelength and intensity sensitivity in perovskite photodetectors. Light: Science & Applications, 2024, 13(1): 280.
-[7]
-Liangliang Min,
-Haoxuan Sun
-*
-, Linqi Guo, Yicheng Zhou, Meng Wang, Fengren Cao, Liang Li
-*
-. Pyroelectric-accelerated perovskite photodetector for picosecond light detection and ranging. Advanced Materials, 2024, 36(26): 2400279.
-[8]
-Linqi Guo,
-Haoxuan Sun
-*
-, Liangliang Min, Meng Wang, Fengren Cao, Liang Li
-*
-. Two-terminal perovskite optoelectronic synapse for rapid trained neuromorphic computation with high accuracy. Advanced Materials, 2024, 36(27): 2402253.
-[9]
-Chen Li,
-Haoxuan Sun
-*
-, Min Wang, Shan Gan, Da Dou, Liang Li
-*
-.High-performance pulse light stable perovskite indoor photovoltaics. Science Bulletin, 2024, 69(3): 334-344.
-[10]
-Chen Li,
-Haoxuan Sun
-*
-, Da Dou, Shan Gan, Liang Li
-*
-.Bipolar Pseudohalide ammonium salts bridged perovskite buried interface toward efficient indoor photovoltaics. Advanced Energy Materials, 2024, 14(34): 2401883.
-[11]
-Linqi Guo,
-Haoxuan Sun
-*
-, Meng Wang, Liangliang Min, Yicheng Zhou, Fengren Cao, Liang Li
-*
-. Polarization and spectrum multi-dimensional sensitive perovskite photodetectors. Advanced Optical Materials, 2024, 12(7): 2301998.
-[12]
-Min Wang,
-Haoxuan Sun
-, Meng Wang, Linxing Meng, Liang Li
-*
-. Uracil induced simultaneously strengthening grain boundaries and interfaces enables high-performance perovskite solar cells with superior operational stability. Advanced Materials, 2024, 36(2): 2306415.
-[13]
-Haoxuan Sun
-,Yicheng Zhou,Liang Li
-*
-.
-Miniature integrated spectrometers towards high-performance and cost-effective.
-Light: Science & Applications. 2023, 12(1): 259.
-[14]
-Shan Gan,
-Haoxuan Sun
-*
-, Chen Li, Da Dou, Liang Li
-*
-. Bifacial perovskite solar cells: a universal component that goes beyond albedo utilization. Science Bulletin, 2023, 68(19): 2247-2267.
-[15]
-Da Dou,
-Haoxuan Sun
-*
-, Chen Li, Shan Gan, Liang Li
-*
-.
-Perovskite-based indoor photovoltaics and their competitors. Advanced Functional Materials, 2023, 34(13): 2314398.
-[16]
-Yicheng Zhou,
-Haoxuan Sun
-*
-, Linqi Guo, Liangliang Min, Meng Wang, Liang Li
-*
-. Emerging computational micro-spectrometers — from complex system integration 
+姓名:孙浩轩
+学院:物理科学与技术学院
+职称:副教授
+研究方向:光电转化器件、功能化集成系统、钙钛矿器件、新兴半导体器件、原型机构建、多学科交叉
+关键词:钙钛矿光电探测器、光电转化器件、神经形态计算、光谱仪、室内光伏、双面太阳能电池、功能化集成系统
+个人简介:孙浩轩，工学博士，苏州大学物理科学与技术学院副教授。2015年于电子科技大学获工学学士学位，2020年获工学博士学位。2020年加入苏州大学李亮教授团队。致力于光电转化器件与功能化集成系统研究，探索与物理学、材料学、电子科学及计算机科学的交叉，实现钙钛矿等新兴半导体器件应用与原型机构建。以第一/通讯作者在Nature Electronics等期刊发表论文20余篇，授权发明专利10余项，获中国材料研究学会科学技术一等奖等，主持国家自然科学基金面上等项目。
+论文:High-Precision In-Sensor Computing Reaching Up to 10 Bits
+The development of customized perovskite photodetectors
+Full-Color Pixel with Only a Single Perovskite Photodiode
+Frequency-selective perovskite photodetector for anti-interference optical communications
+Carrier dynamic identification enables wavelength and intensity sensitivity in perovskite photodetectors
+Pyroelectric-accelerated perovskite photodetector for picosecond light detection and ranging
+Two-terminal perovskite optoelectronic synapse for rapid trained neuromorphic computation with high accuracy
+High-performance pulse light stable perovskite indoor photovoltaics
+Bipolar Pseudohalide ammonium salts bridged perovskite buried interface toward efficient indoor photovoltaics
+Polarization and spectrum multi-dimensional sensitive perovskite photodetectors

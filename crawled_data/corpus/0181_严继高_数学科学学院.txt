@@ -5,16 +5,16 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/yanjigao
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-研究领域:统计大样本理论，概率极限理论；相依随机变量
-社会职务
-个人简介:严继高，博士，副教授，硕士生导师
-。
-论文:1、Complete convergence for maximum of weighted sums of WNOD random variables and its application,COMMUNICATIONS IN STATISTICS-THEORY AND METHODS,2022,Jigao Yan,2
-2、ASYMPTOTIC ESTIMATES FOR FINITE-TIME RUIN PROBABILITIES IN A GENERALIZED DEPENDENT BIDIMENSIONAL RISK MODEL WITH CMC SIMULATIONS,JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION,2022,Jigao Yan,3
-3、Asymptotic behavior for sum ruin probability of generalized bidimensional risk model with heavy-tailed claims,COMMUNICATIONS IN STATISTICS-THEORY AND METHODS,2022,Jigao Yan,4
-4、Asymptotic infinite-time ruin probabilities for a bidimensional time-dependence risk model with heavy-tailed claims, JAPAN JOURNAL OF INDUSTRIAL AND APPLIED MATHEMATICS,2022 Jan,Jigao Yan,39(1), pp.177-194,2
-5、Complete moment convergence for randomly weighted sums of END sequences and its applications,COMMUNICATIONS IN STATISTICS-THEORY AND METHODS,2021 Jun,Jigao Yan,50(12), pp.2877-2899,2
-6、On complete convergence in Marcinkiewicz-Zygmund type SLLN for random variables,Appl. Math. J. Chinese Univ.,2021,Jigao Yan,36(3): 342-353,2
-7、On Complete Convergence in Marcinkiewicz-Zygmund Type SLLN for END Random Variables and Its Applications,COMMUNICATIONS IN STATISTICS-THEORY AND METHODS,2019 Oct,48(20), pp.5074-5098,1
+姓名:严继高
+学院:数学科学学院
+职称:副教授
+研究方向:统计大样本理论、概率极限理论、相依随机变量
+关键词:概率极限理论、大样本理论、相依随机变量、完全收敛、破产概率、重尾分布、END序列、WNOD随机变量
+个人简介:严继高，博士，苏州大学数学科学学院副教授，硕士生导师。2006年获中国科学技术大学概率论与数理统计博士学位。研究方向为统计大样本理论、概率极限理论与相依随机变量。
+论文:Complete convergence for maximum of weighted sums of WNOD random variables and its application
+ASYMPTOTIC ESTIMATES FOR FINITE-TIME RUIN PROBABILITIES IN A GENERALIZED DEPENDENT BIDIMENSIONAL RISK MODEL WITH CMC SIMULATIONS
+Asymptotic behavior for sum ruin probability of generalized bidimensional risk model with heavy-tailed claims
+Asymptotic infinite-time ruin probabilities for a bidimensional time-dependence risk model with heavy-tailed claims
+Complete moment convergence for randomly weighted sums of END sequences and its applications
+On complete convergence in Marcinkiewicz-Zygmund type SLLN for random variables
+On Complete Convergence in Marcinkiewicz-Zygmund Type SLLN for END Random Variables and Its Applications

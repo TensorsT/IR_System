@@ -5,6 +5,17 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/cmyang
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
+姓名:杨彩梅
+学院:外国语学院
+职称:教授
+研究方向:生成语法、一语习得、神经语言学、语言障碍研究
+关键词:生成语法、一语习得、神经语言学、语言障碍、递归、关系从句、句法学、儿童语言习得
+个人简介:杨彩梅，博士，教授，博士生导师，苏州大学东吴学者，江苏省高校“青蓝工程”中青年学术带头人。研究方向为生成语法、一语习得、神经语言学与语言障碍研究。主持国家社科项目等，在SSCI及国内外核心期刊发表论文数十篇。
+论文:An experimental study of Mandarin-speaking children’s acquisition of recursion under a formal definition/classification system for recursion
+Semantic integration of multidimensional perceptual information in L1 sentence comprehension
+唯递归假说中“递归”的界定
+递归和语言的关系之辩及前沿论题
+A reconsideration of the syntax of Chinese relative structures
+“唯递归假说”及其证据——一项基于儿童内递归能力发展规律的实验研究
+英、汉语关系结构的合格条件
+汉语关系结构接应代词的句法

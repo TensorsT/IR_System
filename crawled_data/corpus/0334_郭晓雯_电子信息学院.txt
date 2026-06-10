@@ -5,6 +5,6 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/xwguo
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
+姓名:郭晓雯
+学院:电子信息学院
+职称:讲师

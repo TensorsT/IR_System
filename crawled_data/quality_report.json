@@ -1,0 +1,535 @@
+{
+  "teacher_count": 339,
+  "coverage": {
+    "research_direction": "297/339 (87.6%)",
+    "personal_intro": "280/339 (82.6%)",
+    "papers_text": "210/339 (61.9%)"
+  },
+  "incomplete_count": 144,
+  "incomplete_samples": [
+    {
+      "name": "李正华",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zhli13",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "刘安",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/anliu",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "曹敏",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/caomin",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "贾俊铖",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/jiajuncheng",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "张正超",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zzc",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "杨璐",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yanglu",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "邝泉声",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/kqs",
+      "missing": [
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "晁平复",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/cpf",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "冯思为",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/fsw",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "俞莉莹",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yuliying",
+      "missing": [
+        "研究方向",
+        "论文"
+      ]
+    },
+    {
+      "name": "曹自强",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/21n062_37750",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "陈文亮",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wlchen",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "王中卿",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wangzq",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "李军辉",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/jhli/index.html",
+      "missing": [
+        "简介"
+      ]
+    },
+    {
+      "name": "蔡蔚然",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wrcai",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "段湘煜",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/xiangyuduan",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "权丽君",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/ljquan",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "高国举",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/ggj",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "陈越",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/cheny",
+      "missing": [
+        "研究方向",
+        "论文"
+      ]
+    },
+    {
+      "name": "杜扬",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/duyang",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "赵雷",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zhaol",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "章晓芳",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/xfzhang",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "龚晨",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/gongchen18",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "杨哲",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yangzhe",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "房俊华",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/jhfang",
+      "missing": [
+        "简介"
+      ]
+    },
+    {
+      "name": "陈宇",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/chenyu",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "刘纯平",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/cpliu",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "白志凤",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zfbai",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "朱晓旭",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/xiaoxzhu",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "汪笑宇",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/xywang21",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "王绍丹",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wang_shaodan",
+      "missing": [
+        "研究方向",
+        "论文"
+      ]
+    },
+    {
+      "name": "杨洋",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yyang",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "吕强",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/qiang/index.html",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "钱忠",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/qz",
+      "missing": [
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "张可",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/kzhang19",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "贡正仙",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zhxgong",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "朱苏阳",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zsy",
+      "missing": [
+        "研究方向",
+        "简介"
+      ]
+    },
+    {
+      "name": "弋维君",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wjyi",
+      "missing": [
+        "研究方向",
+        "论文"
+      ]
+    },
+    {
+      "name": "王邦军",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wangbangjun",
+      "missing": [
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "曹金华",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/caojh",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "王岩",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wangyanme",
+      "missing": [
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "高珊",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/gaoshan",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "孔芳",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/kongfang",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "徐超",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/xuchao",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "张若茜",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/rqzhang",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "凌兴宏",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/lingxinghong",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "屈蕴茜",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/quyq",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "胡沁涵",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/huqinhan",
+      "missing": [
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "王栋",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/wangdong",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "赵爽",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zs",
+      "missing": [
+        "简介"
+      ]
+    },
+    {
+      "name": "杨浩",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yang_hao",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "刘钊",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/liuzhao",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "罗路尧",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/lly",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "徐汀荣",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/trxu",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "邓飞霞",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/fxdeng",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "蒋德茂",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/jdm",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "李明翰",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/lmh",
+      "missing": [
+        "论文"
+      ]
+    },
+    {
+      "name": "张春生",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/zcs",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "汪庆淼",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/qmwang",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    },
+    {
+      "name": "於晓明",
+      "department": "计算机科学与技术学院（软件学院）",
+      "url": "http://web.suda.edu.cn/yxm",
+      "missing": [
+        "研究方向",
+        "简介",
+        "论文"
+      ]
+    }
+  ]
+}

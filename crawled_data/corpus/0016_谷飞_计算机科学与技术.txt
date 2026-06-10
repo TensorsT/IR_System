@@ -5,68 +5,17 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/gufei/index.html
 ---
-姓名:Homepage
-页面标题:Homepage
-研究领域:Research Group
-科研团队
-Research Life
-科研生活
-Research Project
-研究项目
-Teaching
-教学
-Social Services
-社会服务
-Recruiting
-招聘
-Language
-English
-中文
-Welcome to Fei Gu's Homepage!
-欢迎来到谷飞的主页!
-Fei Gu, Associate Professor, Excellent Young Scholar at Soochow University
-谷飞，副教授，苏州大学优秀青年学者
-Department of Computer Science and Technology, Soochow University
-苏州大学计算机科学与技术学院
-Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China
-江苏省苏州市十梓街1号苏州大学理工楼517房间
-Email: gufei@suda.edu.cn(Work) / jintiangufei@163.com(Private)
-电子邮箱: gufei@suda.edu.cn(工作) / jintiangufei@163.com(私人)
-School of Computer Science and Technology, Soochow University
-苏州大学计算机科学与技术学学院
-Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China
-江苏省苏州市十梓街1号苏州大学理工楼517房间
-Fei Gu, Excellent Young Scholar at Soochow University
-谷飞，副教授，苏州大学优秀青年学者
-Department of Computer Science and Technology, Soochow University
-苏州大学计算机科学与技术学院
-Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China
-江苏省苏州市十梓街1号苏州大学理工楼517房间
-Email: gufei@suda.edu.cn(Work)
-电子邮箱: gufei@suda.edu.cn(工作)
-Email: jintiangufei@163.com(Private)
-电子邮箱: jintiangufei@163.com(私人)
-School of Computer Science and Technology, Soochow University
-苏州大学计算机科学与技术学学院
-Room 517, Ligong Building No.1, Shizi Street, Gusu District, Suzhou, 215006, China
-江苏省苏州市十梓街1号苏州大学理工楼517房间
-New
-:
-Congratulations to graduate student Wu Zhiwen for receiving the authorization certificate for the national invention patent "Automatic Latent Image Recognition Method Based on Enhanced Spatiotemporal Feature Network" (ZL202510007159.4), on June 6, 2025.
-恭喜组内研究生吴志文申请的国家发明专利（基于增强时空特征网络的自动化自发显影识别方法，ZL202510007159.4）获得授权证书，2025年6月6日。
-New
-:
-Congratulations to our team (Prof. Gu Fei, Prof. Wu Jing, and student Zhang Ziheng) for winning
-the Second Prize of the 2024 Suzhou Artificial Intelligence Society Natural Science Award
-, awarded in January 2025.
-恭喜本团队（谷飞老师、武婧老师、张子恒同学）获得2024年度苏州市人工智能学会
-“人工智能自然科学二等奖”
-，2025年1月。
-New
-:
-Prof. Gu Fei has been appointed as a think tank 
-个人简介:Publications
-论文与专利
-Honors and Awards
-荣誉与奖项
-Research Area
+姓名:谷飞
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:混合增强智能、心血管疾病辅助诊断、心电图智能分析、医学图像处理、计算机视觉、物联网技术、深度学习、智能感知
+关键词:混合增强智能、心血管疾病辅助诊断、心电图分析、医学图像处理、深度学习、计算机视觉、物联网、智能感知
+个人简介:谷飞，博士，苏州大学计算机科学与技术学院副教授，苏州大学优秀青年学者。中国计算机学会（CCF）高级会员，姑苏青年创业领军人才，苏州高新区创新创业领军人才，江苏省数字经济学会智库专家。主要研究方向为混合增强智能、医学图像分析、心血管疾病辅助诊断及物联网技术。
+论文:MSEva: A Musculoskeletal Rehabilitation Evaluation System Based on EMG Signals
+PVCsNet : A Specialized Artificial Intelligence-Based Model to Classify Premature Ventricular Contractions from ECG Images
+SeLaNet: A Noninvasive Distilled Neural Network to Predict the Dense SEC/LAAT Based on Multi-layer Perceptron
+ECGNet: an Efficient Network for Detecting Premature Ventricular Complexes Based on ECG Images
+TuSeSy: An Intelligent Turntable Servo System for Tracking Aircraft and Parachutes Automatically
+ODEM-GAN: An Object Deformation Enhancement Model Based on Generative Adversarial Networks
+Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN
+RoiSeg: an Effective Moving Object Segmentation Approach Based on Region-of-Interest with Unsupervised Learning

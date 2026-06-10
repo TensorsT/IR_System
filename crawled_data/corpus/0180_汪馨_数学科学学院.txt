@@ -5,13 +5,16 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/xinw
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、New Bounds and Constructions for Multiply Constant-Weight Codes,IEEE TRANSACTIONS ON INFORMATION THEORY,SCI,NOV 2016,Xin Wang
-2、Linear (2, p, p)-AONTs exist for all primes p,DESIGNS CODES AND CRYPTOGRAPHY,SCI,OCT 2019,Xin Wang
-3、Deterministic convolutional compressed sensing matrices,FINITE FIELDS AND THEIR APPLICATIONS,SCI,NOV 2016,Xin Wang
-4、New bounds of permutation codes under Hamming metric and Kendall's tau-metric,DESIGNS CODES AND CRYPTOGRAPHY,SCI,DEC 2017,Xin Wang
-5、A strengthened inequality of Alon-Babai-Suzuki's conjecture on set systems with restricted intersections modulo p,DISCRETE MATHEMATICS,SCI,JAN 2018,Xin Wang
-6、Constructions of augmented orthogonal arrays,JOURNAL OF COMBINATORIAL DESIGN,SCI,2018,Xin Wang
-7、Improved Upper Bounds for Parent-Identifying Set ,DESIGNS CODES AND CRYPTOGRAPHY,SCI,2021,Xin Wang
+姓名:汪馨
+学院:数学科学学院
+职称:副教授
+研究方向:组合数学、编码理论
+关键词:组合数学、编码理论、常重码、置换码、压缩感知、正交阵列、数字指纹码
+个人简介:汪馨，浙江嘉善人，数学科学学院副研究员，研究方向为组合数学及其在信息科学中的应用。在IEEE Transactions on Information Theory等期刊发表论文10余篇，主持国家自然科学基金青年科学基金和江苏省青年基金各一项。
+论文:New Bounds and Constructions for Multiply Constant-Weight Codes
+Linear (2, p, p)-AONTs exist for all primes p
+Deterministic convolutional compressed sensing matrices
+New bounds of permutation codes under Hamming metric and Kendall's tau-metric
+A strengthened inequality of Alon-Babai-Suzuki's conjecture on set systems with restricted intersections modulo p
+Constructions of augmented orthogonal arrays
+Improved Upper Bounds for Parent-Identifying Set

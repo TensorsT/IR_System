@@ -5,108 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/zhangliml
 ---
-姓名:计算机科学与技术学院（软件学院）
-页面标题:计算机科学与技术学院（软件学院）
-研究领域:机器学习、模式识别、图像处理
-基本信息
-张莉
-职称：
-教授
-院部/部门：
-计算机科学与技术学院（软件学院）
-学历：
-学位：
-毕业学校：
-毕业专业：
-联系方式
-通讯地址：
-邮政编码：
-电子邮箱：
-zhangliml@suda.edu.cn
-联系电话：
-15295659028
-传真号码：
-办公地点：
-计算机科学与技术学院
-科学研究
-科研团队
-机器学习理论及应用课题组
-个人简介:博士，教授，博导，信息管理系主任，IEEE会员，中国计算机学会高级会员, 中国人工智能学会机器学习专业委员会委员,中国人工智能学会粗糙集与软计算专委会委员，中国计算机学会人工智能与模式识别专业委员会委员，江苏省计算机学会第七届理事会理事，江苏省计算机学会第七届理事会理事青年工作委员会副主任。1997年在西安电子科技大学获得工学学士学位；2002年，在西安电子科技大学获得工学博士学位，博士论文被评选为陕西省优秀博士学位论文。2003年4月至2005年5月，在上海交通大学控制科学与工程博士后流动站工作。2005年5月至2010年8月，在西安电子科技大学智能信息处理研究所作研究工作。其间，从2010年1月至2010年4月在台湾元智大学担任客座副教授。从2010年8月至今，在苏州大学计算机科学与技术学院工作，2015年入选苏州大学“东吴学者计划”。
-主要从事机器学习、模式识别、图像处理方面的研究。为《IEEE Transactions on Pattern Recognition and Machine Intelligence 》、《IEEE Transactions on Neural Networks》、《Arabian Journal for Science and Engineering》、《模式识别与人工智能》等学术期刊及国际学术会议的审稿人。到目前为止与合作者出版专著3部，发表论文100余篇，其中SCI检索30余篇,EI检索60余篇，SCI他引400余次；获发明专利10余项，获国家自然科学奖二等奖、教育部高等学校科学研究优秀成果自然科学一等奖、陕西省科技进步一等奖、江苏省科技进步二等奖和三等奖、以及西安市科技进步一等奖各一项；作为项目负责人，申请到国家自然科学基金三项、省自然科学基金两项。获得江苏省杰出青年基金资助，是江苏省高校“青蓝工程”优秀青年骨干教师培养对象，并获得江苏省首届“江苏省优秀计算机科技工作者” 称号，及苏州市首届“青年计算机科技优秀人才”称号。
-论文:主要的国际期刊论文列表
-Zhao Zhang*, Yan Zhang, Fanzhang Li, Mingbo Zhao,
-Li Zhang
-and Shuicheng Yan. Discriminative Sparse Flexible Manifold Embedding with Novel Graph for Robust Visual Representation and Label Propagation. Pattern Recognition (PR), 2017, 61: 492–510.
-Li Zhang
-*, Wei-Da Zhou. Fisher-regularized support vector machine.
-Information Sciences, 2016, 343-344(5): 79-93.
-Wenxuan Xu,
-Li Zhang
-*, Yaping Lu, SD-MSAEs: Promoter recognition in human genome based on deep feature extraction, Journal of Biomedical Informatics, 2016, 61 (3): 55–62.
-Mei Lu*, Xiang-Jun Zhao,
-Li Zhang
-, Fan-Zhang Li, Semi-supervised concept factorization for document clustering. Information Sciences, 2016, 331(2): 86-98.
-Li Zhang
-*, Liqiang Qian, Chuntao Ding, Weida Zhou, Fanzhang Li. Similarity-balanced discriminant neighbor embedding and its application to cancer classification based on gene expression data, Computers in Biology and Medicine, 2015, 64(9): 236-245.
-Li Zhang
-*
-，
-Yiqin Leng, Jiwen Yang, Fanzhang. Supervised locally linear embedding algorithm based on orthogonal matching pursuit. IET Image Processing, 2015, 9(8): 626-633.
-Peipei Xia,
-Li Zhang
-*, Fanzhang Li. Learning similarity with cosine similarity ensemble. Information Sciences. 2015, 307(6): 39–52.
-Chuntao Ding,
-Li Zhang
-*, Double adjacency graphs-based discriminant neighborhood embedding, Pattern Recognition, 2015, 48(5): 1734–1742.
-Li Zhang
-*, Wei-Da Zhou, Time series prediction using sparse regression ensemble based on
-l
-2
--
-l
-1
-problem, Soft Computing, 2015, 19(3): 781-792.
-Jin Cao,
-Li Zhang
-*, Bangjun Wang, Fanzhang Li, Jiwen Yang, A fast gene selection method for multi-cancer classification using multiple support vector data description, Journal of Biomedical Informatics, 2015, 53(2): 381-389.
-Yiqin Leng,
-Li Zhang
-*, Jiwen Yang. Orthogonal matching pursuit-based incremental locally linear embedding algorithm, International Journal Autonomous and Adaptive Communications Systems, 2015, 8(2-3): 257-267.
-L. Zhang
-, W. D Zhou, G. R. Chen, Y.P. Lu, F. Z Li. Sparse signal reconstruction using decomposition algorithm, Knowledge-Based Systems, 2013, 54(18), 172-179.
-L. Zhang
-, and W. D. Zhou. A fastalgorithm for kernel 1-norm support vector machines, Knowledge-Based Systems,2013, 52(16), 223 – 235.
-L. Zhang
-, and W. D. Zhou. 1-normsupport vector novelty detection and its sparseness, Neural Networks, 2013, 48(12),125-136.
-L. Zhang
-, and W. D. Zhou. Analysisof programming properties and the row–column generation method for 1-normsupport vector machines,
-Neural Networks
-,2013, 48(12), 32-43
-L. Zhang
-, W.-D. Zhou, P.-C. Chang,Ji-Wen Yang and Fan-Zhang Li. Iterated time series prediction with multiplesupport vector regression models,
-Neurocomputing
-,2013, 99, 411–422
-W. Zhong, J. Liu,
-L. Zhang
-.Evolutionary dynamics of continuous strategy games on graphs and socialnetworks under weak selection, BioSystems, 2013, 111, 102– 110.
-D. Wang, P.-C. Chang,
-L.Zhang
-, J.-L. Wu, C. L. Zhou. The stability analysis for a novel feedbackneural network with partial connection, Neurocomputing, 2013, 116, 22-29
-L. Zhang
-, W.-D. Zhou, P.-C. Chang,
-et al
-. Kernel sparserepresentation-based classifier,
-IEEE Transactionson Signal Processing
-, 2012, 60, 1684-1695.
-Li Zhang
-and Weida Zhou. Sparse ensembles using weightedcombination methods based on linear programming. Pattern Recognition, 44(1):97-106,January 2011.
-Li Zhang
-and Weida Zhou. Density-induced margin supportvector machines. Pattern Recognition, 44(7):1448 – 1460, July 2011.
-Li Zhang
-, Wei-Da Zhou, and Pai-Chann Chang. Generalizednonlinear discriminant analysis and its small sample size problems.Neurocomputing, 74(4):568–574, January 2011.
-Li Zhang
-and Weida Zhou. On the sparseness of 1-normsupport vector machines. Neural Networks, 23:373–385, April 2010.
-Li Zhang
-, Weida Zhou, and Licheng Jiao. Complex-valuedsupport vector classifiers. Digital Signal Processing, 20:944–955, May 2010.
-Li Zhang
-, Yugeng Xi, and Weida Zhou. Identification andcontrol of discret
+姓名:张莉
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:机器学习、模式识别、图像处理
+关键词:机器学习、模式识别、图像处理、支持向量机、稀疏表示、流形学习、半监督学习
+个人简介:博士，教授，博导，信息管理系主任，IEEE会员，CCF高级会员。1997年西安电子科技大学学士，2002年西安电子科技大学博士。2003-2005年上海交大博士后。2005-2010年西安电子科技大学智能信息处理研究所工作。2010年起任职苏州大学计算机学院。研究方向为机器学习、模式识别、图像处理。出版专著3部，发表论文100余篇，SCI检索30余篇，获发明专利10余项。主持国家自然科学基金三项、省自然科学基金两项，获国家自然科学奖二等奖、教育部自然科学一等奖等。
+论文:Discriminative Sparse Flexible Manifold Embedding with Novel Graph for Robust Visual Representation and Label Propagation
+Fisher-regularized support vector machine
+SD-MSAEs: Promoter recognition in human genome based on deep feature extraction
+Semi-supervised concept factorization for document clustering
+Similarity-balanced discriminant neighbor embedding and its application to cancer classification based on gene expression data
+Supervised locally linear embedding algorithm based on orthogonal matching pursuit
+Learning similarity with cosine similarity ensemble
+Double adjacency graphs-based discriminant neighborhood embedding
+Time series prediction using sparse regression ensemble based on l2-l1 problem
+A fast gene selection method for multi-cancer classification using multiple support vector data description

@@ -5,11 +5,18 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/ycli
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-论文:论文：
-1、Efficient Multi-Stage Deployment of Ultra-Low Loss Fibers in Elastic Optical Networks,IEEE/OSA Journal of Lightwave Technology,SCI二区,2020.07,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 38, no.14, pp. 3542 - 3552,（第一作者）
-2、Strategies and Benefits of Deploying Ultralow-Loss Fiber Links in an Elastic Optical Net,IEEE/OSA Journal of Optical Communications and Networking,SCI二区,2019.05,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 11, no. 5, pp. 238-249,（第一作者）
-3、Energy-Saving in IP Over WDM Networks by Putting Protection Router Cards to Sleep,IEEE/OSA Journal of Lightwave Technology,SCI二区,2018.07,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 36, no. 14, pp. 3003 - 3017, (第一作者)
-4、Lightpath Blocking Analysis for Optical Networks With ROADM Intra-Node Add-Drop Contention,SCIENCE CHINA-INFORMATION SCIENCES,SCI二区,2016.08,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 59, no. 10, pp. 102305:1-102305:17,（第一作者）
-5、Impact of ROADM Colorless, Directionless, and Contentionless (CDC) Features on Optical Network Performance,IEEE/OSA Jour nal of Optical Communications and Networking,SCI二区,2012.12,Yongcheng Li,Gangxiang Shen,Soochow University,vol. 4, no. 11, pp.  B58 - B67,(第一作者)
+姓名:李泳成
+学院:电子信息学院
+职称:副教授
+研究方向:骨干光网络、智算中心光网络、卫星光网络
+关键词:骨干光网络、智算中心光网络、卫星光网络、弹性光网络、超低损耗光纤、ROADM、空分复用、光网络优化
+个人简介:李泳成，工学博士，苏州大学副研究员，硕士生导师，电子信息学院院长助理（2024-），苏州大学优秀青年学者。目前主要从事骨干光网络、智算中心光网络、卫星光网络等领域的研究工作。主持国家自然科学基金面上/青年项目、科技部重点研发计划课题等多项纵横向项目，发表学术论文50余篇，获授权国内外多项发明专利及多项省部级科技奖。
+论文:Spatial super-channel provisioning in fiber space division multiplexing (FSDM) optical networks
+高维度光交叉连接研究进展（特邀）
+Ultra-low loss fiber deployment in elastic optical networks with fixed and variable topologies
+Colorless, partially directionless, and contentionless architecture for high-degree ROADMs
+Efficient multi-stage deployment of ultra-low loss fibers in elastic optical networks
+Strategies and benefits of deploying ultralow-loss fiber links in an elastic optical network
+Energy-saving in IP over WDM networks by putting protection router cards to sleep
+Lightpath blocking analysis for optical networks with ROADM intra-node add-drop contention
+Impact of ROADM colorless, directionless, and contentionless (CDC) features on optical network performance (Invited)

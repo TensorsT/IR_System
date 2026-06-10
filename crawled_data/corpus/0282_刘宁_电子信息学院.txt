@@ -5,33 +5,14 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/ln
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-研究领域:面向智算中心、车载网络、具身智能、工业互联网等场景的短距光互联通信系统和光交换系统及其相关硅基光电子器件和数字信号处理算法设计。
-个人简介:刘宁，苏州大学电子信息学院教授、博士生导师，
-江苏省双创博士，江苏省双创团队核心成员
-。
-2008
-年博士毕业于新加坡南洋理工大学，
-2008
-至
-2020
-年期间，曾任华为法国研究所光技术主任、海思光电技术规划部高级经理等职务。
-发表学术论文
-100
-余篇，出版中英文学术专著各一章，获授权美国欧洲专利和中国发明专利各
-20
-余件，多次受邀在国际会议上做口头报告，包括
-2017
-年和
-2024
-年两次在光通信旗舰会议
-OFC
-上做特邀报告。
-科研项目及成果：
-主持完成国家
-863
-项目一项，相关研究成果成功产品化落地
-于华为
-城域光传输设备并在全球运营商网络中广泛部署，产生巨大经济和社会效益。
-目前主持国家重点研发计划课题、国自然面上项目、奇瑞星火项目各一项，在国内最早推动了光纤通信应用于车载网络的研究并引起行业的广泛关注，成果被中国汽车工程学会采纳进入2026年度中国汽车十大技术趋势。
+姓名:刘宁
+学院:电子信息学院
+职称:教授
+研究方向:短距光互联通信、光交换、硅基光电子器件、数字信号处理算法、车载光通信、智算中心光互联、具身智能、工业互联网
+关键词:光通信、短距光互联、光交换、硅基光电子、数字信号处理、车载网络、相干光通信、PAM-4、IM/DD、工业互联网
+个人简介:刘宁，苏州大学电子信息学院教授、博导。博士毕业于新加坡南洋理工大学，曾任华为法国研究所光技术主任、海思光电技术规划部高级经理。发表论文余篇，出版中英文学术专著各一章，获授权美欧专利和中国发明专利各余件，多次在OFC等做特邀报告。主持完成国家项目一项，成果落地华为城域光传输设备。目前主持国家重点研发计划课题、国自然面上、奇瑞星火项目，最早推动车载光通信研究，成果入选2026中国汽车十大技术趋势。
+论文:Optical Communications in Autonomous Driving Vehicles: Requirements, Challenges, and Opportunities
+Complex-valued recurrent neural network equalizer with low complexity for a 120-Gbps 50-km optical PAM-4 IM/DD system
+Demonstration of an 800G CDM-SDM coherent PON utilizing weakly coupled multicore fibers with CDM tributary manipulation
+Low-latency and efficient retiming and equalizing scheme for a 112-Gbps bandwidth-limited optical PAM-4 system
+IM/DD Transmission Techniques for Emerging 5G Fronthaul, DCI and Metro Applications

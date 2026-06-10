@@ -5,5 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/ppzhao/index.html
 ---
-姓名:Biography
-页面标题:Pengpeng Zhao 赵朋朋
+姓名:赵朋朋
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:数据挖掘、深度学习、大数据分析、推荐系统、移动智能
+关键词:数据挖掘、深度学习、推荐系统、协同过滤、序列推荐、图神经网络、对比学习、大数据分析、移动智能
+个人简介:赵朋朋，博士，苏州大学计算机科学与技术学院教授、博导，苏州工业园区领军人才。2008年获苏州大学计算机科学博士学位。2016-2017年在美国罗格斯大学访学。主持国家自然科学基金等项目，获苏州市科技进步奖。在TKDE、AAAI、IJCAI等CCF A/B类会议/期刊发表论文100余篇，申请发明专利50余项。主要研究方向为数据挖掘、深度学习、大数据分析和推荐系统。
+论文:Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free
+Wavelet Enhanced Adaptive Frequency Filter for Sequential Recommendation
+Contrastive Flow Matching for Collaborative Filtering
+How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals
+GPL4SRec: Graph Multi-Level Aware Prompt Learning for Streaming Recommendation
+Fuzzy Collaborative Reasoning
+Meta-optimized Structural and Semantic Contrastive Learning for Graph Collaborative Filtering
+Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation
+Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation
+Sequential Recommendation with Probabilistic Logical Reasoning

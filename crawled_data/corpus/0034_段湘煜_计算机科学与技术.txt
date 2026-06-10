@@ -5,68 +5,9 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/xiangyuduan
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-研究领域:机器翻译
-跨语言信息处理
-自然语言处理
------------------------------------------
-最近更新
-1. 我把对科技进步和社会发展的关系的想法写在科幻小说：
-奖励世界
-。
-2. 大模型的每个预测需要有根据，如果其根据是错的，那么即使预测正确也将是流于表面正确。我们在翻译错误落实(Translation Error Grounding)任务上研究了大模型是否能为人工标注的翻译错误找到根据的问题，发现大模型在很多情况下并不知道错误为什么是错的，那么其错误纠正也将不可信，相关成果发表于EMNLP2025-Findings。
-3. 相比于大模型仅依靠预测下一个token的预训练范式，我们认为类人的基础阅读教育范式去理解每句的详细信息更为重要。我们将该观点应用于系统蒸馏，相关成果发表于
-ACL2025
-。
-4. 多模态跨语言短语检索，提升短语翻译性能，
-相关成果
-发表于
-COLING2024
-。
-5. 面向大模型机器翻译的子模
-(Submodular)
-示例选择方法，相关成果
-发表于
-COLING2024
-。
-6. 面向可定制的翻译服务，提出
-词汇约束消岐的神经机器翻译，相关成果
-发表于
-ACL2023-Findings
-。
-更多信息请参看
-个人主页
-。
------------------------------------------
-学生
-在读研究生
-张金鹏，Bilingual Lexicon Induction
-段仁翀，Multilingual Machine Translation
-金畅，Machine Translation
-肖妮妮，Machine Translation
-周文杰，Low Resource
-缪思睿，Pre-training for Machine Translation
-周烁，Low Resource
-董川齐，Multi-Modal Machine Translation
-张竹君，Machine Translation Modeling
-李博，Machine Translation Structures
-张誉泷，Cross Lingual Applications
-张婉群，Machine Translation Modeling
-已毕业研究生
-邱石贵, Cross-lingual Applications，现就职于百度，北京
-贾浩, Cross-lingual Applications，现就职于腾讯，北京
-王煦, Cross-lingual Applications，现就职于智慧芽，苏州
-章华奥, Machine Translation Applications，现就职于同花顺，杭州
-季佰军, Zero-shot Machine Translation，现就职于腾讯，北京
-史小静, Domain-adapted Machine Translation，现就职于搜狗，杭州
-宁秋怡，Domain-adapted Machine Translation，现就职于联通，南京
-殷明明, cross-lingual summarization, 现就职于搜狗，杭州
-周孝青, model compression for machine translation, 现就职于OPPO，北京
-俞鸿飞, machine translation and summarization, 现就职于美团，上海
-谭敏, machine translation, 现就职于华为，南京
-王坤, machine translation systems, 现就职于微软，苏州
-汪琪, convolution on attention heatmap of NMT, 现就职于中国招商银行总行，深圳
-龚慧敏, corpus quality, 现就职于智慧芽，苏州
------------------------------------------
-中英翻译演示系统
+姓名:段湘煜
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:机器翻译、跨语言信息处理、自然语言处理
+关键词:自然语言处理、机器翻译、跨语言信息处理、机器学习、神经机器翻译、大模型、多模态、错误分析
+个人简介:2008年博士毕业于中国科学院自动化研究所，后在新加坡科技发展局资讯通信研究院任研究员，2013年加入苏州大学计算机科学与技术学院。主要从事自然语言处理研究，包括机器翻译、机器学习等方向。主持国家自然科学基金项目两项、国家重点研发计划专项一项等，多次在国际口语机器翻译评测中获前三名，指导研究生获2018年AI Challenger机器翻译赛道双周赛第一名。在IEEE/ACM TASLP、ACL、AAAI等顶级期刊和会议发表多篇论文，担任多个著名期刊和会议审稿人。

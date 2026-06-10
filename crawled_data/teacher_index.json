@@ -146,7 +146,7 @@
   {
     "doc_id": 17,
     "name": "邝泉声",
-    "career": "",
+    "career": "讲师",
     "department": "计算机科学与技术学院（软件学院）",
     "college_id": 15,
     "url": "http://web.suda.edu.cn/kqs",
@@ -253,21 +253,21 @@
   },
   {
     "doc_id": 29,
-    "name": "梁合兰",
-    "career": "副教授",
-    "department": "计算机科学与技术学院（软件学院）",
-    "college_id": 15,
-    "url": "http://web.suda.edu.cn/hlliang",
-    "corpus_file": "0029_梁合兰_计算机科学与技术.txt"
-  },
-  {
-    "doc_id": 30,
     "name": "蔡蔚然",
     "career": "教授",
     "department": "计算机科学与技术学院（软件学院）",
     "college_id": 15,
     "url": "http://web.suda.edu.cn/wrcai",
-    "corpus_file": "0030_蔡蔚然_计算机科学与技术.txt"
+    "corpus_file": "0029_蔡蔚然_计算机科学与技术.txt"
+  },
+  {
+    "doc_id": 30,
+    "name": "梁合兰",
+    "career": "副教授",
+    "department": "计算机科学与技术学院（软件学院）",
+    "college_id": 15,
+    "url": "http://web.suda.edu.cn/hlliang",
+    "corpus_file": "0030_梁合兰_计算机科学与技术.txt"
   },
   {
     "doc_id": 31,
@@ -667,21 +667,21 @@
   },
   {
     "doc_id": 75,
-    "name": "徐超",
-    "career": "讲师",
-    "department": "计算机科学与技术学院（软件学院）",
-    "college_id": 15,
-    "url": "http://web.suda.edu.cn/xuchao",
-    "corpus_file": "0075_徐超_计算机科学与技术.txt"
-  },
-  {
-    "doc_id": 76,
     "name": "陈宁",
     "career": "讲师",
     "department": "计算机科学与技术学院（软件学院）",
     "college_id": 15,
     "url": "http://web.suda.edu.cn/cn/index.html",
-    "corpus_file": "0076_陈宁_计算机科学与技术.txt"
+    "corpus_file": "0075_陈宁_计算机科学与技术.txt"
+  },
+  {
+    "doc_id": 76,
+    "name": "徐超",
+    "career": "讲师",
+    "department": "计算机科学与技术学院（软件学院）",
+    "college_id": 15,
+    "url": "http://web.suda.edu.cn/xuchao",
+    "corpus_file": "0076_徐超_计算机科学与技术.txt"
   },
   {
     "doc_id": 77,
@@ -938,7 +938,7 @@
   {
     "doc_id": 105,
     "name": "张大群",
-    "career": "",
+    "career": "教授",
     "department": "外国语学院",
     "college_id": 74,
     "url": "http://web.suda.edu.cn/zdq",
@@ -1216,21 +1216,21 @@
   },
   {
     "doc_id": 136,
-    "name": "张萍",
-    "career": "教授",
-    "department": "外国语学院",
-    "college_id": 74,
-    "url": "http://web.suda.edu.cn/blacrosezhang",
-    "corpus_file": "0136_张萍_外国语学院.txt"
-  },
-  {
-    "doc_id": 137,
     "name": "陈超美",
     "career": "讲师",
     "department": "外国语学院",
     "college_id": 74,
     "url": "http://web.suda.edu.cn/ccm",
-    "corpus_file": "0137_陈超美_外国语学院.txt"
+    "corpus_file": "0136_陈超美_外国语学院.txt"
+  },
+  {
+    "doc_id": 137,
+    "name": "张萍",
+    "career": "教授",
+    "department": "外国语学院",
+    "college_id": 74,
+    "url": "http://web.suda.edu.cn/blacrosezhang",
+    "corpus_file": "0137_张萍_外国语学院.txt"
   },
   {
     "doc_id": 138,
@@ -1505,7 +1505,7 @@
   {
     "doc_id": 168,
     "name": "王志国",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/zgwang",
@@ -1514,7 +1514,7 @@
   {
     "doc_id": 169,
     "name": "梁兵兵",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/lbb",
@@ -1523,7 +1523,7 @@
   {
     "doc_id": 170,
     "name": "刘洋",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/liuyang2023",
@@ -1532,7 +1532,7 @@
   {
     "doc_id": 171,
     "name": "黄金枝",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/hjz2",
@@ -1541,7 +1541,7 @@
   {
     "doc_id": 172,
     "name": "陈旻昕",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/chenminxin",
@@ -1550,7 +1550,7 @@
   {
     "doc_id": 173,
     "name": "王义乾",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/yiqian",
@@ -1559,7 +1559,7 @@
   {
     "doc_id": 174,
     "name": "张亚楠",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/ynzhang",
@@ -1568,7 +1568,7 @@
   {
     "doc_id": 175,
     "name": "康红梅",
-    "career": "",
+    "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/khm",
@@ -1577,7 +1577,7 @@
   {
     "doc_id": 176,
     "name": "王云",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/ywang3",
@@ -1586,7 +1586,7 @@
   {
     "doc_id": 177,
     "name": "杨大伟",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/yangdw",
@@ -1595,7 +1595,7 @@
   {
     "doc_id": 178,
     "name": "赵云",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/zhaoyun",
@@ -1604,7 +1604,7 @@
   {
     "doc_id": 179,
     "name": "吕仁才",
-    "career": "",
+    "career": "教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/rlu",
@@ -1648,30 +1648,30 @@
   },
   {
     "doc_id": 184,
-    "name": "徐礼柏",
-    "career": "讲师",
-    "department": "数学科学学院",
-    "college_id": 78,
-    "url": "http://web.suda.edu.cn/xlb",
-    "corpus_file": "0184_徐礼柏_数学科学学院.txt"
-  },
-  {
-    "doc_id": 185,
-    "name": "卢丹诚",
-    "career": "教授",
-    "department": "数学科学学院",
-    "college_id": 78,
-    "url": "http://web.suda.edu.cn/ludancheng",
-    "corpus_file": "0185_卢丹诚_数学科学学院.txt"
-  },
-  {
-    "doc_id": 186,
     "name": "张涵",
     "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/zh2_46441",
-    "corpus_file": "0186_张涵_数学科学学院.txt"
+    "corpus_file": "0184_张涵_数学科学学院.txt"
+  },
+  {
+    "doc_id": 185,
+    "name": "徐礼柏",
+    "career": "讲师",
+    "department": "数学科学学院",
+    "college_id": 78,
+    "url": "http://web.suda.edu.cn/xlb",
+    "corpus_file": "0185_徐礼柏_数学科学学院.txt"
+  },
+  {
+    "doc_id": 186,
+    "name": "卢丹诚",
+    "career": "教授",
+    "department": "数学科学学院",
+    "college_id": 78,
+    "url": "http://web.suda.edu.cn/ludancheng",
+    "corpus_file": "0186_卢丹诚_数学科学学院.txt"
   },
   {
     "doc_id": 187,
@@ -1783,21 +1783,21 @@
   },
   {
     "doc_id": 199,
-    "name": "金贤",
-    "career": "",
-    "department": "数学科学学院",
-    "college_id": 78,
-    "url": "http://web.suda.edu.cn/jinxian",
-    "corpus_file": "0199_金贤_数学科学学院.txt"
-  },
-  {
-    "doc_id": 200,
     "name": "董自康",
     "career": "副教授",
     "department": "数学科学学院",
     "college_id": 78,
     "url": "http://web.suda.edu.cn/dzk",
-    "corpus_file": "0200_董自康_数学科学学院.txt"
+    "corpus_file": "0199_董自康_数学科学学院.txt"
+  },
+  {
+    "doc_id": 200,
+    "name": "金贤",
+    "career": "",
+    "department": "数学科学学院",
+    "college_id": 78,
+    "url": "http://web.suda.edu.cn/jinxian",
+    "corpus_file": "0200_金贤_数学科学学院.txt"
   },
   {
     "doc_id": 201,
@@ -2171,7 +2171,7 @@
   {
     "doc_id": 242,
     "name": "李亮",
-    "career": "",
+    "career": "教授",
     "department": "物理科学与技术学院",
     "college_id": 79,
     "url": "http://web.suda.edu.cn/lli",
@@ -2180,7 +2180,7 @@
   {
     "doc_id": 243,
     "name": "朱睿东",
-    "career": "",
+    "career": "副教授",
     "department": "物理科学与技术学院",
     "college_id": 79,
     "url": "http://web.suda.edu.cn/zrd",
@@ -2189,7 +2189,7 @@
   {
     "doc_id": 244,
     "name": "吴雪梅",
-    "career": "",
+    "career": "教授",
     "department": "物理科学与技术学院",
     "college_id": 79,
     "url": "http://web.suda.edu.cn/xmwu",
@@ -2711,7 +2711,7 @@
   {
     "doc_id": 302,
     "name": "于文博",
-    "career": "",
+    "career": "讲师",
     "department": "电子信息学院",
     "college_id": 85,
     "url": "http://web.suda.edu.cn/ywb/index.html",
@@ -2720,7 +2720,7 @@
   {
     "doc_id": 303,
     "name": "沈纲祥",
-    "career": "",
+    "career": "教授",
     "department": "电子信息学院",
     "college_id": 85,
     "url": "http://web.suda.edu.cn/shengx",
@@ -2729,7 +2729,7 @@
   {
     "doc_id": 304,
     "name": "方二喜",
-    "career": "",
+    "career": "高级实验师",
     "department": "电子信息学院",
     "college_id": 85,
     "url": "http://web.suda.edu.cn/fangerxi",
@@ -2827,21 +2827,21 @@
   },
   {
     "doc_id": 315,
-    "name": "钱敏",
-    "career": "教授",
-    "department": "电子信息学院",
-    "college_id": 85,
-    "url": "http://web.suda.edu.cn/qianmin",
-    "corpus_file": "0315_钱敏_电子信息学院.txt"
-  },
-  {
-    "doc_id": 316,
     "name": "杨玉丽",
     "career": "教授",
     "department": "电子信息学院",
     "college_id": 85,
     "url": "http://web.suda.edu.cn/yyl",
-    "corpus_file": "0316_杨玉丽_电子信息学院.txt"
+    "corpus_file": "0315_杨玉丽_电子信息学院.txt"
+  },
+  {
+    "doc_id": 316,
+    "name": "钱敏",
+    "career": "教授",
+    "department": "电子信息学院",
+    "college_id": 85,
+    "url": "http://web.suda.edu.cn/qianmin",
+    "corpus_file": "0316_钱敏_电子信息学院.txt"
   },
   {
     "doc_id": 317,

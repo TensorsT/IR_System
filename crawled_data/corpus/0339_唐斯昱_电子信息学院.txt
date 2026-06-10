@@ -5,139 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/tsy2
 ---
-姓名:教师个人主页
-页面标题:电子信息学院
-研究领域:一）
-确定性泛在网络与智联基础设施
-面向
-6G
-通信、工业互联网、算网融合和数据中心网络等新型信息基础设施场景，研究网络在复杂动态环境下实现可预期服务质量、超低时延和高可靠传输的理论与关键技术，构建支撑智能连接、实时控制与高效协同的下一代网络基础设施。
-子方向：
-- 确定性网络体系结构与服务质量保障
-- 超低时延高可靠传输机制
-- 工业互联网中的实时通信与网络协同技术
-- 端边云协同基础设施
-二）
-大规模分布式系统的时空一致性体系
-面向云计算、分布式数据库、集合通信与大模型
-(LLM)
-驱动数据中心等场景，研究大规模分布式环境中时间一致性、状态一致性与协同执行机制，构建支撑高性能、高可信、高协同运行的时空一致性理论与系统体系。
-子方向：
-- 高精度时钟同步理论与关键技术
--
-高可靠自适应鲁棒同步技术
-欢迎对未来通信网络、工业互联网、数据中心网络及大模型基础设施等方向感兴趣的同学报考博士研究生和硕士研究生。课题组注重基础研究与系统实践相结合，强调科研创新与成果转化并重，鼓励学生围绕产业界关键问题开展高水平研究。
-------------------------------------------------------------------------------------------------
-曾承担主要科研项目
-2011-2017
-：
-数据中心网络及
-CDN
-网络中的拥塞阻塞问题，队列控制，负载均衡及超低时延网络协议及算法设计
-。产出专利
-12
-件
-。
-2018-2020
-：
-工业时间敏感网络技术研究项目。
-通过对硬件特性进行增强，大幅降低配置所涉及的约束条件，在相同网络条件下，较业界标杆
-TTTech Slate XNS
-，配置成功率可提高
-30%-40%
-左右，产出专利
-2
-件。该技术进入华为
-IIC TSN
-测试床，
-2018
-年在德国汉诺威工业展展出。获得华为数通产品线技术创新团队奖。
-2021-2022
-：
-广谱确定性网络研究项目。
-设计一种轻量的异步确定性方案，无需维护逐流状态，不依赖门控和同步技术，在降低部署成本的同时，保障不同等级业务的不同确定性需求。与
-IEEE 802.1Qdv
-异步整形技术相比，时延及抖动降低
-70%
-以上，产出专利
-3
-件。获华为中央研究院创新先锋一等奖。
-2022-2024
-：
-工业交换机相关确定性高可靠技术研究项目。
-采用高性能算法弥补硬件不足。设计异步确定性
-+
-高可靠方案，产出专利
-1
-件。获慕尼黑研究所团队奖，华为数通产品线金网络奖。
-2024-2026
-：
-大规模分布式系统中的时钟同步技术研究项目。
-构建精度可解释的时钟同步系统理论框架及自适应鲁棒算法设计，
-产出专利
-1
-件。
-推动软时钟同步算法协议在不同垂直行业（电信，能源，数据中心）的应用及落地，
-推动相关机制进入国际
-标准组织（
-IETF
-）
-的技术讨论框架。
----------------------------------------
-获奖情况
-201
-9
-：
-华为数通产品线技术创新团队奖
-2022
-：
-华为
-中央研究院创新先锋一等奖
-2022
-：
-华为
-慕尼黑研究所团队奖
-2022：
-华为2012实验室
-最佳合作奖
-202
-3
-：
-华为数通产品线金网络奖
-------------------------------------------------------------------------------------------------
-代表论文
-•
-Z. Qiu, I. Jokic, S. Tang
-, R. Noldus, and P. Van Mieghem,
-“
-Inverse All Shortest Path Problem”, IEEE Transactions on Network Science and Engineering,
-https://ieeexplore.ieee.org/document/10376308
-, December, 2023.
-•
-C. Liaskos, K. Alexandris, A. Das,
-S. Tang
-,
-“
-Analysis and Evaluation of Fully TCP-Compatible Backpressure-Driven Traffic Engineering”, IEEE Transactions on Network Science and Engineering, p. 4056-4070, Vol. 10, Issue 6,
-https://ieeexplore.ieee.org/document/10143674
-, June, 2023.
-•
-C. Liaskos, K. Alexandris, A. D
-论文:论文：
-1、Inverse All Shortest Path Problem,IEEE Transactions on Network Science and Engineering,Z. Qiu, I. Jokic, S. Tang, R. Noldus, and P. Van Mieghem,December, 2023
-2、Analysis and Evaluation of Fully TCP-Compatible Backpressure-Driven Traffic Engineering,IEEE Transactions on Network Science and Engineering,C. Liaskos, K. Alexandris, A. Das, S. Tang,p. 4056-4070, Vol. 10, Issue 6, June, 2023
-3、End-to-end TCP-compatible Backpressure Routing,IEEE Infocom workshop,C. Liaskos, K. Alexandris, A. Das, S. Tang,2022
-4、Enhancing schedulability and throughput of time-triggered traffic in IEEE 802.1 Qbv time-sensitive networks,IEEE Transactions on Communications,•	Vlk, M., Hanz´alek, Z., Brejchov´a, K., Tang, S., Bhattacharjee, S., & Fu, S.,68(11), 7023–7038, 2020
-5、Large-Scale Periodic Scheduling in Time-Sensitive Networks,Computers & Operations Research,M. Vlk, K. Brejchováa, Z. Hanzáleka and S. Tang,Volume 137, 2021
-6、“Adaptive Cloud-Based Extended Reality: Modeling and Optimization,IEEE Access,M. Liubogoshchev, K. Ragimova, A. Lyakhov, S. Tang, E. Khorov,vol. 9, page 35287-35299, 2021
-7、Impact of Random and Burst Packet Losses on H.264 Scalable Video Coding,IEEE Transaction on Multimedia (ToM),S. Tang, P. Rondao Alface,Volume 16, Issue 8, pp. 2256-2269, December 2014
-8、Are Friends Overrated? A Study for the Social Aggregator Digg.com,Computer Communications,C. Doerr, N. Blenn, S. Tang, and P. Van Mieghem,vol. 35, Issue. 5, pp. 796-809, 2012
-9、Digging in the Digg Social News Website,IEEE Transaction on Multimedia (ToM),S. Tang, N. Blenn, C. Doerr, and P. Van Mieghem,vol. 13, Issue. 5, pp. 1163 – 1175, 2011
-10、Modeling Gossip-based Content Propagation and Search in Distributed Networking,Computer Communications,S. Tang, E. Jaho, I. Stavrakakis, I. Koukoutsidis and P. Van Mieghem,vol. 34, Issue. 6, pp. 765-779, 2011
-11、Influence of Assortativity and Degree-preserving Rewiring on the Spectra of Networks,The European Physical Journal B,P. Van Mieghem, H. Wang, X. Ge, S. Tang, and F.A. Kuipers,vol. 76, No. 4, pp. 643-652, 2010
-12、Weight of the Shortest Path to the First Encountered Peer in a Peer Group of Size m,Probability in the Engineering and Informational Sciences (PEIS),P. Van Mieghem, and S. Tang,vol. 22, pp. 37-52, 2008
-13、Impact of Packet Loss on H.264 Scalable Video Coding,MMedia ,S. Tang, P. Rondao Alface,pp. 67-73, 2013 (Best Paper Award)
-14、Impact of Random and Burst Packet Losses on H.264 Scalable Video Coding,IEEE Information Theory Workshop (ITW),S. Tang, P. Rondao Alface,pp. 79-83, Seville, Spain, Sept. 2013 (Invited paper)
-15、Are Friends Overrated? A Study for the Social Aggregator Digg.com,IFIP Networking,C. Doerr, S. Tang, N. Blenn and P. Van Mieghem,pp. 314-327, 2011
-16、Topology dynamics in a P2PTV network,IFIP Networking ,S.Tang, Y. Lu, J. Martín Hernández, F.A. Kuipers, and P. Van Mieghem,LNCS 5550, pp. 326–337, 2009 (Travel Grant Award)
-17、The Effect of Peer Selection with Hopcount or Delay Constraint on Peer-to-Peer Networking,IFIP Networking,S. Tang, H. Wang and P. Van Mieghem,LNCS 4982, pp. 358-365, 2008
+姓名:唐斯昱
+学院:电子信息学院
+职称:教授
+研究方向:确定性泛在网络与智联基础设施、确定性网络体系结构与服务质量保障、超低时延高可靠传输机制、工业互联网中的实时通信与网络协同技术、端边云协同基础设施、大规模分布式系统的时空一致性体系、高精度时钟同步理论与关键技术、高可靠自适应鲁棒同步技术
+关键词:确定性网络、时间敏感网络、工业互联网、数据中心网络、时钟同步、低时延传输、分布式系统、网络协议、调度算法
+个人简介:唐斯昱，荷兰代尔夫特理工大学博士，苏州大学电子信息学院特聘教授，海外人才归国计划国家级专家。曾任职阿尔卡特朗讯-贝尔实验室高级研究员、华为慕尼黑研究院海外高端专家，拥有多年研究与产业经验。聚焦未来通信网络、工业网络及数据中心网络架构、协议与算法设计。参与及主持多个欧盟项目及企业自研项目，多次获华为技术创新奖项，受邀在MEC Congress、Information Theory Workshop、TSN/A论坛等做主题演讲。已培养多名硕博研究生，与荷兰代尔夫特理工大学、德国慕尼黑工大等保持合作。
+论文:Inverse All Shortest Path Problem
+Analysis and Evaluation of Fully TCP-Compatible Backpressure-Driven Traffic Engineering
+End-to-end TCP-compatible Backpressure Routing
+Enhancing schedulability and throughput of time-triggered traffic in IEEE 802.1 Qbv time-sensitive networks
+Large-Scale Periodic Scheduling in Time-Sensitive Networks
+Adaptive Cloud-Based Extended Reality: Modeling and Optimization
+Impact of Random and Burst Packet Losses on H.264 Scalable Video Coding
+Are Friends Overrated? A Study for the Social Aggregator Digg.com
+Digging in the Digg Social News Website
+Modeling Gossip-based Content Propagation and Search in Distributed Networking

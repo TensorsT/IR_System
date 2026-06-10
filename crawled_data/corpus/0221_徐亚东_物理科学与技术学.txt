@@ -5,172 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/ydxu
 ---
-姓名:物理科学与技术学院
-页面标题:物理科学与技术学院
-个人简介:徐亚东，博士，教授、博士生导师，入选2022年度国家重大人才工程-教育部“长江学者奖励计划”青年学者，入选苏州大学首批
-“
-优秀青年学者人才计划
-”、
-“江苏省333高层次人才工程”（第三层次）、苏州市姑苏领军人才，江苏省优秀博士论文获得者。在“光/声人工微结构”领域，开展“复杂相位梯度人工微结构体系波动理论及新型波场调控”基础及应用研究，
-发表论文100余篇，其中PRL 2篇、Nature子刊 4篇、Sci. Adv. 2篇（通讯或第一作者），引用>3000次（谷歌学术）。4篇成果入选期刊编辑推荐或封面：关于“波导隐身”的成果入选PRL封面故事及编辑推荐，并被Physics World、Science News等亮点报道；关于“轨道角动量调控新规律”的成果入选ACS Photonics补充封面。受邀在国内/国际学术会议做邀请报告10次，曾受邀担任2019年厦门举办PIERS国际会议专题主席，获2019年第十一届全国光学青年学术论坛优秀论
-文奖。
-成果
-先后获
-2014
-年教育部自然科学奖二等奖、
-2016
-年苏州市自然科学研究论文奖二等、
-2018
-年度江苏省教育教学与研究优秀成果奖（研究类）二等奖、
-2019
-年江苏青年光学科技奖、
-2020
-年苏州市自然科学研究论文奖一等奖、2021年度福建省自然科学奖二等奖、
-2022年度福建省自然科学奖二等奖
-。
-承担国家自然科学基金
--
-面上项目等省部级以上项目10
-项:
-主持国家自然科学基金3项（2项面上、1项青年）；骨干参与国家重点研发计划2项，分获经费100万和140万；承研单位负责人参与军委装发XXX项目，分获100万元。
-出版物理实验教材
-1
-部。先后获得江苏省优秀本科毕业设计（论文）、江苏省物理与实验创新竞赛、苏州大学优秀博士论文指导教师等荣誉称号。
-教育工作经历：
-2021.10-
-至今，苏州大学，物理科学与技术学院，教授、博导
-2021.1-2021.9
-，苏州大学，物理科学与技术学院，院长助理/支部书记、副所长，教授，博导
-2020.7-2020.12
-，
-苏州大学，物理科学与技术学院，支部书记、副所长，教授（破格），博导
-2016.8-2020.6
-，苏州大学，物理科学与技术学院，副教授（破格），硕导，光学与光子学研究所副长（2018.9）
-2017.8-2018.7
-，香港科技大学，物理系，访问学者，
-C.T. Chan
-课题组
-2014.8-2016.8
-，苏州大学，物理科学与技术学院，讲师
-2009.9-2014.6
-，苏州大学，物理科学与技术学院，博士研究生，导师：陈焕阳教授
-2013.2-2014.1
-，
-Masaryk University
-（捷克），
-CSC
-联合培养，导师：
-Tomas Tyc
-教授
-2012.3-2012.5
-，香港城市大学，研究助理，导师：
-Jensen Li
-教授
-2005.9-2009.6
-，苏州大学，物理科学与技术学院，物理学专业，本科
-论文:代表论文：
-Yangyang Fu*, Chen Shen, Xiaohui Zhu, Junfei Li, Youwen Liu,Steven A. Cummer*, and
-Yadong Xu
-*, Sound vortex diffraction via topological charge in phase gradient metagratings,
-Science Advances
-6, eaba9876 (2020).
-Yanyan Cao, Bocheng Yu, Yangyang Fu, Lei Gao*, and
-Yadong Xu
-*, Phase-gradient metasurfaces based on local Fabry–pérot resonances,
-Chin. Phys. Lett.
-37, 097801 (2020).
-(
-Editor’s Suggestion
-)
-Shibin Zhang#,
-Yadong Xu
-#, *, Huanyang Chen#, *, Yanyan Cao, Lei Gao, Hao Huang, Hongyan Zhou, and Xin Ou*, Photonic hyperinterfaces for light manipulations,
-Optica
-7, 687-693 (2020).
-Yangyang Fu*, Jiaqi Tao, Ailing Song, Youwen Liu, and Yadong Xu*, Controllably asymmetric beam splitting via gap-induced diffraction channel transition in dual-layer binary metagratings,
-Frontiers of Physics
-15, 52502 (2020).
-(Cover image)
-Yangyang Fu#, Chen Shen#, Yanyan Cao#, Lei Gao, Huanyang Chen, C. T. Chan*, Steven A. Cummer*, and
-Yadong Xu
-*, Reversal of transmission and reflection based on acoustic metagratings with integer parity design,
-Nature Communications
-10, 2326 (2019).
-Siyuan Zou#,
-Yadong Xu
-#, Razafizana Zatianina#, Chunyang Li#, Lili Zhu, Yongqiang Zhang, Guohua Liu, Qing Huo Liu, Huanyang Chen* and Zhenyu Wang*, Broadband waveguide cloak for water waves,
-Physical Review Letters
-123, 074501 (2019).  (Editor’s Suggestion; Cover imaging;)
-Yanyan Cao#, Yangyang Fu#, Qingjia Zhou, Xin Ou,Lei Gao*, Huanyang Chen* and
-Yadong Xu
-*, Mechanism behind angularly asymmetric diffraction in phase-gradient metasurfaces,
-Physical Review Applied
-12, 024006 (2019).
-Yadong Xu
-#, Yangyang Fu#, and Huanyang Chen#*, Planar gradient metamaterials,
-Nature Reviews Materials
-1, 16067 (2016).
-Yadong Xu
-, Qiannan Wu, and Huanyang Chen. Manipulating transverse magnetic modes in waveguide using thin plasmonic materials,
-Laser & Photonics Reviews
-8, 562 (2014).
-Yadong Xu
-#, Chendong Gu#, Bo Hou#, Yun Lai, Jensen Li*, and Huanyang Chen*, Broadband asymmetric waveguiding of light without polarization limitations,
-Nature Communications
-4, 2561 (2013).
-Yadong Xu
-and Huanyang Chen, Total reflection and transmission by epsilon-near-zero metamaterials with defects,
-Appl. Phys. Lett.
-98, 113501 (2011). (
-Citations: 131 from Google Scholar
-)
-论文：
-2020
-Sound vortex diffraction via topological charge in phase gradient metagratings,Yangyang Fu*, Chen Shen, Xiaohui Zhu, Junfei Li, Youwen Liu,Steven A. Cummer*,and
-Yadong Xu*
-,
-Science Advances
-6, eaba9876 (2020).
-Yanyan Cao, Bocheng Yu, Yangyang Fu, Lei Gao*, and Yadong Xu*, Phase-gradient metasurfaces based on local Fabry–pérot resonances,
-Chin. Phys. Lett.
-37, 097801 (2020).
-(Editor’s Suggestion)
-Yangyang Fu*, Jiaqi Tao, Ailing Song, Youwen Liu, and
-Yadong Xu*
-, Controllably asymmetric beam splitting via gap-induced diffraction channel transition in dual-layer binary metagratings.
-Frontiers of Physics
-(
-Front. Phys.)
-15, 52502 (2020).
-(Cover image)
-Shan Zhu, Yanyan Cao, Yangyang Fu*, Xiaochao Li, Lei Gao, Huanyang Chen, and
-Yadong Xu*
-, Switchable bifunctional metasurfaces: nearly perfect retroreflection and absorption at the terahertz regime,
-Optics Letters
-45, 3989-3992 (2020).
-Shibin Zhang
-#
-,
-Yadong Xu
-#,
-*, Huanyang Chen
-#,
-*, Yanyan Cao, Lei Gao, Hao Huang, Hongyan Zhou, and Xin Ou*, Photonic hyperinterfaces for light manipulations,
-Optica
-7, 687-693 (2020).
-Yulian Liu, Shan Zhu, Qingjia Zhou, Yanyan Cao, Yangyang Fu*, Lei Gao*, Huanyang Chen and
-Yadong Xu
-*, Enhanced third-harmonic generation induced by nonlinear field resonances in plasmonic-graphene metasurfaces,
-Optics Express
-28, 13234-13242 (2020).
-Shan Zhu, Yanyan Cao, Yangyang Fu*, Lei Gao, Xiaochao Li, Huanyang Chen,
-Yadong Xu*
-, 3D broadband waveguide cloak and light squeezing in terahertz regime,
-Optics Letters
-45, 652-655 (2020).
-2019
-Siyuan Zou#,
-Yadong Xu
-#, Razafizana Zatianina#, Chunyang Li#, Lili Zhu, Yongqiang Zhang, Guohua Liu, Qing Huo Liu, Huanyang Chen* and Zhenyu Wang*, Broadband waveguide cloak for water waves,
-Physical Review Letters
-123
+姓名:徐亚东
+学院:物理科学与技术学院
+职称:教授
+研究方向:声学超构材料、声学超构表面、离激元光子学、非线性光学、新型功能光子、光学器件设计
+关键词:超构材料、超构表面、相位梯度、声学超构材料、等离激元光子学、非线性光学、波场调控、轨道角动量
+个人简介:徐亚东，博士，教授、博士生导师，长江学者奖励计划青年学者。主要从事光/声人工微结构与复杂相位梯度人工微结构体系中波动理论及新型波场调控研究，发表论文100余篇，包括PRL、Nature子刊、Science Advances等，引用超3000次。主持国家自然科学基金面上项目等多项国家级项目。
+论文:Topological-charge multiplexed metasurfaces for generating structural acoustic field and remote dynamic control
+Super-resolution acoustic displacement metrology through topological pairs in orbital meta-atoms
+Ultrahigh-efficiency thermal rectification via topological transition of photonic density of states and near-field radiation gap variations
+Geometric Phase in Twisted Topological Complementary Pair
+Maximum helical dichroism enabled by an exceptional point in non-Hermitian gradient metasurfaces
+Asymmetric generation of acoustic vortex using dual-layer metasurfaces
+Plasmonic bound states in the continuum in compact nanostructures
+Geometry symmetry-free and Higher-order Optical Bound States in the Continuum
+Scattering of Light with Orbital Angular Momentum from a Metallic Meta-Cylinder with Engineered Topological Charge
+Sound vortex diffraction via topological charge in phase gradient metagratings

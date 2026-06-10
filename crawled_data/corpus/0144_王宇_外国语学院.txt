@@ -5,13 +5,14 @@ department: 外国语学院
 college_id: 74
 url: http://web.suda.edu.cn/wangyu
 ---
-姓名:教师个人主页
-页面标题:外国语学院
-论文:论文：
-1、Collective agency among Chinese university EFL teachers in the era of research excellence,Humanities and Social Sciences Communications,SSCI,2024.9.,陶丽,苏州大学,王宇,王宇,苏州大学,11/1209
-2、The dynamic co-development of linguistic and discourse-semantic complexity in advanced L2 writing,Complex Dynamic Systems Theory and L2 Writing Development,2020,王宇,苏州大学,陶守存,49-78,第一
-3、动态系统理论视角下的二语产出性词汇微变化研究,中国外语教育,CSSCI,2020.1.,王宇,苏州大学,王雨,1/44-52
-4、听力元认知教学对英语听力成绩和元认知意识的影响,中国外语教育,CSSCI,2018.2.,王宇,2/3-9,第一
-5、关于本科翻译教学的再思考,外语界,CSSCI,2003,王宇,苏州大学,93/1/17-20,第一
-6、关于中国非英语专业学生听力策略的调查,外语界,CSSCI,2002,92/6/5-12,第一
-7、策略训练与听力教学,外语与外语教学,CSSCI,2000,36/8/61-63,第一
+姓名:王宇
+学院:外国语学院
+职称:副教授
+研究方向:二语习得研究、二语口语研究、二语写作研究、英语教学研究
+关键词:二语习得、二语写作、动态系统理论、教师反馈、听力教学、元认知、策略训练、英语教学
+论文:Collective agency among Chinese university EFL teachers in the era of research excellence
+The dynamic co-development of linguistic and discourse-semantic complexity in advanced L2 writing
+听力元认知教学对英语听力成绩和元认知意识的影响
+关于本科翻译教学的再思考
+关于中国非英语专业学生听力策略的调查
+策略训练与听力教学

@@ -9,17 +9,17 @@
       "departCategoryId": "5"
     },
     {
-      "collegeId": 79,
-      "collegeName": "物理科学与技术学院",
-      "count": 61,
-      "fullDepartName": "物理科学与技术学院",
-      "departCategoryId": "5"
-    },
-    {
       "collegeId": 74,
       "collegeName": "外国语学院",
       "count": 47,
       "fullDepartName": "外国语学院",
+      "departCategoryId": "5"
+    },
+    {
+      "collegeId": 79,
+      "collegeName": "物理科学与技术学院",
+      "count": 61,
+      "fullDepartName": "物理科学与技术学院",
       "departCategoryId": "5"
     },
     {
@@ -38,5 +38,6 @@
     }
   ],
   "teacher_count": 339,
+  "parser_version": 2,
   "max_per_college": "unlimited"
 }

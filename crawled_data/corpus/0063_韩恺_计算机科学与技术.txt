@@ -5,6 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/hk
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
+姓名:韩恺
+学院:计算机科学与技术学院（软件学院）
+职称:教授
+研究方向:机器学习、人工智能、大数据处理、信息安全与隐私保护、计算经济学
+关键词:机器学习、人工智能、大数据处理、信息安全、隐私保护、计算经济学、子模优化、社交网络
+个人简介:韩恺，中国科学技术大学少年班理学学士、计算机科学与技术博士，博士后出站，曾于新加坡南洋理工大学访问。以海外人才引进至中科大任博导，后晋升研究员，调任苏州大学特聘教授、博导。长期从事机器学习与人工智能、大数据处理、信息安全与隐私保护、计算经济学等领域研究。多次担任NeurIPS、KDD、WWW、AAAI等国际顶级会议程序委员，主持国家自然科学基金重点、面上等多项国家级项目。发表SCI/EI论文百余篇，多篇第一/通讯作者论文发表于ICML、NeurIPS、SIGMOD、VLDB等顶会。获中国科大-兴业证券教育奖、新创学者奖等荣誉。已指导博硕本学生百余人，多名学生赴卡内基梅隆、伯克利等名校深造或入职华为、字节跳动等企业。
+论文:Randomized Pricing with Deferred Acceptance for Revenue Maximization with Submodular Objectives
+Constrained Subset Selection from Data Streams for Profit Maximization
+Practical Parallel Algorithms for Submodular Maximization subject to a Knapsack Constraint with Nearly Optimal Adaptivity
+Streaming Algorithms for Constrained Submodular Maximization
+On the task assignment with group fairness for spatial crowdsourcing
+Multi Global Information Assisted Streaming Session-Based Recommendation System
+Chromatic Correlation Clustering, Revisited
+Distributed Influence Maximization for Large-Scale Online Social Networks
+Noisy Interactive Graph Search
+Efficient and effective algorithms for revenue maximization in social advertising

@@ -5,14 +5,17 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/ldb
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-论文:论文：
-1、Low-temperature and Effective ex-situ Group V Doping for Efficient Polycrystalline CdSeTe Solar Cells,  Nature Energy,  2021,   Deng-Bing Li, Sandip S Bista, Rasha A Awni ,  SSabin Neupane,  Yanfa Yan*, Feng Yan*,  第一作者
-2、Stable 6%-efficient Sb2Se3 solar cells with a ZnO buffer layer,  Nature Energy,   2017,  Wang Liang, Deng-Bing Li(co-first author),   Kanghua Li,  Chao Chen,  Jiang Tang*,  共同一作
-3、20%-efficient polycrystalline Cd (Se, Te) thin-film solar cells with compositional gradient near the front junction,  Nature Communications,  2022,  Deng-Bing Li,  Yanfa Yan*,  第一作者
-4、Oxygen Management to Avoid Photo-Inactive Cd (S, Se) for Efficient Cd (Se, Te) Solar Cells,  ACS Energy Letters,  2023,  Deng-Bing Li,  Yanfa Yan*,  第一作者
-5、Maximizing CdTe solar cell performance through copper activation engineering,  Nano Energy,  2020,  Deng-Bing Li,  Yanfa Yan*,  第一作者
-6、Stable efficient CdS/Sb2Se3 solar cells by close space sublimation,  Nano Energy,  2018,  Deng-Bing Li,  Weihua Tang*, Yanfa Yan*, Jiang Tang*,  第一作者
-7、Passivation Strategies for Enhancing Device Performance of Perovskite Solar Cells,  Nano Energy,  2023,  Zhifang Wu, Enbing Bi, Luis K Ono, Deng-Bing Li,  Osman M Bakr*, Yanfa Yan*, Yabing Qi*,  共同一作
-8、Graphene doping improved device performance of ZnMgO/PbS colloidal quantum dot photovoltaics,  Advanced Functional Materials,  2016,  Long Hu , Deng-Bing Li ,  Jiang Tang*,  共同一作
+姓名:李登兵
+学院:物理科学与技术学院
+职称:教授
+研究方向:高效碲化镉薄膜太阳能电池、宽带隙薄膜太阳能电池、面相BIPV应用的太阳能电池
+关键词:薄膜太阳能电池、碲化镉、CdTe、量子点太阳能电池、硒化锑、宽带隙太阳能电池、BIPV
+个人简介:李登兵，苏州大学物理科学与技术学院特聘教授。2014年获中国科学院固体物理研究所凝聚态物理博士学位，先后在华中科技大学武汉光电国家实验中心做博士后，美国托莱多大学访问学者、博士后及研究助理教授。2023年加入苏州大学。主要从事新型薄膜太阳能电池研究，包括碲化镉、量子点、硒化锑等。在Nature Energy、Nature Communications、ACS Energy Letters等期刊发表多篇论文。主持国家自然科学基金青年项目、江苏省特聘教授项目等。
+论文:Low-temperature and Effective ex-situ Group V Doping for Efficient Polycrystalline CdSeTe Solar Cells
+Stable 6%-efficient Sb2Se3 solar cells with a ZnO buffer layer
+%-efficient polycrystalline Cd (Se, Te) thin-film solar cells with compositional gradient near the front junction
+Oxygen Management to Avoid Photo-Inactive Cd (S, Se) for Efficient Cd (Se, Te) Solar Cells
+Maximizing CdTe solar cell performance through copper activation engineering
+Stable efficient CdS/Sb2Se3 solar cells by close space sublimation
+Passivation Strategies for Enhancing Device Performance of Perovskite Solar Cells
+Graphene doping improved device performance of ZnMgO/PbS colloidal quantum dot photovoltaics

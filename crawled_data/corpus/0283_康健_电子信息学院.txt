@@ -5,41 +5,19 @@ department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/jiankang/index.html
 ---
-姓名:电子信息学院
-页面标题:电子信息学院
-个人简介:康健，副教授，硕士生导师，2013年获得哈
-尔滨工业大学电子信息工程系学士学位，同年获得推免本校研究生资格，2015年获得电子与通信工程专业硕士学位，2019年获得德国慕尼黑工业大学
-(TUM)地球观测信号处理系(SiPEO，现为地球观测数据科学系)博士学位，2019到2020年，在德国柏林工业大学(TU 
-Berlin)电子工程及计算机技术学院从事博士后研究工作，2020年受聘苏州大学优秀青年学者。 发表第一及通讯作者SCI论文
-31
-篇，
-其中
-6篇为ESI高被引论文
-，10余篇为IEEE-TNNLS, IEEE-TGRS, ISPRS P&RS等领域内顶级期刊文章，授权发明专利
-4
-项。 受邀在包括IEEE-ICGMRS 2022在内的国内外学术会议上做专题报告。 指导学生获得第五届“中科星图杯”国际高分遥感图像解译大赛-海冰目标监测赛道
-亚军
-、2023全国大数据与计算智能挑战赛-基于高分辨率遥感可见光数据的细粒度密集船只目标检测任务
-三等奖
-，英文个人主页：[
-jiankang1991.github.io
-].
-教育背景
-本科毕业,2009.09-2013.07,电子信息工程,哈尔滨工业大学,工学学士
-硕士毕业,2013.09-2015.07,电子与通信工程,哈尔滨工业大学,硕士（推免）
-博士毕业,2015.09-2019.09,地球观测信号处理,慕尼黑工业大学,工学博士
-科研方向
-信号处理和机器学习方法研究，以及其在
-智能遥感信号/图像处理
-中的应用，具体包括：SAR干涉技术，SAR图像处理，基于深度学习的SAR图像智能解译等方向。
-招生信息
-每年招收硕士研究生
-2-3
-名，欢迎有志从事
-信号及图像处理、人工智能
-等领域的学生保送、报考，优先录取
-数学、英语及编程基础强、热爱科研、有自驱力（计算机/数学/遥感/电信等专业）
-的学生，为招收学生提供基本的科研硬件条件（服务器、工作站等）。
-教学课程
-数字信号处理（大三上）
-数据科学（博一上）
+姓名:康健
+学院:电子信息学院
+职称:副教授
+研究方向:信号处理、机器学习、智能遥感信号、图像处理、SAR干涉技术、SAR图像处理、深度学习SAR图像智能解译
+关键词:SAR干涉测量、深度学习、遥感图像处理、知识蒸馏、卷积稀疏编码、图像分类、目标检测、度量学习
+个人简介:康健，副教授，硕士生导师。2013年获哈尔滨工业大学电子信息工程学士，2015年获同校电子与通信工程硕士，2019年获慕尼黑工业大学地球观测信号处理博士，2020年受聘苏州大学优秀青年学者。发表一作/通讯SCI论文多篇，其中6篇为ESI高被引论文，十余篇发表在IEEE TNNLS、TGRS、ISPRS P&RS等顶级期刊。指导学生获得国际高分遥感图像解译大赛亚军、全国大数据与计算智能挑战赛三等奖。
+论文:Multi-pass InSAR Phase Linking for Non-Gaussian Scatterers
+LaMIE: Large-Dimensional Multipass InSAR Phase Estimation for Distributed Scatterers
+SAR Time Series Despeckling via Nonlocal Matrix Decomposition in Logarithm Domain
+Coherence-Guided Complex Convolutional Sparse Coding for Interferometric Phase Restoration
+DisOptNet: Distilling Semantic Knowledge from Optical Images for Weather-independent Building Segmentation
+Rotation Invariant Deep Embedding for Remote Sensing Images
+Learning convolutional sparse coding on complex domain for interferometric phase restoration
+Graph relation network: Modeling relations between scenes for multilabel remote-sensing image classification and retrieval
+Deep unsupervised embedding for remotely sensed images based on spatially augmented momentum contrast
+Deep metric learning based on scalable neighborhood components for remote sensing scene characterization

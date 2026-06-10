@@ -1,18 +1,21 @@
 doc_id: 170
 name: 刘洋
-career: 
+career: 副教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/liuyang2023
 ---
-姓名:
-页面标题:数学科学学院
-论文:论文：
-1、Full likelihood inference for abundance from continuous time capture–recapture data, Journal of the Royal Statistical Society, Series B (Statistical Methodology), 2018, Yang Liu, Yukun Liu, Pengfei Li, and Jing Qin, 80(5), 995-1014
-2、Maximum likelihood abundance estimation from capture-recapture data when covariates are missing at random, Biometrics, 2021, Yang Liu, Yukun Liu, Pengfei Li, and Lin Zhu, 77(3), 1050-1060
-3、Semiparametric empirical likelihood inference for abundance from one-inflated capture–recapture data, Biometrical Journal, 2022, Yang Liu, Pengfei Li, Yukun Liu and Riquan Zhang, 64(6), 1040–1155
-4、Two-step semiparametric empirical likelihood inference from capture–recapture data with missing covariates, Test, 2024, Yang Liu, Yukun Liu, Pengfei Li, and Riquan Zhang, 33(3), 786-808
-5、Nearly optimal two-step Poisson sampling and empirical likelihood weighting estimation for M-estimation with big data, Statistica Sinica, 2024, Yan Fan, Yang Liu, Yukun Liu, and Jing Qin, doi: 10.5705/ss.202023.0274
-6、Penalized empirical likelihood estimation and EM algorithms for closed-population capture-recapture models, Statistics and Computing, 2025, Yang Liu, Pengfei Li and Yukun Liu, 35, 25
-7、Semi-supervised inference for false negatives using zero-inflated Bernoulli regression in case-control studies, Journal of Applied Statistics, 2026, Yejia Shang, Yang Liu, and Qian Sun, doi: 10.1080/02664763.2026.2660957
-8、Statistical inference with nonignorable non-probability survey samples, Electronic Journal of Statistics, 2026, Yang Liu, , Meng Yuan, Pengfei Li, and Changbao Wu, doi: 10.1214/26-EJS2531
+姓名:刘洋
+学院:数学科学学院
+职称:副教授
+研究方向:捕获再捕获数据分析、抽样调查、经验似然和半参数统计理论、缺失数据和因果推断
+关键词:捕获再捕获数据分析、抽样调查、经验似然、半参数统计、缺失数据、因果推断、生态统计
+个人简介:刘洋，苏州大学数学科学学院副教授（校优秀青年学者），主持国家自然科学基金青年项目、博士后基金项目，入选上海市“超级博士后”激励计划。博士毕业于华东师范大学统计学院，曾以国家公派联合培养博士生身份赴加拿大滑铁卢大学交流。主要研究方向为抽样调查、因果推断和生态统计，成果发表于JRSSB、Biometrics、Statistica Sinica、Statistics and Computing等期刊。
+论文:Full likelihood inference for abundance from continuous time capture–recapture data
+Maximum likelihood abundance estimation from capture-recapture data when covariates are missing at random
+Semiparametric empirical likelihood inference for abundance from one-inflated capture–recapture data
+Two-step semiparametric empirical likelihood inference from capture–recapture data with missing covariates
+Nearly optimal two-step Poisson sampling and empirical likelihood weighting estimation for M-estimation with big data
+Penalized empirical likelihood estimation and EM algorithms for closed-population capture-recapture models
+Semi-supervised inference for false negatives using zero-inflated Bernoulli regression in case-control studies
+Statistical inference with nonignorable non-probability survey samples

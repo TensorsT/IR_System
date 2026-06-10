@@ -5,5 +5,9 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/jeffni
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
+姓名:倪江锋
+学院:物理科学与技术学院
+职称:
+研究方向:新型储能、微型储能材料、微型储能技术
+关键词:新型储能、微型储能、微型储能材料、微型储能技术、新能源材料、储能
+个人简介:苏州大学教授、博士生导师，国家青年人才，江苏省人才工程第二层次人选，新能源材料物理研究所所长，新国大（苏州）研究院首席客座研究员，江苏省物理学会新能源专业委员会主任委员。主要从事新型储能、特别是微型储能材料及技术的研究，在Nature Communications、Advanced Materials、Matter等期刊发表学术论文多篇，主编英文著作，担任Journal of Solid State Electrochemistry、Materials Technology编辑及Batteries期刊编委。

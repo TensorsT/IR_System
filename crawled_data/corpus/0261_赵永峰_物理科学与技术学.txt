@@ -5,5 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yfzhao
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
+姓名:赵永峰
+学院:物理科学与技术学院
+职称:副教授
+研究方向:生物物理、系统生物学、非平衡态统计物理、活性粒子、非线性动力系统、机器学习与复杂系统
+关键词:生物物理、系统生物学、非平衡态统计物理、活性粒子、非线性动力学、机器学习、复杂系统
+个人简介:赵永峰，苏州大学物理科学与技术学院副教授。本科毕业于北京大学物理学院，博士毕业于香港大学物理系，曾在法国巴黎第七大学和上海交通大学从事博士后研究。主要研究兴趣为生物物理、系统生物学、非平衡态统计物理，当前工作集中在活性粒子系统，同时关注非线性动力系统及机器学习在复杂系统中的应用。
+论文:Detecting active Lévy particles using differential dynamic microscopy
+The surprising physics of interfaces in active matter
+Biased Lévy walk enables light gradient sensing in Euglena gracilis
+Integer topological defects offer a methodology to quantify and classify active cell monolayers
+Active Nematics Reinforce the Ratchet Flow in Dense Environments Without Jamming
+Active particles in a tube: A generalized entropy potential approach
+Integer Topological Defects Reveal Effective Forces in Active Nematics
+Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting
+Characterization and Control of the Run-and-Tumble Dynamics of Escherichia Coli
+Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions

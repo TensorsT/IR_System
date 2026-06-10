@@ -5,9 +5,7 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/cheny
 ---
-姓名:计算机科学与技术学院
-页面标题:计算机科学与技术学院
-研究领域:科学研究
-科研团队
-个人简介:I have been teaching Java and python in Soochow University。
-论文:荣誉奖励
+姓名:陈越
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+个人简介:我在苏州大学教授Java和Python。

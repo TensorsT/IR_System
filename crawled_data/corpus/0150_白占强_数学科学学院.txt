@@ -5,23 +5,19 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/zqbai
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、A characterization of the unitary highest weight modules by Euclidean Jordan algebras,Journal of Lie Theory,2013,Bai Zhanqiang
-2、On the orbits of the magnetized Kepler problems in dimension 2k 1, Journal of Geometry and Physics,2013,Bai Zhanqiang,Meng Guowu,Wang Erxiao
-3、On the Gelfand-Kirillov dimension of a unitary highest weight module,Science China-Mathematics,,2015,Bai Zhanqiang,Hunziker Markus
-4、 Gelfand-Kirillov dimensions of the Z^2-graded oscillator representations of sl(n),Acta Mathematica Sinica, English Series,2015,Bai Zhanqiang
-5、Particle Motion in Generalized Dirac's Monopoles of dimension 2k 1,Journal of Mathematical Physics,2016,Bai Zhanqiang
-6、Gelfand-Kirillov dimensions of the Z-graded oscillator representations of o(n) and sp(n),Communications in algebra ,2018,Bai Zhanqiang
-7、Gelfand-Kirillov dimensions of highest weight Harish-Chandra modules for SU(p,q),International Mathematics Research Notices,2017,Bai Zhanqiang,Xie Xun
-8、Gelfand-Kirillov dimension and  reducibility of scalar generalized Verma modules,Acta Mathematica Sinica, English Series ,2019,Bai Zhanqiang,Xiao Wei
-9、关于幂函数的一致连续性问题,科教导刊,2018,白占强
-10、Reducibility of generalized Verma modules for Hermitian symmetric pairs,JPAA,V.225,2021.4,Bai Zhanqiang,Xiao Wei
-11、Gelfand-Kirillov dimensions and associated varieties of highest weight modules,IMRN,2023,Bai Zhanqiang,Xiao Wei,Xie Xun
-12、Gelfand-Kirillov dimension and reducibility of scalar generalized Verma modules for classical Lie algebras,Acta Mathematica Sinica, English Series,2024,Bai Zhanqiang,Jiang Jing
-13、Irreducible representations of GL_n(C) of minimal Gelfand-Kirillov dimension,Acta Mathematica Sinica, English Series,2024,Bai Zhanqiang,Chen Yangyang,Liu Dongwen,Sun Binyong
-14、PT-phase diagram with quantum jump in a non-Hermitian photonic structure,Phys. Rev. A,2024,Xinchen Zhang,Yun Ma,Qi Liu,Nuo Wang, Yali Jia,Qi Zhang, Zhanqiang Bai, Junxiang Zhang,Qihuang Gong, Ying Gu,109, L041503,7
-15、A characterization of socular simple modules and Richardson orbits of classical types,Science China-Mathematics,2024,Bai Zhanqiang,Zhang Shaoyi,1
-16、Associated varieties of minimal highest weight modules,Representation theory,2024,Bai Zhanqiang,Ma Jia-Jun,Xiao Wei, Xie Xun,1
-17、A characterization of socular simple modules and Richardson orbits of classical types,Science China-Mathematics,2025,Zhanqiang Bai,Shaoyi Zhang,68(5),1031-1050
+姓名:白占强
+学院:数学科学学院
+职称:副教授
+研究方向:李群表示论、李代数表示论、无穷维表示、几何、代数不变量
+关键词:李群表示论、李代数表示论、Gelfand-Kirillov维数、最高权模、Harish-Chandra模、广义Verma模、关联代数簇、代数不变量、无穷维表示
+个人简介:白占强，男，苏州大学数学科学学院副教授。博士毕业于香港科技大学，师从孟国武教授；曾在中科院数学所从事博士后研究（合作导师徐晓平研究员）。曾任武汉大学数学与统计学院讲师。研究方向为李群和李代数表示论，侧重于无穷维表示的几何与代数不变量研究。主持国家自然科学基金青年基金等项目。
+论文:A characterization of the unitary highest weight modules by Euclidean Jordan algebras
+On the orbits of the magnetized Kepler problems in dimension 2k 1
+On the Gelfand-Kirillov dimension of a unitary highest weight module
+Gelfand-Kirillov dimensions of the Z^2-graded oscillator representations of sl(n)
+Particle Motion in Generalized Dirac's Monopoles of dimension 2k 1
+Gelfand-Kirillov dimensions of the Z-graded oscillator representations of o(n) and sp(n)
+Gelfand-Kirillov dimensions of highest weight Harish-Chandra modules for SU(p,q)
+Gelfand-Kirillov dimension and reducibility of scalar generalized Verma modules
+关于幂函数的一致连续性问题
+Reducibility of generalized Verma modules for Hermitian symmetric pairs

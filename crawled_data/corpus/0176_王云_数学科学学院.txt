@@ -1,21 +1,23 @@
 doc_id: 176
 name: 王云
-career: 
+career: 教授
 department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/ywang3
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、 Existence of weak solutions for a two-dimensional fluid-rigid body system.,J. Math. Fluid Mech.,2013,Wang, Yun,Soochow University
-2、Global wellposedness for the 3D inhomogeneous incompressible Navier-Stokes equations.,J. Math. Fluid Mech. ,2013,Craig, Walter,Huang, Xiangdi,Wang, Yun
-3、On some new global existence results for 3D magnetohydrodynamic equations.,Nonlinearity,2014,He, Cheng,Huang, Xiangdi,Wang, Yun
-4、Global strong solution with vacuum to the two dimensional density-dependent Navier-Stokes system., SIAM J. Math. Anal.,2014,Huang, Xiangdi,Wang, Yun
-5、Global strong solution of 3D inhomogeneous Navier-Stokes equations with density-dependent viscosity., J. Differential Equations,2015,Huang, Xiangdi,Wang, Yun
-6、L∞  continuation principle to the non-baratropic non-resistive magnetohydrodynamic equations without heat conductivity.,Math. Methods Appl. Sci. ,2016,Huang, Xiangdi,Wang, Yun
-7、On center singularity for compressible spherically symmetric nematic liquid crystal flows. , J. Differential Equations,2018,Wang, Yun,Huang, Xiangdi
-8、A spin-wave solution to the Landau-Lifshitz-Gilbert equation.,Commun. Math. Sci.,2021,Chen, Jingrun,Sun, Zhiwei,Wang, Yun
-9、Global strong solutions to the inhomogeneous incompressible Navier-Stokes system in the exterior of a cylinder, SIAM J. Math. Anal.,2021,Guo, Zhengguang,Wang, Yun,Xie, Chunjing
-10、Existence and asymptotic behavior of large axisymmetric solutions for steady Navier-Stokes system in a pipe, Arch. Ration. Mech. Anal. ,2022,Wang, Yun,Xie, Chunjing
-11、Uniform structural stability of Hagen-Poiseuille flows in a pipe,Comm. Math. Phys.,2022,Wang, Yun,Xie, Chunjing
+姓名:王云
+学院:数学科学学院
+职称:教授
+研究方向:流体力学中的偏微分方程、解的适定性理论、Navier-Stokes方程、磁流体力学方程、液晶流
+关键词:偏微分方程、流体力学、适定性、Navier-Stokes方程、磁流体力学、液晶流、不可压缩流体
+个人简介:王云，苏州大学数学科学学院教授，主要研究流体力学中的偏微分方程，特别是解的适定性理论。
+论文:Existence of weak solutions for a two-dimensional fluid-rigid body system
+Global wellposedness for the 3D inhomogeneous incompressible Navier-Stokes equations
+On some new global existence results for 3D magnetohydrodynamic equations
+Global strong solution with vacuum to the two dimensional density-dependent Navier-Stokes system
+Global strong solution of 3D inhomogeneous Navier-Stokes equations with density-dependent viscosity
+L∞ continuation principle to the non-baratropic non-resistive magnetohydrodynamic equations without heat conductivity
+On center singularity for compressible spherically symmetric nematic liquid crystal flows
+A spin-wave solution to the Landau-Lifshitz-Gilbert equation
+Global strong solutions to the inhomogeneous incompressible Navier-Stokes system in the exterior of a cylinder
+Existence and asymptotic behavior of large axisymmetric solutions for steady Navier-Stokes system in a pipe

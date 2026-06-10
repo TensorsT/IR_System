@@ -5,16 +5,19 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/jqfan
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Jiaqing Fan, Tiankang Su, Kaihua Zhang, Bo Liu, and Qingshan Liu. Temporally Efficient Gabor Transformer for Unsupervised Video Object Segmentation,In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023. (CCF A会议)
-2、Jiaqing Fan, Tiankang Su, Kaihua Zhang, and Qingshan Liu. Bidirectionally Learning Dense Spatio-temporal Feature Propagation Network for Unsupervised Video Object Segmentation,In Proceedings of the 30th ACM International Conference on Multimedia (ACM MM), 2022, pp. 3646–3655. （CCF A会议）
-3、Jiaqing Fan, Bo Liu, Kaihua Zhang, and Qingshan Liu. Semi-supervised Video Object Segmentation via Learning Object-aware Global-local Correspondence,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022, Volume: 32, Issue: 12, Pages: 8153-8164. （中科院一区Top期刊）
-4、Jiaqing Fan, Huihui Song, Kaihua Zhang, Kang Yang, and Qingshan Liu. Feature Alignment and Aggregation Siamese Networks for Fast Visual Tracking,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021, Volume: 31, Issue: 4, Pages: 1296-1307. （中科院一区Top期刊）
-5、Jiaqing Fan, Huihui Song, Kaihua Zhang, Qingshan Liu et al. Real-time Manifold Regularized Context-aware Correlation Tracking,Frontiers of Computer Science, 2020, 14, Pages: 334–348. （CCF B期刊）
-6、FAN Jiaqing, ZHANG Kaihua, ZHAO Yaqian, and LIU Qingshan. Unsupervised Video Object Segmentation via Weak User Interaction and Temporal Modulation,Chinese Journal of Electronics, vol. 32, no. 3, pp. 507-518, 2023. （国产SCI期刊）
-7、樊佳庆, 苏天康, 张开华, 刘青山. 基于并行多方向注意力的无监督视频目标分割,计算机学报, 2022, 45(11): 2337-2347. （中文CCF A期刊）
-8、Kaihua Zhang, Jiaqing Fan, Qingshan Liu, and Jian Yang. Parallel Attentive Correlation Tracking,IEEE Transactions on Image Processing (TIP), 2019, Volume: 28, Issue: 1, Pages: 479-491.（中科院一区Top期刊）
-9、Qingshan Liu, Jiaqing Fan, Huihui Song, Wei Chen, and Kaihua Zhang. Visual Tracking via Nonlocal Similarity Learning,IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018, Volume: 28, Issue: 10, Pages: 2826-2835.（中科院一区Top期刊）
-10、Qian Qiao, Yu Xie, Jun Gao, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, et.al. DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training,ACM Multimedia 2024 (CCF A会议，学生一作，本人通讯)
+姓名:樊佳庆
+学院:计算机科学与技术学院（软件学院）
+职称:
+研究方向:视频目标跟踪与分割、深度学习方法、计算机视觉
+关键词:视频目标跟踪、视频目标分割、深度学习、计算机视觉、无监督学习、视觉跟踪
+个人简介:樊佳庆，苏州大学计算机科学与技术学院讲师，苏州大学优秀青年学者。2023年6月博士毕业于南京航空航天大学计算机科学与技术专业，同年7月入职苏州大学。研究兴趣为视频目标跟踪与分割、深度学习方法与计算机视觉。在ACM MM、TCSVT、TIP、计算机学报等期刊会议发表多篇论文，授权多项发明专利。担任CVPR、ACM MM等审稿人。曾获苏州市人工智能自然科学一等奖（排名第一）、南航优秀博士论文奖。
+论文:Temporally Efficient Gabor Transformer for Unsupervised Video Object Segmentation
+Bidirectionally Learning Dense Spatio-temporal Feature Propagation Network for Unsupervised Video Object Segmentation
+Semi-supervised Video Object Segmentation via Learning Object-aware Global-local Correspondence
+Feature Alignment and Aggregation Siamese Networks for Fast Visual Tracking
+Real-time Manifold Regularized Context-aware Correlation Tracking
+Unsupervised Video Object Segmentation via Weak User Interaction and Temporal Modulation
+基于并行多方向注意力的无监督视频目标分割
+Parallel Attentive Correlation Tracking
+Visual Tracking via Nonlocal Similarity Learning
+DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training

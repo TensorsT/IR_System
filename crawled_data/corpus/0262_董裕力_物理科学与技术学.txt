@@ -5,100 +5,19 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/yldong
 ---
-姓名:个人简介
-页面标题:物理科学与技术学院
-论文:论文成果：
-16.
-Y. L. Dong
-, Titus Neupert, R. Chitra,and Sebastian Schmidt, Signatures of topological quantum phasetransitions in driven and dissipative qubit arrays,
-Phys. Rev. B 94,035441 (2016)
-;
-15. ShengLi Zhang,
-YuLi Dong
-, JianHong Shi,XuBo Zou, and GuangCan Guo, Roles of thermal noise and detectorefficiency in distillation of continuous variable entanglement state,
-J.Opt. Soc. Am. B, 30 2704 (2013)
-;
-14. Liu Chen,
-Dong Yu-Li
-, and Zhu Shi-Qun,Geometric discord for non-X states,
-Chin. Phys. B, 23 060307(2013)
-;
-13. Zhe-Yong Zhang,
-Yu-Li Dong
-, Sheng-LiZhang, and Shi-Qun Zhu, Polarization-dependent photon switch in aone-dimensional coupled-resonator waveguide,
-Optics Express, 21, 20787(2013)
-;
-12. ShengLi Zhang,
-YuLi Dong
-, XuBo Zou,BaoSen Shi, and GuangCan Guo, Continuous-variable-entanglementdistillation with photon addition,
-Phys. Rev. A 88, 032324 (2013)
-;
-11.
-Yu-Li Dong
-, Shi-Qun Zhu, and Wen-LongYou, Quantum-state transmission in a cavity array via two-photonexchange,
-Phys. Rev. A 85, 023833 (2012)
-;
-10. Wen-Long You and
-Yu-Li Dong
-, Fidelity Susceptibility in Two-Dimensional Spin-Orbit Models,
-Phys.Rev. B 84, 174426 (2011)
-;
-9. Wen-Long You and
-Yu-Li Dong
-, TheEntanglement Dynamics of Interacting Qubits Embedded in a Spin Environment withDzyaloshinsky-Moriya Term,
-Eur. Phys. J. D 57, 439 (2010)
-;
-8.
-Yu-Li Dong
-, Xu-Bo Zou, et al.,Cavity-QED-Based Phase Gate for Photonic qubits,
-J Mod Opt, 56 1230(2009)
-;
-7.
-Yu-Li Dong
-, Xu-Bo Zou, Guang-Can Guo,Generation of Pair Coherent State using Weak Cross-Kerr Media,
-Physics Letters A
-372, 5677 (2008)
-;
-6.
-Yu-Li Dong
-, Xu-Bo Zou, Guang-Can Guo,Local and Nonlocal Cloning of Coherent States with Known Phases using LinearOptics,
-Phys. Rev. A 77, 034304 (2008)
-;
-5.
-Yuli Dong
-, Xubo Zou, Shangbin Li, andGuangcan Guo, Economical Gaussian Cloning of Coherent States with KnownPhase,
-Phys. Rev. A 76, 014303 (2007)
-;
-4. Yan-Xiao Gong, Yong-Sheng Zhang,
-Yu-Li Dong
-, Xiao-Ling Niu, et al., Dependence of The Decoherence ofPolarization States in Phase-Damping Channels on The Frequency SpectrumEnvelope of Photons,
-Phys. Rev. A 78, 042103 (2008)
-;
-3. Xubo Zou,
-Yuli Dong
-, and Guoguang Guo,Implementing a Conditional Z Gate by a Combination of ResonantInteraction and Quantum Interference,
-Phys. Rev A 74, 032325 (2006)
-;
-2. Xubo Zou,
-Yuli Dong
-, and Guangcan Guo,Conditional Preparation of Two-Mode Correlated Photon Number States ofLight,
-Phys. Rev. A 74, 015801 (2006)
-;
-1. Xubo Zou,
-Yuli Dong
-, and Guangcang Guo,Schemes for Realizing Frequency Up- and Down-Conversions in Two-ModeCavity QED,
-Phys. Rev. A 73, 025802 (2006)
-.
-荣誉及奖励
-荣誉及奖励：
-Teaching
-开授课程：
-课程教学：
-招生信息
-招生信息：
-招生信息1：
-Copyright © 2011-2014
-苏州大学
-版权所有
-苏州大学信息化建设与管理中心
-技术支持
+姓名:董裕力
+学院:物理科学与技术学院
+职称:副教授
+研究方向:量子光学、量子信息
+关键词:量子光学、量子信息、纠缠蒸馏、拓扑量子相变、腔QED、相干态克隆、光子开关、保真度磁化率
+个人简介:董裕力，苏州大学物理科学与技术学院副教授。2009年入职苏州大学，曾于瑞士苏黎世联邦理工学院访问。博士毕业于中国科学技术大学量子信息重点实验室光学专业，本科毕业于中国科学技术大学物理系光学专业。主要从事量子光学与量子信息研究。
+论文:Signatures of topological quantum phase transitions in driven and dissipative qubit arrays
+Roles of thermal noise and detector efficiency in distillation of continuous variable entanglement state
+Geometric discord for non-X states
+Polarization-dependent photon switch in a one-dimensional coupled-resonator waveguide
+Continuous-variable-entanglement distillation with photon addition
+Quantum-state transmission in a cavity array via two-photon exchange
+Fidelity Susceptibility in Two-Dimensional Spin-Orbit Models
+The Entanglement Dynamics of Interacting Qubits Embedded in a Spin Environment with Dzyaloshinsky-Moriya Term
+Cavity-QED-Based Phase Gate for Photonic qubits
+Generation of Pair Coherent State using Weak Cross-Kerr Media

@@ -5,131 +5,17 @@ department: 物理科学与技术学院
 college_id: 79
 url: http://web.suda.edu.cn/xq
 ---
-姓名:教师个人主页
-页面标题:物理科学与技术学院
-研究领域:（
-1
-）基于钙钛矿等新型纳米材料的器件与应用
-——
-发光二极管、太阳能电池和光电探测器。
-苏州作为光电子产业聚集地，有诸多相关公司。我们课题组以新型钙钛矿材料为出发点，探寻新型材料的光学特性。
-（
-2
-）
-纳米材料的手性
-性质：
-通过不同制备手段，探究分析不同钙钛矿纳米材料的手性光学性质、反应机理、光电器件应用
-（
-3
-）纳米反应器技术手段的优化及应用
-运用纳米反应器调控纳米材料的尺寸、形貌，实现光学稳定性的大幅度提升，探究高性能光电器件应用
-学生：
-硕士：
-2023
-级
-—
-张世瑞
-2024
-级
-—
-杨宏毅，吴运全
-2025
-级
-—
-王昊炎，谢文健，黄芷琪
-本科导师制：
-2024
-级：刘乐宸、于航、曾文斌、张鑫东、马振维（大学生创新训练项目）
-2024
-级：陈子浩、黄楚怡、卓文晰；
-科研项目：
-•
-1
-、
-2024,
-国家自然科学基金
-—
-青年科学基金项目，
-30
-万
-•
-2
-、
-2024,
-江苏省自然科学基金
-—
-青年科学基金项目，
-20
-万
-•
-3
-、
-2023
-江苏省现代光学技术重点实验室开放课题，
-3
-万
-•
-4
-、
-2023,
-江苏省高校面上项目
-•
-5
-、
-2023
-，科技智库青年人才专项
-•
-6
-、
-2023
-，苏州大学物理学院攀登计划项目
-•
-7
-、
-2022
-，苏州市科协项目
-•
-8
-、
-2020,
-慕尼黑大学纳米中心种子基金
-,1
-万欧元
-•
-9
-、
-2020
-，校级研究与教学项目
-•
-10
-、
-2020
-，校级研究与教学项目
-论文：
-1.
-Chengsi Zhao, Jinfeng Xie, Jun Liu, Haiqiong Du, Shirui Zhang, Huiying Gao, He Huang*, Weihai Ni*, and Qi Xue*
-，
-Chiral Amine CsPbBr3 Nanocrystals: Ligand Exchange Strategy-Induced Circularly Polarized Luminescence and Chirality Modulation
-, Advanced Optical Materials, 2026, https://doi.org/10.1002/adom.202503144.
-2.Jun Liu, Jianen Zhang, Qi Xue,* Huiying Gao, Shirui Zhang, Jinfeng Xie, Li Guan, Xiaohong Zhang,* He Huang* Hydration-mediated morphological and electronic tuning in layered double perovskites for p-type transparent conductors, Matter, 2025, https://doi.org/10.1016/j.matt.2025.102478.
-3.Gao Huiying, Xie Jinfeng, Zhang Shirui, Mei Chengjia, Liu Jun, Du Haiqiong, Zhao Chengsi, Ni Weihai, Huang He*, Xue Qi* Non-metal anion doping construction of the durable cathode with optimized oxygen vacancies in aqueous zinc-ion batteries, Nano Research Energy, 2025, https://doi.org/10.26599/NRE.2025.9120182
-4.Jun Liu; Anna A. Vedernikova; Qi Xue*; Huiying Gao; Xiuhui Xie; Jinfeng Xie; Elena V Ushakova; He Huang*; Xiaohong Zhang*, Interfacial Structural Transformation for the Synthesis of Lead-Free Double Perovskite Nanocrystals, Advanced Science, 2025, 2416046, http://doi.org/10.1002/advs.202416046.
-5.
-马腾
-#
-，谢金峰
-#
-，张世瑞，杜海琼，赵成思，薛琪
-*,
-黄河
-*
-超声驱动水油两相中绿色合成高稳定性
-CsPbBr3@MS-SiO2
-复合材料
-[J/OL].
-液晶与显示
-, 2025,1-11. DOI
-：
-10.37188/CJLCD.2025-009
-6.Qing
-论文:论文：
+姓名:薛琪
+学院:物理科学与技术学院
+职称:讲师
+研究方向:多功能纳米材料、发光性质调控、光电器件应用、钙钛矿纳米材料器件、纳米材料手性、纳米反应器技术
+关键词:钙钛矿纳米晶、手性光学、发光性质、光电器件、纳米反应器、锌离子电池、超级电容器
+个人简介:薛琪，女，入选江苏省双创博士，博士毕业于香港城市大学物理与材料科学系，主持国家自然科学基金青年科学基金项目等项目。主要从事多功能纳米材料、发光性质调控及光电器件应用，在Advanced Materials、Advanced Energy Materials、Small等期刊发表多篇论文，部分入选ESI高被引论文。
+论文:Chiral Amine CsPbBr3 Nanocrystals: Ligand Exchange Strategy-Induced Circularly Polarized Luminescence and Chirality Modulation
+Hydration-mediated morphological and electronic tuning in layered double perovskites for p-type transparent conductors
+Non-metal anion doping construction of the durable cathode with optimized oxygen vacancies in aqueous zinc-ion batteries
+Interfacial Structural Transformation for the Synthesis of Lead-Free Double Perovskite Nanocrystals
+Water-induced controllable synthesis of CsPbBr3 nanorods/nanocubes from CsBr nanocrystals
+The synthesis of metal halide perovskite nanocrystals: surface and interface engineering
+Doubly stabilized perovskite nanocrystal luminescence downconverters
+Boron Element Nanowires Electrode for Supercapacitors

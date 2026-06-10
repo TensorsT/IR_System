@@ -1,14 +1,23 @@
 doc_id: 302
 name: 于文博
-career: 
+career: 讲师
 department: 电子信息学院
 college_id: 85
 url: http://web.suda.edu.cn/ywb/index.html
 ---
-姓名:苏州大学・电子信息学院・于文博
-页面标题:苏州大学・电子信息学院・于文博
-研究领域:多源遥感 Multi-source remote sensing
-高光谱/高分/红外/雷达遥感信息处理 Hyperspectral/VHR/Infrared/LiDAR remote sensing information processing
-模式识别与机器学习 Pattern recognition and machine learning
-光谱重建与生成模型 Spectral reconstruction and generative model
-机械臂控制及路径规划 Robotic arm control and path planning
+姓名:于文博
+学院:电子信息学院
+职称:讲师
+研究方向:多源遥感、高光谱遥感信息处理、高分遥感信息处理、红外遥感信息处理、雷达遥感信息处理、模式识别与机器学习、光谱重建与生成模型、机械臂控制及路径规划
+关键词:多源遥感、高光谱图像、激光雷达、模式识别、机器学习、光谱重建、生成模型、机械臂控制、路径规划、计算机视觉
+个人简介:苏州大学电子信息学院副教授、硕士生导师，江苏省双创博士，江苏省科协青托工程对象，苏州市科协青托工程对象。2016年获哈尔滨工业大学航天学院自动化专业学士学位，2021年获哈尔滨工业大学控制科学与工程专业博士学位（沈毅副校长团队），2019-2020年于荷兰代尔夫特理工大学博士联合培养。2021年加入苏州大学电子信息学院智能信控所。主要研究方向为多源遥感、计算机视觉、机械臂控制及路径规划等。
+论文:LACBC: Parallel Per-Level Attention with Cross-Branch Consistency for Remote Sensing Object Detection
+PA3-Net: a prior-guided adaptive attention and alignment network for cross-scene hyperspectral image classification
+HugIpuNet: Hybrid Updating Graph Motivated Illumination-wise Property Unification Network for Hyperspectral and DSM joint Classification
+IamCSC: Intuitive Assimilation Modality Driven Crossmodal Subspace Clustering for Land-cover Identiﬁcation and Hyperspectral-LiDAR Fusion
+AM2CFN: Assimilation Modality Mapping Guided Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification
+GCCFN: Shared-Specific Graph Construction Oriented Crossmodal Fusion Network for HSI and LiDAR Data Joint Classification
+MSSAAE: Multi-Scale Spatial-Spectral Attention Autoencoder Framework for Hyperspectral Anomaly Detection
+MAMInet II: Illumination Insensitive Modalitywise Assimilation Guided Multistage Interaction Network for Hyperspectral and LiDAR joint Classification
+PID-HLfusion: Pluggable Progressive Illumination Driven Hyperspectral and LiDAR Data Fusion Considering Crossmodal Geometric Structures
+Crossmodal Sequential Interaction Network for Hyperspectral and LiDAR Data Joint Classification

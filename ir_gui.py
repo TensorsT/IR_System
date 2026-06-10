@@ -6,30 +6,12 @@ import ttkbootstrap as ttk
 from ttkbootstrap.constants import BOTH, LEFT, X, Y
 
 from ir_system import (
-    _mask_private,
+    build_display,
     build_index,
     load_corpus,
     load_teachers,
     search,
 )
-
-
-def _format_result(result, rank):
-    teacher = result.teacher
-    lines = [f"[{rank}] {teacher.name}  |  {teacher.department}  |  {teacher.career}"]
-    if teacher.research_direction:
-        lines.append(f"Research: {_mask_private(teacher.research_direction)}")
-    if teacher.personal_intro:
-        intro = _mask_private(teacher.personal_intro.replace("\n", " ").strip())
-        lines.append(f"Intro: {intro[:200]}")
-    if teacher.papers_text:
-        papers = _mask_private(teacher.papers_text.replace("\n", " ").strip())
-        lines.append(f"Papers: {papers[:200]}")
-    if result.snippet:
-        lines.append(f"Snippet: {_mask_private(result.snippet)}")
-    if teacher.url:
-        lines.append(f"URL: {teacher.url}")
-    return "\n".join(lines)
 
 
 def _matches_text(value: str, needle: str) -> bool:
@@ -48,26 +30,6 @@ def _sort_results(results, mode: str):
             results, key=lambda x: (x.teacher.department or "", x.teacher.name or "", -x.score)
         )
     return sorted(results, key=lambda x: x.score, reverse=True)
-
-
-def _keyword_hits(query: str, teacher, doc_text: str):
-    tokens = [t.strip() for t in query.replace("：", ":").split() if t.strip()]
-    if not tokens:
-        tokens = [query.strip()] if query.strip() else []
-    haystack = " ".join(
-        [
-            teacher.name,
-            teacher.department,
-            teacher.research_direction,
-            teacher.papers_text,
-            doc_text,
-        ]
-    ).casefold()
-    hits = []
-    for token in tokens:
-        if token.casefold() in haystack and token not in hits:
-            hits.append(token)
-    return hits[:4]
 
 
 def _filter_results(results, name_filter, research_filter, paper_filter):
@@ -245,14 +207,24 @@ def main():
     button_frame = ttk.Frame(sidebar)
     button_frame.pack(pady=8, fill=X)
 
-    search_btn = ttk.Button(button_frame, text="Search", command=lambda: on_search())
-    search_btn.pack(fill=X)
+    search_btn = ttk.Button(
+        button_frame, text="搜索", command=lambda: on_search(), bootstyle="primary"
+    )
+    search_btn.pack(fill=X, ipady=4)
+
+    compare_btn = ttk.Button(
+        button_frame,
+        text="基础 vs 优化 对比",
+        command=lambda: on_compare(),
+        bootstyle="info",
+    )
+    compare_btn.pack(fill=X)
 
     clear_btn = ttk.Button(
         button_frame,
-        text="Clear",
+        text="清空",
         command=lambda: on_clear(),
-        bootstyle="secondary",
+        bootstyle="secondary-outline",
     )
     clear_btn.pack(pady=6, fill=X)
 
@@ -293,86 +265,196 @@ def main():
     scroll_frame.bind("<Configure>", _update_scrollregion)
     canvas.bind("<Configure>", _update_canvas_width)
 
+    def _on_mousewheel(event):
+        canvas.yview_scroll(int(-event.delta / 120), "units")
+
+    canvas.bind_all("<MouseWheel>", _on_mousewheel)
+
+    last_query = {"text": ""}
+
     def _clear_cards():
         for child in scroll_frame.winfo_children():
             child.destroy()
 
+    def _add_field(parent, label, value):
+        row = ttk.Frame(parent)
+        row.pack(fill=X, pady=(6, 0))
+        ttk.Label(
+            row,
+            text=label,
+            font=("Microsoft YaHei UI", 9, "bold"),
+            bootstyle="secondary",
+            width=6,
+        ).pack(side=LEFT, anchor="n")
+        ttk.Label(
+            row,
+            text=value,
+            font=("Microsoft YaHei UI", 10),
+            wraplength=720,
+            justify="left",
+        ).pack(side=LEFT, fill=X, expand=True)
+
+    _CCF_BADGE_STYLE = {"A": "inverse-danger", "B": "inverse-warning", "C": "inverse-info"}
+
+    def _add_chip_row(parent, label, chips, bootstyle="inverse-primary"):
+        if not chips:
+            return
+        row = ttk.Frame(parent)
+        row.pack(fill=X, pady=(6, 0))
+        ttk.Label(
+            row,
+            text=label,
+            font=("Microsoft YaHei UI", 9, "bold"),
+            bootstyle="secondary",
+            width=6,
+        ).pack(side=LEFT, anchor="n")
+        chip_wrap = ttk.Frame(row)
+        chip_wrap.pack(side=LEFT, fill=X, expand=True)
+        for chip in chips:
+            ttk.Label(
+                chip_wrap,
+                text=f" {chip} ",
+                font=("Microsoft YaHei UI", 9, "bold"),
+                bootstyle=bootstyle,
+            ).pack(side=LEFT, padx=(0, 5), pady=2)
+
+    def _add_research_section(parent, view):
+        if view.research_tags:
+            _add_chip_row(parent, "研究方向", view.research_tags, "inverse-primary")
+        elif view.research:
+            _add_field(parent, "研究方向", view.research)
+
+    def _add_papers_section(parent, paper_items):
+        if not paper_items:
+            return
+        row = ttk.Frame(parent)
+        row.pack(fill=X, pady=(8, 0))
+        ttk.Label(
+            row,
+            text="论文",
+            font=("Microsoft YaHei UI", 9, "bold"),
+            bootstyle="secondary",
+            width=6,
+        ).pack(side=LEFT, anchor="n")
+        list_frame = ttk.Frame(row)
+        list_frame.pack(side=LEFT, fill=X, expand=True)
+
+        for idx, paper in enumerate(paper_items[:10], start=1):
+            item = ttk.Frame(list_frame)
+            item.pack(fill=X, pady=3)
+
+            left = ttk.Frame(item)
+            left.pack(side=LEFT, anchor="n", padx=(0, 8))
+            ttk.Label(
+                left,
+                text=f"{idx:02d}",
+                font=("Consolas", 9, "bold"),
+                bootstyle="secondary",
+                width=3,
+            ).pack(side=LEFT)
+            if paper.ccf_rank:
+                ttk.Label(
+                    left,
+                    text=f" CCF-{paper.ccf_rank} ",
+                    font=("Microsoft YaHei UI", 8, "bold"),
+                    bootstyle=_CCF_BADGE_STYLE.get(paper.ccf_rank, "secondary"),
+                ).pack(side=LEFT, padx=(4, 0))
+
+            body = ttk.Frame(item)
+            body.pack(side=LEFT, fill=X, expand=True)
+            ttk.Label(
+                body,
+                text=paper.title,
+                font=("Microsoft YaHei UI", 10),
+                wraplength=640,
+                justify="left",
+            ).pack(anchor="w")
+            meta_parts = [x for x in [paper.venue, paper.year] if x]
+            if meta_parts:
+                ttk.Label(
+                    body,
+                    text=" · ".join(meta_parts),
+                    font=("Microsoft YaHei UI", 9),
+                    bootstyle="secondary",
+                ).pack(anchor="w", pady=(1, 0))
+
     def _render_results(results):
         _clear_cards()
         if not results:
-            empty_label = ttk.Label(
-                scroll_frame,
-                text="未命中结果，请尝试放宽条件或切换优化模式。",
-                font=("Microsoft YaHei UI", 11),
+            empty = ttk.Frame(scroll_frame, padding=24)
+            empty.pack(fill=X, pady=20)
+            ttk.Label(
+                empty,
+                text="未命中结果",
+                font=("Microsoft YaHei UI", 13, "bold"),
                 bootstyle="secondary",
-            )
-            empty_label.pack(anchor="w", pady=10)
+            ).pack()
+            ttk.Label(
+                empty,
+                text="可尝试放宽条件、切换优化模式，或更换关键词。",
+                font=("Microsoft YaHei UI", 10),
+                bootstyle="secondary",
+            ).pack(pady=(6, 0))
             return
 
         for i, result in enumerate(results, start=1):
-            card = ttk.Frame(scroll_frame, padding=12, bootstyle="light")
-            card.pack(fill=X, pady=6)
+            view = build_display(result, i, last_query["text"])
+
+            card = ttk.Frame(scroll_frame, padding=14, bootstyle="light")
+            card.pack(fill=X, pady=7, padx=2)
 
             title_row = ttk.Frame(card)
             title_row.pack(fill=X)
-            title = ttk.Label(
+            ttk.Label(
                 title_row,
-                text=f"[{i}] {result.teacher.name} | {result.teacher.department} | {result.teacher.career}",
-                font=("Microsoft YaHei UI", 11, "bold"),
-            )
-            title.pack(side=LEFT)
-            if result.teacher.url:
+                text=f" {i} ",
+                font=("Microsoft YaHei UI", 10, "bold"),
+                bootstyle="inverse-primary",
+            ).pack(side=LEFT, padx=(0, 8))
+            ttk.Label(
+                title_row,
+                text=view.name,
+                font=("Microsoft YaHei UI", 13, "bold"),
+            ).pack(side=LEFT)
+            meta = " · ".join([t for t in [view.department, view.career] if t])
+            if meta:
+                ttk.Label(
+                    title_row,
+                    text=meta,
+                    font=("Microsoft YaHei UI", 10),
+                    bootstyle="secondary",
+                ).pack(side=LEFT, padx=10)
+
+            ttk.Label(
+                title_row,
+                text=f"相关度 {view.score:.2f}",
+                font=("Microsoft YaHei UI", 9, "bold"),
+                bootstyle="inverse-info",
+            ).pack(side="right")
+            if view.url:
                 ttk.Button(
                     title_row,
                     text="打开主页",
                     bootstyle="link",
-                    command=lambda u=result.teacher.url: webbrowser.open(u),
-                ).pack(side=LEFT, padx=8)
+                    command=lambda u=view.url: webbrowser.open(u),
+                ).pack(side="right", padx=6)
 
-            if result.teacher.research_direction:
-                ttk.Label(
-                    card,
-                    text=f"研究方向: {_mask_private(result.teacher.research_direction)}",
-                    font=("Microsoft YaHei UI", 10),
-                ).pack(anchor="w", pady=(6, 0))
+            ttk.Separator(card, orient="horizontal").pack(fill=X, pady=(8, 2))
 
-            if result.teacher.personal_intro:
-                intro = _mask_private(result.teacher.personal_intro.replace("\n", " ").strip())
-                ttk.Label(
-                    card,
-                    text=f"简介: {intro[:220]}",
-                    font=("Microsoft YaHei UI", 10),
-                    wraplength=760,
-                    justify="left",
-                ).pack(anchor="w", pady=(6, 0))
+            _add_research_section(card, view)
+            if view.profile_keywords:
+                _add_chip_row(card, "研究关键词", view.profile_keywords, "info")
+            if view.intro:
+                _add_field(card, "简介", view.intro)
+            if view.paper_items:
+                _add_papers_section(card, view.paper_items)
+            elif view.papers:
+                _add_field(card, "论文", view.papers)
+            if view.snippet:
+                _add_field(card, "片段", view.snippet)
 
-            if result.teacher.papers_text:
-                papers = _mask_private(result.teacher.papers_text.replace("\n", " ").strip())
-                ttk.Label(
-                    card,
-                    text=f"论文: {papers[:220]}",
-                    font=("Microsoft YaHei UI", 10),
-                    wraplength=760,
-                    justify="left",
-                ).pack(anchor="w", pady=(6, 0))
-
-            if result.snippet:
-                ttk.Label(
-                    card,
-                    text=f"命中片段: {_mask_private(result.snippet)}",
-                    font=("Microsoft YaHei UI", 10),
-                    wraplength=760,
-                    justify="left",
-                ).pack(anchor="w", pady=(6, 0))
-
-            hits = _keyword_hits(query_entry.get().strip(), result.teacher, result.doc.text or "")
-            if hits:
-                ttk.Label(
-                    card,
-                    text=f"命中关键词: {' / '.join(hits)}",
-                    font=("Microsoft YaHei UI", 10),
-                    foreground="#0f766e",
-                ).pack(anchor="w", pady=(6, 0))
+            if view.keywords:
+                _add_chip_row(card, "命中关键词", view.keywords, "inverse-success")
 
     def on_search():
         free_query = query_entry.get().strip()
@@ -386,6 +468,7 @@ def main():
         if not search_text and name_filter:
             search_text = name_filter
 
+        last_query["text"] = search_text
         t0 = time.perf_counter()
         if search_text:
             results = search(
@@ -419,6 +502,158 @@ def main():
         paper_entry.delete(0, tk.END)
         status_var.set("已清空查询条件。")
         _clear_cards()
+
+    def _current_query():
+        free_query = query_entry.get().strip()
+        if free_query:
+            return free_query
+        parts = [
+            research_entry.get().strip(),
+            paper_entry.get().strip(),
+            name_entry.get().strip(),
+        ]
+        return " ".join(p for p in parts if p).strip()
+
+    def _make_scroll_pane(parent):
+        wrapper = ttk.Frame(parent)
+        pane_canvas = tk.Canvas(wrapper, highlightthickness=0)
+        bar = ttk.Scrollbar(wrapper, orient="vertical", command=pane_canvas.yview)
+        pane_canvas.configure(yscrollcommand=bar.set)
+        inner = ttk.Frame(pane_canvas)
+        window = pane_canvas.create_window((0, 0), window=inner, anchor="nw")
+        pane_canvas.pack(side=LEFT, fill=BOTH, expand=True)
+        bar.pack(side=LEFT, fill=Y)
+        inner.bind(
+            "<Configure>",
+            lambda e: pane_canvas.configure(scrollregion=pane_canvas.bbox("all")),
+        )
+        pane_canvas.bind(
+            "<Configure>", lambda e: pane_canvas.itemconfig(window, width=e.width)
+        )
+        pane_canvas.configure(background=style.lookup("TFrame", "background"))
+        return wrapper, inner
+
+    def _render_compact(parent, results, query, highlight_names):
+        if not results:
+            ttk.Label(
+                parent,
+                text="无结果",
+                font=("Microsoft YaHei UI", 11),
+                bootstyle="secondary",
+            ).pack(anchor="w", pady=10)
+            return
+        for i, result in enumerate(results, start=1):
+            view = build_display(result, i, query)
+            is_new = view.name in highlight_names
+            card = ttk.Frame(
+                parent, padding=10, bootstyle="success" if is_new else "light"
+            )
+            card.pack(fill=X, pady=5)
+
+            head = ttk.Frame(card)
+            head.pack(fill=X)
+            ttk.Label(
+                head,
+                text=f" {i} ",
+                font=("Microsoft YaHei UI", 9, "bold"),
+                bootstyle="inverse-primary",
+            ).pack(side=LEFT, padx=(0, 6))
+            ttk.Label(
+                head, text=view.name, font=("Microsoft YaHei UI", 11, "bold")
+            ).pack(side=LEFT)
+            ttk.Label(
+                head,
+                text=f"{view.score:.2f}",
+                font=("Microsoft YaHei UI", 9, "bold"),
+                bootstyle="inverse-info",
+            ).pack(side="right")
+            if is_new:
+                ttk.Label(
+                    head,
+                    text="优化新增",
+                    font=("Microsoft YaHei UI", 8, "bold"),
+                    bootstyle="inverse-success",
+                ).pack(side="right", padx=4)
+
+            if view.department:
+                ttk.Label(
+                    card,
+                    text=view.department,
+                    font=("Microsoft YaHei UI", 9),
+                    bootstyle="secondary",
+                ).pack(anchor="w", pady=(4, 0))
+            if view.research:
+                ttk.Label(
+                    card,
+                    text=view.research,
+                    font=("Microsoft YaHei UI", 9),
+                    wraplength=380,
+                    justify="left",
+                ).pack(anchor="w", pady=(4, 0))
+
+    def on_compare():
+        query = _current_query()
+        if not query:
+            status_var.set("请输入查询词后再进行对比。")
+            return
+
+        top_k = max(3, min(20, int(topk_var.get())))
+
+        t0 = time.perf_counter()
+        base = search(
+            query, docs, teachers, inverted, doc_norms,
+            top_k=top_k, allow_relax=False, enable_fuzzy=False,
+        )
+        base_ms = (time.perf_counter() - t0) * 1000.0
+
+        t1 = time.perf_counter()
+        opt = search(
+            query, docs, teachers, inverted, doc_norms,
+            top_k=top_k, allow_relax=True, enable_fuzzy=True,
+        )
+        opt_ms = (time.perf_counter() - t1) * 1000.0
+
+        base_names = {r.teacher.name for r in base}
+        new_names = {r.teacher.name for r in opt if r.teacher.name not in base_names}
+
+        win = ttk.Toplevel(title=f"对比检索: {query}")
+        win.geometry("980x680")
+        outer = ttk.Frame(win, padding=14)
+        outer.pack(fill=BOTH, expand=True)
+
+        ttk.Label(
+            outer,
+            text=f"查询: {query}    优化新增召回: {len(new_names)} 位",
+            font=("Microsoft YaHei UI", 12, "bold"),
+        ).pack(anchor="w")
+        ttk.Separator(outer, orient="horizontal").pack(fill=X, pady=(8, 6))
+
+        columns = ttk.Frame(outer)
+        columns.pack(fill=BOTH, expand=True)
+        columns.columnconfigure(0, weight=1, uniform="col")
+        columns.columnconfigure(1, weight=1, uniform="col")
+        columns.rowconfigure(1, weight=1)
+
+        ttk.Label(
+            columns,
+            text=f"基础模式  ·  {len(base)} 条  ·  {base_ms:.2f} ms",
+            font=("Microsoft YaHei UI", 11, "bold"),
+            bootstyle="secondary",
+        ).grid(row=0, column=0, sticky="w", padx=(0, 8), pady=(0, 6))
+        ttk.Label(
+            columns,
+            text=f"优化模式  ·  {len(opt)} 条  ·  {opt_ms:.2f} ms",
+            font=("Microsoft YaHei UI", 11, "bold"),
+            bootstyle="success",
+        ).grid(row=0, column=1, sticky="w", padx=(8, 0), pady=(0, 6))
+
+        left_wrap, left_inner = _make_scroll_pane(columns)
+        left_wrap.grid(row=1, column=0, sticky="nsew", padx=(0, 8))
+        right_wrap, right_inner = _make_scroll_pane(columns)
+        right_wrap.grid(row=1, column=1, sticky="nsew", padx=(8, 0))
+
+        _render_compact(left_inner, base, query, set())
+        _render_compact(right_inner, opt, query, new_names)
 
     def on_theme_change(_event=None):
         new_theme = theme_var.get()

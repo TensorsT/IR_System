@@ -5,8 +5,11 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/wshyao
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Online Knowledge Distillation with Multi-Architecture Peers,Joint Conference on Neural Networks,CCF-C Conference,2022,Xuan Zhu,Soochow University,Wangshu Yao,Kang Song,Wangshu Yao,Soochow University,2
-2、Filter Pruning via Similarity Clustering for Deep Convolutional Neural Networks,International Conference on Neural Information Processing,CCF-C Conference,2022,Kang Song,Soochow University,Wangshu Yao,Xuan Zhu,Wangshu Yao,Soochow University,2
+姓名:姚望舒
+学院:计算机科学与技术学院（软件学院）
+职称:副教授
+研究方向:模型压缩与加速、机器学习、机器视觉、目标检测、工业软件设计
+关键词:模型压缩与加速、机器学习、机器视觉、目标检测、工业软件设计、知识蒸馏、模型剪枝、深度卷积神经网络
+个人简介:博士，副教授，硕士生导师。中国计算机学会会员，江苏省计算机学会会员，IEEE会员，江苏省计算机学会人工智能专委会委员，江苏省智能系统专委会委员。2005年毕业于南京大学计算机系，毕业至今一直在苏州大学计算机科学与技术系工作。主要从事模型压缩与加速、机器学习、机器视觉、目标检测、工业软件设计等方面的研究。发表论文20多篇，申请软件著作权30多项。参与多项国家自然科学基金项目和省基金项目，主持多项企业横向项目。
+论文:Online Knowledge Distillation with Multi-Architecture Peers
+Filter Pruning via Similarity Clustering for Deep Convolutional Neural Networks

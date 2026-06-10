@@ -5,12 +5,15 @@ department: 数学科学学院
 college_id: 78
 url: http://web.suda.edu.cn/wt
 ---
-姓名:教师个人主页
-页面标题:数学科学学院
-论文:论文：
-1、Synaptic mechanisms for motor variability in a feedforward network, Science Advances, Guo Zhang#, Ke Yu#, Tao Wang#, Ting-Ting Chen#, Wang-Ding Yuan, Fan Yang, Zi-Wei Le, Shi-Qi Guo, Ying-Yu Xue, Song-An Chen, Zhe Yang, Feng Liu†, Elizabeth C. Cropper, Klaudiusz R. Weiss, Jian Jing†, 2020, 6(25): eaba4856,（# 共同一作, † 通讯作者，下同）
-2、Modularization of grid cells constrained by the pyramidal patch lattice, iScience, Tao Wang, Fan Yang, Ziqun Wang, Bing Zhang†, Wei Wang†, Feng Liu†, 2021, 24(4): 102301
-3、Background synaptic input modulates the visuospatial working memory, Physical Review E, Tao Wang, Jun Sun, Fan Yang, Jie Li†, Wei Wang, Feng Liu†, 2021, 104(2): 024416
-4、A single central pattern generator for the control of a locomotor rolling wave in mollusc Aplysia, Research, Hui-Ying Wang#, Ke Yu#, Zhe Yang#, Guo Zhang#, Shi-Qi Guo#, Tao Wang#, Dan-Dan Liu, Ruo-Nan Jia, Yu-Tong Zheng, Yan-Nan Su, Yi Lou, Klaudiusz R. Weiss, Hai-Bo Zhou†, Feng Liu†, Elizabeth C. Cropper, Quan Yu†, Jian Jing†, 2023, 6: 0060
-5、Intrinsic theta oscillation in the attractor network of grid cells, iScience, Ziqun Wang#, Tao Wang#, Fan Yang, Feng Liu†, Wei Wang†, 2023, 26(4): 106351
-6、Self-sustained and oscillatory activity in two types of attractor networks, Nonlinear Dynamics, Tao Wang, Jun-Xiang Gui, Mengjiao Zuo, Wei Wang†, Feng Liu†, 2025, 113(12): 15421-15439
+姓名:王涛
+学院:数学科学学院
+职称:讲师
+研究方向:计算神经科学、工作记忆、空间导航、神经回路机制、突触动力学、神经计算原理、非线性动力学
+关键词:计算神经科学、工作记忆、空间导航、突触动力学、非线性动力学、网格细胞、吸引子网络、神经回路、突触可塑性、神经计算
+个人简介:王涛，苏州大学数学科学学院讲师。于南京大学获得学士和博士学位，随后在南京大学物理学院从事博士后研究，合作导师刘锋教授。研究方向为计算神经科学，主要关注工作记忆、空间导航等高级认知行为的神经回路与突触动力学机制，以及神经计算原理。运用计算建模和非线性动力学分析方法，相关工作发表在Science Advances、Research、Nonlinear Dynamics等期刊。
+论文:Synaptic mechanisms for motor variability in a feedforward network
+Modularization of grid cells constrained by the pyramidal patch lattice
+Background synaptic input modulates the visuospatial working memory
+A single central pattern generator for the control of a locomotor rolling wave in mollusc Aplysia
+Intrinsic theta oscillation in the attractor network of grid cells
+Self-sustained and oscillatory activity in two types of attractor networks

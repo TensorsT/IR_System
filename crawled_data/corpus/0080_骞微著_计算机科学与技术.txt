@@ -5,10 +5,13 @@ department: 计算机科学与技术学院（软件学院）
 college_id: 15
 url: http://web.suda.edu.cn/wzqian
 ---
-姓名:教师个人主页
-页面标题:计算机科学与技术学院
-论文:论文：
-1、Uncertainty Quantification for Traffic Forecasting: A Unified Approach,ICDE,CCF A,2023,Weizhu Qian, et al.
-2、Towards A Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting,TKDE,CCF A,2023,Weizhu Qian, et al.
-3、Supervised and Semi-supervised Deep Probabilistic Models for Indoor Positioning Problems,Neurocomputing,CCF C,2021,Weizhu Qian, et al.,435,  228-238
-4、 Uncertainty-Aware Temporal Graph Convolutional Network for Traffic Forecasting.,IEEE  Transactions on Intelligent Transportation Systems,CCF B,2024,Weizhu Qian, et al.
+姓名:骞微著
+学院:计算机科学与技术学院（软件学院）
+职称:讲师
+研究方向:扩散模型、行人轨迹建模、动态系统建模、时间序列分析
+关键词:扩散模型、行人轨迹建模、动态系统建模、时间序列分析、交通预测、不确定性量化、深度概率模型、机器学习
+个人简介:以第一作者在数据挖掘和人工智能顶级国际会议和期刊发表多篇文章，主持国家级自然科学基金青年项目一项，入选国家级重大人才工程博士后专项。近年来多次担任ICLR,Neurips,ICML,AISTATS,TKDE,AAAI和CIKM等领域内顶级会议审稿人。
+论文:Uncertainty Quantification for Traffic Forecasting: A Unified Approach
+Towards A Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting
+Supervised and Semi-supervised Deep Probabilistic Models for Indoor Positioning Problems
+Uncertainty-Aware Temporal Graph Convolutional Network for Traffic Forecasting
