@@ -4,7 +4,73 @@
 
 ---
 
-## 2026-06-10
+## 2026-06-11
+
+### 排序逻辑修正：导航性尾缀规范化 + 字段分层权重 + TF-IDF 评分
+
+**问题背景**：
+
+1. **「自然语言处理」vs「自然语言处理方向」结果差异大**：前者 `phrase_search` 精确命中后直接返回高质量 NLP 教师；后者因文档中不存在完整字符串 `自然语言处理方向` 而退化为 `token_search`，尾缀词「方向」的 bigram 匹配大面积污染结果集。
+2. **「信息提取」搜到电子信息学院老师**：`_token_search` 评分只用 TF 未乘 IDF，「信息」是院系名高频词，TF 高 → 无关教师得分高。同时院系名字段的文本与研究方向的文本混在同一个 haystack/索引中，无法区分来源。
+
+**修改文件**：`ir_system.py`、`ir_gui.py`、`evaluate.py`
+
+---
+
+#### 优化一：导航性尾缀规范化
+
+**新增**（`ir_system.py`）：
+
+- `_NAV_SUFFIX_WORDS`：12 个导航性尾缀词集合（`方向、研究、领域、相关、方面、技术、应用、研究方向、研究领域、相关领域、相关技术、技术方向、应用方向`）
+- `_strip_nav_suffix(query)`：若查询以尾缀词结尾且截断后长度≥2，返回核心词；按尾缀长度降序匹配（优先最长匹配）
+
+**修改**（`_build_query_plan`）：
+
+- 在生成 `phrases` 前调用 `_strip_nav_suffix`，若存在核心词则插入到 `phrases` 列表最前（先于 `original`），并去重。
+- 效果：「自然语言处理方向」→ `phrases = ['自然语言处理', '自然语言处理方向']`，`phrase_search` 优先生效，不再退化为 token_search。
+
+**验证**：搜「自然语言处理方向」结果与「自然语言处理」完全一致（均为 NLP 教师）；「信息提取」「低资源跨语言」等无导航尾缀的查询不受影响。
+
+---
+
+#### 优化二：字段分层权重与 TF-IDF 评分
+
+**修改 A — `_phrase_search` 排除院系名/职称字段**：
+
+- 构建 teacher haystack 时，从 `name + department + career + research_direction + personal_intro + papers_text` 改为 `name + research_direction + personal_intro + papers_text`
+- `department`（院系名）和 `career`（职称）不再参与 phrase 匹配，仅用于展示
+
+**修改 B — `_token_search` 引入 IDF 加权**：
+
+- 函数签名新增 `idf: Dict[str, float] | None` 参数
+- 评分从 `weight = 1 + log(tf)` 改为 `weight = (1 + log(tf)) × idf_val`
+- 「信息」「学院」「技术」等高频词 IDF 接近 0，不再拉高无关文档得分
+- `idf=None` 时退化为纯 TF（向后兼容）
+
+**修改 C — `build_index` 返回值变更**：
+
+- 从 `(inverted, doc_norms)` 改为 `(inverted, doc_norms, idf)`
+- 新增返回 `idf` 字典，供 `_token_search` 进行 TF-IDF 加权
+- `doc_norms` 计算本身已使用 IDF（原代码即如此），无需修改
+
+**修改 D — `search()` 插入字段优先搜索层**：
+
+- `phrase_search` 失败后，先依次调用 `_field_search(plan, "research")` 和 `_field_search(plan, "papers")`，在「研究方向」和「论文」字段内 token 搜索
+- 只有字段搜索也失败，才降级为全文 `_token_search`
+- 同时将 `idf` 传入 `_token_search`
+- 执行顺序：精确短语匹配 → 字段优先层（research → papers）→ 全文 token 搜索 → 模糊兜底
+
+**同步更新**：
+
+- `ir_gui.py`：`build_index` 解包改为三元组 `(inverted, doc_norms, idf)`；三处 `search()` 调用均传入 `idf=idf`
+- `evaluate.py`：`load_resources()` 新增返回 `idf`；`evaluate_mode` 接收并传入 `idf`；主流程两处调用同步更新
+
+**验证**：
+- 「信息抽取」→ 全部 NLP 教师（周国栋、洪宇、李培峰等）✅
+- 「信息提取」→ 结果中不再混入纯电子信息学院的无关教师 ✅
+- 「自然语言处理方向」→ 与「自然语言处理」结果一致 ✅
+
+### 2026-06-10
 
 ### 中英文跨语言检索
 
@@ -84,7 +150,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| `ir_system.py` | 检索核心 + 跨语言扩展 + `build_display` |
+| `ir_system.py` | 检索核心 + 跨语言扩展 + 导航性尾缀规范化 + 字段分层权重 + TF-IDF 评分 |
 | `ir_gui.py` | GUI + 快捷查询 + 对比模式 |
 | `evaluate.py` | 效果评测 |
 | `crawler/e9_crawler_v2.py` | 爬虫 V2 |
