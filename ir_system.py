@@ -421,8 +421,38 @@ def _strip_field_prefix(query: str) -> Tuple[str, str | None]:
     return query, None
 
 
+# 导航性尾缀词：这些词出现在查询末尾时不改变核心概念内涵，属于冗余导航词
+# 例：「自然语言处理方向」→ 核心词「自然语言处理」；「机器学习相关」→「机器学习」
+_NAV_SUFFIX_WORDS = frozenset({
+    "方向", "研究", "领域", "相关", "方面", "技术", "应用", "研究方向",
+    "研究领域", "相关领域", "相关技术", "技术方向", "应用方向",
+})
+
+
+def _strip_nav_suffix(query: str) -> str | None:
+    """若查询以导航性尾缀词结尾，返回去掉尾缀后的核心词；否则返回 None。
+
+    判断逻辑：
+      1. 尾缀必须在 _NAV_SUFFIX_WORDS 集合中（静态预筛）
+      2. 去掉尾缀后的核心词长度 >= 2（避免过度截断）
+    只做一轮截断，不递归，防止过度修剪。
+    """
+    # 按尾缀长度降序尝试，优先匹配最长尾缀（如「研究方向」优先于「方向」）
+    for suffix in sorted(_NAV_SUFFIX_WORDS, key=len, reverse=True):
+        if query.endswith(suffix) and len(query) > len(suffix) + 1:
+            core = query[: len(query) - len(suffix)].strip()
+            if len(core) >= 2:
+                return core
+    return None
+
+
 def _build_query_plan(query: str) -> QueryPlan:
-    """将英文缩写/短语扩展为中文检索词，与原始查询一并参与匹配。"""
+    """将英文缩写/短语扩展为中文检索词，与原始查询一并参与匹配。
+
+    新增：导航性尾缀规范化。若查询末尾包含「方向」「领域」「相关」等导航词，
+    将去掉尾缀的核心词优先加入 phrases，使 phrase_search 能直接命中，
+    避免退化为 token_search 导致结果质量下降。
+    """
     original = _normalize_query_input(query)
     if not original:
         return QueryPlan("", [], [])
@@ -438,6 +468,12 @@ def _build_query_plan(query: str) -> QueryPlan:
         aliases = _ABBR_ALIASES.get(word.lower())
         if aliases:
             zh_phrases.extend(aliases)
+
+    # 导航性尾缀规范化：将核心词优先放入 phrases（置于 original 之前）
+    # 这样 phrase_search 会先用核心词尝试精确匹配，命中后直接返回高质量结果
+    core_without_suffix = _strip_nav_suffix(original)
+    if core_without_suffix:
+        zh_phrases.append(core_without_suffix)
 
     phrases: List[str] = []
     seen_phrase = set()
@@ -1275,7 +1311,12 @@ def _relax_terms(query: str) -> List[str]:
     return deduped
 
 
-def build_index(docs: List[DocRecord]) -> Tuple[Dict[str, Dict[str, int]], Dict[str, float]]:
+def build_index(docs: List[DocRecord]) -> Tuple[Dict[str, Dict[str, int]], Dict[str, float], Dict[str, float]]:
+    """构建倒排索引。
+
+    返回值变更：新增第三项 idf 字典，供 _token_search 进行 TF-IDF 加权。
+    调用方需同步更新解包方式：inverted, doc_norms, idf = build_index(docs)
+    """
     inverted: Dict[str, Dict[str, int]] = defaultdict(dict)
     doc_freq: Dict[str, int] = defaultdict(int)
 
@@ -1301,7 +1342,7 @@ def build_index(docs: List[DocRecord]) -> Tuple[Dict[str, Dict[str, int]], Dict[
     for doc_id, value in doc_norms.items():
         doc_norms[doc_id] = math.sqrt(value) if value > 0 else 1.0
 
-    return inverted, doc_norms
+    return inverted, doc_norms, idf
 
 
 def _phrase_search(
@@ -1331,12 +1372,14 @@ def _phrase_search(
             results.append(SearchResult(score=score, doc=doc, teacher=teacher, snippet=snippet))
 
     for teacher in teachers:
+        # 注意：phrase_search 阶段有意排除 department / career 字段。
+        # 院系名（如「电子信息学院」）与职称中常含高频词（如「信息」），
+        # 若参与 phrase 匹配会将无关老师误拉入结果集。
+        # 院系名仅用于展示，不参与相关性评分。
         haystack = _normalize_text(
             " ".join(
                 [
                     teacher.name,
-                    teacher.department,
-                    teacher.career,
                     teacher.research_direction,
                     teacher.personal_intro,
                     teacher.papers_text,
@@ -1361,7 +1404,14 @@ def _token_search(
     doc_norms: Dict[str, float],
     top_k: int,
     require_all: bool = False,
+    idf: Dict[str, float] | None = None,
 ) -> List[SearchResult]:
+    """基于倒排索引的 token 搜索。
+
+    评分使用 TF-IDF 加权：weight = (1 + log(tf)) * idf_val。
+    引入 idf 参数后，「信息」「学院」等高频背景词的 idf 接近 0，
+    不会因 TF 高而拉高无关文档的得分。
+    """
     if not query_tokens:
         return []
 
@@ -1383,10 +1433,12 @@ def _token_search(
         postings = inverted.get(term)
         if not postings:
             continue
+        # TF-IDF 加权：若提供了 idf 字典则乘以 idf 值，否则退化为纯 TF
+        idf_val = idf.get(term, 1.0) if idf else 1.0
         for doc_id, tf in postings.items():
             if require_all and doc_id not in doc_ids:
                 continue
-            weight = 1 + math.log(tf)
+            weight = (1 + math.log(tf)) * idf_val
             scores[doc_id] += weight
 
     results: List[SearchResult] = []
@@ -1492,6 +1544,7 @@ def search(
     allow_relax: bool = True,
     enable_fuzzy: bool = True,
     fuzzy_threshold: int = 70,
+    idf: Dict[str, float] | None = None,
 ) -> List[SearchResult]:
     raw_query = (query or "").strip()
     if not raw_query:
@@ -1528,6 +1581,15 @@ def search(
         if exact_results:
             return exact_results
 
+        # 字段优先层：phrase_search 未命中时，先在高权重字段（研究方向、论文）内搜索，
+        # 避免直接走全文 token_search 被院系名等背景词污染。
+        field_results: List[SearchResult] = []
+        for fld in ("research", "papers"):
+            field_results.extend(_field_search(plan, fld, docs, teachers, top_k))
+        field_results = _dedupe_and_rank(field_results, top_k)
+        if field_results:
+            return field_results
+
         relaxed_results = _token_search(
             plan.tokens,
             docs,
@@ -1536,6 +1598,7 @@ def search(
             doc_norms,
             top_k,
             require_all=False,
+            idf=idf,
         )
         if relaxed_results:
             return relaxed_results
@@ -1548,6 +1611,7 @@ def search(
         doc_norms,
         top_k,
         require_all=False,
+        idf=idf,
     )
     if base_results:
         return base_results
@@ -1594,7 +1658,7 @@ def _format_result(result: SearchResult, rank: int, query: str = "") -> str:
 def run_cli() -> None:
     teachers = load_teachers(TEACHERS_JSON)
     docs = load_corpus(CORPUS_DIR)
-    inverted, doc_norms = build_index(docs)
+    inverted, doc_norms, idf = build_index(docs)
 
     print("苏州大学导师检索系统 (基础版)")
     print("输入示例: 自然语言处理 | NLP | ML | events extraction | 周国栋")
@@ -1607,7 +1671,7 @@ def run_cli() -> None:
         if query.lower() in {"quit", "exit"}:
             break
 
-        results = search(query, docs, teachers, inverted, doc_norms)
+        results = search(query, docs, teachers, inverted, doc_norms, idf=idf)
         if not results:
             print("未找到结果。\n")
             continue

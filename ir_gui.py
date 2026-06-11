@@ -190,7 +190,7 @@ def _styled_button(parent, text, command, bootstyle="primary", icon="", **kwargs
 def main():
     teachers = load_teachers("crawled_data/teachers.json")
     docs = load_corpus("crawled_data/corpus")
-    inverted, doc_norms = build_index(docs)
+    inverted, doc_norms, idf = build_index(docs)
 
     # ── 根窗口 ──
     root = ttk.Window(themename="flatly")
@@ -770,9 +770,10 @@ def main():
                 allow_relax=allow_relax_var.get(),
                 enable_fuzzy=enable_fuzzy_var.get(),
                 fuzzy_threshold=max(0, min(100, int(fuzzy_threshold_var.get()))),
+                idf=idf,
             )
         elif name_filter:
-            results = search(name_filter, docs, teachers, inverted, doc_norms)
+            results = search(name_filter, docs, teachers, inverted, doc_norms, idf=idf)
         else:
             results = []
 
@@ -911,6 +912,7 @@ def main():
         base = search(
             query, docs, teachers, inverted, doc_norms,
             top_k=top_k, allow_relax=False, enable_fuzzy=False,
+            idf=idf,
         )
         base_ms = (time.perf_counter() - t0) * 1000.0
 
@@ -921,6 +923,7 @@ def main():
             allow_relax=True,
             enable_fuzzy=True,
             fuzzy_threshold=max(0, min(100, int(fuzzy_threshold_var.get()))),
+            idf=idf,
         )
         opt_ms = (time.perf_counter() - t1) * 1000.0
 

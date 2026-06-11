@@ -59,8 +59,8 @@ MISSPELL_CASES: List[EvalCase] = [
 def load_resources():
     teachers = load_teachers(TEACHERS_JSON)
     docs = load_corpus(CORPUS_DIR)
-    inverted, doc_norms = build_index(docs)
-    return teachers, docs, inverted, doc_norms
+    inverted, doc_norms, idf = build_index(docs)
+    return teachers, docs, inverted, doc_norms, idf
 
 
 def evaluate_mode(
@@ -74,6 +74,7 @@ def evaluate_mode(
     inverted,
     doc_norms,
     fuzzy_threshold: int = 70,
+    idf=None,
 ) -> List[Dict[str, str]]:
     rows: List[Dict[str, str]] = []
     for case in cases:
@@ -88,6 +89,7 @@ def evaluate_mode(
             allow_relax=allow_relax,
             enable_fuzzy=enable_fuzzy,
             fuzzy_threshold=fuzzy_threshold,
+            idf=idf,
         )
         elapsed_ms = (time.perf_counter() - t0) * 1000.0
         names = [r.teacher.name for r in results]
@@ -250,7 +252,7 @@ def main() -> None:
         ("baseline", False, False),
         ("optimized", True, True),
     ]
-    teachers, docs, inverted, doc_norms = load_resources()
+    teachers, docs, inverted, doc_norms, idf = load_resources()
 
     all_rows: List[Dict[str, str]] = []
     for mode_name, allow_relax, enable_fuzzy in modes:
@@ -264,6 +266,7 @@ def main() -> None:
             docs=docs,
             inverted=inverted,
             doc_norms=doc_norms,
+            idf=idf,
         )
         all_rows.extend(rows)
 
@@ -284,6 +287,7 @@ def main() -> None:
                 inverted=inverted,
                 doc_norms=doc_norms,
                 fuzzy_threshold=t,
+                idf=idf,
             )
             out_path = Path(f"outputs/eval_threshold_{t}.csv")
             write_csv(out_path, rows)
